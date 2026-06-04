@@ -1,0 +1,675 @@
+{
+  "id": null,
+  "source_type": "post",
+  "slug": "web-vs-desktop-integrations-in-encompass",
+  "title": "Web vs. Desktop Integrations in Encompass: What’s the Difference?",
+  "url": "https://awesometechinc.com/web-vs-desktop-integrations-in-encompass/",
+  "meta_title": "Web vs. Desktop Integrations in Encompass: What’s the Difference?",
+  "meta_description": "Compare web vs. desktop integrations in Encompass to understand key differences, performance impact, flexibility, and which option fits your lending workflow.",
+  "modified_at": "2026-03-04T19:39:41+00:00",
+  "status": "public",
+  "summary": "Compare web vs. desktop integrations in Encompass to understand key differences, performance impact, flexibility, and which option fits your lending workflow.",
+  "keywords": [
+    "mortgage technology is a key player ste",
+    "mortgage lifecycle",
+    "mortgage lending will adopt cloud",
+    "mortgage technology took an initiative",
+    "mortgage business",
+    "mortgage software system can definitely",
+    "mortgage software",
+    "mortgage tech",
+    "mortgage technology applications seamle",
+    "mortgage technology shows that web plat",
+    "mortgage businesses",
+    "mortgage automation in",
+    "mortgage application on a tuesday morni",
+    "loan officer solution",
+    "loan officer can access their loans at any",
+    "loan officer experience loan officers have"
+  ],
+  "full_text": "Intro Web vs. Desktop Integrations in Encompass: What’s the Difference? Home » Web vs. Desktop Integrations in Encompass: What’s the Difference? Encompass by ICE Mortgage Technology is a key player steering change within the loan origination process. It is one of the top loan origination systems in use today. The strong point of this system is that it provides lenders with a unified platform to handle the entire mortgage lifecycle. The present digital lending market insists that businesses need more than their present dedicated LOS systems to achieve business success. Encompass provides its most significant expertise through its ability to integrate with various third-party systems. The common third-party systems are credit bureaus, pricing engines, CRM systems, compliance software and eClosing services. Understanding Encompass integrations helps lenders clearly distinguish between the web-based and desktop versions. All operational areas of an organization, including speed, costs, compliance, and borrower experience are affected by fundamental integration systems. The difference between Encompass Web version and Encompass Desktop integrations needs to be understood because mortgage lending will adopt cloud-first systems in 2026. Understanding the Two Versions of Encompass What is Encompass Desktop? Encompass Desktop functions as a Windows application which operates through a local server system. The internal IT teams handle database management, system updates and network infrastructure maintenance for all lenders who use the system. In the past, the configurations were highly customizable, allowing deployment of forms and integration with other apps. The common usage of Encompass Desktop is to manage the complicated workflows and overall infrastructure. What is Encompass for the Web? ICE Mortgage Technology took an initiative to launch or modernize a better version of Encompass. The purpose was to provide great scalability, high performance, and automatic updates. The Encompass for Web is a browser application hosted in the cloud. At an enterprise level, it helps in standardizing applications’ configuration across all the lending operations. Because it uses secure cloud infrastructure, data remains protected and compliant. Encompass for Web Page – What You Need to Know Fully browser-based UI The application runs 100% in your browser. There is no longer any need for a desktop and you will also have a much lower reliance on VPN for secure access. Modern user interface The modern and responsive UI of Encompass offers instant navigation and excellent usage. Enhanced workflow automation Today, loan processing has become easier than before because Encompass Web facilitates workflow automation, rule-based triggers and fewer chances of errors. API-driven integration model With open APIs, you can now easily connect internal systems to other third-party FinTech tools. Reduced dependency on VPN Cloud infrastructure offers secure access which reduces the amount of time spent on VPNs. This allows easy remote access and a simplified network. Better scalability for distributed teams Without sacrificing performance, cloud infrastructure can satisfy the needs of large distributed workforces while meeting their scalability needs. Built to support third-party fintech tools With a standardized REST API design, it is possible to integrate with any type of external FinTech platform or compliance system. Continuous updates without manual installation The cloud automatically performs updates to upgrade your application and provide security patches to the systems. Thus, you will not experience a reduction in productivity or downtime. Key Differences Between Encompass Web and Desktop 1. Integration Architecture Encompass Desktop SDK uses integration, middleware, custom plugins, and more IT resources. The Web uses RESTful APIs, an API-first architecture, event notifications, webhooks, error handling models and a simple link to integrate with LOS/CRM/POS vendors. OAuth 2.0 authentication, RESTful APIs and event-based webhooks are used by Encompass Web integrations to securely send loan information from one system to another. This allows for secure Role-based access control and encrypted transfer of data, providing real-time and consistent updates to all connected systems. 2. Speed of Deployment Desktop applications require longer installation and configuration time as well as long extensive testing cycles. Web integration can be deployed with less downtime because of fewer installation requirements and continuous updates. 3. User Experience and Interface Desktop applications have more traditional layouts that need training to learn. Web applications have more user friendly and mobile-friendly user interfaces. 4. Scalability and Performance Desktop applications rely on their server capacities. Web applications automatically scale up or down in the cloud to handle large volumes of loans. 5. Security & Compliance Desktop applications rely on physical security controls. Web applications rely on contemporary cloud security standards. 6. Maintenance & Updates Desktop applications require manual upgrades. Web applications will automatically update, with less support and no compatibility issues. 7. Cost Considerations Desktop applications are dependent on their server infrastructures, IT resources, and the cost of integration. Web products will provide long-term cost savings due to their cloud-based resources. Where Encompass LO Connect Fits Into the Ecosystem? What is Encompass LO Connect? Encompass LO Connect is a mobile-first and web-enabled loan officer solution. It provides faster borrower updates, integration with CRM systems, and interaction with the Encompass for Web system. The loan officer can access their loans at any time and from any device. The web architecture of Encompass Partner LO Connect is faster and scalable. Due to the easy access in multiple locations, the geographically dispersed sales teams gain a competitive edge. Encompass Web integrations receive improved functionality through the Encompass Partner Connect framework, which establishes a central marketplace that contains verified third-party service providers. The architectural design of this marketplace system decreases integration hazards while enhancing implementation speed and matching the requirements of contemporary cloud-based lending systems. Mobile-first loan officer experience Loan officers have the ability to access their loans via numerous devices. Loan officers can view pipelines, change loan information and communicate with their borrowers directly from a mobile device. Therefore, there is no need to access a desktop-based Encompass solution. Web-based loan access The Encompass Web version is convenient to use as it can be accessed from any browser. Loan officers don’t need any software as the loan officers can log in via the internet. This allows loan officers to begin, track and manage loans from any location. Real-time borrower updates LO Connect provides loan officers with current and accurate loan statuses and real-time alerts. As soon as there is a change in loan data within the system, both loan officers and borrowers will receive timely updates. CRM integrations LO Connect integrates flawlessly with CRM systems via Encompass APIs. Loan officers have instant access to a complete history of customer communications and actions across LO Connect and their CRM for all their customers. Works more efficiently with Encompass for Web LO Connect is part of the Encompass Web ecosystem, and it integrates very closely with Encompass for Web. Changes made through LO Connect automatically update to the Encompass loan origination platform in real-time, providing one truthful loan record and reducing duplicate efforts. To know more about Encompass Partner connect , go through this comprehensive guide and gain important insights. Integration Use Cases: Web vs Desktop Comparison in Real-World Scenarios CRM Integration Salesforce Integration Salesforce and lending systems enable a seamless borrower data synchronization. Custom CRM APIs Lending platforms can easily connect with your internal custom CRM through integration. Product & Pricing Engine (PPE) Integration Desktop Plug-in Models Desktop plug-ins require users to constantly install new software locally, manually update the software on a constant basis, and update pricing regularly. Web API Calls Live rates can be obtained immediately from pricing engines via secure cloud APIs. E-Closing & eSignature Tools Compatibility Differences Desktop systems typically require auxiliary software in order to function properly; conversely, web platforms connect with one another well. Faster Web Connection Documents are processed at a quicker rate within cloud systems, immensely improving the borrower signing experience. Document Management Systems Upload Workflows Loan documents automatically upload to loans without the need for any manual effort or action taken by the lender. Cloud Storage Support Loan documentation is safely stored and retrieved using cloud storage, anytime and anywhere. Revise Your Integrated Encompass Workflow Find out how a good integration method improves overall productivity, adaptability and future proofing of all your business processes for lending. Contact an Integration Expert Which Version Is Right for Your Mortgage Business? Desktop Version Is Reliable If: You Rely on Legacy Custom Plugins The Encompass desktop version is the right choice if your lending system has conventional customizations. Usually, the old customizations rely on an older model and face difficulties in connecting to cloud systems. Your System is Heavily Customized Extensive user-defined modification, complicated workflows and databases favor a customized desktop version for your mortgage business. On-Premises IT Control Required If your organization requires you to exercise total control of all information technology (IT) hardware within your organization’s physical location, implement strict rules and security protocols, and manage your IT infrastructure, your organization must choose to use a desktop-based platform. Why Are Lenders Moving to Encompass Web? You Want Scalability A web mortgage software system can definitely grow with your business. It enables businesses to add users and locations and new features more simply than desktop systems. You Need Remote Workforce Support Loan officers can work from any location using web mortgage software. They can connect via the internet while desktop users need a virtual private network or local access. You Want Easier Fintech Integrations Web-based applications facilitate simple integration with CRMs and e-Signing platforms through Application Program Interfaces or APIs. The desktop application uses plug-ins for its integration process. Migration Considerations: Moving from Desktop to Web Data Transition Challenges When migrating loan files from a desktop to a web application, it is critical to map out the data, perform data cleanup and validation prior to the migration to avoid encountering problems during the transfer. Custom Workflow Rebuild Most of the existing workflows from the desktop are not readily transferable to Encompass for Web application. Therefore, the desktop workflows must either be rebuilt or changed in design to ensure they remain functional and efficient as part of the process. Integration Redesign When migrating to a Encompass web version, API connections (as well as connections to other databases) will need to be redesigned to ensure real-time data flow and functionality. Testing and Compliance Review Complete testing procedures will check whether the new system(s) comply with government regulations and operational requirements while providing all required functions to end-users. Timeline Expectations A migration project schedule must include all migration process phases and realistic timelines to ensure successful project completion. Future of Encompass Integrations: What Do Google and Industry Trends Indicate? Cloud-first Lending Ecosystems: Lending technology companies are implementing cloud-based technology solutions to allow for greater flexibility, scalability, and ease of access for originators in processing loans. API Economy in Mortgage Tech: With API integration, lenders can use multiple mortgage technology applications seamlessly throughout the mortgage lifecycle. Therefore, lenders are rapidly adopting API-connected technologies. Automation and AI Integrations: Automation driven by artificial intelligence (AI) will simplify and accelerate processes by automating loan underwriting, document review, pricing, and customer contact. Why is ICE pushing web transformation? The purpose of ICE web transformation efforts is to create systems which support modern browser-based workflows and remote business operations through web-enabled systems, allowing easier integration with different technologies. Industry Direction Toward Browser-native Platforms: The current state of mortgage technology shows that web platforms offer better flexibility, scalability, and accessibility from any device and any location. Expert Insights: What Lenders Are Saying About Web vs Desktop? Performance Improvements When lenders use a web cloud solution, they have reduced production delays and do not need to run their desktop systems connected to their computers to process loans. IT Cost Reduction Web solutions allow companies to cut down their IT expenses because they reduce the need for IT personnel, software maintenance and hardware upgrades. All this could result in major cost savings for mortgage businesses. Improved Borrower Experience The online system now facilitates borrowers to complete application forms and e-sign documents and track their loans, resulting in quicker loan closings and satisfied customers according to lenders. Operational Transparency Experts explain that desktop lending systems restrict lending staff from retrieving current data while web systems provide current access to live data. This ultimately improves decision-making and team collaboration between numerous branches. Maximize Your Integrated Encompass Recognize the differences between web and desktop integration to choose the integration method that best fits your requirements. Your Next Step Comparison Table: Encompass For Web vs Desktop Integrations Feature Encompass Desktop Encompass Web Deployment Installed Browser-based Integration Model Encompass desktop SDK REST API Upgrades Manual Automatic Scalability Restricted Cloud-based Reliability on IT systems High Low Mobile Support Limited Strong (LO Connect) Security Internal Cloud enterprise-level Conclusion The Encompass for Web provides users with better access, reduced costs, automatic software updates and expandable cloud services which desktop systems cannot provide. It enables enterprises to use automated processes and connections for improved operational efficiency and team communication. The ultimate target is to achieve competitive advantage to make strategic decisions that leverage their entire business operations! Our specialized Encompass integration services experts help lenders modernize their systems because we understand how to prevent migration and integration challenges. Contact us today to modernize your workflows which will help you maintain your competitive advantage against your business rivals. FAQs 1. Is Encompass for Web replacing Desktop? No. Encompass for Web is not replacing Desktop. Current users will still be able to use Encompass Desktop for their needs. 2. Can existing desktop integrations work on the web? Some legacy integrations from the Encompass Desktop version can be used with Encompass for Web. Legacy integrations will likely require redesigning to function correctly in a web environment. 3. Is Encompass LO Connect only for web users? Yes, the Encompass LO Connect version was designed specifically for web-based access. LO Connect can be accessed by mobile or a browser by loan officers to perform their duties. But it is not fully integrated into Encompass Desktop at this time. 4. Which version is better for compliance? The Encompass for Web platform is in general a better platform for meeting compliance requirements than the Encompass Desktop version. Web platforms are updated in real time, and data remains protected because of cloud architecture. Moreover, for automated tracking of processes and documents, it is also ideal. 5. Is migration mandatory? No. Migration to the Web is not mandatory. However, moving to the web can be beneficial, as it offers reliable integration, scalable growth, and new features that support business expansion. 6. What are integration risks during migration? The most common risks are: ‘’Data loss’’ ‘’Broken workflows’’ To avoid these risks, API planning, testing and redesigning should be done carefully. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026 What is Encompass Desktop? Encompass Desktop functions as a Windows application which operates through a local server system. The internal IT teams handle database management, system updates and network infrastructure maintenance for all lenders who use the system. In the past, the configurations were highly customizable, allowing deployment of forms and integration with other apps. The common usage of Encompass Desktop is to manage the complicated workflows and overall infrastructure. What is Encompass for the Web? ICE Mortgage Technology took an initiative to launch or modernize a better version of Encompass. The purpose was to provide great scalability, high performance, and automatic updates. The Encompass for Web is a browser application hosted in the cloud. At an enterprise level, it helps in standardizing applications’ configuration across all the lending operations. Because it uses secure cloud infrastructure, data remains protected and compliant. 1. Integration Architecture Encompass Desktop SDK uses integration, middleware, custom plugins, and more IT resources. The Web uses RESTful APIs, an API-first architecture, event notifications, webhooks, error handling models and a simple link to integrate with LOS/CRM/POS vendors. OAuth 2.0 authentication, RESTful APIs and event-based webhooks are used by Encompass Web integrations to securely send loan information from one system to another. This allows for secure Role-based access control and encrypted transfer of data, providing real-time and consistent updates to all connected systems. 2. Speed of Deployment Desktop applications require longer installation and configuration time as well as long extensive testing cycles. Web integration can be deployed with less downtime because of fewer installation requirements and continuous updates. 3. User Experience and Interface Desktop applications have more traditional layouts that need training to learn. Web applications have more user friendly and mobile-friendly user interfaces. 4. Scalability and Performance Desktop applications rely on their server capacities. Web applications automatically scale up or down in the cloud to handle large volumes of loans. 5. Security & Compliance Desktop applications rely on physical security controls. Web applications rely on contemporary cloud security standards. 6. Maintenance & Updates Desktop applications require manual upgrades. Web applications will automatically update, with less support and no compatibility issues. 7. Cost Considerations Desktop applications are dependent on their server infrastructures, IT resources, and the cost of integration. Web products will provide long-term cost savings due to their cloud-based resources. CRM Integration Salesforce Integration Salesforce and lending systems enable a seamless borrower data synchronization. Custom CRM APIs Lending platforms can easily connect with your internal custom CRM through integration. Product & Pricing Engine (PPE) Integration Desktop Plug-in Models Desktop plug-ins require users to constantly install new software locally, manually update the software on a constant basis, and update pricing regularly. Web API Calls Live rates can be obtained immediately from pricing engines via secure cloud APIs. E-Closing & eSignature Tools Compatibility Differences Desktop systems typically require auxiliary software in order to function properly; conversely, web platforms connect with one another well. Faster Web Connection Documents are processed at a quicker rate within cloud systems, immensely improving the borrower signing experience. Document Management Systems Upload Workflows Loan documents automatically upload to loans without the need for any manual effort or action taken by the lender. Cloud Storage Support Loan documentation is safely stored and retrieved using cloud storage, anytime and anywhere. Revise Your Integrated Encompass Workflow Find out how a good integration method improves overall productivity, adaptability and future proofing of all your business processes for lending. Contact an Integration Expert Desktop Version Is Reliable If: You Rely on Legacy Custom Plugins The Encompass desktop version is the right choice if your lending system has conventional customizations. Usually, the old customizations rely on an older model and face difficulties in connecting to cloud systems. Your System is Heavily Customized Extensive user-defined modification, complicated workflows and databases favor a customized desktop version for your mortgage business. On-Premises IT Control Required If your organization requires you to exercise total control of all information technology (IT) hardware within your organization’s physical location, implement strict rules and security protocols, and manage your IT infrastructure, your organization must choose to use a desktop-based platform. Why Are Lenders Moving to Encompass Web? You Want Scalability A web mortgage software system can definitely grow with your business. It enables businesses to add users and locations and new features more simply than desktop systems. You Need Remote Workforce Support Loan officers can work from any location using web mortgage software. They can connect via the internet while desktop users need a virtual private network or local access. You Want Easier Fintech Integrations Web-based applications facilitate simple integration with CRMs and e-Signing platforms through Application Program Interfaces or APIs. The desktop application uses plug-ins for its integration process. Migration Considerations: Moving from Desktop to Web Data Transition Challenges When migrating loan files from a desktop to a web application, it is critical to map out the data, perform data cleanup and validation prior to the migration to avoid encountering problems during the transfer. Custom Workflow Rebuild Most of the existing workflows from the desktop are not readily transferable to Encompass for Web application. Therefore, the desktop workflows must either be rebuilt or changed in design to ensure they remain functional and efficient as part of the process. Integration Redesign When migrating to a Encompass web version, API connections (as well as connections to other databases) will need to be redesigned to ensure real-time data flow and functionality. Testing and Compliance Review Complete testing procedures will check whether the new system(s) comply with government regulations and operational requirements while providing all required functions to end-users. Timeline Expectations A migration project schedule must include all migration process phases and realistic timelines to ensure successful project completion. Future of Encompass Integrations: What Do Google and Industry Trends Indicate? Cloud-first Lending Ecosystems: Lending technology companies are implementing cloud-based technology solutions to allow for greater flexibility, scalability, and ease of access for originators in processing loans. API Economy in Mortgage Tech: With API integration, lenders can use multiple mortgage technology applications seamlessly throughout the mortgage lifecycle. Therefore, lenders are rapidly adopting API-connected technologies. Automation and AI Integrations: Automation driven by artificial intelligence (AI) will simplify and accelerate processes by automating loan underwriting, document review, pricing, and customer contact. Why is ICE pushing web transformation? The purpose of ICE web transformation efforts is to create systems which support modern browser-based workflows and remote business operations through web-enabled systems, allowing easier integration with different technologies. Industry Direction Toward Browser-native Platforms: The current state of mortgage technology shows that web platforms offer better flexibility, scalability, and accessibility from any device and any location. Expert Insights: What Lenders Are Saying About Web vs Desktop? Performance Improvements When lenders use a web cloud solution, they have reduced production delays and do not need to run their desktop systems connected to their computers to process loans. IT Cost Reduction Web solutions allow companies to cut down their IT expenses because they reduce the need for IT personnel, software maintenance and hardware upgrades. All this could result in major cost savings for mortgage businesses. Improved Borrower Experience The online system now facilitates borrowers to complete application forms and e-sign documents and track their loans, resulting in quicker loan closings and satisfied customers according to lenders. Operational Transparency Experts explain that desktop lending systems restrict lending staff from retrieving current data while web systems provide current access to live data. This ultimately improves decision-making and team collaboration between numerous branches. Maximize Your Integrated Encompass Recognize the differences between web and desktop integration to choose the integration method that best fits your requirements. Your Next Step Comparison Table: Encompass For Web vs Desktop Integrations Feature Encompass Desktop Encompass Web Deployment Installed Browser-based Integration Model Encompass desktop SDK REST API Upgrades Manual Automatic Scalability Restricted Cloud-based Reliability on IT systems High Low Mobile Support Limited Strong (LO Connect) Security Internal Cloud enterprise-level Conclusion The Encompass for Web provides users with better access, reduced costs, automatic software updates and expandable cloud services which desktop systems cannot provide. It enables enterprises to use automated processes and connections for improved operational efficiency and team communication. The ultimate target is to achieve competitive advantage to make strategic decisions that leverage their entire business operations! Our specialized Encompass integration services experts help lenders modernize their systems because we understand how to prevent migration and integration challenges. Contact us today to modernize your workflows which will help you maintain your competitive advantage against your business rivals. FAQs 1. Is Encompass for Web replacing Desktop? No. Encompass for Web is not replacing Desktop. Current users will still be able to use Encompass Desktop for their needs. 2. Can existing desktop integrations work on the web? Some legacy integrations from the Encompass Desktop version can be used with Encompass for Web. Legacy integrations will likely require redesigning to function correctly in a web environment. 3. Is Encompass LO Connect only for web users? Yes, the Encompass LO Connect version was designed specifically for web-based access. LO Connect can be accessed by mobile or a browser by loan officers to perform their duties. But it is not fully integrated into Encompass Desktop at this time. 4. Which version is better for compliance? The Encompass for Web platform is in general a better platform for meeting compliance requirements than the Encompass Desktop version. Web platforms are updated in real time, and data remains protected because of cloud architecture. Moreover, for automated tracking of processes and documents, it is also ideal. 5. Is migration mandatory? No. Migration to the Web is not mandatory. However, moving to the web can be beneficial, as it offers reliable integration, scalable growth, and new features that support business expansion. 6. What are integration risks during migration? The most common risks are: ‘’Data loss’’ ‘’Broken workflows’’ To avoid these risks, API planning, testing and redesigning should be done carefully. Subscribe to ATI First name Last Name Your email Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+  "word_count": 4324,
+  "headings_count": 52,
+  "images_count": 4,
+  "buttons_count": 16,
+  "forms_count": 2,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "Web vs. Desktop Integrations in Encompass: What’s the Difference? Home » Web vs. Desktop Integrations in Encompass: What’s the Difference? Encompass by ICE Mortgage Technology is a key player steering change within the loan origination process. It is one of the top loan origination systems in use today. The strong point of this system is that it provides lenders with a unified platform to handle the entire mortgage lifecycle. The present digital lending market insists that businesses need more than their present dedicated LOS systems to achieve business success. Encompass provides its most significant expertise through its ability to integrate with various third-party systems. The common third-party systems are credit bureaus, pricing engines, CRM systems, compliance software and eClosing services. Understanding Encompass integrations helps lenders clearly distinguish between the web-based and desktop versions. All operational areas of an organization, including speed, costs, compliance, and borrower experience are affected by fundamental integration systems. The difference between Encompass Web version and Encompass Desktop integrations needs to be understood because mortgage lending will adopt cloud-first systems in 2026. Understanding the Two Versions of Encompass What is Encompass Desktop? Encompass Desktop functions as a Windows application which operates through a local server system. The internal IT teams handle database management, system updates and network infrastructure maintenance for all lenders who use the system. In the past, the configurations were highly customizable, allowing deployment of forms and integration with other apps. The common usage of Encompass Desktop is to manage the complicated workflows and overall infrastructure. What is Encompass for the Web? ICE Mortgage Technology took an initiative to launch or modernize a better version of Encompass. The purpose was to provide great scalability, high performance, and automatic updates. The Encompass for Web is a browser application hosted in the cloud. At an enterprise level, it helps in standardizing applications’ configuration across all the lending operations. Because it uses secure cloud infrastructure, data remains protected and compliant. Encompass for Web Page – What You Need to Know Fully browser-based UI The application runs 100% in your browser. There is no longer any need for a desktop and you will also have a much lower reliance on VPN for secure access. Modern user interface The modern and responsive UI of Encompass offers instant navigation and excellent usage. Enhanced workflow automation Today, loan processing has become easier than before because Encompass Web facilitates workflow automation, rule-based triggers and fewer chances of errors. API-driven integration model With open APIs, you can now easily connect internal systems to other third-party FinTech tools. Reduced dependency on VPN Cloud infrastructure offers secure access which reduces the amount of time spent on VPNs. This allows easy remote access and a simplified network. Better scalability for distributed teams Without sacrificing performance, cloud infrastructure can satisfy the needs of large distributed workforces while meeting their scalability needs. Built to support third-party fintech tools With a standardized REST API design, it is possible to integrate with any type of external FinTech platform or compliance system. Continuous updates without manual installation The cloud automatically performs updates to upgrade your application and provide security patches to the systems. Thus, you will not experience a reduction in productivity or downtime. Key Differences Between Encompass Web and Desktop 1. Integration Architecture Encompass Desktop SDK uses integration, middleware, custom plugins, and more IT resources. The Web uses RESTful APIs, an API-first architecture, event notifications, webhooks, error handling models and a simple link to integrate with LOS/CRM/POS vendors. OAuth 2.0 authentication, RESTful APIs and event-based webhooks are used by Encompass Web integrations to securely send loan information from one system to another. This allows for secure Role-based access control and encrypted transfer of data, providing real-time and consistent updates to all connected systems. 2. Speed of Deployment Desktop applications require longer installation and configuration time as well as long extensive testing cycles. Web integration can be deployed with less downtime because of fewer installation requirements and continuous updates. 3. User Experience and Interface Desktop applications have more traditional layouts that need training to learn. Web applications have more user friendly and mobile-friendly user interfaces. 4. Scalability and Performance Desktop applications rely on their server capacities. Web applications automatically scale up or down in the cloud to handle large volumes of loans. 5. Security & Compliance Desktop applications rely on physical security controls. Web applications rely on contemporary cloud security standards. 6. Maintenance & Updates Desktop applications require manual upgrades. Web applications will automatically update, with less support and no compatibility issues. 7. Cost Considerations Desktop applications are dependent on their server infrastructures, IT resources, and the cost of integration. Web products will provide long-term cost savings due to their cloud-based resources. Where Encompass LO Connect Fits Into the Ecosystem? What is Encompass LO Connect? Encompass LO Connect is a mobile-first and web-enabled loan officer solution. It provides faster borrower updates, integration with CRM systems, and interaction with the Encompass for Web system. The loan officer can access their loans at any time and from any device. The web architecture of Encompass Partner LO Connect is faster and scalable. Due to the easy access in multiple locations, the geographically dispersed sales teams gain a competitive edge. Encompass Web integrations receive improved functionality through the Encompass Partner Connect framework, which establishes a central marketplace that contains verified third-party service providers. The architectural design of this marketplace system decreases integration hazards while enhancing implementation speed and matching the requirements of contemporary cloud-based lending systems. Mobile-first loan officer experience Loan officers have the ability to access their loans via numerous devices. Loan officers can view pipelines, change loan information and communicate with their borrowers directly from a mobile device. Therefore, there is no need to access a desktop-based Encompass solution. Web-based loan access The Encompass Web version is convenient to use as it can be accessed from any browser. Loan officers don’t need any software as the loan officers can log in via the internet. This allows loan officers to begin, track and manage loans from any location. Real-time borrower updates LO Connect provides loan officers with current and accurate loan statuses and real-time alerts. As soon as there is a change in loan data within the system, both loan officers and borrowers will receive timely updates. CRM integrations LO Connect integrates flawlessly with CRM systems via Encompass APIs. Loan officers have instant access to a complete history of customer communications and actions across LO Connect and their CRM for all their customers. Works more efficiently with Encompass for Web LO Connect is part of the Encompass Web ecosystem, and it integrates very closely with Encompass for Web. Changes made through LO Connect automatically update to the Encompass loan origination platform in real-time, providing one truthful loan record and reducing duplicate efforts. To know more about Encompass Partner connect , go through this comprehensive guide and gain important insights. Integration Use Cases: Web vs Desktop Comparison in Real-World Scenarios CRM Integration Salesforce Integration Salesforce and lending systems enable a seamless borrower data synchronization. Custom CRM APIs Lending platforms can easily connect with your internal custom CRM through integration. Product & Pricing Engine (PPE) Integration Desktop Plug-in Models Desktop plug-ins require users to constantly install new software locally, manually update the software on a constant basis, and update pricing regularly. Web API Calls Live rates can be obtained immediately from pricing engines via secure cloud APIs. E-Closing & eSignature Tools Compatibility Differences Desktop systems typically require auxiliary software in order to function properly; conversely, web platforms connect with one another well. Faster Web Connection Documents are processed at a quicker rate within cloud systems, immensely improving the borrower signing experience. Document Management Systems Upload Workflows Loan documents automatically upload to loans without the need for any manual effort or action taken by the lender. Cloud Storage Support Loan documentation is safely stored and retrieved using cloud storage, anytime and anywhere. Revise Your Integrated Encompass Workflow Find out how a good integration method improves overall productivity, adaptability and future proofing of all your business processes for lending. Contact an Integration Expert Which Version Is Right for Your Mortgage Business? Desktop Version Is Reliable If: You Rely on Legacy Custom Plugins The Encompass desktop version is the right choice if your lending system has conventional customizations. Usually, the old customizations rely on an older model and face difficulties in connecting to cloud systems. Your System is Heavily Customized Extensive user-defined modification, complicated workflows and databases favor a customized desktop version for your mortgage business. On-Premises IT Control Required If your organization requires you to exercise total control of all information technology (IT) hardware within your organization’s physical location, implement strict rules and security protocols, and manage your IT infrastructure, your organization must choose to use a desktop-based platform. Why Are Lenders Moving to Encompass Web? You Want Scalability A web mortgage software system can definitely grow with your business. It enables businesses to add users and locations and new features more simply than desktop systems. You Need Remote Workforce Support Loan officers can work from any location using web mortgage software. They can connect via the internet while desktop users need a virtual private network or local access. You Want Easier Fintech Integrations Web-based applications facilitate simple integration with CRMs and e-Signing platforms through Application Program Interfaces or APIs. The desktop application uses plug-ins for its integration process. Migration Considerations: Moving from Desktop to Web Data Transition Challenges When migrating loan files from a desktop to a web application, it is critical to map out the data, perform data cleanup and validation prior to the migration to avoid encountering problems during the transfer. Custom Workflow Rebuild Most of the existing workflows from the desktop are not readily transferable to Encompass for Web application. Therefore, the desktop workflows must either be rebuilt or changed in design to ensure they remain functional and efficient as part of the process. Integration Redesign When migrating to a Encompass web version, API connections (as well as connections to other databases) will need to be redesigned to ensure real-time data flow and functionality. Testing and Compliance Review Complete testing procedures will check whether the new system(s) comply with government regulations and operational requirements while providing all required functions to end-users. Timeline Expectations A migration project schedule must include all migration process phases and realistic timelines to ensure successful project completion. Future of Encompass Integrations: What Do Google and Industry Trends Indicate? Cloud-first Lending Ecosystems: Lending technology companies are implementing cloud-based technology solutions to allow for greater flexibility, scalability, and ease of access for originators in processing loans. API Economy in Mortgage Tech: With API integration, lenders can use multiple mortgage technology applications seamlessly throughout the mortgage lifecycle. Therefore, lenders are rapidly adopting API-connected technologies. Automation and AI Integrations: Automation driven by artificial intelligence (AI) will simplify and accelerate processes by automating loan underwriting, document review, pricing, and customer contact. Why is ICE pushing web transformation? The purpose of ICE web transformation efforts is to create systems which support modern browser-based workflows and remote business operations through web-enabled systems, allowing easier integration with different technologies. Industry Direction Toward Browser-native Platforms: The current state of mortgage technology shows that web platforms offer better flexibility, scalability, and accessibility from any device and any location. Expert Insights: What Lenders Are Saying About Web vs Desktop? Performance Improvements When lenders use a web cloud solution, they have reduced production delays and do not need to run their desktop systems connected to their computers to process loans. IT Cost Reduction Web solutions allow companies to cut down their IT expenses because they reduce the need for IT personnel, software maintenance and hardware upgrades. All this could result in major cost savings for mortgage businesses. Improved Borrower Experience The online system now facilitates borrowers to complete application forms and e-sign documents and track their loans, resulting in quicker loan closings and satisfied customers according to lenders. Operational Transparency Experts explain that desktop lending systems restrict lending staff from retrieving current data while web systems provide current access to live data. This ultimately improves decision-making and team collaboration between numerous branches. Maximize Your Integrated Encompass Recognize the differences between web and desktop integration to choose the integration method that best fits your requirements. Your Next Step Comparison Table: Encompass For Web vs Desktop Integrations Feature Encompass Desktop Encompass Web Deployment Installed Browser-based Integration Model Encompass desktop SDK REST API Upgrades Manual Automatic Scalability Restricted Cloud-based Reliability on IT systems High Low Mobile Support Limited Strong (LO Connect) Security Internal Cloud enterprise-level Conclusion The Encompass for Web provides users with better access, reduced costs, automatic software updates and expandable cloud services which desktop systems cannot provide. It enables enterprises to use automated processes and connections for improved operational efficiency and team communication. The ultimate target is to achieve competitive advantage to make strategic decisions that leverage their entire business operations! Our specialized Encompass integration services experts help lenders modernize their systems because we understand how to prevent migration and integration challenges. Contact us today to modernize your workflows which will help you maintain your competitive advantage against your business rivals. FAQs 1. Is Encompass for Web replacing Desktop? No. Encompass for Web is not replacing Desktop. Current users will still be able to use Encompass Desktop for their needs. 2. Can existing desktop integrations work on the web? Some legacy integrations from the Encompass Desktop version can be used with Encompass for Web. Legacy integrations will likely require redesigning to function correctly in a web environment. 3. Is Encompass LO Connect only for web users? Yes, the Encompass LO Connect version was designed specifically for web-based access. LO Connect can be accessed by mobile or a browser by loan officers to perform their duties. But it is not fully integrated into Encompass Desktop at this time. 4. Which version is better for compliance? The Encompass for Web platform is in general a better platform for meeting compliance requirements than the Encompass Desktop version. Web platforms are updated in real time, and data remains protected because of cloud architecture. Moreover, for automated tracking of processes and documents, it is also ideal. 5. Is migration mandatory? No. Migration to the Web is not mandatory. However, moving to the web can be beneficial, as it offers reliable integration, scalable growth, and new features that support business expansion. 6. What are integration risks during migration? The most common risks are: ‘’Data loss’’ ‘’Broken workflows’’ To avoid these risks, API planning, testing and redesigning should be done carefully. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/03/Web-vs.-Desktop-Integrations-in-Encompass-Whats-the-Difference.png",
+          "alt": "Web vs. Desktop Integrations in Encompass"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+          "alt": "Mortgage Automation in 2026"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+          "alt": "HMDA Reporting Setup in Encompass LOS"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+          "alt": "What is a Loan Origination System?"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Home",
+          "url": "https://awesometechinc.com/"
+        },
+        {
+          "label": "Encompass for Web",
+          "url": "https://awesometechinc.com/encompass-web/"
+        },
+        {
+          "label": "Encompass Partner LO Connect",
+          "url": "https://awesometechinc.com/encompass-partner-connect/"
+        },
+        {
+          "label": "Encompass Partner connect",
+          "url": "https://awesometechinc.com/what-is-encompass-partner-connect/"
+        },
+        {
+          "label": "Contact an Integration Expert",
+          "url": "https://awesometechinc.com/contact-us/"
+        },
+        {
+          "label": "Your Next Step",
+          "url": "https://awesometechinc.com/contact-us/"
+        },
+        {
+          "label": "Encompass integration services",
+          "url": "https://awesometechinc.com/encompass-integration-services/"
+        },
+        {
+          "label": "Contact us today",
+          "url": "https://awesometechinc.com/contact-us/"
+        },
+        {
+          "label": "Search",
+          "url": ""
+        },
+        {
+          "label": "Subscribe",
+          "url": ""
+        },
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form",
+          "form_id": "",
+          "fields": [
+            {
+              "name": "s",
+              "label": "",
+              "type": "search",
+              "required": false
+            }
+          ],
+          "submit_label": "Search"
+        },
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "What is Encompass Desktop?",
+      "type": "service_section",
+      "content": "Encompass Desktop functions as a Windows application which operates through a local server system. The internal IT teams handle database management, system updates and network infrastructure maintenance for all lenders who use the system. In the past, the configurations were highly customizable, allowing deployment of forms and integration with other apps. The common usage of Encompass Desktop is to manage the complicated workflows and overall infrastructure.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 3,
+      "title": "What is Encompass for the Web?",
+      "type": "content_section",
+      "content": "ICE Mortgage Technology took an initiative to launch or modernize a better version of Encompass. The purpose was to provide great scalability, high performance, and automatic updates. The Encompass for Web is a browser application hosted in the cloud. At an enterprise level, it helps in standardizing applications’ configuration across all the lending operations. Because it uses secure cloud infrastructure, data remains protected and compliant.",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Encompass for Web",
+          "url": "https://awesometechinc.com/encompass-web/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 4,
+      "title": "1. Integration Architecture",
+      "type": "service_section",
+      "content": "Encompass Desktop SDK uses integration, middleware, custom plugins, and more IT resources. The Web uses RESTful APIs, an API-first architecture, event notifications, webhooks, error handling models and a simple link to integrate with LOS/CRM/POS vendors. OAuth 2.0 authentication, RESTful APIs and event-based webhooks are used by Encompass Web integrations to securely send loan information from one system to another. This allows for secure Role-based access control and encrypted transfer of data, providing real-time and consistent updates to all connected systems.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 5,
+      "title": "2. Speed of Deployment",
+      "type": "service_section",
+      "content": "Desktop applications require longer installation and configuration time as well as long extensive testing cycles. Web integration can be deployed with less downtime because of fewer installation requirements and continuous updates.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 6,
+      "title": "3. User Experience and Interface",
+      "type": "content_section",
+      "content": "Desktop applications have more traditional layouts that need training to learn. Web applications have more user friendly and mobile-friendly user interfaces.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 7,
+      "title": "4. Scalability and Performance",
+      "type": "content_section",
+      "content": "Desktop applications rely on their server capacities. Web applications automatically scale up or down in the cloud to handle large volumes of loans.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 8,
+      "title": "5. Security & Compliance",
+      "type": "content_section",
+      "content": "Desktop applications rely on physical security controls. Web applications rely on contemporary cloud security standards.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 9,
+      "title": "6. Maintenance & Updates",
+      "type": "content_section",
+      "content": "Desktop applications require manual upgrades. Web applications will automatically update, with less support and no compatibility issues.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 10,
+      "title": "7. Cost Considerations",
+      "type": "service_section",
+      "content": "Desktop applications are dependent on their server infrastructures, IT resources, and the cost of integration. Web products will provide long-term cost savings due to their cloud-based resources.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 11,
+      "title": "CRM Integration",
+      "type": "service_section",
+      "content": "Salesforce Integration Salesforce and lending systems enable a seamless borrower data synchronization. Custom CRM APIs Lending platforms can easily connect with your internal custom CRM through integration.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 12,
+      "title": "Product & Pricing Engine (PPE) Integration",
+      "type": "service_section",
+      "content": "Desktop Plug-in Models Desktop plug-ins require users to constantly install new software locally, manually update the software on a constant basis, and update pricing regularly. Web API Calls Live rates can be obtained immediately from pricing engines via secure cloud APIs.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 13,
+      "title": "E-Closing & eSignature Tools",
+      "type": "content_section",
+      "content": "Compatibility Differences Desktop systems typically require auxiliary software in order to function properly; conversely, web platforms connect with one another well. Faster Web Connection Documents are processed at a quicker rate within cloud systems, immensely improving the borrower signing experience.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 14,
+      "title": "Document Management Systems",
+      "type": "content_section",
+      "content": "Upload Workflows Loan documents automatically upload to loans without the need for any manual effort or action taken by the lender. Cloud Storage Support Loan documentation is safely stored and retrieved using cloud storage, anytime and anywhere.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 15,
+      "title": "Revise Your Integrated Encompass Workflow",
+      "type": "form_section",
+      "content": "Find out how a good integration method improves overall productivity, adaptability and future proofing of all your business processes for lending. Contact an Integration Expert",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Contact an Integration Expert",
+          "url": "https://awesometechinc.com/contact-us/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 16,
+      "title": "Desktop Version Is Reliable If:",
+      "type": "content_section",
+      "content": "You Rely on Legacy Custom Plugins The Encompass desktop version is the right choice if your lending system has conventional customizations. Usually, the old customizations rely on an older model and face difficulties in connecting to cloud systems. Your System is Heavily Customized Extensive user-defined modification, complicated workflows and databases favor a customized desktop version for your mortgage business. On-Premises IT Control Required If your organization requires you to exercise total control of all information technology (IT) hardware within your organization’s physical location, implement strict rules and security protocols, and manage your IT infrastructure, your organization must choose to use a desktop-based platform.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 17,
+      "title": "Why Are Lenders Moving to Encompass Web?",
+      "type": "service_section",
+      "content": "You Want Scalability A web mortgage software system can definitely grow with your business. It enables businesses to add users and locations and new features more simply than desktop systems. You Need Remote Workforce Support Loan officers can work from any location using web mortgage software. They can connect via the internet while desktop users need a virtual private network or local access. You Want Easier Fintech Integrations Web-based applications facilitate simple integration with CRMs and e-Signing platforms through Application Program Interfaces or APIs. The desktop application uses plug-ins for its integration process.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 18,
+      "title": "Migration Considerations: Moving from Desktop to Web",
+      "type": "testimonial_section",
+      "content": "Data Transition Challenges When migrating loan files from a desktop to a web application, it is critical to map out the data, perform data cleanup and validation prior to the migration to avoid encountering problems during the transfer. Custom Workflow Rebuild Most of the existing workflows from the desktop are not readily transferable to Encompass for Web application. Therefore, the desktop workflows must either be rebuilt or changed in design to ensure they remain functional and efficient as part of the process. Integration Redesign When migrating to a Encompass web version, API connections (as well as connections to other databases) will need to be redesigned to ensure real-time data flow and functionality. Testing and Compliance Review Complete testing procedures will check whether the new system(s) comply with government regulations and operational requirements while providing all required functions to end-users. Timeline Expectations A migration project schedule must include all migration process phases and realistic timelines to ensure successful project completion.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 19,
+      "title": "Future of Encompass Integrations: What Do Google and Industry Trends Indicate?",
+      "type": "form_section",
+      "content": "Cloud-first Lending Ecosystems: Lending technology companies are implementing cloud-based technology solutions to allow for greater flexibility, scalability, and ease of access for originators in processing loans. API Economy in Mortgage Tech: With API integration, lenders can use multiple mortgage technology applications seamlessly throughout the mortgage lifecycle. Therefore, lenders are rapidly adopting API-connected technologies. Automation and AI Integrations: Automation driven by artificial intelligence (AI) will simplify and accelerate processes by automating loan underwriting, document review, pricing, and customer contact. Why is ICE pushing web transformation? The purpose of ICE web transformation efforts is to create systems which support modern browser-based workflows and remote business operations through web-enabled systems, allowing easier integration with different technologies. Industry Direction Toward Browser-native Platforms: The current state of mortgage technology shows that web platforms offer better flexibility, scalability, and accessibility from any device and any location.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 20,
+      "title": "Expert Insights: What Lenders Are Saying About Web vs Desktop?",
+      "type": "service_section",
+      "content": "Performance Improvements When lenders use a web cloud solution, they have reduced production delays and do not need to run their desktop systems connected to their computers to process loans. IT Cost Reduction Web solutions allow companies to cut down their IT expenses because they reduce the need for IT personnel, software maintenance and hardware upgrades. All this could result in major cost savings for mortgage businesses. Improved Borrower Experience The online system now facilitates borrowers to complete application forms and e-sign documents and track their loans, resulting in quicker loan closings and satisfied customers according to lenders. Operational Transparency Experts explain that desktop lending systems restrict lending staff from retrieving current data while web systems provide current access to live data. This ultimately improves decision-making and team collaboration between numerous branches.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 21,
+      "title": "Maximize Your Integrated Encompass",
+      "type": "service_section",
+      "content": "Recognize the differences between web and desktop integration to choose the integration method that best fits your requirements. Your Next Step",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Your Next Step",
+          "url": "https://awesometechinc.com/contact-us/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 22,
+      "title": "Comparison Table: Encompass For Web vs Desktop Integrations",
+      "type": "service_section",
+      "content": "Feature Encompass Desktop Encompass Web Deployment Installed Browser-based Integration Model Encompass desktop SDK REST API Upgrades Manual Automatic Scalability Restricted Cloud-based Reliability on IT systems High Low Mobile Support Limited Strong (LO Connect) Security Internal Cloud enterprise-level",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 23,
+      "title": "Conclusion",
+      "type": "form_section",
+      "content": "The Encompass for Web provides users with better access, reduced costs, automatic software updates and expandable cloud services which desktop systems cannot provide. It enables enterprises to use automated processes and connections for improved operational efficiency and team communication. The ultimate target is to achieve competitive advantage to make strategic decisions that leverage their entire business operations! Our specialized Encompass integration services experts help lenders modernize their systems because we understand how to prevent migration and integration challenges. Contact us today to modernize your workflows which will help you maintain your competitive advantage against your business rivals.",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Encompass integration services",
+          "url": "https://awesometechinc.com/encompass-integration-services/"
+        },
+        {
+          "label": "Contact us today",
+          "url": "https://awesometechinc.com/contact-us/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 24,
+      "title": "FAQs",
+      "type": "faq_section",
+      "content": "1. Is Encompass for Web replacing Desktop? No. Encompass for Web is not replacing Desktop. Current users will still be able to use Encompass Desktop for their needs. 2. Can existing desktop integrations work on the web? Some legacy integrations from the Encompass Desktop version can be used with Encompass for Web. Legacy integrations will likely require redesigning to function correctly in a web environment. 3. Is Encompass LO Connect only for web users? Yes, the Encompass LO Connect version was designed specifically for web-based access. LO Connect can be accessed by mobile or a browser by loan officers to perform their duties. But it is not fully integrated into Encompass Desktop at this time. 4. Which version is better for compliance? The Encompass for Web platform is in general a better platform for meeting compliance requirements than the Encompass Desktop version. Web platforms are updated in real time, and data remains protected because of cloud architecture. Moreover, for automated tracking of processes and documents, it is also ideal. 5. Is migration mandatory? No. Migration to the Web is not mandatory. However, moving to the web can be beneficial, as it offers reliable integration, scalable growth, and new features that support business expansion. 6. What are integration risks during migration? The most common risks are: ‘’Data loss’’ ‘’Broken workflows’’ To avoid these risks, API planning, testing and redesigning should be done carefully.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 25,
+      "title": "Subscribe to ATI",
+      "type": "form_section",
+      "content": "First name Last Name Your email",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Subscribe",
+          "url": ""
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 26,
+      "title": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "type": "service_section",
+      "content": "Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 27,
+      "title": "HMDA Reporting Setup in Encompass LOS",
+      "type": "content_section",
+      "content": "March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 28,
+      "title": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "type": "content_section",
+      "content": "In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": []
+    }
+  ],
+  "images": [
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/03/Web-vs.-Desktop-Integrations-in-Encompass-Whats-the-Difference.png",
+      "alt": "Web vs. Desktop Integrations in Encompass"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+      "alt": "Mortgage Automation in 2026"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+      "alt": "HMDA Reporting Setup in Encompass LOS"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+      "alt": "What is a Loan Origination System?"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "Encompass for Web",
+      "url": "https://awesometechinc.com/encompass-web/"
+    },
+    {
+      "label": "Encompass Partner LO Connect",
+      "url": "https://awesometechinc.com/encompass-partner-connect/"
+    },
+    {
+      "label": "Encompass Partner connect",
+      "url": "https://awesometechinc.com/what-is-encompass-partner-connect/"
+    },
+    {
+      "label": "Contact an Integration Expert",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "Your Next Step",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "Encompass integration services",
+      "url": "https://awesometechinc.com/encompass-integration-services/"
+    },
+    {
+      "label": "Contact us today",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "Search",
+      "url": ""
+    },
+    {
+      "label": "Subscribe",
+      "url": ""
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ],
+  "forms": [
+    {
+      "form_type": "contact_form",
+      "form_id": "",
+      "fields": [
+        {
+          "name": "s",
+          "label": "",
+          "type": "search",
+          "required": false
+        }
+      ],
+      "submit_label": "Search"
+    },
+    {
+      "form_type": "contact_form_7",
+      "form_id": "12171",
+      "fields": [
+        {
+          "name": "your-name",
+          "label": "your-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "last-name",
+          "label": "last-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "your-email",
+          "label": "your-email",
+          "type": "email",
+          "required": true
+        }
+      ],
+      "submit_label": "Subscribe"
+    }
+  ],
+  "links": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "Encompass for Web",
+      "url": "https://awesometechinc.com/encompass-web/"
+    },
+    {
+      "label": "Encompass Partner LO Connect",
+      "url": "https://awesometechinc.com/encompass-partner-connect/"
+    },
+    {
+      "label": "Encompass Partner connect",
+      "url": "https://awesometechinc.com/what-is-encompass-partner-connect/"
+    },
+    {
+      "label": "Contact an Integration Expert",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "Your Next Step",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "Encompass integration services",
+      "url": "https://awesometechinc.com/encompass-integration-services/"
+    },
+    {
+      "label": "Contact us today",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ]
+}

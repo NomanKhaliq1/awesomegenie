@@ -1,0 +1,352 @@
+{
+  "id": null,
+  "source_type": "post",
+  "slug": "security",
+  "title": "Security",
+  "url": "https://awesometechinc.com/security/",
+  "meta_title": "Security - Awesome Tech Inc",
+  "meta_description": "",
+  "modified_at": "2023-08-29T16:37:48+00:00",
+  "status": "public",
+  "summary": "Intro Security Home » Security Data security is paramount. We develop software solutions with advanced security measures to protect sensitive borrower information.",
+  "keywords": [
+    "mortgage automation in",
+    "mortgage application on a tuesday morni",
+    "encompass los march",
+    "security",
+    "read",
+    "and",
+    "been",
+    "borrower",
+    "data",
+    "for",
+    "hmda",
+    "how",
+    "last",
+    "loan",
+    "many",
+    "mortgage"
+  ],
+  "full_text": "Intro Security Home » Security Data security is paramount. We develop software solutions with advanced security measures to protect sensitive borrower information. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026 Subscribe to ATI First name Last Name Your email Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+  "word_count": 285,
+  "headings_count": 9,
+  "images_count": 3,
+  "buttons_count": 9,
+  "forms_count": 2,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "Security Home » Security Data security is paramount. We develop software solutions with advanced security measures to protect sensitive borrower information. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+          "alt": "Mortgage Automation in 2026"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+          "alt": "HMDA Reporting Setup in Encompass LOS"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+          "alt": "What is a Loan Origination System?"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Home",
+          "url": "https://awesometechinc.com/"
+        },
+        {
+          "label": "Search",
+          "url": ""
+        },
+        {
+          "label": "Subscribe",
+          "url": ""
+        },
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form",
+          "form_id": "",
+          "fields": [
+            {
+              "name": "s",
+              "label": "",
+              "type": "search",
+              "required": false
+            }
+          ],
+          "submit_label": "Search"
+        },
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "Subscribe to ATI",
+      "type": "form_section",
+      "content": "First name Last Name Your email",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Subscribe",
+          "url": ""
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "title": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "type": "service_section",
+      "content": "Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 4,
+      "title": "HMDA Reporting Setup in Encompass LOS",
+      "type": "content_section",
+      "content": "March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 5,
+      "title": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "type": "content_section",
+      "content": "In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": []
+    }
+  ],
+  "images": [
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+      "alt": "Mortgage Automation in 2026"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+      "alt": "HMDA Reporting Setup in Encompass LOS"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+      "alt": "What is a Loan Origination System?"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "Search",
+      "url": ""
+    },
+    {
+      "label": "Subscribe",
+      "url": ""
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ],
+  "forms": [
+    {
+      "form_type": "contact_form",
+      "form_id": "",
+      "fields": [
+        {
+          "name": "s",
+          "label": "",
+          "type": "search",
+          "required": false
+        }
+      ],
+      "submit_label": "Search"
+    },
+    {
+      "form_type": "contact_form_7",
+      "form_id": "12171",
+      "fields": [
+        {
+          "name": "your-name",
+          "label": "your-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "last-name",
+          "label": "last-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "your-email",
+          "label": "your-email",
+          "type": "email",
+          "required": true
+        }
+      ],
+      "submit_label": "Subscribe"
+    }
+  ],
+  "links": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ]
+}

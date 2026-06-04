@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "source_type": "page",
+  "slug": "conference-thank-you",
+  "title": "Registration Request Received !",
+  "url": "https://awesometechinc.com/conference-thank-you/",
+  "meta_title": "Conference Thank You - Awesome Tech Inc",
+  "meta_description": "",
+  "modified_at": "2026-01-22T19:44:33+00:00",
+  "status": "skipped",
+  "summary": "Intro Registration Request Received ! Thank you for your interest in AI for Mortgage Leaders.",
+  "keywords": [
+    "mortgage leaders",
+    "contact you shortly to confirm y",
+    "for",
+    "you",
+    "registration",
+    "received",
+    "request",
+    "thank",
+    "interest",
+    "intro",
+    "leaders",
+    "mortgage",
+    "access",
+    "and",
+    "conference",
+    "confirm"
+  ],
+  "full_text": "Intro Registration Request Received ! Thank you for your interest in AI for Mortgage Leaders. A member of the Awesome Technologies team will contact you shortly to confirm your registration details and provide venue access instructions for Toyota Stadium. We look forward to seeing you in Frisco.",
+  "word_count": 47,
+  "headings_count": 1,
+  "images_count": 0,
+  "buttons_count": 0,
+  "forms_count": 0,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "Registration Request Received ! Thank you for your interest in AI for Mortgage Leaders. A member of the Awesome Technologies team will contact you shortly to confirm your registration details and provide venue access instructions for Toyota Stadium. We look forward to seeing you in Frisco.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    }
+  ],
+  "images": [],
+  "buttons": [],
+  "forms": [],
+  "links": [],
+  "skip_reason": "Utility page with no durable RAG value."
+}

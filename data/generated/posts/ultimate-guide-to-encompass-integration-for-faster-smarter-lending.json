@@ -1,0 +1,600 @@
+{
+  "id": null,
+  "source_type": "post",
+  "slug": "ultimate-guide-to-encompass-integration-for-faster-smarter-lending",
+  "title": "The Ultimate Guide to Encompass Integration for Faster, Smarter Lending",
+  "url": "https://awesometechinc.com/ultimate-guide-to-encompass-integration-for-faster-smarter-lending/",
+  "meta_title": "The Ultimate Guide to Encompass Integration for Faster, Smarter Lending",
+  "meta_description": "Explore the ultimate guide to Encompass integration. Learn how to connect tools, automate workflows, and enable faster, smarter lending across your operations.",
+  "modified_at": "2026-04-14T17:14:47+00:00",
+  "status": "public",
+  "summary": "Explore the ultimate guide to Encompass integration. Learn how to connect tools, automate workflows, and enable faster, smarter lending across your operations.",
+  "keywords": [
+    "mortgage industry going to look like fr",
+    "mortgage operations",
+    "mortgage software integration",
+    "mortgage lending process",
+    "mortgage platform",
+    "mortgage platform is the primary system",
+    "mortgage process",
+    "mortgage platform will ultimately help",
+    "mortgage lenders integration category e",
+    "mortgage software integration helps len",
+    "mortgage broker used a product called e",
+    "mortgage crm functionalities that simpl",
+    "mortgage lead can be costly",
+    "encompass integration for faster",
+    "encompass integration",
+    "encompass differentiates lenders as the"
+  ],
+  "full_text": "Intro The Ultimate Guide to Encompass Integration for Faster, Smarter Lending Home » The Ultimate Guide to Encompass Integration for Faster, Smarter Lending What’s the mortgage industry going to look like from 2026 in present and onwards? All lenders want to close loans as quickly as possible, comply with regulations, and provide an excellent borrower experience. However, many of them are still grappling with poor systems that delay their loan processes, have inaccurate data, and create operational inefficiencies. Encompass differentiates lenders as the premier loan origination system (LOS). It provides the backbone for mortgage operations, but the true power of Encompass is realized through its capabilities to integrate with other systems. By connecting to the appropriate tools, Encompass creates a completely integrated ecosystem where data flows seamlessly from system to system, resulting in a great reduction of manual processes and an ultimate optimized workflow. In this blog post, we will examine how integration works in Encompass, which systems are integrated, and how lenders can simplify the lending process and achieve a competitive edge. What Lenders Really Want? Lenders expect reliable tools and vendors, from a commercial perspective, to support their business operation and pricing model. They also want all products and services that will support passthrough of leads; and streamline duplication of data to achieve goal completion. Thus, when looking for a strategy at the point of decision-making, lenders want a long-term strategy to develop an efficient organization; and will align with their common technical compatibility. All this could not have been possible without trusting reliable mortgage software integration! What Is Encompass Integration? Encompass Integration is the term used for linking Encompass with different tools and systems in the mortgage lending process. This makes it possible for lenders to share data automatically during the loan process. Systems that may be able to connect to Encompass and share data may include; customer relationship management (CRM) systems, point-of-sale systems (POS), automated underwriting systems (AUS), and verification tools. Once all the systems are integrated, the data will flow from one system to another without any manual data entry. Integration of these systems will improve lead capture and management mechanisms for lenders. This will help in the maintenance of data that is accurate and current at any given time and the execution of the loan process. The Encompass Ecosystem: Systems You Can Integrate Through the Encompass mortgage platform, lenders can pull different kinds of platforms into one process via one cohesive workflow system. Leads are managed and grown through CRM systems, borrower communication is simplified via POS platforms, application submissions and document upload processes for borrowers are streamlined. The ability to automate credit underwriting decisions allows for a much faster underwriting process and verification solutions for credit, income and assets ensures that the required documentation is complete and in compliance with lender policies. Managing documents with the use of electronic signatures and electronic file storage eliminates the need for physical files and expedites the approval process. In addition, lenders can use reporting and analytics to gain insights to help improve overall decision-making processes. By integrating lenders, they can work much more efficiently as one unit and eliminate siloed processes thus improving working efficiency from beginning to end of the lending cycle. Types of Encompass Integrations (Technical Breakdown) When exploring the different ways to integrate with Encompass, it is crucial to comprehend the various forms of Integration available. API-Based Integrations The API, or Application Programming Interface, is the means by which systems communicate with one another using a standard protocol, allowing systems to create a seamless connection. By integrating Encompass via API with other platforms (i.e. CRM, POS, Verifications), lenders have the capability to automate workflow processes more efficiently. Middleware / iPaaS Solutions Middleware/integration possibilities can be used to create a “hub” to provide data across multiple applications at the same time. Using a single hub to manage your APIs can save you time from creating many separate connections. Native Integrations (ICE Marketplace) Integrated solutions can be found within the ICE Marketplace. These are designed and built specifically for Encompass and allow lenders to instantly integrate their systems. Custom Plugin Development Custom plugins allow a lender to build a workflow and automate processes that can be tailored to the individual lending model. While custom plugins enhance the functionality of the system, they require time, technical expertise, and ongoing maintenance to create them. How Data Flows in an Integrated Encompass Environment? When all systems work together, Encompass mortgage platform is the primary system to use to manage the entire mortgage process. Usually, it will be set up that the borrower will fill out their information at the POS (Point of Sale) location. This data is then loaded into the Encompass system. Once in the Encompass system, the data is then sent to the AUS system for underwriting and then synced with the CRM System for tracking purposes only to be sent back to Encompass after processing all of their information. Data sync can be done real-time or via batch processing, depending on how the integration of the two systems was designed. The way you will need to handle your real-time synchronization and batch processing can be very different. In general terms, real-time synchronization is commonly used when updates need to be made quickly and accurately, whereas batch processing tends to be used for updates that are less urgent in nature. To prevent duplicates and conflicts in the information being shared by all of the systems involved in your process, it will be important that the mapping of the data in each of the systems is performed carefully. Organizing your data architecture helps create more consistent reporting. It allows you to make better decisions using more accurate information, and ultimately helps create a more efficient process for the borrower. The Encompass mortgage platform will ultimately help reduce the number of errors you experience, and better leverage your overall operation. Workflow Automation Through Integration Integrating your Encompass system with other systems you use in your process will allow lenders to automate processes throughout the entire lifecycle of a loan. For example, by automatically assigning tasks or routing them to different parties based on pre-established criteria, you can eliminate the need for manual coordination of tasks. When a loan change occurs that impacts its status, it can trigger multiple workflows that require different downstream steps to occur based on the previous step in the sequence. Examples of this include(1) document requests, (2) underwriting requests and (3) compliance check requests, etc. By automating document retrieval and verification, you can significantly decrease your turn-around times for obtaining documents and provide real-time notifications/alerts to all stakeholders involved in the loan process. Additionally, this will allow lenders to process loans at a faster rate, with greater accuracy, and to scale up to process larger numbers of loans without adding additional workload. Best Encompass Integrations for Mortgage Lenders Integration Category Examples Purpose/Benefit Core Strategy Encompass Align solutions with the right technology combinations instead of simply maximizing systems CRM Integrations Salesforce, Total Expert Lead management is essential to improve borrower communication and automate systems including marketing POS Platforms Blend, SimpleNexus Streamline the collection of information from borrowers and create a better borrower experience AUS & Underwriting Tools Various automated underwriting systems Make loan decisions faster and with better precision than ever before Credit & Verification Credit bureaus, income & asset verification tools Provide accurate data on borrowers and security for compliance eSignatures & Documents Digital document & eSignature platforms Speed up approvals and decrease paperwork Selection Criteria Interoperability, scalability, ease of maintenance Lower ongoing costs and deliver continuous efficiency of the overall operation Outcome Unified tack stack Seamless end-to-end workflow, improved efficiency, and greater borrower satisfaction. How Encompass Integration Improves Loan Processing? Mortgage software integration helps lenders speed up and streamline loan processing by connecting systems. Therefore, there is no longer a need to enter data manually into different systems, as data will flow from one system to another without the intervention of the lender. Additionally, by having systems automatically exchange data with one another, lenders will have fewer errors related to human input as well as save time. All systems will receive real-time updates so that all teams will have access to the latest information at all times. Automating repetitive tasks (i.e., data entry, sending out documents, providing status updates) allows lender employees to perform higher-value customer service for borrowers. This helps reduce the number of delays and improves communication among the loan officer, the loan processor, and the underwriter. Key Integrations That Drive ROI (Practical Use Cases) CRM + LOS: Reducing Drop-Offs Total Expert’s system enabled a regional lender in Texas to seamlessly sync the information about its borrowers and the leads. As a result of the system, completion rates of loan applications increased by 15% and conversion rates (from lead to loan) increased. POS + LOS: Faster Borrower Onboarding Using Encompass and Blend, a national bank automatically imported borrower applications submitted through mobile devices into its LOS. As a result, the bank was able to reduce the time it took to onboard a borrower from five days to 48 hours, as well as reduce errors. AUS Integration: Streamlined Underwriting A mid-sized lender to Fannie Mae and Freddie Mac became connected to Encompass through Fannie Mae DU and Freddie Mac LPA. When the borrower submits a loan application in Encompass, it automatically processes the underwriting checks as the loan is being entered. This reduced the manual review activity for underwriting by 30% and sped up the approval process. eSignature Tools: Reducing Closing Delays A mortgage broker used a product called Encompass to integrate with DocuSign for sending electronically signed loan documents directly to the applicant’s email address after they have signed. On average, borrowers’ closing cycles dropped from 35 days to 28 days, which equate to a greater rate of satisfaction among borrowers. Analytics Tools: Optimizing Operations Utilizing Encompass integration with Tableau, a West Coast credit union was able to analyze visual representations of workflow bottlenecks, as well as employee performance metrics. This allowed management to identify deficiencies within the loan process, allowing for reallocation or maximizing of resources for processing loans. After six months of implementing these enhancements, the credit union realized a 12% reduction in loan cycle time. Integration Architecture Explained Common Integration Challenges Inconsistencies in data APIs not working and/or changing versions Down-time/failure in integration Problems with system interoperability (i.e. vendor compatibility) Security (i.e. cyber vulnerability) Poor initial planning Did not test thoroughly Best Practices for Encompass Integration The effective integration of Encompass begins with comprehensive planning that involves documenting workflow processes associated with data flowing from one system to another. Standardizing the data fields that exist between the systems will help to create a consistent data set across multiple systems, which will decrease the likelihood of errors and duplicate data in the various systems. By utilizing an API first approach, it is possible to establish real-time, scalable connections to protect sensitive data with access controls based on roles. Before an integration project is implemented, sufficient testing must be conducted followed by ongoing performance monitoring to ensure that all integrations support the goals of the organization. Security, Compliance & Data Governance Security and compliance are critical to enterprise lenders when considering integrating Encompass. Regulatory requirements require companies to ensure that they use strong data encryption; have secure APIs; and perform role-based permissioning. Ensuring thorough audit trails and detailed reporting provide for accountability and transparency; and implement proactive risk management strategies to mitigate against potential compliance violations. Having a well-defined data governance program results in protecting the personally identifiable information of borrowers; provides for good internal controls; and ensures that all integration efforts provide the organization with operational and regulatory expectations. Integration vs. Manual Processes Feature Manual Process Integration Architecture Workflow Disconnected, siloed, heavily dependent on people Connected, unified systems that talk to each other Data Entry High. Slow, repetitive typing across different screens Minimal. Data flows automatically between systems. Error Rate High. Data is often duplicated, incomplete or wrong Low. Data is synchronized and consistent. Speed & Efficiency Low. Processes are slow, and often data is outdated High. Processes are fast, and data is current Compliance Handling Hard. Difficult to track and audit data flows. Easy. Automated logs provide audit trails and transparency. Total Cost of Integration The total cost of integrating with Encompass varies based on how it is approached and how complex the integration is: Custom Development: $50,000 to $150,000 up front for design, development, and testing; Pre-Built / Marketplace Integrations: $5,000 to $25,000 per module, allowing for quicker deployment of integrations; API & Licensing Fees: $1,000 to $10,000 per year depending on how much you use the integrations and how many different types of endpoints are used; Implementation / Onboarding: $5,000 to $20,000 for configuration of your integration and training; Maintenance / Updates: $2,000 to $15,000 a year There will also be hidden costs related to avoiding manual inefficiencies through automation. Over time, the ROI will usually outweigh the initial investment due to quicker loan cycles, more accurate loan applications, and better customer satisfaction. KPIs to Measure Integration Success Successful integration is measured by evaluating both business and operational performance-based outcomes. The following key performance indicators (KPIs) are used to measure success of mortgage software integration: Cycle time: Average number of days from the loan application to the closing of the loan after an application has been received and processed Cost per loan: The operational savings gained as a result of automating processes and reducing errors Number of errors: number of touches per loan: The fewer touchpoints and errors per loan the less manual intervention has taken place indicating that the workflow was smoother Conversion rates: A higher lead-to-fund ratio indicates that the use of integrated customer relationship management (CRM) systems is working effectively Productivity: Employee output per loan and time to complete the task By tracking these KPIs through data analytics and dashboarding tools, lenders are able to quantify their return on investment (ROI), pinpoint where the bottlenecks exist, and to make data-driven decisions continuously improving upon their processes. Build vs Buy: Choosing the Right Integration Strategy Lenders who are integrating Encompass are faced with a choice of whether to build their own custom solution or to purchase an off-the-shelf product. Building your own solution offers the highest amount of customization possible for tailoring workflows, but it also requires more resources in terms of time, money, and technical knowledge. Buying an off-the-shelf product has the advantage of providing prebuilt integrations that will allow you to deploy more quickly and with less effort. A hybrid approach allows lenders to balance both build and buy. The criteria you will use to decide which route to take include your budget, company size, process complexity, and long-term scalability. 2026 Trends: Future of Encompass Integration Encompass integrations are rapidly changing through the use of Artificial Intelligence and automation. Lenders will be seeing AI-based integrations that will increase the efficiency of their workflow and improve predictive decision making within their operations. API-first ecosystems will provide seamless, real-time synchronisation of data between the Point of Sale (POS) System, Customer Relationship Management systems (CRM), Automated Underwriting Systems (AUS), and Verification / Validation systems. Through predictive workflows, there will be reduced manual labour, as well as faster processing times on loans. Overall, the trend is towards fully automated orchestration of individual tasks. Thus, when a lender trusts LOS integration services , it allows lenders to process more volume of loans while improving accuracy and providing better borrower experience. Common Mistakes to Avoid in Encompass Integration Common Mistake Impact/Risk Over-customization Making maintenance more difficult as a result of increased complexity and slowing subsequent upgrades down. Poor Data Mapping Errors, duplicate entries and inconsistent data occur as a result. Ignoring Scalability Limiting your ability to manage growth and larger loan volume. Lack of Thorough Testing Cause difficulties during implementation, disruption in workflow and delays in implementation of new processes. Choosing Wrong Integration Tools Decreasing efficiency, causing compatibility problems and increasing operational costs. Not Aligning with Business Goals Interface’s failure to provide quantifiable return on investment will not improve the efficiency of your workflow. Vendor Selection: Choosing the Right Integration Partner Choosing the best integration partner for Encompass is crucial to the success of the integration process. When selecting a partner, important selection criteria include proven experience working with the Encompass APIs, industry specific experience, and a portfolio of existing successful implementations. To ensure continual seamless operation, quality partners will also provide supporting and maintenance capabilities, and be capable of scaling the integrated solutions to meet the customer’s current and future business needs. As importantly, your partner that offers Encompass implementation services must align with your specific business needs. It is essential to aim to work together to implement an integrated solution that results in efficiency, compliance, and a solid ROI! Why Expertise Matters in Encompass Integration? To successfully integrate Encompass, a lender needs to partner with an organization that has experience using the product and in-depth knowledge of compliance. A strong track record for additional implementation success will help to establish a lender’s reputation for producing high-quality implementations. When an integration is performed with accuracy and in compliance, trust will be created both internally (with the lender’s employees) and externally (with the lender’s borrowers). Conclusion: From Integration to Transformation Transforming Encompass with an integration allows Encompass to become more of a workflow engine instead of just a LOS. This integrated system supports lenders with more efficiency, scale and operational certainty through the ability to automate processes, shorten loan cycles and provide consistent data throughout the entire loan process. The key takeaway is that integration is more than just a technology solution , it is also an avenue for lenders to achieve long-term success. Are you ready to take advantage of everything Encompass has to offer by trusting our Encompass integration services ? Contact us for a consultation or demo about our integrations, including workflow automation and CRM connections! FAQs 1. What systems can I integrate with Encompass? The Encompass Software can be integrated in systems that are CRMs (i.e. Total Expert, Salesforce), Point-of-sale lending systems (i.e. Blend and SimpleNexus), Automated Underwriting Systems (automated underwriting or AUS), credit and verification systems, e-signature and document management platforms, and analytical tools. 2. How does Encompass integration improve loan processing? Using Encompass to do these integrations will reduce duplicate data entries, automating tasks, real time update of data, speed up the underwriting and approval process, faster loan cycles and better borrower experience. 3. Should I build or buy my Encompass integrations? When you create an integration, you have the benefit of flexibility in your creation of workflows versus purchasing a pre-made workflow that is faster to implement. Many lenders that do integrations choose to follow a mixed approach to find balance in the cost of the integration, speed of implementing it, and scalability. 4. How much does Encompass integration cost? Integration costs vary based on the approach to develop it. The pre-built integrations run between $5,000 to $25,000 depending on the module. Custom integrations run you between $50,000 – $150,000. There are also costs associated with using integration such as API licensing, onboarding, training, ongoing maintenance. 5. How long does it take to integrate Encompass? When integrating pre-built integrations, it typically takes 2-6 weeks depending on the complexity of the pre-built workflow. For custom integrations to be fully functional, it can take anywhere from 3-6 months from design, development, testing and rollout. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026 Blog 10 Mortgage CRM Functionalities That Simplify The Lending Process Finding just one mortgage lead can be costly. The cost of errors made when managing leads can add up very quickly. Reaching your goals with Read More » David Miller 05/22/2026 What Lenders Really Want? Lenders expect reliable tools and vendors, from a commercial perspective, to support their business operation and pricing model. They also want all products and services that will support passthrough of leads; and streamline duplication of data to achieve goal completion. Thus, when looking for a strategy at the point of decision-making, lenders want a long-term strategy to develop an efficient organization; and will align with their common technical compatibility. All this could not have been possible without trusting reliable mortgage software integration! What Is Encompass Integration? Encompass Integration is the term used for linking Encompass with different tools and systems in the mortgage lending process. This makes it possible for lenders to share data automatically during the loan process. Systems that may be able to connect to Encompass and share data may include; customer relationship management (CRM) systems, point-of-sale systems (POS), automated underwriting systems (AUS), and verification tools. Once all the systems are integrated, the data will flow from one system to another without any manual data entry. Integration of these systems will improve lead capture and management mechanisms for lenders. This will help in the maintenance of data that is accurate and current at any given time and the execution of the loan process. The Encompass Ecosystem: Systems You Can Integrate Through the Encompass mortgage platform, lenders can pull different kinds of platforms into one process via one cohesive workflow system. Leads are managed and grown through CRM systems, borrower communication is simplified via POS platforms, application submissions and document upload processes for borrowers are streamlined. The ability to automate credit underwriting decisions allows for a much faster underwriting process and verification solutions for credit, income and assets ensures that the required documentation is complete and in compliance with lender policies. Managing documents with the use of electronic signatures and electronic file storage eliminates the need for physical files and expedites the approval process. In addition, lenders can use reporting and analytics to gain insights to help improve overall decision-making processes. By integrating lenders, they can work much more efficiently as one unit and eliminate siloed processes thus improving working efficiency from beginning to end of the lending cycle. Types of Encompass Integrations (Technical Breakdown) When exploring the different ways to integrate with Encompass, it is crucial to comprehend the various forms of Integration available. API-Based Integrations The API, or Application Programming Interface, is the means by which systems communicate with one another using a standard protocol, allowing systems to create a seamless connection. By integrating Encompass via API with other platforms (i.e. CRM, POS, Verifications), lenders have the capability to automate workflow processes more efficiently. Middleware / iPaaS Solutions Middleware/integration possibilities can be used to create a “hub” to provide data across multiple applications at the same time. Using a single hub to manage your APIs can save you time from creating many separate connections. Native Integrations (ICE Marketplace) Integrated solutions can be found within the ICE Marketplace. These are designed and built specifically for Encompass and allow lenders to instantly integrate their systems. Custom Plugin Development Custom plugins allow a lender to build a workflow and automate processes that can be tailored to the individual lending model. While custom plugins enhance the functionality of the system, they require time, technical expertise, and ongoing maintenance to create them. How Data Flows in an Integrated Encompass Environment? When all systems work together, Encompass mortgage platform is the primary system to use to manage the entire mortgage process. Usually, it will be set up that the borrower will fill out their information at the POS (Point of Sale) location. This data is then loaded into the Encompass system. Once in the Encompass system, the data is then sent to the AUS system for underwriting and then synced with the CRM System for tracking purposes only to be sent back to Encompass after processing all of their information. Data sync can be done real-time or via batch processing, depending on how the integration of the two systems was designed. The way you will need to handle your real-time synchronization and batch processing can be very different. In general terms, real-time synchronization is commonly used when updates need to be made quickly and accurately, whereas batch processing tends to be used for updates that are less urgent in nature. To prevent duplicates and conflicts in the information being shared by all of the systems involved in your process, it will be important that the mapping of the data in each of the systems is performed carefully. Organizing your data architecture helps create more consistent reporting. It allows you to make better decisions using more accurate information, and ultimately helps create a more efficient process for the borrower. The Encompass mortgage platform will ultimately help reduce the number of errors you experience, and better leverage your overall operation. Workflow Automation Through Integration Integrating your Encompass system with other systems you use in your process will allow lenders to automate processes throughout the entire lifecycle of a loan. For example, by automatically assigning tasks or routing them to different parties based on pre-established criteria, you can eliminate the need for manual coordination of tasks. When a loan change occurs that impacts its status, it can trigger multiple workflows that require different downstream steps to occur based on the previous step in the sequence. Examples of this include(1) document requests, (2) underwriting requests and (3) compliance check requests, etc. By automating document retrieval and verification, you can significantly decrease your turn-around times for obtaining documents and provide real-time notifications/alerts to all stakeholders involved in the loan process. Additionally, this will allow lenders to process loans at a faster rate, with greater accuracy, and to scale up to process larger numbers of loans without adding additional workload. Best Encompass Integrations for Mortgage Lenders Integration Category Examples Purpose/Benefit Core Strategy Encompass Align solutions with the right technology combinations instead of simply maximizing systems CRM Integrations Salesforce, Total Expert Lead management is essential to improve borrower communication and automate systems including marketing POS Platforms Blend, SimpleNexus Streamline the collection of information from borrowers and create a better borrower experience AUS & Underwriting Tools Various automated underwriting systems Make loan decisions faster and with better precision than ever before Credit & Verification Credit bureaus, income & asset verification tools Provide accurate data on borrowers and security for compliance eSignatures & Documents Digital document & eSignature platforms Speed up approvals and decrease paperwork Selection Criteria Interoperability, scalability, ease of maintenance Lower ongoing costs and deliver continuous efficiency of the overall operation Outcome Unified tack stack Seamless end-to-end workflow, improved efficiency, and greater borrower satisfaction. How Encompass Integration Improves Loan Processing? Mortgage software integration helps lenders speed up and streamline loan processing by connecting systems. Therefore, there is no longer a need to enter data manually into different systems, as data will flow from one system to another without the intervention of the lender. Additionally, by having systems automatically exchange data with one another, lenders will have fewer errors related to human input as well as save time. All systems will receive real-time updates so that all teams will have access to the latest information at all times. Automating repetitive tasks (i.e., data entry, sending out documents, providing status updates) allows lender employees to perform higher-value customer service for borrowers. This helps reduce the number of delays and improves communication among the loan officer, the loan processor, and the underwriter. Key Integrations That Drive ROI (Practical Use Cases) CRM + LOS: Reducing Drop-Offs Total Expert’s system enabled a regional lender in Texas to seamlessly sync the information about its borrowers and the leads. As a result of the system, completion rates of loan applications increased by 15% and conversion rates (from lead to loan) increased. POS + LOS: Faster Borrower Onboarding Using Encompass and Blend, a national bank automatically imported borrower applications submitted through mobile devices into its LOS. As a result, the bank was able to reduce the time it took to onboard a borrower from five days to 48 hours, as well as reduce errors. AUS Integration: Streamlined Underwriting A mid-sized lender to Fannie Mae and Freddie Mac became connected to Encompass through Fannie Mae DU and Freddie Mac LPA. When the borrower submits a loan application in Encompass, it automatically processes the underwriting checks as the loan is being entered. This reduced the manual review activity for underwriting by 30% and sped up the approval process. eSignature Tools: Reducing Closing Delays A mortgage broker used a product called Encompass to integrate with DocuSign for sending electronically signed loan documents directly to the applicant’s email address after they have signed. On average, borrowers’ closing cycles dropped from 35 days to 28 days, which equate to a greater rate of satisfaction among borrowers. Analytics Tools: Optimizing Operations Utilizing Encompass integration with Tableau, a West Coast credit union was able to analyze visual representations of workflow bottlenecks, as well as employee performance metrics. This allowed management to identify deficiencies within the loan process, allowing for reallocation or maximizing of resources for processing loans. After six months of implementing these enhancements, the credit union realized a 12% reduction in loan cycle time. Common Integration Challenges Inconsistencies in data APIs not working and/or changing versions Down-time/failure in integration Problems with system interoperability (i.e. vendor compatibility) Security (i.e. cyber vulnerability) Poor initial planning Did not test thoroughly Best Practices for Encompass Integration The effective integration of Encompass begins with comprehensive planning that involves documenting workflow processes associated with data flowing from one system to another. Standardizing the data fields that exist between the systems will help to create a consistent data set across multiple systems, which will decrease the likelihood of errors and duplicate data in the various systems. By utilizing an API first approach, it is possible to establish real-time, scalable connections to protect sensitive data with access controls based on roles. Before an integration project is implemented, sufficient testing must be conducted followed by ongoing performance monitoring to ensure that all integrations support the goals of the organization. Security, Compliance & Data Governance Security and compliance are critical to enterprise lenders when considering integrating Encompass. Regulatory requirements require companies to ensure that they use strong data encryption; have secure APIs; and perform role-based permissioning. Ensuring thorough audit trails and detailed reporting provide for accountability and transparency; and implement proactive risk management strategies to mitigate against potential compliance violations. Having a well-defined data governance program results in protecting the personally identifiable information of borrowers; provides for good internal controls; and ensures that all integration efforts provide the organization with operational and regulatory expectations. Integration vs. Manual Processes Feature Manual Process Integration Architecture Workflow Disconnected, siloed, heavily dependent on people Connected, unified systems that talk to each other Data Entry High. Slow, repetitive typing across different screens Minimal. Data flows automatically between systems. Error Rate High. Data is often duplicated, incomplete or wrong Low. Data is synchronized and consistent. Speed & Efficiency Low. Processes are slow, and often data is outdated High. Processes are fast, and data is current Compliance Handling Hard. Difficult to track and audit data flows. Easy. Automated logs provide audit trails and transparency. Total Cost of Integration The total cost of integrating with Encompass varies based on how it is approached and how complex the integration is: Custom Development: $50,000 to $150,000 up front for design, development, and testing; Pre-Built / Marketplace Integrations: $5,000 to $25,000 per module, allowing for quicker deployment of integrations; API & Licensing Fees: $1,000 to $10,000 per year depending on how much you use the integrations and how many different types of endpoints are used; Implementation / Onboarding: $5,000 to $20,000 for configuration of your integration and training; Maintenance / Updates: $2,000 to $15,000 a year There will also be hidden costs related to avoiding manual inefficiencies through automation. Over time, the ROI will usually outweigh the initial investment due to quicker loan cycles, more accurate loan applications, and better customer satisfaction. KPIs to Measure Integration Success Successful integration is measured by evaluating both business and operational performance-based outcomes. The following key performance indicators (KPIs) are used to measure success of mortgage software integration: Cycle time: Average number of days from the loan application to the closing of the loan after an application has been received and processed Cost per loan: The operational savings gained as a result of automating processes and reducing errors Number of errors: number of touches per loan: The fewer touchpoints and errors per loan the less manual intervention has taken place indicating that the workflow was smoother Conversion rates: A higher lead-to-fund ratio indicates that the use of integrated customer relationship management (CRM) systems is working effectively Productivity: Employee output per loan and time to complete the task By tracking these KPIs through data analytics and dashboarding tools, lenders are able to quantify their return on investment (ROI), pinpoint where the bottlenecks exist, and to make data-driven decisions continuously improving upon their processes. Build vs Buy: Choosing the Right Integration Strategy Lenders who are integrating Encompass are faced with a choice of whether to build their own custom solution or to purchase an off-the-shelf product. Building your own solution offers the highest amount of customization possible for tailoring workflows, but it also requires more resources in terms of time, money, and technical knowledge. Buying an off-the-shelf product has the advantage of providing prebuilt integrations that will allow you to deploy more quickly and with less effort. A hybrid approach allows lenders to balance both build and buy. The criteria you will use to decide which route to take include your budget, company size, process complexity, and long-term scalability. 2026 Trends: Future of Encompass Integration Encompass integrations are rapidly changing through the use of Artificial Intelligence and automation. Lenders will be seeing AI-based integrations that will increase the efficiency of their workflow and improve predictive decision making within their operations. API-first ecosystems will provide seamless, real-time synchronisation of data between the Point of Sale (POS) System, Customer Relationship Management systems (CRM), Automated Underwriting Systems (AUS), and Verification / Validation systems. Through predictive workflows, there will be reduced manual labour, as well as faster processing times on loans. Overall, the trend is towards fully automated orchestration of individual tasks. Thus, when a lender trusts LOS integration services , it allows lenders to process more volume of loans while improving accuracy and providing better borrower experience. Common Mistakes to Avoid in Encompass Integration Common Mistake Impact/Risk Over-customization Making maintenance more difficult as a result of increased complexity and slowing subsequent upgrades down. Poor Data Mapping Errors, duplicate entries and inconsistent data occur as a result. Ignoring Scalability Limiting your ability to manage growth and larger loan volume. Lack of Thorough Testing Cause difficulties during implementation, disruption in workflow and delays in implementation of new processes. Choosing Wrong Integration Tools Decreasing efficiency, causing compatibility problems and increasing operational costs. Not Aligning with Business Goals Interface’s failure to provide quantifiable return on investment will not improve the efficiency of your workflow. Vendor Selection: Choosing the Right Integration Partner Choosing the best integration partner for Encompass is crucial to the success of the integration process. When selecting a partner, important selection criteria include proven experience working with the Encompass APIs, industry specific experience, and a portfolio of existing successful implementations. To ensure continual seamless operation, quality partners will also provide supporting and maintenance capabilities, and be capable of scaling the integrated solutions to meet the customer’s current and future business needs. As importantly, your partner that offers Encompass implementation services must align with your specific business needs. It is essential to aim to work together to implement an integrated solution that results in efficiency, compliance, and a solid ROI! Why Expertise Matters in Encompass Integration? To successfully integrate Encompass, a lender needs to partner with an organization that has experience using the product and in-depth knowledge of compliance. A strong track record for additional implementation success will help to establish a lender’s reputation for producing high-quality implementations. When an integration is performed with accuracy and in compliance, trust will be created both internally (with the lender’s employees) and externally (with the lender’s borrowers). Conclusion: From Integration to Transformation Transforming Encompass with an integration allows Encompass to become more of a workflow engine instead of just a LOS. This integrated system supports lenders with more efficiency, scale and operational certainty through the ability to automate processes, shorten loan cycles and provide consistent data throughout the entire loan process. The key takeaway is that integration is more than just a technology solution , it is also an avenue for lenders to achieve long-term success. Are you ready to take advantage of everything Encompass has to offer by trusting our Encompass integration services ? Contact us for a consultation or demo about our integrations, including workflow automation and CRM connections! FAQs 1. What systems can I integrate with Encompass? The Encompass Software can be integrated in systems that are CRMs (i.e. Total Expert, Salesforce), Point-of-sale lending systems (i.e. Blend and SimpleNexus), Automated Underwriting Systems (automated underwriting or AUS), credit and verification systems, e-signature and document management platforms, and analytical tools. 2. How does Encompass integration improve loan processing? Using Encompass to do these integrations will reduce duplicate data entries, automating tasks, real time update of data, speed up the underwriting and approval process, faster loan cycles and better borrower experience. 3. Should I build or buy my Encompass integrations? When you create an integration, you have the benefit of flexibility in your creation of workflows versus purchasing a pre-made workflow that is faster to implement. Many lenders that do integrations choose to follow a mixed approach to find balance in the cost of the integration, speed of implementing it, and scalability. 4. How much does Encompass integration cost? Integration costs vary based on the approach to develop it. The pre-built integrations run between $5,000 to $25,000 depending on the module. Custom integrations run you between $50,000 – $150,000. There are also costs associated with using integration such as API licensing, onboarding, training, ongoing maintenance. 5. How long does it take to integrate Encompass? When integrating pre-built integrations, it typically takes 2-6 weeks depending on the complexity of the pre-built workflow. For custom integrations to be fully functional, it can take anywhere from 3-6 months from design, development, testing and rollout. Subscribe to ATI First name Last Name Your email HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » 10 Mortgage CRM Functionalities That Simplify The Lending Process Finding just one mortgage lead can be costly. The cost of errors made when managing leads can add up very quickly. Reaching your goals with Read More »",
+  "word_count": 6567,
+  "headings_count": 31,
+  "images_count": 4,
+  "buttons_count": 12,
+  "forms_count": 2,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "The Ultimate Guide to Encompass Integration for Faster, Smarter Lending Home » The Ultimate Guide to Encompass Integration for Faster, Smarter Lending What’s the mortgage industry going to look like from 2026 in present and onwards? All lenders want to close loans as quickly as possible, comply with regulations, and provide an excellent borrower experience. However, many of them are still grappling with poor systems that delay their loan processes, have inaccurate data, and create operational inefficiencies. Encompass differentiates lenders as the premier loan origination system (LOS). It provides the backbone for mortgage operations, but the true power of Encompass is realized through its capabilities to integrate with other systems. By connecting to the appropriate tools, Encompass creates a completely integrated ecosystem where data flows seamlessly from system to system, resulting in a great reduction of manual processes and an ultimate optimized workflow. In this blog post, we will examine how integration works in Encompass, which systems are integrated, and how lenders can simplify the lending process and achieve a competitive edge. What Lenders Really Want? Lenders expect reliable tools and vendors, from a commercial perspective, to support their business operation and pricing model. They also want all products and services that will support passthrough of leads; and streamline duplication of data to achieve goal completion. Thus, when looking for a strategy at the point of decision-making, lenders want a long-term strategy to develop an efficient organization; and will align with their common technical compatibility. All this could not have been possible without trusting reliable mortgage software integration! What Is Encompass Integration? Encompass Integration is the term used for linking Encompass with different tools and systems in the mortgage lending process. This makes it possible for lenders to share data automatically during the loan process. Systems that may be able to connect to Encompass and share data may include; customer relationship management (CRM) systems, point-of-sale systems (POS), automated underwriting systems (AUS), and verification tools. Once all the systems are integrated, the data will flow from one system to another without any manual data entry. Integration of these systems will improve lead capture and management mechanisms for lenders. This will help in the maintenance of data that is accurate and current at any given time and the execution of the loan process. The Encompass Ecosystem: Systems You Can Integrate Through the Encompass mortgage platform, lenders can pull different kinds of platforms into one process via one cohesive workflow system. Leads are managed and grown through CRM systems, borrower communication is simplified via POS platforms, application submissions and document upload processes for borrowers are streamlined. The ability to automate credit underwriting decisions allows for a much faster underwriting process and verification solutions for credit, income and assets ensures that the required documentation is complete and in compliance with lender policies. Managing documents with the use of electronic signatures and electronic file storage eliminates the need for physical files and expedites the approval process. In addition, lenders can use reporting and analytics to gain insights to help improve overall decision-making processes. By integrating lenders, they can work much more efficiently as one unit and eliminate siloed processes thus improving working efficiency from beginning to end of the lending cycle. Types of Encompass Integrations (Technical Breakdown) When exploring the different ways to integrate with Encompass, it is crucial to comprehend the various forms of Integration available. API-Based Integrations The API, or Application Programming Interface, is the means by which systems communicate with one another using a standard protocol, allowing systems to create a seamless connection. By integrating Encompass via API with other platforms (i.e. CRM, POS, Verifications), lenders have the capability to automate workflow processes more efficiently. Middleware / iPaaS Solutions Middleware/integration possibilities can be used to create a “hub” to provide data across multiple applications at the same time. Using a single hub to manage your APIs can save you time from creating many separate connections. Native Integrations (ICE Marketplace) Integrated solutions can be found within the ICE Marketplace. These are designed and built specifically for Encompass and allow lenders to instantly integrate their systems. Custom Plugin Development Custom plugins allow a lender to build a workflow and automate processes that can be tailored to the individual lending model. While custom plugins enhance the functionality of the system, they require time, technical expertise, and ongoing maintenance to create them. How Data Flows in an Integrated Encompass Environment? When all systems work together, Encompass mortgage platform is the primary system to use to manage the entire mortgage process. Usually, it will be set up that the borrower will fill out their information at the POS (Point of Sale) location. This data is then loaded into the Encompass system. Once in the Encompass system, the data is then sent to the AUS system for underwriting and then synced with the CRM System for tracking purposes only to be sent back to Encompass after processing all of their information. Data sync can be done real-time or via batch processing, depending on how the integration of the two systems was designed. The way you will need to handle your real-time synchronization and batch processing can be very different. In general terms, real-time synchronization is commonly used when updates need to be made quickly and accurately, whereas batch processing tends to be used for updates that are less urgent in nature. To prevent duplicates and conflicts in the information being shared by all of the systems involved in your process, it will be important that the mapping of the data in each of the systems is performed carefully. Organizing your data architecture helps create more consistent reporting. It allows you to make better decisions using more accurate information, and ultimately helps create a more efficient process for the borrower. The Encompass mortgage platform will ultimately help reduce the number of errors you experience, and better leverage your overall operation. Workflow Automation Through Integration Integrating your Encompass system with other systems you use in your process will allow lenders to automate processes throughout the entire lifecycle of a loan. For example, by automatically assigning tasks or routing them to different parties based on pre-established criteria, you can eliminate the need for manual coordination of tasks. When a loan change occurs that impacts its status, it can trigger multiple workflows that require different downstream steps to occur based on the previous step in the sequence. Examples of this include(1) document requests, (2) underwriting requests and (3) compliance check requests, etc. By automating document retrieval and verification, you can significantly decrease your turn-around times for obtaining documents and provide real-time notifications/alerts to all stakeholders involved in the loan process. Additionally, this will allow lenders to process loans at a faster rate, with greater accuracy, and to scale up to process larger numbers of loans without adding additional workload. Best Encompass Integrations for Mortgage Lenders Integration Category Examples Purpose/Benefit Core Strategy Encompass Align solutions with the right technology combinations instead of simply maximizing systems CRM Integrations Salesforce, Total Expert Lead management is essential to improve borrower communication and automate systems including marketing POS Platforms Blend, SimpleNexus Streamline the collection of information from borrowers and create a better borrower experience AUS & Underwriting Tools Various automated underwriting systems Make loan decisions faster and with better precision than ever before Credit & Verification Credit bureaus, income & asset verification tools Provide accurate data on borrowers and security for compliance eSignatures & Documents Digital document & eSignature platforms Speed up approvals and decrease paperwork Selection Criteria Interoperability, scalability, ease of maintenance Lower ongoing costs and deliver continuous efficiency of the overall operation Outcome Unified tack stack Seamless end-to-end workflow, improved efficiency, and greater borrower satisfaction. How Encompass Integration Improves Loan Processing? Mortgage software integration helps lenders speed up and streamline loan processing by connecting systems. Therefore, there is no longer a need to enter data manually into different systems, as data will flow from one system to another without the intervention of the lender. Additionally, by having systems automatically exchange data with one another, lenders will have fewer errors related to human input as well as save time. All systems will receive real-time updates so that all teams will have access to the latest information at all times. Automating repetitive tasks (i.e., data entry, sending out documents, providing status updates) allows lender employees to perform higher-value customer service for borrowers. This helps reduce the number of delays and improves communication among the loan officer, the loan processor, and the underwriter. Key Integrations That Drive ROI (Practical Use Cases) CRM + LOS: Reducing Drop-Offs Total Expert’s system enabled a regional lender in Texas to seamlessly sync the information about its borrowers and the leads. As a result of the system, completion rates of loan applications increased by 15% and conversion rates (from lead to loan) increased. POS + LOS: Faster Borrower Onboarding Using Encompass and Blend, a national bank automatically imported borrower applications submitted through mobile devices into its LOS. As a result, the bank was able to reduce the time it took to onboard a borrower from five days to 48 hours, as well as reduce errors. AUS Integration: Streamlined Underwriting A mid-sized lender to Fannie Mae and Freddie Mac became connected to Encompass through Fannie Mae DU and Freddie Mac LPA. When the borrower submits a loan application in Encompass, it automatically processes the underwriting checks as the loan is being entered. This reduced the manual review activity for underwriting by 30% and sped up the approval process. eSignature Tools: Reducing Closing Delays A mortgage broker used a product called Encompass to integrate with DocuSign for sending electronically signed loan documents directly to the applicant’s email address after they have signed. On average, borrowers’ closing cycles dropped from 35 days to 28 days, which equate to a greater rate of satisfaction among borrowers. Analytics Tools: Optimizing Operations Utilizing Encompass integration with Tableau, a West Coast credit union was able to analyze visual representations of workflow bottlenecks, as well as employee performance metrics. This allowed management to identify deficiencies within the loan process, allowing for reallocation or maximizing of resources for processing loans. After six months of implementing these enhancements, the credit union realized a 12% reduction in loan cycle time. Integration Architecture Explained Common Integration Challenges Inconsistencies in data APIs not working and/or changing versions Down-time/failure in integration Problems with system interoperability (i.e. vendor compatibility) Security (i.e. cyber vulnerability) Poor initial planning Did not test thoroughly Best Practices for Encompass Integration The effective integration of Encompass begins with comprehensive planning that involves documenting workflow processes associated with data flowing from one system to another. Standardizing the data fields that exist between the systems will help to create a consistent data set across multiple systems, which will decrease the likelihood of errors and duplicate data in the various systems. By utilizing an API first approach, it is possible to establish real-time, scalable connections to protect sensitive data with access controls based on roles. Before an integration project is implemented, sufficient testing must be conducted followed by ongoing performance monitoring to ensure that all integrations support the goals of the organization. Security, Compliance & Data Governance Security and compliance are critical to enterprise lenders when considering integrating Encompass. Regulatory requirements require companies to ensure that they use strong data encryption; have secure APIs; and perform role-based permissioning. Ensuring thorough audit trails and detailed reporting provide for accountability and transparency; and implement proactive risk management strategies to mitigate against potential compliance violations. Having a well-defined data governance program results in protecting the personally identifiable information of borrowers; provides for good internal controls; and ensures that all integration efforts provide the organization with operational and regulatory expectations. Integration vs. Manual Processes Feature Manual Process Integration Architecture Workflow Disconnected, siloed, heavily dependent on people Connected, unified systems that talk to each other Data Entry High. Slow, repetitive typing across different screens Minimal. Data flows automatically between systems. Error Rate High. Data is often duplicated, incomplete or wrong Low. Data is synchronized and consistent. Speed & Efficiency Low. Processes are slow, and often data is outdated High. Processes are fast, and data is current Compliance Handling Hard. Difficult to track and audit data flows. Easy. Automated logs provide audit trails and transparency. Total Cost of Integration The total cost of integrating with Encompass varies based on how it is approached and how complex the integration is: Custom Development: $50,000 to $150,000 up front for design, development, and testing; Pre-Built / Marketplace Integrations: $5,000 to $25,000 per module, allowing for quicker deployment of integrations; API & Licensing Fees: $1,000 to $10,000 per year depending on how much you use the integrations and how many different types of endpoints are used; Implementation / Onboarding: $5,000 to $20,000 for configuration of your integration and training; Maintenance / Updates: $2,000 to $15,000 a year There will also be hidden costs related to avoiding manual inefficiencies through automation. Over time, the ROI will usually outweigh the initial investment due to quicker loan cycles, more accurate loan applications, and better customer satisfaction. KPIs to Measure Integration Success Successful integration is measured by evaluating both business and operational performance-based outcomes. The following key performance indicators (KPIs) are used to measure success of mortgage software integration: Cycle time: Average number of days from the loan application to the closing of the loan after an application has been received and processed Cost per loan: The operational savings gained as a result of automating processes and reducing errors Number of errors: number of touches per loan: The fewer touchpoints and errors per loan the less manual intervention has taken place indicating that the workflow was smoother Conversion rates: A higher lead-to-fund ratio indicates that the use of integrated customer relationship management (CRM) systems is working effectively Productivity: Employee output per loan and time to complete the task By tracking these KPIs through data analytics and dashboarding tools, lenders are able to quantify their return on investment (ROI), pinpoint where the bottlenecks exist, and to make data-driven decisions continuously improving upon their processes. Build vs Buy: Choosing the Right Integration Strategy Lenders who are integrating Encompass are faced with a choice of whether to build their own custom solution or to purchase an off-the-shelf product. Building your own solution offers the highest amount of customization possible for tailoring workflows, but it also requires more resources in terms of time, money, and technical knowledge. Buying an off-the-shelf product has the advantage of providing prebuilt integrations that will allow you to deploy more quickly and with less effort. A hybrid approach allows lenders to balance both build and buy. The criteria you will use to decide which route to take include your budget, company size, process complexity, and long-term scalability. 2026 Trends: Future of Encompass Integration Encompass integrations are rapidly changing through the use of Artificial Intelligence and automation. Lenders will be seeing AI-based integrations that will increase the efficiency of their workflow and improve predictive decision making within their operations. API-first ecosystems will provide seamless, real-time synchronisation of data between the Point of Sale (POS) System, Customer Relationship Management systems (CRM), Automated Underwriting Systems (AUS), and Verification / Validation systems. Through predictive workflows, there will be reduced manual labour, as well as faster processing times on loans. Overall, the trend is towards fully automated orchestration of individual tasks. Thus, when a lender trusts LOS integration services , it allows lenders to process more volume of loans while improving accuracy and providing better borrower experience. Common Mistakes to Avoid in Encompass Integration Common Mistake Impact/Risk Over-customization Making maintenance more difficult as a result of increased complexity and slowing subsequent upgrades down. Poor Data Mapping Errors, duplicate entries and inconsistent data occur as a result. Ignoring Scalability Limiting your ability to manage growth and larger loan volume. Lack of Thorough Testing Cause difficulties during implementation, disruption in workflow and delays in implementation of new processes. Choosing Wrong Integration Tools Decreasing efficiency, causing compatibility problems and increasing operational costs. Not Aligning with Business Goals Interface’s failure to provide quantifiable return on investment will not improve the efficiency of your workflow. Vendor Selection: Choosing the Right Integration Partner Choosing the best integration partner for Encompass is crucial to the success of the integration process. When selecting a partner, important selection criteria include proven experience working with the Encompass APIs, industry specific experience, and a portfolio of existing successful implementations. To ensure continual seamless operation, quality partners will also provide supporting and maintenance capabilities, and be capable of scaling the integrated solutions to meet the customer’s current and future business needs. As importantly, your partner that offers Encompass implementation services must align with your specific business needs. It is essential to aim to work together to implement an integrated solution that results in efficiency, compliance, and a solid ROI! Why Expertise Matters in Encompass Integration? To successfully integrate Encompass, a lender needs to partner with an organization that has experience using the product and in-depth knowledge of compliance. A strong track record for additional implementation success will help to establish a lender’s reputation for producing high-quality implementations. When an integration is performed with accuracy and in compliance, trust will be created both internally (with the lender’s employees) and externally (with the lender’s borrowers). Conclusion: From Integration to Transformation Transforming Encompass with an integration allows Encompass to become more of a workflow engine instead of just a LOS. This integrated system supports lenders with more efficiency, scale and operational certainty through the ability to automate processes, shorten loan cycles and provide consistent data throughout the entire loan process. The key takeaway is that integration is more than just a technology solution , it is also an avenue for lenders to achieve long-term success. Are you ready to take advantage of everything Encompass has to offer by trusting our Encompass integration services ? Contact us for a consultation or demo about our integrations, including workflow automation and CRM connections! FAQs 1. What systems can I integrate with Encompass? The Encompass Software can be integrated in systems that are CRMs (i.e. Total Expert, Salesforce), Point-of-sale lending systems (i.e. Blend and SimpleNexus), Automated Underwriting Systems (automated underwriting or AUS), credit and verification systems, e-signature and document management platforms, and analytical tools. 2. How does Encompass integration improve loan processing? Using Encompass to do these integrations will reduce duplicate data entries, automating tasks, real time update of data, speed up the underwriting and approval process, faster loan cycles and better borrower experience. 3. Should I build or buy my Encompass integrations? When you create an integration, you have the benefit of flexibility in your creation of workflows versus purchasing a pre-made workflow that is faster to implement. Many lenders that do integrations choose to follow a mixed approach to find balance in the cost of the integration, speed of implementing it, and scalability. 4. How much does Encompass integration cost? Integration costs vary based on the approach to develop it. The pre-built integrations run between $5,000 to $25,000 depending on the module. Custom integrations run you between $50,000 – $150,000. There are also costs associated with using integration such as API licensing, onboarding, training, ongoing maintenance. 5. How long does it take to integrate Encompass? When integrating pre-built integrations, it typically takes 2-6 weeks depending on the complexity of the pre-built workflow. For custom integrations to be fully functional, it can take anywhere from 3-6 months from design, development, testing and rollout. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026 Blog 10 Mortgage CRM Functionalities That Simplify The Lending Process Finding just one mortgage lead can be costly. The cost of errors made when managing leads can add up very quickly. Reaching your goals with Read More » David Miller 05/22/2026",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/04/The-Ultimate-Guide-to-Encompass-Integration-for-Faster-Smarter-Lending.jpg",
+          "alt": "Encompass Integration for Faster, Smarter Lending"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+          "alt": "HMDA Reporting Setup in Encompass LOS"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+          "alt": "What is a Loan Origination System?"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/05/10-Mortgage-CRM-Functionalities-That-Simplify-the-Lending-Process-1.jpg",
+          "alt": "Mortgage CRM Functionalities"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Home",
+          "url": "https://awesometechinc.com/"
+        },
+        {
+          "label": "LOS integration services",
+          "url": "https://awesometechinc.com/los-integration/"
+        },
+        {
+          "label": "Encompass implementation services",
+          "url": "https://awesometechinc.com/encompass-implementation-services/"
+        },
+        {
+          "label": "Encompass integration services",
+          "url": "https://awesometechinc.com/encompass-integration-services/"
+        },
+        {
+          "label": "Search",
+          "url": ""
+        },
+        {
+          "label": "Subscribe",
+          "url": ""
+        },
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "10 Mortgage CRM Functionalities That Simplify The Lending Process",
+          "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form",
+          "form_id": "",
+          "fields": [
+            {
+              "name": "s",
+              "label": "",
+              "type": "search",
+              "required": false
+            }
+          ],
+          "submit_label": "Search"
+        },
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "What Lenders Really Want?",
+      "type": "service_section",
+      "content": "Lenders expect reliable tools and vendors, from a commercial perspective, to support their business operation and pricing model. They also want all products and services that will support passthrough of leads; and streamline duplication of data to achieve goal completion. Thus, when looking for a strategy at the point of decision-making, lenders want a long-term strategy to develop an efficient organization; and will align with their common technical compatibility. All this could not have been possible without trusting reliable mortgage software integration!",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 3,
+      "title": "What Is Encompass Integration?",
+      "type": "service_section",
+      "content": "Encompass Integration is the term used for linking Encompass with different tools and systems in the mortgage lending process. This makes it possible for lenders to share data automatically during the loan process. Systems that may be able to connect to Encompass and share data may include; customer relationship management (CRM) systems, point-of-sale systems (POS), automated underwriting systems (AUS), and verification tools. Once all the systems are integrated, the data will flow from one system to another without any manual data entry. Integration of these systems will improve lead capture and management mechanisms for lenders. This will help in the maintenance of data that is accurate and current at any given time and the execution of the loan process.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 4,
+      "title": "The Encompass Ecosystem: Systems You Can Integrate",
+      "type": "service_section",
+      "content": "Through the Encompass mortgage platform, lenders can pull different kinds of platforms into one process via one cohesive workflow system. Leads are managed and grown through CRM systems, borrower communication is simplified via POS platforms, application submissions and document upload processes for borrowers are streamlined. The ability to automate credit underwriting decisions allows for a much faster underwriting process and verification solutions for credit, income and assets ensures that the required documentation is complete and in compliance with lender policies. Managing documents with the use of electronic signatures and electronic file storage eliminates the need for physical files and expedites the approval process. In addition, lenders can use reporting and analytics to gain insights to help improve overall decision-making processes. By integrating lenders, they can work much more efficiently as one unit and eliminate siloed processes thus improving working efficiency from beginning to end of the lending cycle.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 5,
+      "title": "Types of Encompass Integrations (Technical Breakdown)",
+      "type": "service_section",
+      "content": "When exploring the different ways to integrate with Encompass, it is crucial to comprehend the various forms of Integration available. API-Based Integrations The API, or Application Programming Interface, is the means by which systems communicate with one another using a standard protocol, allowing systems to create a seamless connection. By integrating Encompass via API with other platforms (i.e. CRM, POS, Verifications), lenders have the capability to automate workflow processes more efficiently. Middleware / iPaaS Solutions Middleware/integration possibilities can be used to create a “hub” to provide data across multiple applications at the same time. Using a single hub to manage your APIs can save you time from creating many separate connections. Native Integrations (ICE Marketplace) Integrated solutions can be found within the ICE Marketplace. These are designed and built specifically for Encompass and allow lenders to instantly integrate their systems. Custom Plugin Development Custom plugins allow a lender to build a workflow and automate processes that can be tailored to the individual lending model. While custom plugins enhance the functionality of the system, they require time, technical expertise, and ongoing maintenance to create them.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 6,
+      "title": "How Data Flows in an Integrated Encompass Environment?",
+      "type": "service_section",
+      "content": "When all systems work together, Encompass mortgage platform is the primary system to use to manage the entire mortgage process. Usually, it will be set up that the borrower will fill out their information at the POS (Point of Sale) location. This data is then loaded into the Encompass system. Once in the Encompass system, the data is then sent to the AUS system for underwriting and then synced with the CRM System for tracking purposes only to be sent back to Encompass after processing all of their information. Data sync can be done real-time or via batch processing, depending on how the integration of the two systems was designed. The way you will need to handle your real-time synchronization and batch processing can be very different. In general terms, real-time synchronization is commonly used when updates need to be made quickly and accurately, whereas batch processing tends to be used for updates that are less urgent in nature. To prevent duplicates and conflicts in the information being shared by all of the systems involved in your process, it will be important that the mapping of the data in each of the systems is performed carefully. Organizing your data architecture helps create more consistent reporting. It allows you to make better decisions using more accurate information, and ultimately helps create a more efficient process for the borrower. The Encompass mortgage platform will ultimately help reduce the number of errors you experience, and better leverage your overall operation.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 7,
+      "title": "Workflow Automation Through Integration",
+      "type": "service_section",
+      "content": "Integrating your Encompass system with other systems you use in your process will allow lenders to automate processes throughout the entire lifecycle of a loan. For example, by automatically assigning tasks or routing them to different parties based on pre-established criteria, you can eliminate the need for manual coordination of tasks. When a loan change occurs that impacts its status, it can trigger multiple workflows that require different downstream steps to occur based on the previous step in the sequence. Examples of this include(1) document requests, (2) underwriting requests and (3) compliance check requests, etc. By automating document retrieval and verification, you can significantly decrease your turn-around times for obtaining documents and provide real-time notifications/alerts to all stakeholders involved in the loan process. Additionally, this will allow lenders to process loans at a faster rate, with greater accuracy, and to scale up to process larger numbers of loans without adding additional workload.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 8,
+      "title": "Best Encompass Integrations for Mortgage Lenders",
+      "type": "service_section",
+      "content": "Integration Category Examples Purpose/Benefit Core Strategy Encompass Align solutions with the right technology combinations instead of simply maximizing systems CRM Integrations Salesforce, Total Expert Lead management is essential to improve borrower communication and automate systems including marketing POS Platforms Blend, SimpleNexus Streamline the collection of information from borrowers and create a better borrower experience AUS & Underwriting Tools Various automated underwriting systems Make loan decisions faster and with better precision than ever before Credit & Verification Credit bureaus, income & asset verification tools Provide accurate data on borrowers and security for compliance eSignatures & Documents Digital document & eSignature platforms Speed up approvals and decrease paperwork Selection Criteria Interoperability, scalability, ease of maintenance Lower ongoing costs and deliver continuous efficiency of the overall operation Outcome Unified tack stack Seamless end-to-end workflow, improved efficiency, and greater borrower satisfaction.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 9,
+      "title": "How Encompass Integration Improves Loan Processing?",
+      "type": "service_section",
+      "content": "Mortgage software integration helps lenders speed up and streamline loan processing by connecting systems. Therefore, there is no longer a need to enter data manually into different systems, as data will flow from one system to another without the intervention of the lender. Additionally, by having systems automatically exchange data with one another, lenders will have fewer errors related to human input as well as save time. All systems will receive real-time updates so that all teams will have access to the latest information at all times. Automating repetitive tasks (i.e., data entry, sending out documents, providing status updates) allows lender employees to perform higher-value customer service for borrowers. This helps reduce the number of delays and improves communication among the loan officer, the loan processor, and the underwriter.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 10,
+      "title": "Key Integrations That Drive ROI (Practical Use Cases)",
+      "type": "testimonial_section",
+      "content": "CRM + LOS: Reducing Drop-Offs Total Expert’s system enabled a regional lender in Texas to seamlessly sync the information about its borrowers and the leads. As a result of the system, completion rates of loan applications increased by 15% and conversion rates (from lead to loan) increased. POS + LOS: Faster Borrower Onboarding Using Encompass and Blend, a national bank automatically imported borrower applications submitted through mobile devices into its LOS. As a result, the bank was able to reduce the time it took to onboard a borrower from five days to 48 hours, as well as reduce errors. AUS Integration: Streamlined Underwriting A mid-sized lender to Fannie Mae and Freddie Mac became connected to Encompass through Fannie Mae DU and Freddie Mac LPA. When the borrower submits a loan application in Encompass, it automatically processes the underwriting checks as the loan is being entered. This reduced the manual review activity for underwriting by 30% and sped up the approval process. eSignature Tools: Reducing Closing Delays A mortgage broker used a product called Encompass to integrate with DocuSign for sending electronically signed loan documents directly to the applicant’s email address after they have signed. On average, borrowers’ closing cycles dropped from 35 days to 28 days, which equate to a greater rate of satisfaction among borrowers. Analytics Tools: Optimizing Operations Utilizing Encompass integration with Tableau, a West Coast credit union was able to analyze visual representations of workflow bottlenecks, as well as employee performance metrics. This allowed management to identify deficiencies within the loan process, allowing for reallocation or maximizing of resources for processing loans. After six months of implementing these enhancements, the credit union realized a 12% reduction in loan cycle time.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 11,
+      "title": "Common Integration Challenges",
+      "type": "service_section",
+      "content": "Inconsistencies in data APIs not working and/or changing versions Down-time/failure in integration Problems with system interoperability (i.e. vendor compatibility) Security (i.e. cyber vulnerability) Poor initial planning Did not test thoroughly",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 12,
+      "title": "Best Practices for Encompass Integration",
+      "type": "service_section",
+      "content": "The effective integration of Encompass begins with comprehensive planning that involves documenting workflow processes associated with data flowing from one system to another. Standardizing the data fields that exist between the systems will help to create a consistent data set across multiple systems, which will decrease the likelihood of errors and duplicate data in the various systems. By utilizing an API first approach, it is possible to establish real-time, scalable connections to protect sensitive data with access controls based on roles. Before an integration project is implemented, sufficient testing must be conducted followed by ongoing performance monitoring to ensure that all integrations support the goals of the organization.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 13,
+      "title": "Security, Compliance & Data Governance",
+      "type": "service_section",
+      "content": "Security and compliance are critical to enterprise lenders when considering integrating Encompass. Regulatory requirements require companies to ensure that they use strong data encryption; have secure APIs; and perform role-based permissioning. Ensuring thorough audit trails and detailed reporting provide for accountability and transparency; and implement proactive risk management strategies to mitigate against potential compliance violations. Having a well-defined data governance program results in protecting the personally identifiable information of borrowers; provides for good internal controls; and ensures that all integration efforts provide the organization with operational and regulatory expectations.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 14,
+      "title": "Integration vs. Manual Processes",
+      "type": "service_section",
+      "content": "Feature Manual Process Integration Architecture Workflow Disconnected, siloed, heavily dependent on people Connected, unified systems that talk to each other Data Entry High. Slow, repetitive typing across different screens Minimal. Data flows automatically between systems. Error Rate High. Data is often duplicated, incomplete or wrong Low. Data is synchronized and consistent. Speed & Efficiency Low. Processes are slow, and often data is outdated High. Processes are fast, and data is current Compliance Handling Hard. Difficult to track and audit data flows. Easy. Automated logs provide audit trails and transparency.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 15,
+      "title": "Total Cost of Integration",
+      "type": "service_section",
+      "content": "The total cost of integrating with Encompass varies based on how it is approached and how complex the integration is: Custom Development: $50,000 to $150,000 up front for design, development, and testing; Pre-Built / Marketplace Integrations: $5,000 to $25,000 per module, allowing for quicker deployment of integrations; API & Licensing Fees: $1,000 to $10,000 per year depending on how much you use the integrations and how many different types of endpoints are used; Implementation / Onboarding: $5,000 to $20,000 for configuration of your integration and training; Maintenance / Updates: $2,000 to $15,000 a year There will also be hidden costs related to avoiding manual inefficiencies through automation. Over time, the ROI will usually outweigh the initial investment due to quicker loan cycles, more accurate loan applications, and better customer satisfaction.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 16,
+      "title": "KPIs to Measure Integration Success",
+      "type": "service_section",
+      "content": "Successful integration is measured by evaluating both business and operational performance-based outcomes. The following key performance indicators (KPIs) are used to measure success of mortgage software integration: Cycle time: Average number of days from the loan application to the closing of the loan after an application has been received and processed Cost per loan: The operational savings gained as a result of automating processes and reducing errors Number of errors: number of touches per loan: The fewer touchpoints and errors per loan the less manual intervention has taken place indicating that the workflow was smoother Conversion rates: A higher lead-to-fund ratio indicates that the use of integrated customer relationship management (CRM) systems is working effectively Productivity: Employee output per loan and time to complete the task By tracking these KPIs through data analytics and dashboarding tools, lenders are able to quantify their return on investment (ROI), pinpoint where the bottlenecks exist, and to make data-driven decisions continuously improving upon their processes.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 17,
+      "title": "Build vs Buy: Choosing the Right Integration Strategy",
+      "type": "service_section",
+      "content": "Lenders who are integrating Encompass are faced with a choice of whether to build their own custom solution or to purchase an off-the-shelf product. Building your own solution offers the highest amount of customization possible for tailoring workflows, but it also requires more resources in terms of time, money, and technical knowledge. Buying an off-the-shelf product has the advantage of providing prebuilt integrations that will allow you to deploy more quickly and with less effort. A hybrid approach allows lenders to balance both build and buy. The criteria you will use to decide which route to take include your budget, company size, process complexity, and long-term scalability.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 18,
+      "title": "2026 Trends: Future of Encompass Integration",
+      "type": "service_section",
+      "content": "Encompass integrations are rapidly changing through the use of Artificial Intelligence and automation. Lenders will be seeing AI-based integrations that will increase the efficiency of their workflow and improve predictive decision making within their operations. API-first ecosystems will provide seamless, real-time synchronisation of data between the Point of Sale (POS) System, Customer Relationship Management systems (CRM), Automated Underwriting Systems (AUS), and Verification / Validation systems. Through predictive workflows, there will be reduced manual labour, as well as faster processing times on loans. Overall, the trend is towards fully automated orchestration of individual tasks. Thus, when a lender trusts LOS integration services , it allows lenders to process more volume of loans while improving accuracy and providing better borrower experience.",
+      "images": [],
+      "buttons": [
+        {
+          "label": "LOS integration services",
+          "url": "https://awesometechinc.com/los-integration/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 19,
+      "title": "Common Mistakes to Avoid in Encompass Integration",
+      "type": "service_section",
+      "content": "Common Mistake Impact/Risk Over-customization Making maintenance more difficult as a result of increased complexity and slowing subsequent upgrades down. Poor Data Mapping Errors, duplicate entries and inconsistent data occur as a result. Ignoring Scalability Limiting your ability to manage growth and larger loan volume. Lack of Thorough Testing Cause difficulties during implementation, disruption in workflow and delays in implementation of new processes. Choosing Wrong Integration Tools Decreasing efficiency, causing compatibility problems and increasing operational costs. Not Aligning with Business Goals Interface’s failure to provide quantifiable return on investment will not improve the efficiency of your workflow.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 20,
+      "title": "Vendor Selection: Choosing the Right Integration Partner",
+      "type": "service_section",
+      "content": "Choosing the best integration partner for Encompass is crucial to the success of the integration process. When selecting a partner, important selection criteria include proven experience working with the Encompass APIs, industry specific experience, and a portfolio of existing successful implementations. To ensure continual seamless operation, quality partners will also provide supporting and maintenance capabilities, and be capable of scaling the integrated solutions to meet the customer’s current and future business needs. As importantly, your partner that offers Encompass implementation services must align with your specific business needs. It is essential to aim to work together to implement an integrated solution that results in efficiency, compliance, and a solid ROI!",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Encompass implementation services",
+          "url": "https://awesometechinc.com/encompass-implementation-services/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 21,
+      "title": "Why Expertise Matters in Encompass Integration?",
+      "type": "service_section",
+      "content": "To successfully integrate Encompass, a lender needs to partner with an organization that has experience using the product and in-depth knowledge of compliance. A strong track record for additional implementation success will help to establish a lender’s reputation for producing high-quality implementations. When an integration is performed with accuracy and in compliance, trust will be created both internally (with the lender’s employees) and externally (with the lender’s borrowers).",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 22,
+      "title": "Conclusion: From Integration to Transformation",
+      "type": "form_section",
+      "content": "Transforming Encompass with an integration allows Encompass to become more of a workflow engine instead of just a LOS. This integrated system supports lenders with more efficiency, scale and operational certainty through the ability to automate processes, shorten loan cycles and provide consistent data throughout the entire loan process. The key takeaway is that integration is more than just a technology solution , it is also an avenue for lenders to achieve long-term success. Are you ready to take advantage of everything Encompass has to offer by trusting our Encompass integration services ? Contact us for a consultation or demo about our integrations, including workflow automation and CRM connections! FAQs 1. What systems can I integrate with Encompass? The Encompass Software can be integrated in systems that are CRMs (i.e. Total Expert, Salesforce), Point-of-sale lending systems (i.e. Blend and SimpleNexus), Automated Underwriting Systems (automated underwriting or AUS), credit and verification systems, e-signature and document management platforms, and analytical tools. 2. How does Encompass integration improve loan processing? Using Encompass to do these integrations will reduce duplicate data entries, automating tasks, real time update of data, speed up the underwriting and approval process, faster loan cycles and better borrower experience. 3. Should I build or buy my Encompass integrations? When you create an integration, you have the benefit of flexibility in your creation of workflows versus purchasing a pre-made workflow that is faster to implement. Many lenders that do integrations choose to follow a mixed approach to find balance in the cost of the integration, speed of implementing it, and scalability. 4. How much does Encompass integration cost? Integration costs vary based on the approach to develop it. The pre-built integrations run between $5,000 to $25,000 depending on the module. Custom integrations run you between $50,000 – $150,000. There are also costs associated with using integration such as API licensing, onboarding, training, ongoing maintenance. 5. How long does it take to integrate Encompass? When integrating pre-built integrations, it typically takes 2-6 weeks depending on the complexity of the pre-built workflow. For custom integrations to be fully functional, it can take anywhere from 3-6 months from design, development, testing and rollout.",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Encompass integration services",
+          "url": "https://awesometechinc.com/encompass-integration-services/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 23,
+      "title": "Subscribe to ATI",
+      "type": "form_section",
+      "content": "First name Last Name Your email",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Subscribe",
+          "url": ""
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 24,
+      "title": "HMDA Reporting Setup in Encompass LOS",
+      "type": "content_section",
+      "content": "March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 25,
+      "title": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "type": "content_section",
+      "content": "In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 26,
+      "title": "10 Mortgage CRM Functionalities That Simplify The Lending Process",
+      "type": "content_section",
+      "content": "Finding just one mortgage lead can be costly. The cost of errors made when managing leads can add up very quickly. Reaching your goals with Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "10 Mortgage CRM Functionalities That Simplify The Lending Process",
+          "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+        }
+      ],
+      "forms": []
+    }
+  ],
+  "images": [
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/04/The-Ultimate-Guide-to-Encompass-Integration-for-Faster-Smarter-Lending.jpg",
+      "alt": "Encompass Integration for Faster, Smarter Lending"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+      "alt": "HMDA Reporting Setup in Encompass LOS"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+      "alt": "What is a Loan Origination System?"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/05/10-Mortgage-CRM-Functionalities-That-Simplify-the-Lending-Process-1.jpg",
+      "alt": "Mortgage CRM Functionalities"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "LOS integration services",
+      "url": "https://awesometechinc.com/los-integration/"
+    },
+    {
+      "label": "Encompass implementation services",
+      "url": "https://awesometechinc.com/encompass-implementation-services/"
+    },
+    {
+      "label": "Encompass integration services",
+      "url": "https://awesometechinc.com/encompass-integration-services/"
+    },
+    {
+      "label": "Search",
+      "url": ""
+    },
+    {
+      "label": "Subscribe",
+      "url": ""
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "10 Mortgage CRM Functionalities That Simplify The Lending Process",
+      "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+    }
+  ],
+  "forms": [
+    {
+      "form_type": "contact_form",
+      "form_id": "",
+      "fields": [
+        {
+          "name": "s",
+          "label": "",
+          "type": "search",
+          "required": false
+        }
+      ],
+      "submit_label": "Search"
+    },
+    {
+      "form_type": "contact_form_7",
+      "form_id": "12171",
+      "fields": [
+        {
+          "name": "your-name",
+          "label": "your-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "last-name",
+          "label": "last-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "your-email",
+          "label": "your-email",
+          "type": "email",
+          "required": true
+        }
+      ],
+      "submit_label": "Subscribe"
+    }
+  ],
+  "links": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "LOS integration services",
+      "url": "https://awesometechinc.com/los-integration/"
+    },
+    {
+      "label": "Encompass implementation services",
+      "url": "https://awesometechinc.com/encompass-implementation-services/"
+    },
+    {
+      "label": "Encompass integration services",
+      "url": "https://awesometechinc.com/encompass-integration-services/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "10 Mortgage CRM Functionalities That Simplify The Lending Process",
+      "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+    }
+  ]
+}

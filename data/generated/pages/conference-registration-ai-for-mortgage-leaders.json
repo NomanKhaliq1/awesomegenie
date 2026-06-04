@@ -1,0 +1,120 @@
+{
+  "id": null,
+  "source_type": "page",
+  "slug": "conference-registration-ai-for-mortgage-leaders",
+  "title": "Conference Registration AI - Awesome Tech Inc",
+  "url": "https://awesometechinc.com/conference-registration-ai-for-mortgage-leaders/",
+  "meta_title": "Conference Registration AI - Awesome Tech Inc",
+  "meta_description": "",
+  "modified_at": "2026-05-13T23:29:58+00:00",
+  "status": "skipped",
+  "summary": "Page Content Your name Your email Subject Your message (optional)",
+  "keywords": [
+    "conference",
+    "content",
+    "email",
+    "inc",
+    "message",
+    "name",
+    "optional",
+    "registration",
+    "subject",
+    "tech"
+  ],
+  "full_text": "Page Content Your name Your email Subject Your message (optional)",
+  "word_count": 10,
+  "headings_count": 0,
+  "images_count": 0,
+  "buttons_count": 1,
+  "forms_count": 1,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Page Content",
+      "type": "content_section",
+      "content": "Your name Your email Subject Your message (optional)",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Submit",
+          "url": ""
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "25376",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "Your name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "Your email",
+              "type": "email",
+              "required": true
+            },
+            {
+              "name": "your-subject",
+              "label": "Subject",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-message",
+              "label": "Your message (optional)",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "submit_label": "Submit"
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "buttons": [
+    {
+      "label": "Submit",
+      "url": ""
+    }
+  ],
+  "forms": [
+    {
+      "form_type": "contact_form_7",
+      "form_id": "25376",
+      "fields": [
+        {
+          "name": "your-name",
+          "label": "Your name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "your-email",
+          "label": "Your email",
+          "type": "email",
+          "required": true
+        },
+        {
+          "name": "your-subject",
+          "label": "Subject",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "your-message",
+          "label": "Your message (optional)",
+          "type": "textarea",
+          "required": false
+        }
+      ],
+      "submit_label": "Submit"
+    }
+  ],
+  "links": [],
+  "skip_reason": "Bare duplicate registration/contact form page; insufficient standalone RAG content."
+}

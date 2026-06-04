@@ -1,0 +1,160 @@
+{
+  "id": null,
+  "source_type": "page",
+  "slug": "events",
+  "title": "Events",
+  "url": "https://awesometechinc.com/events/",
+  "meta_title": "About Us: Unveiling Our Vision, Values, and Commitment",
+  "meta_description": "Learn about our journey, values, and commitment at Awesome Technologies Inc. We are dedicated to our mission. Explore our About Us page to discover more.",
+  "modified_at": "2026-03-13T21:06:30+00:00",
+  "status": "public",
+  "summary": "Learn about our journey, values, and commitment at Awesome Technologies Inc. We are dedicated to our mission.",
+  "keywords": [
+    "mortgage experience let",
+    "our",
+    "experience",
+    "and",
+    "event",
+    "ice",
+    "lenders",
+    "one",
+    "summit",
+    "the",
+    "view",
+    "are",
+    "commitment",
+    "events",
+    "values",
+    "dedicated"
+  ],
+  "full_text": "Intro Events Our Recent Events Find out how we connect with professionals throughout the industry, collaborate and share our insights. 16 Mar 2026 ICE Experience 2026 The ICE Experience 2026: Innovating in Las Vegas View Event 6 Mar 2026 Lenders One Summit 2026 Powerful Networking & Futuristic Ideas Showcase At Lenders One Summit 2026 View Event YOU ARE IN GOOD COMPANY Helping customers to create better mortgage experience LET’S TALK TO OUR EXPERTS Get The Conversation Rolling GET A FREE CONSULTATION QUICK INTRO CALL ICE Experience 2026 The ICE Experience 2026: Innovating in Las Vegas View Event Lenders One Summit 2026 Powerful Networking & Futuristic Ideas Showcase At Lenders One Summit 2026 View Event",
+  "word_count": 114,
+  "headings_count": 7,
+  "images_count": 2,
+  "buttons_count": 5,
+  "forms_count": 0,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "Events Our Recent Events Find out how we connect with professionals throughout the industry, collaborate and share our insights. 16 Mar 2026 ICE Experience 2026 The ICE Experience 2026: Innovating in Las Vegas View Event 6 Mar 2026 Lenders One Summit 2026 Powerful Networking & Futuristic Ideas Showcase At Lenders One Summit 2026 View Event YOU ARE IN GOOD COMPANY Helping customers to create better mortgage experience LET’S TALK TO OUR EXPERTS Get The Conversation Rolling GET A FREE CONSULTATION QUICK INTRO CALL",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/03/ICE-Experience-2026.png",
+          "alt": "ICE Experience 2026"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/03/Lenders_One_Event.png",
+          "alt": ""
+        }
+      ],
+      "buttons": [
+        {
+          "label": "View Event",
+          "url": "https://awesometechinc.com/events/ice-experience-2026/"
+        },
+        {
+          "label": "View Event",
+          "url": "https://awesometechinc.com/events/lenders-one-2026/"
+        },
+        {
+          "label": "LET’S TALK TO OUR EXPERTS",
+          "url": "https://awesometechinc.com/contact-us/"
+        },
+        {
+          "label": "GET A FREE CONSULTATION",
+          "url": "https://awesometechinc.com/contact-us/"
+        },
+        {
+          "label": "QUICK INTRO CALL",
+          "url": "tel:%20877-284-4968"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 2,
+      "title": "ICE Experience 2026",
+      "type": "content_section",
+      "content": "The ICE Experience 2026: Innovating in Las Vegas View Event",
+      "images": [],
+      "buttons": [
+        {
+          "label": "View Event",
+          "url": "https://awesometechinc.com/events/ice-experience-2026/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 3,
+      "title": "Lenders One Summit 2026",
+      "type": "content_section",
+      "content": "Powerful Networking & Futuristic Ideas Showcase At Lenders One Summit 2026 View Event",
+      "images": [],
+      "buttons": [
+        {
+          "label": "View Event",
+          "url": "https://awesometechinc.com/events/lenders-one-2026/"
+        }
+      ],
+      "forms": []
+    }
+  ],
+  "images": [
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/03/ICE-Experience-2026.png",
+      "alt": "ICE Experience 2026"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/03/Lenders_One_Event.png",
+      "alt": ""
+    }
+  ],
+  "buttons": [
+    {
+      "label": "View Event",
+      "url": "https://awesometechinc.com/events/ice-experience-2026/"
+    },
+    {
+      "label": "View Event",
+      "url": "https://awesometechinc.com/events/lenders-one-2026/"
+    },
+    {
+      "label": "LET’S TALK TO OUR EXPERTS",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "GET A FREE CONSULTATION",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "QUICK INTRO CALL",
+      "url": "tel:%20877-284-4968"
+    }
+  ],
+  "forms": [],
+  "links": [
+    {
+      "label": "View Event",
+      "url": "https://awesometechinc.com/events/ice-experience-2026/"
+    },
+    {
+      "label": "View Event",
+      "url": "https://awesometechinc.com/events/lenders-one-2026/"
+    },
+    {
+      "label": "LET’S TALK TO OUR EXPERTS",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "GET A FREE CONSULTATION",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "QUICK INTRO CALL",
+      "url": "tel:%20877-284-4968"
+    }
+  ]
+}

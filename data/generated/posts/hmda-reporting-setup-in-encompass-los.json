@@ -1,0 +1,554 @@
+{
+  "id": null,
+  "source_type": "post",
+  "slug": "hmda-reporting-setup-in-encompass-los",
+  "title": "HMDA Reporting Setup in Encompass LOS",
+  "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/",
+  "meta_title": "HMDA Reporting Setup in Encompass LOS - Awesome Tech Inc",
+  "meta_description": "Set up HMDA reporting in Encompass LOS the right way. Discover key configuration steps, compliance tips, and how to avoid common reporting errors.",
+  "modified_at": "2026-06-02T17:04:32+00:00",
+  "status": "public",
+  "summary": "Set up HMDA reporting in Encompass LOS the right way. Discover key configuration steps, compliance tips, and how to avoid common reporting errors.",
+  "keywords": [
+    "mortgage disclosure act",
+    "mortgage lenders to collect information",
+    "mortgage markets",
+    "mortgage lenders accountable for fair l",
+    "mortgage lenders to gather information",
+    "mortgage industry",
+    "mortgage automation software for encomp",
+    "mortgage technology encompass program f",
+    "mortgage loans",
+    "mortgage lenders with the configuration",
+    "mortgage technology",
+    "mortgage industry is achieving fair and",
+    "mortgage automation in",
+    "mortgage application on a tuesday morni",
+    "mortgage crm functionalities that simpl",
+    "mortgage lead can be costly"
+  ],
+  "full_text": "Intro HMDA Reporting Setup in Encompass LOS Home » HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common issues include missing census tracts, duplicate ULIs, blank co-borrower demographic fields, and other configuration-related problems. In most cases, these errors originate inside the Loan Origination System long before lenders even begin working in the CFPB HMDA Platform. The Home Mortgage Disclosure Act (HMDA) was passed in 1975 with implementation via Regulation C, expecting mortgage lenders to collect information on their lending practices. The rule-writing authority has been with the CFPB (Consumer Financial Protection Bureau) effective since July 21, 2011. The purpose of HMDA compliance is to provide transparency into residential mortgage markets; to hold mortgage lenders accountable for fair lending. Noncompliance can result in civil money penalties, increased scrutiny during examinations and great reputational damage. This guide explains how to configure HMDA reporting in Encompass LOS, from initial setup to generating and submitting your CFPB LAR. What You’ll Need Before You Start Encompass Administrator login credentials Your institution’s 20-character Legal Entity Identifier (LEI) FFIEC/CFPB HMDA Platform credentials (ffiec.cfpb.gov) Access to Admin Tools within Encompass What is HMDA and Why Does Your Encompass Configuration Matter? The Home Mortgage Disclosure Act (HMDA) requires mortgage lenders to gather information about loans and report them to the Consumer Financial Protection Bureau (CFPB). Regulators use this information to track lending activities, sue lenders who engage in unfair lending practices, and provide transparency in the mortgage industry. When a lender enters and tracks the data needed to report for HMDA, their Encompass setup should be accurate. If not, they can face issues like missing census tracts, duplicate unique loan identifiers (ULIs), issues with demographic data, or reporting errors. These errors can be found later in the process of preparing the HMDA Loan Application Register (LAR). An accurate Encompass setup helps lenders in collecting correct and complete data, reducing manually fixed data, eliminating the risk of compliance violations, and creating a more reliable and simpler reporting process. Most compliance teams learn it the hard way: HMDA errors usually start with incorrectly setting up LOS. The time it takes to correct HMDA errors is time-consuming, stressful and can be avoided. The best thing you can do for compliance is to set up your Encompass system correctly from the start. There are three HMDA obligations from compliance connected with Encompass configuration: collecting data accurately, maintaining data accuracy and submitting your LAR timely. Step-by-Step Guide to Configuring HMDA Reporting in Encompass LOS Step 1: Confirm Your Institution’s HMDA Reportability in Encompass Before making any changes to the administrator settings of your HMDA reporting software, check if you are required to report to comply with Regulation C. You must periodically check HMDA reporting requirements with CFPB for actual HMDA reporting obligations, so you will do as outlined above when HMDA reporting requirements change. These conditions must be satisfied on their own. Institutions that only satisfy one of these conditions will only need to report the loan type supported by that particular value. The next thing that must be completed in your initial configuration after determining that you are required to submit reports is entering the Legal Entity Identifier (LEI) into your Encompass settings. This can be achieved using the following navigation path: Encompass Settings → Company/User Setup → Company Details Ensure that your LEI is filled out completely and accurately. This is a 20-character identifier, issued by an organization that is accredited by GLEIF, which serves as the basis of your Universal Loan Identifier (ULI). The ULI is the unique loan-level identifier that is required on all HMDA submission records. If you don’t have a valid LEI, Encompass cannot generate compliant ULIs; therefore, your entire LAR will fail the Validity edit stage. Callout: Confirm that your LEI is a 20-character identifier that was issued by a GLEIF-accredited organization. If it is not available, Encompass will not be able to provide you with a compliant ULI. Confirm this first before starting any configuration. Step 2: Configure HMDA Profile Settings in Encompass Admin Tools The single most important and often ignored step in the entire setup is configuring your HMDA Profiles in Encompass. HMDA Profiles are the engines of Encompass’s HMDA field calculations. They define how many different data points will automatically populate, how they will be mapped in the loans, and how they will get reported. Navigate to: Admin Tools → HMDA Profile Settings HMDA Application Date Definition: This is used to calculate the applicant age fields (Field 4183 and Field 4184). Under HMDA rules, age is determined “as of the application date.” If your Application Date definition is mapped incorrectly to a field in Encompass or has not been defined completely, then you will have inaccurate age calculation throughout your entire pipeline. This must be set prior to originating any loans. Pro Tip: Create separate HMDA Profiles for different loan types if your institution has varied reporting needs. The Override Existing Profile option in the Batch Update Tool lets you mass-apply a new profile to hundreds of loans later. Step 3: Set Up Universal Loan Identifier (ULI) Generation At the point when your loan begins, Encompass generates your own unique ULI by creating: Encompass Loan Number, your institution’s LEI, and a check digit. Encompass automatically calculates digits for you. So, there’s no need to calculate this yourself manually. Purchased Covered Loans. Will your institution report the borrower’s age for purchased covered loans? That is an institutional decision that should be defined clearly. If you have not configured this setting, Encompass will not have specific instructions for the borrower’s age. Therefore it will likely not be included in the transaction records. Action Taken / Action Taken Date Mapping. Ensure that the pipelines feeding into these critical HMDA fields are properly populated. Action Taken and Action Taken Date are the most common sources of validity edits since incorrect fields are generally feeding into each HMDA Screen. One critical warning: Duplicate ULIs create a Validity Edit on the HMDA Platform when the two records share the same ULI. Duplicate records are only valid if they have different data fields. However, sharing a ULI between two records in this way is an extremely narrow exception to the general rule, it cannot be used as a fallback position. If your Loan Origination System assigns the same loan number to what should be treated as two separate loans, address that issue as a loan file-level fix in Encompass prior to generating your LAR. Step 4: Configure Demographic Information (DI) Collection on the 1003 The new Government Monitoring Information (GMI) requirements state that applicant race, ethnicity, and gender will be collected on 1003 Page 3 beginning with the 2018 HMDA Rule. In Encompass, the Red “X” that appears in the GMI section on 1003 Page 3 is a requirement of the GSE and is related to fair lending data collection. You must check the following two configurations to ensure that they are accurate and functioning correctly: No Co-Applicant Configuration. In addition, there is another configuration validation that must be evaluated. There are four co-applicant data fields, e.g., race, etc., and when selecting No Co-Applicant in Field 3840, the co-applicant reporting fields should be populated as ‘No Co-Applicant’. Ensure that this auto-fill feature is functional on a test loan. If not, there will be no data in the co-borrower fields on your LAR and will result in a validity edit at the time of submission to the LAR. Credit Score Source. This field must either be manually entered by the loan officers themselves; populated via a configured Business Rule or by some other form of automation through a specific plug-in. Leaving this field unfilled is one of the biggest reasons for the creation of incomplete HMDA data at year-end. Step 5: Set Up the Reporting Database for HMDA Fields If your organization is using an outside HMDA tool (specifically, Wolters Kluwer’s HMDA Wiz) or utilizing the batch export features; you must have created and populated your Reporting Database with all of the HMDA fields. Navigate to: Admin Tools → Reporting Database When you are prompted by the dialog to add the standard HMDA Report field list, you would click on yes. Then, it will add a core limited set of all of the required HMDA fields (depends on the Encompass version and whether the instance has been configured in the past). Additionally, integration-specific HMDA fields may still need to be added manually. On the other hand you will need to manually add the rest of the required HMDA fields (listed in Appendix A) after the reporting dialog completes. The full field list will have both Standard HMDA fields as well as Encompass specific fields that are required to integrate. To meet the requirements of the HMDA’s reporting, lenders must ensure that geocoding data for all relevant properties is correct. This means that the following information is needed: the census tract, county and state codes of the property. Most lenders have integration with tools such as HMDA Wiz or HMDAs Integrated Encompass Services. Geocoding errors (including data missing) are the most common reason as the cause of an error in the HMDA submission. Finally, you will need to populate the Reporting Database using your current loan data. It could take much time to load and process large datasets. Therefore, you might want to schedule this during off-peak hours so as not to affect the loan officers. Warning: If one of the important HMDA fields is not loaded into your Reporting database, the export will fail with an error message indicating which fields are missing. You should take that error message, extract the field from it and provide it to your Encompass Administrator to have them add the fields. Do not try to troubleshoot the error without the complete long list of fields that the system will generate. Read also -> Mortgage Automation Software for Encompass Step 6: Use the HMDA Batch Update Tool for Portfolio-Wide Corrections It is important to ensure that your entire pipeline of loans has been updated with current and correct data. The HMDA Batch Update Tool allows you to do so by giving administrators the ability to trigger recalculating HMDA fields for all of their loans in their pipeline together at one time. How to access: Go to Start Menu → [ICE Mortgage Technology Encompass program folder], then select Admin Tools. The HMDA Batch Update Tool link is under Admin Tools. There are two recalculation options to choose from when using the tool: Use Existing Profile: This option will use the HMDA Profile currently assigned to all of the loans in your pipeline. It will recalculate all of the HMDA fields for those loans at the same time. This option is for a general refresh of your loans before generating your LAR. Override Existing Profile: You would use this option when correcting a Profile error for all the loans in your pipeline that need to be corrected consistently. Step-by-step process: Locate the Reports tab in Encompass and create a report for target loans. Export this report as a CSV. Open the Batch Update Tool and log in with your Encompass account. On the Input File screen, enter the path of your CSV (or browse). Choose a recalculation option and run an update. The following are the Key Fields that will be recalculated in the Tool: Action Taken, Loan Purpose, Occupancy Type, Property Type, Lien Status, Census Tract, Rate Spread – these are the “stale” or incorrectly calculated Core Fields. Step 7: Generate and Review Your LAR in Encompass The LAR is a .txt file that includes one record (per loan or loan application) for each of the loans reported under HMDA. In Encompass, you can create your LAR from Pipeline → Reports or through HMDA Wiz Batch Services (if your institution has purchased that integration). Before uploading any of your LAR information to the CFPB, you must conduct a review of your LAR using the following list: All Action Taken fields populated and dated ULIs present and non-duplicated across all records Census Tract (11-digit) and County FIPS codes (5-digit) present for every applicable record No Co-Applicant codes properly auto-populated where applicable Credit score source fields completed on all records Rate Spread calculated for all applicable loans (primarily higher-priced mortgage loans) An incomplete filing cannot be combined with a prior submission. A new full dataset of your entire institution can be submitted in place of the old one. Until your final LAR is created in one location, more filings will not be accepted. If you receive an incomplete file, all filings must be remitted as new. Any earlier submission will be assigned a new LAR. Step 8: Submit to the CFPB HMDA Platform and Resolve Edits Use a modern browser (Chrome, Firefox, or Edge) to go to https://ffiec.cfpb.gov/ and upload your LAR File. The HMDA Platform will run four groups of edit checks on your uploaded LAR file: Syntactical Edits — This category of edit checks for formatting and structural problems within the file itself. Validity Edits — This edit checks for invalid data values or invalid code combinations within each data field. Quality Edits — This edit checks for data points that are not only valid when considered individually, but appear to be unusual or out of the ordinary when reviewed in combination with other data points. Quality edits require your review. Macro Quality Edits — This category of edits looks for patterns across all institutions that may appear to be unusual in comparison to patterns established in previous filings from the same institution. You must resolve any edit issues on your LAR file before submitting it (this is a strict requirement). Edit reports can only be accessed and downloaded through the HMDA Platform. Deadline for Annual HMDA Reporting: The deadline for submitting HMDA Loan Application Register (LAR) data to the CFPB each year is March 1, which covers data for the prior calendar year. Frequently, waiting until the last few weeks prior to submission results in rushed to correct, unable to validate, or incomplete reporting reviews. The use of internal test LARs continuously throughout the year will ease the pressure for compliance at year-end. If you need to resubmit, you may upload the new LAR file. The new version of the LAR file replaces the previously uploaded version for the filing year. The submission must be certified for accuracy and completeness by someone at the institution who has access to the LAR data. The certification process takes place through the Encompass HMDA Platform (no fax or email is needed). HMDA Resubmission Guidelines: When a corrected LAR is submitted for resubmission, the resubmitted file will replace the previous submission of the institution in the CFPB HMDA Platform. The CFPB HMDA Platform does not combine partial submissions with earlier submissions nor add missing records to earlier submissions. Hence, it is the responsibility of lenders to ensure the accuracy of the resubmitted LAR by ensuring a complete, updated dataset is provided prior to certification. Common HMDA Configuration Mistakes in Encompass The same errors appear in institutions year after year. However, many can be prevented: AN LAR fails due to the ULIs linked with the companies not being generated because there is no LEI entered in the company data. HMDA borrower age calculation fields will not be calculated properly for every loan in the pipeline. If the “HMDA – 2018” setting is turned ON prior to January 1st then the loans that are in-progress from 2017 will be calculated using 2018 criteria. If the reporting database is missing the required fields, batched files will not export properly resulting in errors. If the Co-Applicant field is missing; co-borrower information will not automatically populate on the HMDA application generating a validity edit error. If there are duplicate ULIs present on an LAR; there will be a validity edit preventing submission of either record. When an LAR is uploaded and it is not complete, the HMDA Platform cannot match the incomplete file with a complete file. Encompass HMDA Reporting Tools Tools Key Functions Best For HMDA Wiz (Wolters Kluwer) Real-time verification, geocoding, interest rate spread, and LAR documentation Larger lenders are looking for full management of the HMDA functions through Encompass. RiskExec HMDA compliance, CRA, and Fair Lending metrics addressing the HMDA API Organizations that require more advanced predictions than through the compliance process FFIEC HMDA Platform Final filing and error resolution on LAR submissions Universal HMDA filers Native Encompass Tools Batch updating tool, Reporting database, and Pipeline LARs from export Reduced reporting for smaller institutions not using third-party HMDA reporting software HMDA Reporting Checklist for Lenders Company/User Setup → Company Details has the LEI entered and confirmed. HMDA profile settings created for all loan types necessary. The HMDA application date definition is confirmed to be set up correctly. A reporting database that includes all HMDA required fields has been set up. The demographic information mapping (1003 page 3) has been set up correctly and is showing information correctly. A sample loan was tested with field 3840, and there is not an auto-populated co-applicant. The HMDA Batch Update Tool has been run against a sample .CSV to validate recalc. A full LAR is generated and is showing correctly compared to the pre-submission checklist. An LAR has been submitted at the end of the period and all edits in the HMDA platform have been corrected. To Wrap Up Appropriate Encompass configuration is an important aspect of HMDA compliance. Lenders that take time to correctly configure their HMDA Profiles, LEI, Demographics collection, Reporting Database and Batch Updating will find that the generation of year-end LAR will be a yearly, repetitive task and not a last-minute compliance issue. The eight steps outlined in this guide will serve as the total administrative base for HMDA compliance in Encompass. Completing these steps in sequence, documenting your configuration choices, and running a test LAR on sample data prior to year-end will help with the March 1st submission. Need assistance managing HMDA compliance in Encompass? Proper setup of HMDA profiles, demographic information collection, reporting databases, and batch updates can be complex when you don’t have professional support with Encompass administration . Even minor configuration errors can result in reporting errors, missing data and/or validation edits by the CFPB at year-end submission. At Awesome Technologies Inc., we assist mortgage lenders with the configuration, optimization, and maintenance of their Encompass systems for accurate HMDA reporting and streamlined compliance processes. For additional guidance on configuring borrower credit score reporting in HMDA workflows, review our Encompass HMDA Credit Score Setup guide! FAQs 1. How To File HMDA LAR in Encompass? Step 1: Set up your profile on HMDA with the relevant details such as HMDA Application Date and the information you want to report for purchased covered loans Step 2: Capture and store HMDA data in Encompass as you continue working on a loan so that you will be able to generate a report quickly Step 3: Use Compliance Services to create your HMDA Export file in the proper pipe-delimited format Step 4: Upload your LAR to the CFPB HMDA Filing Platform, correct any errors from the import, and certify the final submission. 2. What Is HMDA Reporting in Encompass? The built-in compliance workflow in Encompass (ICE Mortgage Technology’s LOS) contains all HMDA reporting. This reporting has two different types of reporting: demographic reporting (which includes information about the borrower’s race, gender and ethnicity) and regulatory reporting (which provides regulators with data to evaluate how well the mortgage industry is achieving fair and equal lending). The loan application process within Encompass automatically captures all data to complete HMDA reporting. HMDA reporting data includes borrower demographic data and other attributes of the loan being submitted. 3. How To Validate HMDA Data in Encompass? With regard to HMDA compliance, Encompass has various features (including built-in edit checks, USPS address verification, and integration with 3rd-party software) for the purpose of validating data real-time, geocoding data, and calculating rate spreads using HMDA Wiz. A series of automated edits will be applied (syntactical, validity, quality, and macro) during the submission process to the CFPB. Additionally, administrators are responsible for ensuring that all HMDA-related data fields have been configured in the Reporting Database. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026 Blog 10 Mortgage CRM Functionalities That Simplify The Lending Process Finding just one mortgage lead can be costly. The cost of errors made when managing leads can add up very quickly. Reaching your goals with Read More » David Miller 05/22/2026 What is HMDA and Why Does Your Encompass Configuration Matter? The Home Mortgage Disclosure Act (HMDA) requires mortgage lenders to gather information about loans and report them to the Consumer Financial Protection Bureau (CFPB). Regulators use this information to track lending activities, sue lenders who engage in unfair lending practices, and provide transparency in the mortgage industry. When a lender enters and tracks the data needed to report for HMDA, their Encompass setup should be accurate. If not, they can face issues like missing census tracts, duplicate unique loan identifiers (ULIs), issues with demographic data, or reporting errors. These errors can be found later in the process of preparing the HMDA Loan Application Register (LAR). An accurate Encompass setup helps lenders in collecting correct and complete data, reducing manually fixed data, eliminating the risk of compliance violations, and creating a more reliable and simpler reporting process. Most compliance teams learn it the hard way: HMDA errors usually start with incorrectly setting up LOS. The time it takes to correct HMDA errors is time-consuming, stressful and can be avoided. The best thing you can do for compliance is to set up your Encompass system correctly from the start. There are three HMDA obligations from compliance connected with Encompass configuration: collecting data accurately, maintaining data accuracy and submitting your LAR timely. Step 1: Confirm Your Institution’s HMDA Reportability in Encompass Before making any changes to the administrator settings of your HMDA reporting software, check if you are required to report to comply with Regulation C. You must periodically check HMDA reporting requirements with CFPB for actual HMDA reporting obligations, so you will do as outlined above when HMDA reporting requirements change. These conditions must be satisfied on their own. Institutions that only satisfy one of these conditions will only need to report the loan type supported by that particular value. The next thing that must be completed in your initial configuration after determining that you are required to submit reports is entering the Legal Entity Identifier (LEI) into your Encompass settings. This can be achieved using the following navigation path: Encompass Settings → Company/User Setup → Company Details Ensure that your LEI is filled out completely and accurately. This is a 20-character identifier, issued by an organization that is accredited by GLEIF, which serves as the basis of your Universal Loan Identifier (ULI). The ULI is the unique loan-level identifier that is required on all HMDA submission records. If you don’t have a valid LEI, Encompass cannot generate compliant ULIs; therefore, your entire LAR will fail the Validity edit stage. Callout: Confirm that your LEI is a 20-character identifier that was issued by a GLEIF-accredited organization. If it is not available, Encompass will not be able to provide you with a compliant ULI. Confirm this first before starting any configuration. Step 2: Configure HMDA Profile Settings in Encompass Admin Tools The single most important and often ignored step in the entire setup is configuring your HMDA Profiles in Encompass. HMDA Profiles are the engines of Encompass’s HMDA field calculations. They define how many different data points will automatically populate, how they will be mapped in the loans, and how they will get reported. Navigate to: Admin Tools → HMDA Profile Settings HMDA Application Date Definition: This is used to calculate the applicant age fields (Field 4183 and Field 4184). Under HMDA rules, age is determined “as of the application date.” If your Application Date definition is mapped incorrectly to a field in Encompass or has not been defined completely, then you will have inaccurate age calculation throughout your entire pipeline. This must be set prior to originating any loans. Pro Tip: Create separate HMDA Profiles for different loan types if your institution has varied reporting needs. The Override Existing Profile option in the Batch Update Tool lets you mass-apply a new profile to hundreds of loans later. Step 3: Set Up Universal Loan Identifier (ULI) Generation At the point when your loan begins, Encompass generates your own unique ULI by creating: Encompass Loan Number, your institution’s LEI, and a check digit. Encompass automatically calculates digits for you. So, there’s no need to calculate this yourself manually. Purchased Covered Loans. Will your institution report the borrower’s age for purchased covered loans? That is an institutional decision that should be defined clearly. If you have not configured this setting, Encompass will not have specific instructions for the borrower’s age. Therefore it will likely not be included in the transaction records. Action Taken / Action Taken Date Mapping. Ensure that the pipelines feeding into these critical HMDA fields are properly populated. Action Taken and Action Taken Date are the most common sources of validity edits since incorrect fields are generally feeding into each HMDA Screen. One critical warning: Duplicate ULIs create a Validity Edit on the HMDA Platform when the two records share the same ULI. Duplicate records are only valid if they have different data fields. However, sharing a ULI between two records in this way is an extremely narrow exception to the general rule, it cannot be used as a fallback position. If your Loan Origination System assigns the same loan number to what should be treated as two separate loans, address that issue as a loan file-level fix in Encompass prior to generating your LAR. Step 4: Configure Demographic Information (DI) Collection on the 1003 The new Government Monitoring Information (GMI) requirements state that applicant race, ethnicity, and gender will be collected on 1003 Page 3 beginning with the 2018 HMDA Rule. In Encompass, the Red “X” that appears in the GMI section on 1003 Page 3 is a requirement of the GSE and is related to fair lending data collection. You must check the following two configurations to ensure that they are accurate and functioning correctly: No Co-Applicant Configuration. In addition, there is another configuration validation that must be evaluated. There are four co-applicant data fields, e.g., race, etc., and when selecting No Co-Applicant in Field 3840, the co-applicant reporting fields should be populated as ‘No Co-Applicant’. Ensure that this auto-fill feature is functional on a test loan. If not, there will be no data in the co-borrower fields on your LAR and will result in a validity edit at the time of submission to the LAR. Credit Score Source. This field must either be manually entered by the loan officers themselves; populated via a configured Business Rule or by some other form of automation through a specific plug-in. Leaving this field unfilled is one of the biggest reasons for the creation of incomplete HMDA data at year-end. Step 5: Set Up the Reporting Database for HMDA Fields If your organization is using an outside HMDA tool (specifically, Wolters Kluwer’s HMDA Wiz) or utilizing the batch export features; you must have created and populated your Reporting Database with all of the HMDA fields. Navigate to: Admin Tools → Reporting Database When you are prompted by the dialog to add the standard HMDA Report field list, you would click on yes. Then, it will add a core limited set of all of the required HMDA fields (depends on the Encompass version and whether the instance has been configured in the past). Additionally, integration-specific HMDA fields may still need to be added manually. On the other hand you will need to manually add the rest of the required HMDA fields (listed in Appendix A) after the reporting dialog completes. The full field list will have both Standard HMDA fields as well as Encompass specific fields that are required to integrate. To meet the requirements of the HMDA’s reporting, lenders must ensure that geocoding data for all relevant properties is correct. This means that the following information is needed: the census tract, county and state codes of the property. Most lenders have integration with tools such as HMDA Wiz or HMDAs Integrated Encompass Services. Geocoding errors (including data missing) are the most common reason as the cause of an error in the HMDA submission. Finally, you will need to populate the Reporting Database using your current loan data. It could take much time to load and process large datasets. Therefore, you might want to schedule this during off-peak hours so as not to affect the loan officers. Warning: If one of the important HMDA fields is not loaded into your Reporting database, the export will fail with an error message indicating which fields are missing. You should take that error message, extract the field from it and provide it to your Encompass Administrator to have them add the fields. Do not try to troubleshoot the error without the complete long list of fields that the system will generate. Read also -> Mortgage Automation Software for Encompass Step 6: Use the HMDA Batch Update Tool for Portfolio-Wide Corrections It is important to ensure that your entire pipeline of loans has been updated with current and correct data. The HMDA Batch Update Tool allows you to do so by giving administrators the ability to trigger recalculating HMDA fields for all of their loans in their pipeline together at one time. How to access: Go to Start Menu → [ICE Mortgage Technology Encompass program folder], then select Admin Tools. The HMDA Batch Update Tool link is under Admin Tools. There are two recalculation options to choose from when using the tool: Use Existing Profile: This option will use the HMDA Profile currently assigned to all of the loans in your pipeline. It will recalculate all of the HMDA fields for those loans at the same time. This option is for a general refresh of your loans before generating your LAR. Override Existing Profile: You would use this option when correcting a Profile error for all the loans in your pipeline that need to be corrected consistently. Step-by-step process: Locate the Reports tab in Encompass and create a report for target loans. Export this report as a CSV. Open the Batch Update Tool and log in with your Encompass account. On the Input File screen, enter the path of your CSV (or browse). Choose a recalculation option and run an update. The following are the Key Fields that will be recalculated in the Tool: Action Taken, Loan Purpose, Occupancy Type, Property Type, Lien Status, Census Tract, Rate Spread – these are the “stale” or incorrectly calculated Core Fields. Step 7: Generate and Review Your LAR in Encompass The LAR is a .txt file that includes one record (per loan or loan application) for each of the loans reported under HMDA. In Encompass, you can create your LAR from Pipeline → Reports or through HMDA Wiz Batch Services (if your institution has purchased that integration). Before uploading any of your LAR information to the CFPB, you must conduct a review of your LAR using the following list: All Action Taken fields populated and dated ULIs present and non-duplicated across all records Census Tract (11-digit) and County FIPS codes (5-digit) present for every applicable record No Co-Applicant codes properly auto-populated where applicable Credit score source fields completed on all records Rate Spread calculated for all applicable loans (primarily higher-priced mortgage loans) An incomplete filing cannot be combined with a prior submission. A new full dataset of your entire institution can be submitted in place of the old one. Until your final LAR is created in one location, more filings will not be accepted. If you receive an incomplete file, all filings must be remitted as new. Any earlier submission will be assigned a new LAR. Step 8: Submit to the CFPB HMDA Platform and Resolve Edits Use a modern browser (Chrome, Firefox, or Edge) to go to https://ffiec.cfpb.gov/ and upload your LAR File. The HMDA Platform will run four groups of edit checks on your uploaded LAR file: Syntactical Edits — This category of edit checks for formatting and structural problems within the file itself. Validity Edits — This edit checks for invalid data values or invalid code combinations within each data field. Quality Edits — This edit checks for data points that are not only valid when considered individually, but appear to be unusual or out of the ordinary when reviewed in combination with other data points. Quality edits require your review. Macro Quality Edits — This category of edits looks for patterns across all institutions that may appear to be unusual in comparison to patterns established in previous filings from the same institution. You must resolve any edit issues on your LAR file before submitting it (this is a strict requirement). Edit reports can only be accessed and downloaded through the HMDA Platform. Deadline for Annual HMDA Reporting: The deadline for submitting HMDA Loan Application Register (LAR) data to the CFPB each year is March 1, which covers data for the prior calendar year. Frequently, waiting until the last few weeks prior to submission results in rushed to correct, unable to validate, or incomplete reporting reviews. The use of internal test LARs continuously throughout the year will ease the pressure for compliance at year-end. If you need to resubmit, you may upload the new LAR file. The new version of the LAR file replaces the previously uploaded version for the filing year. The submission must be certified for accuracy and completeness by someone at the institution who has access to the LAR data. The certification process takes place through the Encompass HMDA Platform (no fax or email is needed). HMDA Resubmission Guidelines: When a corrected LAR is submitted for resubmission, the resubmitted file will replace the previous submission of the institution in the CFPB HMDA Platform. The CFPB HMDA Platform does not combine partial submissions with earlier submissions nor add missing records to earlier submissions. Hence, it is the responsibility of lenders to ensure the accuracy of the resubmitted LAR by ensuring a complete, updated dataset is provided prior to certification. Common HMDA Configuration Mistakes in Encompass The same errors appear in institutions year after year. However, many can be prevented: AN LAR fails due to the ULIs linked with the companies not being generated because there is no LEI entered in the company data. HMDA borrower age calculation fields will not be calculated properly for every loan in the pipeline. If the “HMDA – 2018” setting is turned ON prior to January 1st then the loans that are in-progress from 2017 will be calculated using 2018 criteria. If the reporting database is missing the required fields, batched files will not export properly resulting in errors. If the Co-Applicant field is missing; co-borrower information will not automatically populate on the HMDA application generating a validity edit error. If there are duplicate ULIs present on an LAR; there will be a validity edit preventing submission of either record. When an LAR is uploaded and it is not complete, the HMDA Platform cannot match the incomplete file with a complete file. Encompass HMDA Reporting Tools Tools Key Functions Best For HMDA Wiz (Wolters Kluwer) Real-time verification, geocoding, interest rate spread, and LAR documentation Larger lenders are looking for full management of the HMDA functions through Encompass. RiskExec HMDA compliance, CRA, and Fair Lending metrics addressing the HMDA API Organizations that require more advanced predictions than through the compliance process FFIEC HMDA Platform Final filing and error resolution on LAR submissions Universal HMDA filers Native Encompass Tools Batch updating tool, Reporting database, and Pipeline LARs from export Reduced reporting for smaller institutions not using third-party HMDA reporting software HMDA Reporting Checklist for Lenders Company/User Setup → Company Details has the LEI entered and confirmed. HMDA profile settings created for all loan types necessary. The HMDA application date definition is confirmed to be set up correctly. A reporting database that includes all HMDA required fields has been set up. The demographic information mapping (1003 page 3) has been set up correctly and is showing information correctly. A sample loan was tested with field 3840, and there is not an auto-populated co-applicant. The HMDA Batch Update Tool has been run against a sample .CSV to validate recalc. A full LAR is generated and is showing correctly compared to the pre-submission checklist. An LAR has been submitted at the end of the period and all edits in the HMDA platform have been corrected. To Wrap Up Appropriate Encompass configuration is an important aspect of HMDA compliance. Lenders that take time to correctly configure their HMDA Profiles, LEI, Demographics collection, Reporting Database and Batch Updating will find that the generation of year-end LAR will be a yearly, repetitive task and not a last-minute compliance issue. The eight steps outlined in this guide will serve as the total administrative base for HMDA compliance in Encompass. Completing these steps in sequence, documenting your configuration choices, and running a test LAR on sample data prior to year-end will help with the March 1st submission. Need assistance managing HMDA compliance in Encompass? Proper setup of HMDA profiles, demographic information collection, reporting databases, and batch updates can be complex when you don’t have professional support with Encompass administration . Even minor configuration errors can result in reporting errors, missing data and/or validation edits by the CFPB at year-end submission. At Awesome Technologies Inc., we assist mortgage lenders with the configuration, optimization, and maintenance of their Encompass systems for accurate HMDA reporting and streamlined compliance processes. For additional guidance on configuring borrower credit score reporting in HMDA workflows, review our Encompass HMDA Credit Score Setup guide! FAQs 1. How To File HMDA LAR in Encompass? Step 1: Set up your profile on HMDA with the relevant details such as HMDA Application Date and the information you want to report for purchased covered loans Step 2: Capture and store HMDA data in Encompass as you continue working on a loan so that you will be able to generate a report quickly Step 3: Use Compliance Services to create your HMDA Export file in the proper pipe-delimited format Step 4: Upload your LAR to the CFPB HMDA Filing Platform, correct any errors from the import, and certify the final submission. 2. What Is HMDA Reporting in Encompass? The built-in compliance workflow in Encompass (ICE Mortgage Technology’s LOS) contains all HMDA reporting. This reporting has two different types of reporting: demographic reporting (which includes information about the borrower’s race, gender and ethnicity) and regulatory reporting (which provides regulators with data to evaluate how well the mortgage industry is achieving fair and equal lending). The loan application process within Encompass automatically captures all data to complete HMDA reporting. HMDA reporting data includes borrower demographic data and other attributes of the loan being submitted. 3. How To Validate HMDA Data in Encompass? With regard to HMDA compliance, Encompass has various features (including built-in edit checks, USPS address verification, and integration with 3rd-party software) for the purpose of validating data real-time, geocoding data, and calculating rate spreads using HMDA Wiz. A series of automated edits will be applied (syntactical, validity, quality, and macro) during the submission process to the CFPB. Additionally, administrators are responsible for ensuring that all HMDA-related data fields have been configured in the Reporting Database. Subscribe to ATI First name Last Name Your email Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » 10 Mortgage CRM Functionalities That Simplify The Lending Process Finding just one mortgage lead can be costly. The cost of errors made when managing leads can add up very quickly. Reaching your goals with Read More »",
+  "word_count": 6824,
+  "headings_count": 26,
+  "images_count": 4,
+  "buttons_count": 12,
+  "forms_count": 2,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "HMDA Reporting Setup in Encompass LOS Home » HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common issues include missing census tracts, duplicate ULIs, blank co-borrower demographic fields, and other configuration-related problems. In most cases, these errors originate inside the Loan Origination System long before lenders even begin working in the CFPB HMDA Platform. The Home Mortgage Disclosure Act (HMDA) was passed in 1975 with implementation via Regulation C, expecting mortgage lenders to collect information on their lending practices. The rule-writing authority has been with the CFPB (Consumer Financial Protection Bureau) effective since July 21, 2011. The purpose of HMDA compliance is to provide transparency into residential mortgage markets; to hold mortgage lenders accountable for fair lending. Noncompliance can result in civil money penalties, increased scrutiny during examinations and great reputational damage. This guide explains how to configure HMDA reporting in Encompass LOS, from initial setup to generating and submitting your CFPB LAR. What You’ll Need Before You Start Encompass Administrator login credentials Your institution’s 20-character Legal Entity Identifier (LEI) FFIEC/CFPB HMDA Platform credentials (ffiec.cfpb.gov) Access to Admin Tools within Encompass What is HMDA and Why Does Your Encompass Configuration Matter? The Home Mortgage Disclosure Act (HMDA) requires mortgage lenders to gather information about loans and report them to the Consumer Financial Protection Bureau (CFPB). Regulators use this information to track lending activities, sue lenders who engage in unfair lending practices, and provide transparency in the mortgage industry. When a lender enters and tracks the data needed to report for HMDA, their Encompass setup should be accurate. If not, they can face issues like missing census tracts, duplicate unique loan identifiers (ULIs), issues with demographic data, or reporting errors. These errors can be found later in the process of preparing the HMDA Loan Application Register (LAR). An accurate Encompass setup helps lenders in collecting correct and complete data, reducing manually fixed data, eliminating the risk of compliance violations, and creating a more reliable and simpler reporting process. Most compliance teams learn it the hard way: HMDA errors usually start with incorrectly setting up LOS. The time it takes to correct HMDA errors is time-consuming, stressful and can be avoided. The best thing you can do for compliance is to set up your Encompass system correctly from the start. There are three HMDA obligations from compliance connected with Encompass configuration: collecting data accurately, maintaining data accuracy and submitting your LAR timely. Step-by-Step Guide to Configuring HMDA Reporting in Encompass LOS Step 1: Confirm Your Institution’s HMDA Reportability in Encompass Before making any changes to the administrator settings of your HMDA reporting software, check if you are required to report to comply with Regulation C. You must periodically check HMDA reporting requirements with CFPB for actual HMDA reporting obligations, so you will do as outlined above when HMDA reporting requirements change. These conditions must be satisfied on their own. Institutions that only satisfy one of these conditions will only need to report the loan type supported by that particular value. The next thing that must be completed in your initial configuration after determining that you are required to submit reports is entering the Legal Entity Identifier (LEI) into your Encompass settings. This can be achieved using the following navigation path: Encompass Settings → Company/User Setup → Company Details Ensure that your LEI is filled out completely and accurately. This is a 20-character identifier, issued by an organization that is accredited by GLEIF, which serves as the basis of your Universal Loan Identifier (ULI). The ULI is the unique loan-level identifier that is required on all HMDA submission records. If you don’t have a valid LEI, Encompass cannot generate compliant ULIs; therefore, your entire LAR will fail the Validity edit stage. Callout: Confirm that your LEI is a 20-character identifier that was issued by a GLEIF-accredited organization. If it is not available, Encompass will not be able to provide you with a compliant ULI. Confirm this first before starting any configuration. Step 2: Configure HMDA Profile Settings in Encompass Admin Tools The single most important and often ignored step in the entire setup is configuring your HMDA Profiles in Encompass. HMDA Profiles are the engines of Encompass’s HMDA field calculations. They define how many different data points will automatically populate, how they will be mapped in the loans, and how they will get reported. Navigate to: Admin Tools → HMDA Profile Settings HMDA Application Date Definition: This is used to calculate the applicant age fields (Field 4183 and Field 4184). Under HMDA rules, age is determined “as of the application date.” If your Application Date definition is mapped incorrectly to a field in Encompass or has not been defined completely, then you will have inaccurate age calculation throughout your entire pipeline. This must be set prior to originating any loans. Pro Tip: Create separate HMDA Profiles for different loan types if your institution has varied reporting needs. The Override Existing Profile option in the Batch Update Tool lets you mass-apply a new profile to hundreds of loans later. Step 3: Set Up Universal Loan Identifier (ULI) Generation At the point when your loan begins, Encompass generates your own unique ULI by creating: Encompass Loan Number, your institution’s LEI, and a check digit. Encompass automatically calculates digits for you. So, there’s no need to calculate this yourself manually. Purchased Covered Loans. Will your institution report the borrower’s age for purchased covered loans? That is an institutional decision that should be defined clearly. If you have not configured this setting, Encompass will not have specific instructions for the borrower’s age. Therefore it will likely not be included in the transaction records. Action Taken / Action Taken Date Mapping. Ensure that the pipelines feeding into these critical HMDA fields are properly populated. Action Taken and Action Taken Date are the most common sources of validity edits since incorrect fields are generally feeding into each HMDA Screen. One critical warning: Duplicate ULIs create a Validity Edit on the HMDA Platform when the two records share the same ULI. Duplicate records are only valid if they have different data fields. However, sharing a ULI between two records in this way is an extremely narrow exception to the general rule, it cannot be used as a fallback position. If your Loan Origination System assigns the same loan number to what should be treated as two separate loans, address that issue as a loan file-level fix in Encompass prior to generating your LAR. Step 4: Configure Demographic Information (DI) Collection on the 1003 The new Government Monitoring Information (GMI) requirements state that applicant race, ethnicity, and gender will be collected on 1003 Page 3 beginning with the 2018 HMDA Rule. In Encompass, the Red “X” that appears in the GMI section on 1003 Page 3 is a requirement of the GSE and is related to fair lending data collection. You must check the following two configurations to ensure that they are accurate and functioning correctly: No Co-Applicant Configuration. In addition, there is another configuration validation that must be evaluated. There are four co-applicant data fields, e.g., race, etc., and when selecting No Co-Applicant in Field 3840, the co-applicant reporting fields should be populated as ‘No Co-Applicant’. Ensure that this auto-fill feature is functional on a test loan. If not, there will be no data in the co-borrower fields on your LAR and will result in a validity edit at the time of submission to the LAR. Credit Score Source. This field must either be manually entered by the loan officers themselves; populated via a configured Business Rule or by some other form of automation through a specific plug-in. Leaving this field unfilled is one of the biggest reasons for the creation of incomplete HMDA data at year-end. Step 5: Set Up the Reporting Database for HMDA Fields If your organization is using an outside HMDA tool (specifically, Wolters Kluwer’s HMDA Wiz) or utilizing the batch export features; you must have created and populated your Reporting Database with all of the HMDA fields. Navigate to: Admin Tools → Reporting Database When you are prompted by the dialog to add the standard HMDA Report field list, you would click on yes. Then, it will add a core limited set of all of the required HMDA fields (depends on the Encompass version and whether the instance has been configured in the past). Additionally, integration-specific HMDA fields may still need to be added manually. On the other hand you will need to manually add the rest of the required HMDA fields (listed in Appendix A) after the reporting dialog completes. The full field list will have both Standard HMDA fields as well as Encompass specific fields that are required to integrate. To meet the requirements of the HMDA’s reporting, lenders must ensure that geocoding data for all relevant properties is correct. This means that the following information is needed: the census tract, county and state codes of the property. Most lenders have integration with tools such as HMDA Wiz or HMDAs Integrated Encompass Services. Geocoding errors (including data missing) are the most common reason as the cause of an error in the HMDA submission. Finally, you will need to populate the Reporting Database using your current loan data. It could take much time to load and process large datasets. Therefore, you might want to schedule this during off-peak hours so as not to affect the loan officers. Warning: If one of the important HMDA fields is not loaded into your Reporting database, the export will fail with an error message indicating which fields are missing. You should take that error message, extract the field from it and provide it to your Encompass Administrator to have them add the fields. Do not try to troubleshoot the error without the complete long list of fields that the system will generate. Read also -> Mortgage Automation Software for Encompass Step 6: Use the HMDA Batch Update Tool for Portfolio-Wide Corrections It is important to ensure that your entire pipeline of loans has been updated with current and correct data. The HMDA Batch Update Tool allows you to do so by giving administrators the ability to trigger recalculating HMDA fields for all of their loans in their pipeline together at one time. How to access: Go to Start Menu → [ICE Mortgage Technology Encompass program folder], then select Admin Tools. The HMDA Batch Update Tool link is under Admin Tools. There are two recalculation options to choose from when using the tool: Use Existing Profile: This option will use the HMDA Profile currently assigned to all of the loans in your pipeline. It will recalculate all of the HMDA fields for those loans at the same time. This option is for a general refresh of your loans before generating your LAR. Override Existing Profile: You would use this option when correcting a Profile error for all the loans in your pipeline that need to be corrected consistently. Step-by-step process: Locate the Reports tab in Encompass and create a report for target loans. Export this report as a CSV. Open the Batch Update Tool and log in with your Encompass account. On the Input File screen, enter the path of your CSV (or browse). Choose a recalculation option and run an update. The following are the Key Fields that will be recalculated in the Tool: Action Taken, Loan Purpose, Occupancy Type, Property Type, Lien Status, Census Tract, Rate Spread – these are the “stale” or incorrectly calculated Core Fields. Step 7: Generate and Review Your LAR in Encompass The LAR is a .txt file that includes one record (per loan or loan application) for each of the loans reported under HMDA. In Encompass, you can create your LAR from Pipeline → Reports or through HMDA Wiz Batch Services (if your institution has purchased that integration). Before uploading any of your LAR information to the CFPB, you must conduct a review of your LAR using the following list: All Action Taken fields populated and dated ULIs present and non-duplicated across all records Census Tract (11-digit) and County FIPS codes (5-digit) present for every applicable record No Co-Applicant codes properly auto-populated where applicable Credit score source fields completed on all records Rate Spread calculated for all applicable loans (primarily higher-priced mortgage loans) An incomplete filing cannot be combined with a prior submission. A new full dataset of your entire institution can be submitted in place of the old one. Until your final LAR is created in one location, more filings will not be accepted. If you receive an incomplete file, all filings must be remitted as new. Any earlier submission will be assigned a new LAR. Step 8: Submit to the CFPB HMDA Platform and Resolve Edits Use a modern browser (Chrome, Firefox, or Edge) to go to https://ffiec.cfpb.gov/ and upload your LAR File. The HMDA Platform will run four groups of edit checks on your uploaded LAR file: Syntactical Edits — This category of edit checks for formatting and structural problems within the file itself. Validity Edits — This edit checks for invalid data values or invalid code combinations within each data field. Quality Edits — This edit checks for data points that are not only valid when considered individually, but appear to be unusual or out of the ordinary when reviewed in combination with other data points. Quality edits require your review. Macro Quality Edits — This category of edits looks for patterns across all institutions that may appear to be unusual in comparison to patterns established in previous filings from the same institution. You must resolve any edit issues on your LAR file before submitting it (this is a strict requirement). Edit reports can only be accessed and downloaded through the HMDA Platform. Deadline for Annual HMDA Reporting: The deadline for submitting HMDA Loan Application Register (LAR) data to the CFPB each year is March 1, which covers data for the prior calendar year. Frequently, waiting until the last few weeks prior to submission results in rushed to correct, unable to validate, or incomplete reporting reviews. The use of internal test LARs continuously throughout the year will ease the pressure for compliance at year-end. If you need to resubmit, you may upload the new LAR file. The new version of the LAR file replaces the previously uploaded version for the filing year. The submission must be certified for accuracy and completeness by someone at the institution who has access to the LAR data. The certification process takes place through the Encompass HMDA Platform (no fax or email is needed). HMDA Resubmission Guidelines: When a corrected LAR is submitted for resubmission, the resubmitted file will replace the previous submission of the institution in the CFPB HMDA Platform. The CFPB HMDA Platform does not combine partial submissions with earlier submissions nor add missing records to earlier submissions. Hence, it is the responsibility of lenders to ensure the accuracy of the resubmitted LAR by ensuring a complete, updated dataset is provided prior to certification. Common HMDA Configuration Mistakes in Encompass The same errors appear in institutions year after year. However, many can be prevented: AN LAR fails due to the ULIs linked with the companies not being generated because there is no LEI entered in the company data. HMDA borrower age calculation fields will not be calculated properly for every loan in the pipeline. If the “HMDA – 2018” setting is turned ON prior to January 1st then the loans that are in-progress from 2017 will be calculated using 2018 criteria. If the reporting database is missing the required fields, batched files will not export properly resulting in errors. If the Co-Applicant field is missing; co-borrower information will not automatically populate on the HMDA application generating a validity edit error. If there are duplicate ULIs present on an LAR; there will be a validity edit preventing submission of either record. When an LAR is uploaded and it is not complete, the HMDA Platform cannot match the incomplete file with a complete file. Encompass HMDA Reporting Tools Tools Key Functions Best For HMDA Wiz (Wolters Kluwer) Real-time verification, geocoding, interest rate spread, and LAR documentation Larger lenders are looking for full management of the HMDA functions through Encompass. RiskExec HMDA compliance, CRA, and Fair Lending metrics addressing the HMDA API Organizations that require more advanced predictions than through the compliance process FFIEC HMDA Platform Final filing and error resolution on LAR submissions Universal HMDA filers Native Encompass Tools Batch updating tool, Reporting database, and Pipeline LARs from export Reduced reporting for smaller institutions not using third-party HMDA reporting software HMDA Reporting Checklist for Lenders Company/User Setup → Company Details has the LEI entered and confirmed. HMDA profile settings created for all loan types necessary. The HMDA application date definition is confirmed to be set up correctly. A reporting database that includes all HMDA required fields has been set up. The demographic information mapping (1003 page 3) has been set up correctly and is showing information correctly. A sample loan was tested with field 3840, and there is not an auto-populated co-applicant. The HMDA Batch Update Tool has been run against a sample .CSV to validate recalc. A full LAR is generated and is showing correctly compared to the pre-submission checklist. An LAR has been submitted at the end of the period and all edits in the HMDA platform have been corrected. To Wrap Up Appropriate Encompass configuration is an important aspect of HMDA compliance. Lenders that take time to correctly configure their HMDA Profiles, LEI, Demographics collection, Reporting Database and Batch Updating will find that the generation of year-end LAR will be a yearly, repetitive task and not a last-minute compliance issue. The eight steps outlined in this guide will serve as the total administrative base for HMDA compliance in Encompass. Completing these steps in sequence, documenting your configuration choices, and running a test LAR on sample data prior to year-end will help with the March 1st submission. Need assistance managing HMDA compliance in Encompass? Proper setup of HMDA profiles, demographic information collection, reporting databases, and batch updates can be complex when you don’t have professional support with Encompass administration . Even minor configuration errors can result in reporting errors, missing data and/or validation edits by the CFPB at year-end submission. At Awesome Technologies Inc., we assist mortgage lenders with the configuration, optimization, and maintenance of their Encompass systems for accurate HMDA reporting and streamlined compliance processes. For additional guidance on configuring borrower credit score reporting in HMDA workflows, review our Encompass HMDA Credit Score Setup guide! FAQs 1. How To File HMDA LAR in Encompass? Step 1: Set up your profile on HMDA with the relevant details such as HMDA Application Date and the information you want to report for purchased covered loans Step 2: Capture and store HMDA data in Encompass as you continue working on a loan so that you will be able to generate a report quickly Step 3: Use Compliance Services to create your HMDA Export file in the proper pipe-delimited format Step 4: Upload your LAR to the CFPB HMDA Filing Platform, correct any errors from the import, and certify the final submission. 2. What Is HMDA Reporting in Encompass? The built-in compliance workflow in Encompass (ICE Mortgage Technology’s LOS) contains all HMDA reporting. This reporting has two different types of reporting: demographic reporting (which includes information about the borrower’s race, gender and ethnicity) and regulatory reporting (which provides regulators with data to evaluate how well the mortgage industry is achieving fair and equal lending). The loan application process within Encompass automatically captures all data to complete HMDA reporting. HMDA reporting data includes borrower demographic data and other attributes of the loan being submitted. 3. How To Validate HMDA Data in Encompass? With regard to HMDA compliance, Encompass has various features (including built-in edit checks, USPS address verification, and integration with 3rd-party software) for the purpose of validating data real-time, geocoding data, and calculating rate spreads using HMDA Wiz. A series of automated edits will be applied (syntactical, validity, quality, and macro) during the submission process to the CFPB. Additionally, administrators are responsible for ensuring that all HMDA-related data fields have been configured in the Reporting Database. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026 Blog 10 Mortgage CRM Functionalities That Simplify The Lending Process Finding just one mortgage lead can be costly. The cost of errors made when managing leads can add up very quickly. Reaching your goals with Read More » David Miller 05/22/2026",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+          "alt": "HMDA Reporting Setup in Encompass LOS"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+          "alt": "Mortgage Automation in 2026"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+          "alt": "What is a Loan Origination System?"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/05/10-Mortgage-CRM-Functionalities-That-Simplify-the-Lending-Process-1.jpg",
+          "alt": "Mortgage CRM Functionalities"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Home",
+          "url": "https://awesometechinc.com/"
+        },
+        {
+          "label": "Mortgage Automation Software for Encompass",
+          "url": "https://awesometechinc.com/mortgage-automation-software-for-encompass/"
+        },
+        {
+          "label": "Encompass administration",
+          "url": "https://awesometechinc.com/encompass-system-administration-services/"
+        },
+        {
+          "label": "Encompass HMDA Credit Score Setup",
+          "url": "https://awesometechinc.com/encompass-hmda-credit-score/?utm_source=chatgpt.com"
+        },
+        {
+          "label": "Search",
+          "url": ""
+        },
+        {
+          "label": "Subscribe",
+          "url": ""
+        },
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "10 Mortgage CRM Functionalities That Simplify The Lending Process",
+          "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form",
+          "form_id": "",
+          "fields": [
+            {
+              "name": "s",
+              "label": "",
+              "type": "search",
+              "required": false
+            }
+          ],
+          "submit_label": "Search"
+        },
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "What is HMDA and Why Does Your Encompass Configuration Matter?",
+      "type": "content_section",
+      "content": "The Home Mortgage Disclosure Act (HMDA) requires mortgage lenders to gather information about loans and report them to the Consumer Financial Protection Bureau (CFPB). Regulators use this information to track lending activities, sue lenders who engage in unfair lending practices, and provide transparency in the mortgage industry. When a lender enters and tracks the data needed to report for HMDA, their Encompass setup should be accurate. If not, they can face issues like missing census tracts, duplicate unique loan identifiers (ULIs), issues with demographic data, or reporting errors. These errors can be found later in the process of preparing the HMDA Loan Application Register (LAR). An accurate Encompass setup helps lenders in collecting correct and complete data, reducing manually fixed data, eliminating the risk of compliance violations, and creating a more reliable and simpler reporting process. Most compliance teams learn it the hard way: HMDA errors usually start with incorrectly setting up LOS. The time it takes to correct HMDA errors is time-consuming, stressful and can be avoided. The best thing you can do for compliance is to set up your Encompass system correctly from the start. There are three HMDA obligations from compliance connected with Encompass configuration: collecting data accurately, maintaining data accuracy and submitting your LAR timely.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 3,
+      "title": "Step 1: Confirm Your Institution’s HMDA Reportability in Encompass",
+      "type": "content_section",
+      "content": "Before making any changes to the administrator settings of your HMDA reporting software, check if you are required to report to comply with Regulation C. You must periodically check HMDA reporting requirements with CFPB for actual HMDA reporting obligations, so you will do as outlined above when HMDA reporting requirements change. These conditions must be satisfied on their own. Institutions that only satisfy one of these conditions will only need to report the loan type supported by that particular value. The next thing that must be completed in your initial configuration after determining that you are required to submit reports is entering the Legal Entity Identifier (LEI) into your Encompass settings. This can be achieved using the following navigation path: Encompass Settings → Company/User Setup → Company Details Ensure that your LEI is filled out completely and accurately. This is a 20-character identifier, issued by an organization that is accredited by GLEIF, which serves as the basis of your Universal Loan Identifier (ULI). The ULI is the unique loan-level identifier that is required on all HMDA submission records. If you don’t have a valid LEI, Encompass cannot generate compliant ULIs; therefore, your entire LAR will fail the Validity edit stage. Callout: Confirm that your LEI is a 20-character identifier that was issued by a GLEIF-accredited organization. If it is not available, Encompass will not be able to provide you with a compliant ULI. Confirm this first before starting any configuration.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 4,
+      "title": "Step 2: Configure HMDA Profile Settings in Encompass Admin Tools",
+      "type": "content_section",
+      "content": "The single most important and often ignored step in the entire setup is configuring your HMDA Profiles in Encompass. HMDA Profiles are the engines of Encompass’s HMDA field calculations. They define how many different data points will automatically populate, how they will be mapped in the loans, and how they will get reported. Navigate to: Admin Tools → HMDA Profile Settings HMDA Application Date Definition: This is used to calculate the applicant age fields (Field 4183 and Field 4184). Under HMDA rules, age is determined “as of the application date.” If your Application Date definition is mapped incorrectly to a field in Encompass or has not been defined completely, then you will have inaccurate age calculation throughout your entire pipeline. This must be set prior to originating any loans. Pro Tip: Create separate HMDA Profiles for different loan types if your institution has varied reporting needs. The Override Existing Profile option in the Batch Update Tool lets you mass-apply a new profile to hundreds of loans later.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 5,
+      "title": "Step 3: Set Up Universal Loan Identifier (ULI) Generation",
+      "type": "content_section",
+      "content": "At the point when your loan begins, Encompass generates your own unique ULI by creating: Encompass Loan Number, your institution’s LEI, and a check digit. Encompass automatically calculates digits for you. So, there’s no need to calculate this yourself manually. Purchased Covered Loans. Will your institution report the borrower’s age for purchased covered loans? That is an institutional decision that should be defined clearly. If you have not configured this setting, Encompass will not have specific instructions for the borrower’s age. Therefore it will likely not be included in the transaction records. Action Taken / Action Taken Date Mapping. Ensure that the pipelines feeding into these critical HMDA fields are properly populated. Action Taken and Action Taken Date are the most common sources of validity edits since incorrect fields are generally feeding into each HMDA Screen. One critical warning: Duplicate ULIs create a Validity Edit on the HMDA Platform when the two records share the same ULI. Duplicate records are only valid if they have different data fields. However, sharing a ULI between two records in this way is an extremely narrow exception to the general rule, it cannot be used as a fallback position. If your Loan Origination System assigns the same loan number to what should be treated as two separate loans, address that issue as a loan file-level fix in Encompass prior to generating your LAR.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 6,
+      "title": "Step 4: Configure Demographic Information (DI) Collection on the 1003",
+      "type": "service_section",
+      "content": "The new Government Monitoring Information (GMI) requirements state that applicant race, ethnicity, and gender will be collected on 1003 Page 3 beginning with the 2018 HMDA Rule. In Encompass, the Red “X” that appears in the GMI section on 1003 Page 3 is a requirement of the GSE and is related to fair lending data collection. You must check the following two configurations to ensure that they are accurate and functioning correctly: No Co-Applicant Configuration. In addition, there is another configuration validation that must be evaluated. There are four co-applicant data fields, e.g., race, etc., and when selecting No Co-Applicant in Field 3840, the co-applicant reporting fields should be populated as ‘No Co-Applicant’. Ensure that this auto-fill feature is functional on a test loan. If not, there will be no data in the co-borrower fields on your LAR and will result in a validity edit at the time of submission to the LAR. Credit Score Source. This field must either be manually entered by the loan officers themselves; populated via a configured Business Rule or by some other form of automation through a specific plug-in. Leaving this field unfilled is one of the biggest reasons for the creation of incomplete HMDA data at year-end.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 7,
+      "title": "Step 5: Set Up the Reporting Database for HMDA Fields",
+      "type": "service_section",
+      "content": "If your organization is using an outside HMDA tool (specifically, Wolters Kluwer’s HMDA Wiz) or utilizing the batch export features; you must have created and populated your Reporting Database with all of the HMDA fields. Navigate to: Admin Tools → Reporting Database When you are prompted by the dialog to add the standard HMDA Report field list, you would click on yes. Then, it will add a core limited set of all of the required HMDA fields (depends on the Encompass version and whether the instance has been configured in the past). Additionally, integration-specific HMDA fields may still need to be added manually. On the other hand you will need to manually add the rest of the required HMDA fields (listed in Appendix A) after the reporting dialog completes. The full field list will have both Standard HMDA fields as well as Encompass specific fields that are required to integrate. To meet the requirements of the HMDA’s reporting, lenders must ensure that geocoding data for all relevant properties is correct. This means that the following information is needed: the census tract, county and state codes of the property. Most lenders have integration with tools such as HMDA Wiz or HMDAs Integrated Encompass Services. Geocoding errors (including data missing) are the most common reason as the cause of an error in the HMDA submission. Finally, you will need to populate the Reporting Database using your current loan data. It could take much time to load and process large datasets. Therefore, you might want to schedule this during off-peak hours so as not to affect the loan officers. Warning: If one of the important HMDA fields is not loaded into your Reporting database, the export will fail with an error message indicating which fields are missing. You should take that error message, extract the field from it and provide it to your Encompass Administrator to have them add the fields. Do not try to troubleshoot the error without the complete long list of fields that the system will generate. Read also -> Mortgage Automation Software for Encompass",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Mortgage Automation Software for Encompass",
+          "url": "https://awesometechinc.com/mortgage-automation-software-for-encompass/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 8,
+      "title": "Step 6: Use the HMDA Batch Update Tool for Portfolio-Wide Corrections",
+      "type": "content_section",
+      "content": "It is important to ensure that your entire pipeline of loans has been updated with current and correct data. The HMDA Batch Update Tool allows you to do so by giving administrators the ability to trigger recalculating HMDA fields for all of their loans in their pipeline together at one time. How to access: Go to Start Menu → [ICE Mortgage Technology Encompass program folder], then select Admin Tools. The HMDA Batch Update Tool link is under Admin Tools. There are two recalculation options to choose from when using the tool: Use Existing Profile: This option will use the HMDA Profile currently assigned to all of the loans in your pipeline. It will recalculate all of the HMDA fields for those loans at the same time. This option is for a general refresh of your loans before generating your LAR. Override Existing Profile: You would use this option when correcting a Profile error for all the loans in your pipeline that need to be corrected consistently. Step-by-step process: Locate the Reports tab in Encompass and create a report for target loans. Export this report as a CSV. Open the Batch Update Tool and log in with your Encompass account. On the Input File screen, enter the path of your CSV (or browse). Choose a recalculation option and run an update. The following are the Key Fields that will be recalculated in the Tool: Action Taken, Loan Purpose, Occupancy Type, Property Type, Lien Status, Census Tract, Rate Spread – these are the “stale” or incorrectly calculated Core Fields.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 9,
+      "title": "Step 7: Generate and Review Your LAR in Encompass",
+      "type": "testimonial_section",
+      "content": "The LAR is a .txt file that includes one record (per loan or loan application) for each of the loans reported under HMDA. In Encompass, you can create your LAR from Pipeline → Reports or through HMDA Wiz Batch Services (if your institution has purchased that integration). Before uploading any of your LAR information to the CFPB, you must conduct a review of your LAR using the following list: All Action Taken fields populated and dated ULIs present and non-duplicated across all records Census Tract (11-digit) and County FIPS codes (5-digit) present for every applicable record No Co-Applicant codes properly auto-populated where applicable Credit score source fields completed on all records Rate Spread calculated for all applicable loans (primarily higher-priced mortgage loans) An incomplete filing cannot be combined with a prior submission. A new full dataset of your entire institution can be submitted in place of the old one. Until your final LAR is created in one location, more filings will not be accepted. If you receive an incomplete file, all filings must be remitted as new. Any earlier submission will be assigned a new LAR.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 10,
+      "title": "Step 8: Submit to the CFPB HMDA Platform and Resolve Edits",
+      "type": "testimonial_section",
+      "content": "Use a modern browser (Chrome, Firefox, or Edge) to go to https://ffiec.cfpb.gov/ and upload your LAR File. The HMDA Platform will run four groups of edit checks on your uploaded LAR file: Syntactical Edits — This category of edit checks for formatting and structural problems within the file itself. Validity Edits — This edit checks for invalid data values or invalid code combinations within each data field. Quality Edits — This edit checks for data points that are not only valid when considered individually, but appear to be unusual or out of the ordinary when reviewed in combination with other data points. Quality edits require your review. Macro Quality Edits — This category of edits looks for patterns across all institutions that may appear to be unusual in comparison to patterns established in previous filings from the same institution. You must resolve any edit issues on your LAR file before submitting it (this is a strict requirement). Edit reports can only be accessed and downloaded through the HMDA Platform. Deadline for Annual HMDA Reporting: The deadline for submitting HMDA Loan Application Register (LAR) data to the CFPB each year is March 1, which covers data for the prior calendar year. Frequently, waiting until the last few weeks prior to submission results in rushed to correct, unable to validate, or incomplete reporting reviews. The use of internal test LARs continuously throughout the year will ease the pressure for compliance at year-end. If you need to resubmit, you may upload the new LAR file. The new version of the LAR file replaces the previously uploaded version for the filing year. The submission must be certified for accuracy and completeness by someone at the institution who has access to the LAR data. The certification process takes place through the Encompass HMDA Platform (no fax or email is needed). HMDA Resubmission Guidelines: When a corrected LAR is submitted for resubmission, the resubmitted file will replace the previous submission of the institution in the CFPB HMDA Platform. The CFPB HMDA Platform does not combine partial submissions with earlier submissions nor add missing records to earlier submissions. Hence, it is the responsibility of lenders to ensure the accuracy of the resubmitted LAR by ensuring a complete, updated dataset is provided prior to certification.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 11,
+      "title": "Common HMDA Configuration Mistakes in Encompass",
+      "type": "content_section",
+      "content": "The same errors appear in institutions year after year. However, many can be prevented: AN LAR fails due to the ULIs linked with the companies not being generated because there is no LEI entered in the company data. HMDA borrower age calculation fields will not be calculated properly for every loan in the pipeline. If the “HMDA – 2018” setting is turned ON prior to January 1st then the loans that are in-progress from 2017 will be calculated using 2018 criteria. If the reporting database is missing the required fields, batched files will not export properly resulting in errors. If the Co-Applicant field is missing; co-borrower information will not automatically populate on the HMDA application generating a validity edit error. If there are duplicate ULIs present on an LAR; there will be a validity edit preventing submission of either record. When an LAR is uploaded and it is not complete, the HMDA Platform cannot match the incomplete file with a complete file.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 12,
+      "title": "Encompass HMDA Reporting Tools",
+      "type": "service_section",
+      "content": "Tools Key Functions Best For HMDA Wiz (Wolters Kluwer) Real-time verification, geocoding, interest rate spread, and LAR documentation Larger lenders are looking for full management of the HMDA functions through Encompass. RiskExec HMDA compliance, CRA, and Fair Lending metrics addressing the HMDA API Organizations that require more advanced predictions than through the compliance process FFIEC HMDA Platform Final filing and error resolution on LAR submissions Universal HMDA filers Native Encompass Tools Batch updating tool, Reporting database, and Pipeline LARs from export Reduced reporting for smaller institutions not using third-party HMDA reporting software",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 13,
+      "title": "HMDA Reporting Checklist for Lenders",
+      "type": "content_section",
+      "content": "Company/User Setup → Company Details has the LEI entered and confirmed. HMDA profile settings created for all loan types necessary. The HMDA application date definition is confirmed to be set up correctly. A reporting database that includes all HMDA required fields has been set up. The demographic information mapping (1003 page 3) has been set up correctly and is showing information correctly. A sample loan was tested with field 3840, and there is not an auto-populated co-applicant. The HMDA Batch Update Tool has been run against a sample .CSV to validate recalc. A full LAR is generated and is showing correctly compared to the pre-submission checklist. An LAR has been submitted at the end of the period and all edits in the HMDA platform have been corrected.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 14,
+      "title": "To Wrap Up",
+      "type": "faq_section",
+      "content": "Appropriate Encompass configuration is an important aspect of HMDA compliance. Lenders that take time to correctly configure their HMDA Profiles, LEI, Demographics collection, Reporting Database and Batch Updating will find that the generation of year-end LAR will be a yearly, repetitive task and not a last-minute compliance issue. The eight steps outlined in this guide will serve as the total administrative base for HMDA compliance in Encompass. Completing these steps in sequence, documenting your configuration choices, and running a test LAR on sample data prior to year-end will help with the March 1st submission. Need assistance managing HMDA compliance in Encompass? Proper setup of HMDA profiles, demographic information collection, reporting databases, and batch updates can be complex when you don’t have professional support with Encompass administration . Even minor configuration errors can result in reporting errors, missing data and/or validation edits by the CFPB at year-end submission. At Awesome Technologies Inc., we assist mortgage lenders with the configuration, optimization, and maintenance of their Encompass systems for accurate HMDA reporting and streamlined compliance processes. For additional guidance on configuring borrower credit score reporting in HMDA workflows, review our Encompass HMDA Credit Score Setup guide! FAQs",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Encompass administration",
+          "url": "https://awesometechinc.com/encompass-system-administration-services/"
+        },
+        {
+          "label": "Encompass HMDA Credit Score Setup",
+          "url": "https://awesometechinc.com/encompass-hmda-credit-score/?utm_source=chatgpt.com"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 15,
+      "title": "1. How To File HMDA LAR in Encompass?",
+      "type": "service_section",
+      "content": "Step 1: Set up your profile on HMDA with the relevant details such as HMDA Application Date and the information you want to report for purchased covered loans Step 2: Capture and store HMDA data in Encompass as you continue working on a loan so that you will be able to generate a report quickly Step 3: Use Compliance Services to create your HMDA Export file in the proper pipe-delimited format Step 4: Upload your LAR to the CFPB HMDA Filing Platform, correct any errors from the import, and certify the final submission.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 16,
+      "title": "2. What Is HMDA Reporting in Encompass?",
+      "type": "content_section",
+      "content": "The built-in compliance workflow in Encompass (ICE Mortgage Technology’s LOS) contains all HMDA reporting. This reporting has two different types of reporting: demographic reporting (which includes information about the borrower’s race, gender and ethnicity) and regulatory reporting (which provides regulators with data to evaluate how well the mortgage industry is achieving fair and equal lending). The loan application process within Encompass automatically captures all data to complete HMDA reporting. HMDA reporting data includes borrower demographic data and other attributes of the loan being submitted.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 17,
+      "title": "3. How To Validate HMDA Data in Encompass?",
+      "type": "service_section",
+      "content": "With regard to HMDA compliance, Encompass has various features (including built-in edit checks, USPS address verification, and integration with 3rd-party software) for the purpose of validating data real-time, geocoding data, and calculating rate spreads using HMDA Wiz. A series of automated edits will be applied (syntactical, validity, quality, and macro) during the submission process to the CFPB. Additionally, administrators are responsible for ensuring that all HMDA-related data fields have been configured in the Reporting Database.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 18,
+      "title": "Subscribe to ATI",
+      "type": "form_section",
+      "content": "First name Last Name Your email",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Subscribe",
+          "url": ""
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 19,
+      "title": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "type": "service_section",
+      "content": "Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 20,
+      "title": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "type": "content_section",
+      "content": "In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 21,
+      "title": "10 Mortgage CRM Functionalities That Simplify The Lending Process",
+      "type": "content_section",
+      "content": "Finding just one mortgage lead can be costly. The cost of errors made when managing leads can add up very quickly. Reaching your goals with Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "10 Mortgage CRM Functionalities That Simplify The Lending Process",
+          "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+        }
+      ],
+      "forms": []
+    }
+  ],
+  "images": [
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+      "alt": "HMDA Reporting Setup in Encompass LOS"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+      "alt": "Mortgage Automation in 2026"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+      "alt": "What is a Loan Origination System?"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/05/10-Mortgage-CRM-Functionalities-That-Simplify-the-Lending-Process-1.jpg",
+      "alt": "Mortgage CRM Functionalities"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "Mortgage Automation Software for Encompass",
+      "url": "https://awesometechinc.com/mortgage-automation-software-for-encompass/"
+    },
+    {
+      "label": "Encompass administration",
+      "url": "https://awesometechinc.com/encompass-system-administration-services/"
+    },
+    {
+      "label": "Encompass HMDA Credit Score Setup",
+      "url": "https://awesometechinc.com/encompass-hmda-credit-score/?utm_source=chatgpt.com"
+    },
+    {
+      "label": "Search",
+      "url": ""
+    },
+    {
+      "label": "Subscribe",
+      "url": ""
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "10 Mortgage CRM Functionalities That Simplify The Lending Process",
+      "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+    }
+  ],
+  "forms": [
+    {
+      "form_type": "contact_form",
+      "form_id": "",
+      "fields": [
+        {
+          "name": "s",
+          "label": "",
+          "type": "search",
+          "required": false
+        }
+      ],
+      "submit_label": "Search"
+    },
+    {
+      "form_type": "contact_form_7",
+      "form_id": "12171",
+      "fields": [
+        {
+          "name": "your-name",
+          "label": "your-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "last-name",
+          "label": "last-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "your-email",
+          "label": "your-email",
+          "type": "email",
+          "required": true
+        }
+      ],
+      "submit_label": "Subscribe"
+    }
+  ],
+  "links": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "Mortgage Automation Software for Encompass",
+      "url": "https://awesometechinc.com/mortgage-automation-software-for-encompass/"
+    },
+    {
+      "label": "Encompass administration",
+      "url": "https://awesometechinc.com/encompass-system-administration-services/"
+    },
+    {
+      "label": "Encompass HMDA Credit Score Setup",
+      "url": "https://awesometechinc.com/encompass-hmda-credit-score/?utm_source=chatgpt.com"
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "10 Mortgage CRM Functionalities That Simplify The Lending Process",
+      "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+    }
+  ]
+}

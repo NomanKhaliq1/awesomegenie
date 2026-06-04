@@ -1,0 +1,484 @@
+{
+  "id": null,
+  "source_type": "post",
+  "slug": "sharepoint-login",
+  "title": "Step-By-Step Guide to Logging Into SharePoint",
+  "url": "https://awesometechinc.com/sharepoint-login/",
+  "meta_title": "Step-By-Step Guide to Logging Into SharePoint - Awesome Tech Inc",
+  "meta_description": "",
+  "modified_at": "2025-06-10T19:39:55+00:00",
+  "status": "public",
+  "summary": "Intro Step-By-Step Guide to Logging Into SharePoint Home » Step-By-Step Guide to Logging Into SharePoint Have you ever wondered, “How do I log into SharePoint without getting confused with all the Microsoft logins? ” That’s not uncommon as many still fail at SharePoint login or still want to know ‘’ how do I access Sha",
+  "keywords": [
+    "mortgage automation in",
+    "mortgage application on a tuesday morni",
+    "encompass los march",
+    "contact your internal it help de",
+    "contact your hosting provider fo",
+    "contact your sharepoint administ",
+    "contact admin if none of the pre",
+    "contact your sharepoint or it ad",
+    "contact support to unlock your a",
+    "contact us if you would like to",
+    "contact the sharepoint site owne",
+    "website and find the login page for th",
+    "integration when signed in to your microso",
+    "sharepoint",
+    "the",
+    "you"
+  ],
+  "full_text": "Intro Step-By-Step Guide to Logging Into SharePoint Home » Step-By-Step Guide to Logging Into SharePoint Have you ever wondered, “How do I log into SharePoint without getting confused with all the Microsoft logins?” That’s not uncommon as many still fail at SharePoint login or still want to know ‘’ how do I access SharePoint ’’? Remote team members, new employees, and anyone trying to access a company document / resource on SharePoint has experienced the same thing. SharePoint is an incredible tool, especially, but not limited to, the remote workforce. As we talk about SharePoint log in , it certainly can be slightly overwhelming at first. Not to worry! This blog is going to take you through the steps of signing into SharePoint in an easy read. SharePoint is Microsoft’s enhanced collaboration tool to help teams manage documents, share resources and work smarter together. In order to enjoy all the benefits this application has to offer, you need to get through the front door (the login). This blog will give you the step by step information you need for SharePoint sign in , how to avoid possible mistakes, and tips to better enjoy SharePoint from the very beginning. Now, let’s get you connected! SharePoint Login: Process & Best Practices Step 1: Navigate to Your Login Page The first step for Microsoft SharePoint login is knowing exactly where you are logging into. SharePoint is hosted in different manners, therefore the method you take depends on how your organization has set up SharePoint. SharePoint is usually hosted using Microsoft Office 365 (cloud), on-premises (in-house), or a third-party host. Knowing what SharePoint deployment to use is very important to know where to find your SharePoint login URL. The same goes for SharePoint Online login . Microsoft Office 365 (Cloud) If used Office 365 to facilitate SharePoint, then there are two main ways to login into SharePoint : Option A: Company Specific URL Most organizations using Office 365 have configured a specific domain for their SharePoint online hosted site. The URL will look something like this: https://yourcompany.sharepoint.com Your company would be the name of your organization or a version of that name chosen by the IT department when SharePoint was established. What to do: If you have no idea where to look for a specific link, contact your internal IT help desk or network support. This link will direct you to your organization’s SharePoint home site or portal. Option B: Generic Microsoft Office URL At the initial stage, your confusion might still persist as ‘’ how to sign in SharePoint ’’? If you do not know the dedicated URL, you can also get to SharePoint by logging in via the Microsoft 365 homepage. Steps: Open your favourite browser, navigate to and open https://www.office.com. Click on Sign In, in the upper right corner of the page. You will be taken to a general Microsoft Sign in Page. Note: If your business has modified the sign in screen (corporate branding), you will not see that at first. After you enter your e-mail address, Microsoft detects your domain and then displays the corporate brand login experience for your organization. The same follows for SharePoint Office 365 login . On-Premises (Locally Hosted SharePoint) If you are using SharePoint hosted by your business’s own servers (rather than SharePoint in the cloud), you would need to use a different URL which is typically only available inside a company network or VPN if remote. What To Do? Please ask your IT team or SharePoint administrator for the correct link to login. The SharePoint admin login is made clear here. The URL format is likely something like: http://intranet/sites/yoursite These URLs are often not publicly available so accessing from outside the office is likely VPN or remote desktop access Third-Party SharePoint Hosting If you are operating a SharePoint environment that is hosted by a third-party service, you may need to contact your hosting provider for the access instructions. What should I do? Look for a welcome email from the provider with your login credentials and the URL for SharePoint login . You can either head to the provider’s website and find the login page for the provider or reach out to support via phone, email, or live chat! After you have narrowed down the proper SharePoint URL, the second step will be signing into the hosting provider using your credentials. The authentication will depend on how your SharePoint is hosted. Microsoft Office 365 Login: How do you access SharePoint using MS Office 365? Open a browser and go to the SharePoint URL or go to office.com. Type your email address for your company’s Microsoft 365 account. Example: john.doe@yourcompany.com Click Next. If your company uses a branded login page, you will be redirected to a branded login page. Type your password. Click Sign In. If Multi-Factor Authentication (MFA) is enabled, you will need to complete the verification process (i.e., approve via Microsoft Authenticator or entering an SMS or email code). Step 2: Sign In With Your Credentials After you have determined your SharePoint URL, the next step is to login into SharePoint using your credentials. How you authenticate will depend on your SharePoint hosting. Microsoft Office 365 Login Open a browser and go to your SharePoint URL or through office.com. Enter the email associated with your company Microsoft 365 account. Example: john.doe@yourcompany.com Click Next. You will be redirected to a branded login page (if your company uses one). Enter your password. Click Sign In. If Multi-Factor Authentication (MFA) is enabled, you will have to complete some sort of verification (e.g. through the Microsoft Authenticator app, SMS, or Email). On-Premises or Third-Party Hosted Login Open a browser and go to the SharePoint sign in URL. You should be presented with one of two prompts depending on configuration: A web based login asking for a username and password. A pop-up message entitled “Windows Security” (sometimes referred to as a Basic Auth or NTLM prompt). Enter your network credentials: Format A: domain\\username (e.g., corp\\jdoe ) Format B: username@domain.com (e.g., jdoe@corp.com ) Click OK or Submit . You may be asked to change your password if it’s expired or your account requires reset on the next login. Step 3: Navigate to Your SharePoint Site Once you’ve successfully logged in, you will land on your SharePoint home page, or the default site assigned to you. Ways to Navigate: Use the App Launcher (the waffle menu) in the top left to select “ SharePoint .” If you want to use the direct link to a site (e.g., you have a team site, or a communication site link) you may want to bookmark the link for future use. Some common types of sites: Team Sites: For collaboration within departments and project teams Communication Sites: Used for highlighting news or resources to a larger audience Hub Sites: A one-stop shop for linking other SharePoint sites and SharePoint Online that are related. Step 4: Verify Access and Permissions After you log in to SharePoint, the next step of SharePoint sign in is to confirm that you have access and permission to do what you need to do. Here are the steps to verify: Navigate to the SharePoint Site After SharePoint log in , navigate to the SharePoint site you need to access (e.g. your team site or document library). URL example: https://[yourorganization].sharepoint.com/sites/[sitename] Check Page Access Check If you receive an “Access Denied” message or if you are redirected elsewhere, you may not have current permission to the site. Contact your SharePoint administrator. Confirm Navigation and Features Click around and open the various navigation options on the page (e.g. “Documents”, “Lists”, “Pages”). Confirm that you can open and view at least one file or folder in the SharePoin t site. Check Editing Permissions (if required) Try uploading a file or creating a new document (using the “New” or “Upload” button in a document library). If you are unable to edit or upload, you may only have read-only permissions. Review your Permission Level Go to Settings (gear icon) > Site permissions (or Site Settings > Site permissions) Look for a section with your user account and the permission level (e.g., “Edit”, “Contribute”, “Read”). If you lack access contact admin If none of the previous options have worked for Microsoft SharePoint login , contact your SharePoint or IT admin. You will need to provide them with: The URL of the SharePoint site Your user ID/email Description of the problem Step 5: Explore Additional Login Methods A. SharePoint Mobile App You can use the Microsoft SharePoint mobile app to log in to SharePoint from mobile devices including Android and iOS. Steps: Download the app from App Store or Google Play Open the app and enter your work email Sign in with the same Microsoft 365 Sign-In credentials Authenticate with MFA (if applicable), and access your sites and documents while on-the-go. Mobile access is especially useful to teams working in the field, traveling, or working in hybrid environments no matter if it is SharePoint Online login . Connecting with a reliable SharePoint app development partner would be a wise decision! B. OneDrive and Office Integration When signed in to your Microsoft 365 account, SharePoint will automatically integrate with OneDrive and other office tenants (Word, Excel, Teams, etc.) Benefits: Open and edit documents right in Word/Excel Auto-save documents into SharePoint libraries Sync libraries to your desktop with OneDrive. Step 6: Troubleshooting Login Issues Even with these faster fixes, there could still be one or more problems you face as you login into SharePoint. Here are some common problems you may come across and their solutions: Problem: I Forgot my Password For Office 365 Users: Use the “Forgot Password” link on the login screen. For On-Premises Users: Communicate with your IT help desk. For Third-Party Hosting: Reach out to the hosting provider support team. Problem: Account Locked If you have made multiple failed attempts with the same password, your account can be locked temporarily. It usually takes 15-30 minutes to unlock your account. If waiting, you can contact support to unlock your account and proceed. Problem: “Access Denied” or Permission not on file. Each login account has its required permission level (ex. read only, contributor, etc.); determining what permission group you will be given or are to have becomes trial and error. If you need your username and password to reset access and permission levels, be sure to ask your site owner for assistance, or your IT system admin for help. This is a key component of SharePoint office 365 login . Problem: Browser issues SharePoint works better with Microsoft Edge, Google Chrome, or Mozilla Firefox, but no matter the browser you are using, clear your cache and clear your cookies if the log-on screen is not appearing typically. Step 7: Security and Best Practices Always Sign Out It is important to sign out when finished, especially on shared or public devices. Click your profile photo (top right). Select Sign Out. Use MFA (Multi-Factor Authentication) You should always use MFA if possible for added protection for your accounts. Use the Microsoft Authenticator app to approve your sign in more easily. Never Share your Credentials Do not email your password. You should not save passwords in public browsers. To Wrap Up Accessing your organization’s SharePoint site is the most critical step to begin working collaboratively, organized, and productive in the digital workplace. Most likely, you are using a cloud-hosted version of your SharePoint site via Microsoft 365 or an on-premises SharePoint installation or another hosted environment. Either way, it is important to understand where and how to access the SharePoint login page before getting started. This guide has shown you how to identify the login URL, authenticate your login with secure credentials, and access your organization and site. You have had a look at common errors such as password resets and errors on permissions and adding SharePoint to your mobile device or process. Accessing SharePoint is just the start whether you are using it via your web browser, mobile device, or are integrating it from workflow tools like Microsoft 365 Teams or OneDrive. At Awesome Technologies Inc, we help users login to SharePoint , but we also build powerful, custom SharePoint solutions to build upon the value of SharePoint even further for the modern workplace. We have a team of Microsoft-certified developers and solution architects that specializes in SharePoint . So far, we have helped organizations to realize the business value and potential of SharePoint as not just a tool, but as a business asset that minimizes cost and maximizes essential performance! Need Help Beyond Login? Awesome Technologies Inc can help you with the most common use cases for SharePoint even if you’re new to SharePoint or looking to scale. We provide support for your SharePoint journey that covers it all—onboarding and access management, custom development, and enterprise integration. Contact us if you would like to learn more about our SharePoint consulting services ; we’d be happy to discuss how we can design and implement your digital workplace! FAQs 1. What is SharePoint, and why do I need to log in? SharePoint is Microsoft’s web-based platform for document management, collaboration, content sharing, and intranet services. Logging in securely allows you to access shared company resources, files and workflows, and team collaboration spaces. 2. What should I do if I forgot my SharePoint password? For Microsoft 365 users: Go to https://passwordreset.microsoftonline.com For on-premises users: Contact your internal IT help desk. For a third-party hosting service: Contact your hosting provider for support. 3. I’m getting an “Access Denied” message — what does it mean? This generally indicates that your account does not have permission to view that site or document. Please contact the SharePoint site owner or your IT administrator to gain access for the SharePoint admin login . 4. Can I log into SharePoint from my phone? Yes. Download the Microsoft SharePoint app from the App Store or Google Play. Sign in with your Microsoft 365 email and password. Access documents, sites, and news from your mobile device. 5. Do I need to use VPN to access SharePoint? There is no VPN needed to access SharePoint Online (Office 365). If you are using on-premise SharePoint, you may need a VPN if you are outside the reach of the corporate network. 6. How can I stay signed in to SharePoint? When logging in, select the “Keep me signed in” checkbox after entering your password but do not select this on shared or public computers. 7. What is Multi-Factor Authentication (MFA), and is it required? MFA is an additional security level where you authenticate through a second method (like a code or mobile device approval) in addition to a password. If your organization requires MFA, your sign-in will require you to approve the sign-in using: Microsoft Authenticator app SMS Code Email verification 8. Can I access multiple SharePoint accounts from one browser? Yes, but you may have session conflicts. Use Incognito/Private Mode to log into a second account or different browsers (i.e. Edge for one account and Chrome for the other). ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026 Step 1: Navigate to Your Login Page The first step for Microsoft SharePoint login is knowing exactly where you are logging into. SharePoint is hosted in different manners, therefore the method you take depends on how your organization has set up SharePoint. SharePoint is usually hosted using Microsoft Office 365 (cloud), on-premises (in-house), or a third-party host. Knowing what SharePoint deployment to use is very important to know where to find your SharePoint login URL. The same goes for SharePoint Online login . Microsoft Office 365 (Cloud) If used Office 365 to facilitate SharePoint, then there are two main ways to login into SharePoint : Option A: Company Specific URL Most organizations using Office 365 have configured a specific domain for their SharePoint online hosted site. The URL will look something like this: https://yourcompany.sharepoint.com Your company would be the name of your organization or a version of that name chosen by the IT department when SharePoint was established. What to do: If you have no idea where to look for a specific link, contact your internal IT help desk or network support. This link will direct you to your organization’s SharePoint home site or portal. Option B: Generic Microsoft Office URL At the initial stage, your confusion might still persist as ‘’ how to sign in SharePoint ’’? If you do not know the dedicated URL, you can also get to SharePoint by logging in via the Microsoft 365 homepage. Steps: Open your favourite browser, navigate to and open https://www.office.com. Click on Sign In, in the upper right corner of the page. You will be taken to a general Microsoft Sign in Page. Note: If your business has modified the sign in screen (corporate branding), you will not see that at first. After you enter your e-mail address, Microsoft detects your domain and then displays the corporate brand login experience for your organization. The same follows for SharePoint Office 365 login . On-Premises (Locally Hosted SharePoint) If you are using SharePoint hosted by your business’s own servers (rather than SharePoint in the cloud), you would need to use a different URL which is typically only available inside a company network or VPN if remote. What To Do? Please ask your IT team or SharePoint administrator for the correct link to login. The SharePoint admin login is made clear here. The URL format is likely something like: http://intranet/sites/yoursite These URLs are often not publicly available so accessing from outside the office is likely VPN or remote desktop access Third-Party SharePoint Hosting If you are operating a SharePoint environment that is hosted by a third-party service, you may need to contact your hosting provider for the access instructions. What should I do? Look for a welcome email from the provider with your login credentials and the URL for SharePoint login . You can either head to the provider’s website and find the login page for the provider or reach out to support via phone, email, or live chat! After you have narrowed down the proper SharePoint URL, the second step will be signing into the hosting provider using your credentials. The authentication will depend on how your SharePoint is hosted. Microsoft Office 365 Login: How do you access SharePoint using MS Office 365? Open a browser and go to the SharePoint URL or go to office.com. Type your email address for your company’s Microsoft 365 account. Example: john.doe@yourcompany.com Click Next. If your company uses a branded login page, you will be redirected to a branded login page. Type your password. Click Sign In. If Multi-Factor Authentication (MFA) is enabled, you will need to complete the verification process (i.e., approve via Microsoft Authenticator or entering an SMS or email code). Step 2: Sign In With Your Credentials After you have determined your SharePoint URL, the next step is to login into SharePoint using your credentials. How you authenticate will depend on your SharePoint hosting. Microsoft Office 365 Login Open a browser and go to your SharePoint URL or through office.com. Enter the email associated with your company Microsoft 365 account. Example: john.doe@yourcompany.com Click Next. You will be redirected to a branded login page (if your company uses one). Enter your password. Click Sign In. If Multi-Factor Authentication (MFA) is enabled, you will have to complete some sort of verification (e.g. through the Microsoft Authenticator app, SMS, or Email). On-Premises or Third-Party Hosted Login Open a browser and go to the SharePoint sign in URL. You should be presented with one of two prompts depending on configuration: A web based login asking for a username and password. A pop-up message entitled “Windows Security” (sometimes referred to as a Basic Auth or NTLM prompt). Enter your network credentials: Format A: domain\\username (e.g., corp\\jdoe ) Format B: username@domain.com (e.g., jdoe@corp.com ) Click OK or Submit . You may be asked to change your password if it’s expired or your account requires reset on the next login. Step 3: Navigate to Your SharePoint Site Once you’ve successfully logged in, you will land on your SharePoint home page, or the default site assigned to you. Ways to Navigate: Use the App Launcher (the waffle menu) in the top left to select “ SharePoint .” If you want to use the direct link to a site (e.g., you have a team site, or a communication site link) you may want to bookmark the link for future use. Some common types of sites: Team Sites: For collaboration within departments and project teams Communication Sites: Used for highlighting news or resources to a larger audience Hub Sites: A one-stop shop for linking other SharePoint sites and SharePoint Online that are related. Step 4: Verify Access and Permissions After you log in to SharePoint, the next step of SharePoint sign in is to confirm that you have access and permission to do what you need to do. Here are the steps to verify: Navigate to the SharePoint Site After SharePoint log in , navigate to the SharePoint site you need to access (e.g. your team site or document library). URL example: https://[yourorganization].sharepoint.com/sites/[sitename] Check Page Access Check If you receive an “Access Denied” message or if you are redirected elsewhere, you may not have current permission to the site. Contact your SharePoint administrator. Confirm Navigation and Features Click around and open the various navigation options on the page (e.g. “Documents”, “Lists”, “Pages”). Confirm that you can open and view at least one file or folder in the SharePoin t site. Check Editing Permissions (if required) Try uploading a file or creating a new document (using the “New” or “Upload” button in a document library). If you are unable to edit or upload, you may only have read-only permissions. Review your Permission Level Go to Settings (gear icon) > Site permissions (or Site Settings > Site permissions) Look for a section with your user account and the permission level (e.g., “Edit”, “Contribute”, “Read”). If you lack access contact admin If none of the previous options have worked for Microsoft SharePoint login , contact your SharePoint or IT admin. You will need to provide them with: The URL of the SharePoint site Your user ID/email Description of the problem A. SharePoint Mobile App You can use the Microsoft SharePoint mobile app to log in to SharePoint from mobile devices including Android and iOS. Steps: Download the app from App Store or Google Play Open the app and enter your work email Sign in with the same Microsoft 365 Sign-In credentials Authenticate with MFA (if applicable), and access your sites and documents while on-the-go. Mobile access is especially useful to teams working in the field, traveling, or working in hybrid environments no matter if it is SharePoint Online login . Connecting with a reliable SharePoint app development partner would be a wise decision! B. OneDrive and Office Integration When signed in to your Microsoft 365 account, SharePoint will automatically integrate with OneDrive and other office tenants (Word, Excel, Teams, etc.) Benefits: Open and edit documents right in Word/Excel Auto-save documents into SharePoint libraries Sync libraries to your desktop with OneDrive. Step 6: Troubleshooting Login Issues Even with these faster fixes, there could still be one or more problems you face as you login into SharePoint. Here are some common problems you may come across and their solutions: Problem: I Forgot my Password For Office 365 Users: Use the “Forgot Password” link on the login screen. For On-Premises Users: Communicate with your IT help desk. For Third-Party Hosting: Reach out to the hosting provider support team. Problem: Account Locked If you have made multiple failed attempts with the same password, your account can be locked temporarily. It usually takes 15-30 minutes to unlock your account. If waiting, you can contact support to unlock your account and proceed. Problem: “Access Denied” or Permission not on file. Each login account has its required permission level (ex. read only, contributor, etc.); determining what permission group you will be given or are to have becomes trial and error. If you need your username and password to reset access and permission levels, be sure to ask your site owner for assistance, or your IT system admin for help. This is a key component of SharePoint office 365 login . Problem: Browser issues SharePoint works better with Microsoft Edge, Google Chrome, or Mozilla Firefox, but no matter the browser you are using, clear your cache and clear your cookies if the log-on screen is not appearing typically. Step 7: Security and Best Practices Always Sign Out It is important to sign out when finished, especially on shared or public devices. Click your profile photo (top right). Select Sign Out. Use MFA (Multi-Factor Authentication) You should always use MFA if possible for added protection for your accounts. Use the Microsoft Authenticator app to approve your sign in more easily. Never Share your Credentials Do not email your password. You should not save passwords in public browsers. To Wrap Up Accessing your organization’s SharePoint site is the most critical step to begin working collaboratively, organized, and productive in the digital workplace. Most likely, you are using a cloud-hosted version of your SharePoint site via Microsoft 365 or an on-premises SharePoint installation or another hosted environment. Either way, it is important to understand where and how to access the SharePoint login page before getting started. This guide has shown you how to identify the login URL, authenticate your login with secure credentials, and access your organization and site. You have had a look at common errors such as password resets and errors on permissions and adding SharePoint to your mobile device or process. Accessing SharePoint is just the start whether you are using it via your web browser, mobile device, or are integrating it from workflow tools like Microsoft 365 Teams or OneDrive. At Awesome Technologies Inc, we help users login to SharePoint , but we also build powerful, custom SharePoint solutions to build upon the value of SharePoint even further for the modern workplace. We have a team of Microsoft-certified developers and solution architects that specializes in SharePoint . So far, we have helped organizations to realize the business value and potential of SharePoint as not just a tool, but as a business asset that minimizes cost and maximizes essential performance! Need Help Beyond Login? Awesome Technologies Inc can help you with the most common use cases for SharePoint even if you’re new to SharePoint or looking to scale. We provide support for your SharePoint journey that covers it all—onboarding and access management, custom development, and enterprise integration. Contact us if you would like to learn more about our SharePoint consulting services ; we’d be happy to discuss how we can design and implement your digital workplace! FAQs 1. What is SharePoint, and why do I need to log in? SharePoint is Microsoft’s web-based platform for document management, collaboration, content sharing, and intranet services. Logging in securely allows you to access shared company resources, files and workflows, and team collaboration spaces. 2. What should I do if I forgot my SharePoint password? For Microsoft 365 users: Go to https://passwordreset.microsoftonline.com For on-premises users: Contact your internal IT help desk. For a third-party hosting service: Contact your hosting provider for support. 3. I’m getting an “Access Denied” message — what does it mean? This generally indicates that your account does not have permission to view that site or document. Please contact the SharePoint site owner or your IT administrator to gain access for the SharePoint admin login . 4. Can I log into SharePoint from my phone? Yes. Download the Microsoft SharePoint app from the App Store or Google Play. Sign in with your Microsoft 365 email and password. Access documents, sites, and news from your mobile device. 5. Do I need to use VPN to access SharePoint? There is no VPN needed to access SharePoint Online (Office 365). If you are using on-premise SharePoint, you may need a VPN if you are outside the reach of the corporate network. 6. How can I stay signed in to SharePoint? When logging in, select the “Keep me signed in” checkbox after entering your password but do not select this on shared or public computers. 7. What is Multi-Factor Authentication (MFA), and is it required? MFA is an additional security level where you authenticate through a second method (like a code or mobile device approval) in addition to a password. If your organization requires MFA, your sign-in will require you to approve the sign-in using: Microsoft Authenticator app SMS Code Email verification 8. Can I access multiple SharePoint accounts from one browser? Yes, but you may have session conflicts. Use Incognito/Private Mode to log into a second account or different browsers (i.e. Edge for one account and Chrome for the other). Subscribe to ATI First name Last Name Your email Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+  "word_count": 5062,
+  "headings_count": 21,
+  "images_count": 4,
+  "buttons_count": 11,
+  "forms_count": 2,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "Step-By-Step Guide to Logging Into SharePoint Home » Step-By-Step Guide to Logging Into SharePoint Have you ever wondered, “How do I log into SharePoint without getting confused with all the Microsoft logins?” That’s not uncommon as many still fail at SharePoint login or still want to know ‘’ how do I access SharePoint ’’? Remote team members, new employees, and anyone trying to access a company document / resource on SharePoint has experienced the same thing. SharePoint is an incredible tool, especially, but not limited to, the remote workforce. As we talk about SharePoint log in , it certainly can be slightly overwhelming at first. Not to worry! This blog is going to take you through the steps of signing into SharePoint in an easy read. SharePoint is Microsoft’s enhanced collaboration tool to help teams manage documents, share resources and work smarter together. In order to enjoy all the benefits this application has to offer, you need to get through the front door (the login). This blog will give you the step by step information you need for SharePoint sign in , how to avoid possible mistakes, and tips to better enjoy SharePoint from the very beginning. Now, let’s get you connected! SharePoint Login: Process & Best Practices Step 1: Navigate to Your Login Page The first step for Microsoft SharePoint login is knowing exactly where you are logging into. SharePoint is hosted in different manners, therefore the method you take depends on how your organization has set up SharePoint. SharePoint is usually hosted using Microsoft Office 365 (cloud), on-premises (in-house), or a third-party host. Knowing what SharePoint deployment to use is very important to know where to find your SharePoint login URL. The same goes for SharePoint Online login . Microsoft Office 365 (Cloud) If used Office 365 to facilitate SharePoint, then there are two main ways to login into SharePoint : Option A: Company Specific URL Most organizations using Office 365 have configured a specific domain for their SharePoint online hosted site. The URL will look something like this: https://yourcompany.sharepoint.com Your company would be the name of your organization or a version of that name chosen by the IT department when SharePoint was established. What to do: If you have no idea where to look for a specific link, contact your internal IT help desk or network support. This link will direct you to your organization’s SharePoint home site or portal. Option B: Generic Microsoft Office URL At the initial stage, your confusion might still persist as ‘’ how to sign in SharePoint ’’? If you do not know the dedicated URL, you can also get to SharePoint by logging in via the Microsoft 365 homepage. Steps: Open your favourite browser, navigate to and open https://www.office.com. Click on Sign In, in the upper right corner of the page. You will be taken to a general Microsoft Sign in Page. Note: If your business has modified the sign in screen (corporate branding), you will not see that at first. After you enter your e-mail address, Microsoft detects your domain and then displays the corporate brand login experience for your organization. The same follows for SharePoint Office 365 login . On-Premises (Locally Hosted SharePoint) If you are using SharePoint hosted by your business’s own servers (rather than SharePoint in the cloud), you would need to use a different URL which is typically only available inside a company network or VPN if remote. What To Do? Please ask your IT team or SharePoint administrator for the correct link to login. The SharePoint admin login is made clear here. The URL format is likely something like: http://intranet/sites/yoursite These URLs are often not publicly available so accessing from outside the office is likely VPN or remote desktop access Third-Party SharePoint Hosting If you are operating a SharePoint environment that is hosted by a third-party service, you may need to contact your hosting provider for the access instructions. What should I do? Look for a welcome email from the provider with your login credentials and the URL for SharePoint login . You can either head to the provider’s website and find the login page for the provider or reach out to support via phone, email, or live chat! After you have narrowed down the proper SharePoint URL, the second step will be signing into the hosting provider using your credentials. The authentication will depend on how your SharePoint is hosted. Microsoft Office 365 Login: How do you access SharePoint using MS Office 365? Open a browser and go to the SharePoint URL or go to office.com. Type your email address for your company’s Microsoft 365 account. Example: john.doe@yourcompany.com Click Next. If your company uses a branded login page, you will be redirected to a branded login page. Type your password. Click Sign In. If Multi-Factor Authentication (MFA) is enabled, you will need to complete the verification process (i.e., approve via Microsoft Authenticator or entering an SMS or email code). Step 2: Sign In With Your Credentials After you have determined your SharePoint URL, the next step is to login into SharePoint using your credentials. How you authenticate will depend on your SharePoint hosting. Microsoft Office 365 Login Open a browser and go to your SharePoint URL or through office.com. Enter the email associated with your company Microsoft 365 account. Example: john.doe@yourcompany.com Click Next. You will be redirected to a branded login page (if your company uses one). Enter your password. Click Sign In. If Multi-Factor Authentication (MFA) is enabled, you will have to complete some sort of verification (e.g. through the Microsoft Authenticator app, SMS, or Email). On-Premises or Third-Party Hosted Login Open a browser and go to the SharePoint sign in URL. You should be presented with one of two prompts depending on configuration: A web based login asking for a username and password. A pop-up message entitled “Windows Security” (sometimes referred to as a Basic Auth or NTLM prompt). Enter your network credentials: Format A: domain\\username (e.g., corp\\jdoe ) Format B: username@domain.com (e.g., jdoe@corp.com ) Click OK or Submit . You may be asked to change your password if it’s expired or your account requires reset on the next login. Step 3: Navigate to Your SharePoint Site Once you’ve successfully logged in, you will land on your SharePoint home page, or the default site assigned to you. Ways to Navigate: Use the App Launcher (the waffle menu) in the top left to select “ SharePoint .” If you want to use the direct link to a site (e.g., you have a team site, or a communication site link) you may want to bookmark the link for future use. Some common types of sites: Team Sites: For collaboration within departments and project teams Communication Sites: Used for highlighting news or resources to a larger audience Hub Sites: A one-stop shop for linking other SharePoint sites and SharePoint Online that are related. Step 4: Verify Access and Permissions After you log in to SharePoint, the next step of SharePoint sign in is to confirm that you have access and permission to do what you need to do. Here are the steps to verify: Navigate to the SharePoint Site After SharePoint log in , navigate to the SharePoint site you need to access (e.g. your team site or document library). URL example: https://[yourorganization].sharepoint.com/sites/[sitename] Check Page Access Check If you receive an “Access Denied” message or if you are redirected elsewhere, you may not have current permission to the site. Contact your SharePoint administrator. Confirm Navigation and Features Click around and open the various navigation options on the page (e.g. “Documents”, “Lists”, “Pages”). Confirm that you can open and view at least one file or folder in the SharePoin t site. Check Editing Permissions (if required) Try uploading a file or creating a new document (using the “New” or “Upload” button in a document library). If you are unable to edit or upload, you may only have read-only permissions. Review your Permission Level Go to Settings (gear icon) > Site permissions (or Site Settings > Site permissions) Look for a section with your user account and the permission level (e.g., “Edit”, “Contribute”, “Read”). If you lack access contact admin If none of the previous options have worked for Microsoft SharePoint login , contact your SharePoint or IT admin. You will need to provide them with: The URL of the SharePoint site Your user ID/email Description of the problem Step 5: Explore Additional Login Methods A. SharePoint Mobile App You can use the Microsoft SharePoint mobile app to log in to SharePoint from mobile devices including Android and iOS. Steps: Download the app from App Store or Google Play Open the app and enter your work email Sign in with the same Microsoft 365 Sign-In credentials Authenticate with MFA (if applicable), and access your sites and documents while on-the-go. Mobile access is especially useful to teams working in the field, traveling, or working in hybrid environments no matter if it is SharePoint Online login . Connecting with a reliable SharePoint app development partner would be a wise decision! B. OneDrive and Office Integration When signed in to your Microsoft 365 account, SharePoint will automatically integrate with OneDrive and other office tenants (Word, Excel, Teams, etc.) Benefits: Open and edit documents right in Word/Excel Auto-save documents into SharePoint libraries Sync libraries to your desktop with OneDrive. Step 6: Troubleshooting Login Issues Even with these faster fixes, there could still be one or more problems you face as you login into SharePoint. Here are some common problems you may come across and their solutions: Problem: I Forgot my Password For Office 365 Users: Use the “Forgot Password” link on the login screen. For On-Premises Users: Communicate with your IT help desk. For Third-Party Hosting: Reach out to the hosting provider support team. Problem: Account Locked If you have made multiple failed attempts with the same password, your account can be locked temporarily. It usually takes 15-30 minutes to unlock your account. If waiting, you can contact support to unlock your account and proceed. Problem: “Access Denied” or Permission not on file. Each login account has its required permission level (ex. read only, contributor, etc.); determining what permission group you will be given or are to have becomes trial and error. If you need your username and password to reset access and permission levels, be sure to ask your site owner for assistance, or your IT system admin for help. This is a key component of SharePoint office 365 login . Problem: Browser issues SharePoint works better with Microsoft Edge, Google Chrome, or Mozilla Firefox, but no matter the browser you are using, clear your cache and clear your cookies if the log-on screen is not appearing typically. Step 7: Security and Best Practices Always Sign Out It is important to sign out when finished, especially on shared or public devices. Click your profile photo (top right). Select Sign Out. Use MFA (Multi-Factor Authentication) You should always use MFA if possible for added protection for your accounts. Use the Microsoft Authenticator app to approve your sign in more easily. Never Share your Credentials Do not email your password. You should not save passwords in public browsers. To Wrap Up Accessing your organization’s SharePoint site is the most critical step to begin working collaboratively, organized, and productive in the digital workplace. Most likely, you are using a cloud-hosted version of your SharePoint site via Microsoft 365 or an on-premises SharePoint installation or another hosted environment. Either way, it is important to understand where and how to access the SharePoint login page before getting started. This guide has shown you how to identify the login URL, authenticate your login with secure credentials, and access your organization and site. You have had a look at common errors such as password resets and errors on permissions and adding SharePoint to your mobile device or process. Accessing SharePoint is just the start whether you are using it via your web browser, mobile device, or are integrating it from workflow tools like Microsoft 365 Teams or OneDrive. At Awesome Technologies Inc, we help users login to SharePoint , but we also build powerful, custom SharePoint solutions to build upon the value of SharePoint even further for the modern workplace. We have a team of Microsoft-certified developers and solution architects that specializes in SharePoint . So far, we have helped organizations to realize the business value and potential of SharePoint as not just a tool, but as a business asset that minimizes cost and maximizes essential performance! Need Help Beyond Login? Awesome Technologies Inc can help you with the most common use cases for SharePoint even if you’re new to SharePoint or looking to scale. We provide support for your SharePoint journey that covers it all—onboarding and access management, custom development, and enterprise integration. Contact us if you would like to learn more about our SharePoint consulting services ; we’d be happy to discuss how we can design and implement your digital workplace! FAQs 1. What is SharePoint, and why do I need to log in? SharePoint is Microsoft’s web-based platform for document management, collaboration, content sharing, and intranet services. Logging in securely allows you to access shared company resources, files and workflows, and team collaboration spaces. 2. What should I do if I forgot my SharePoint password? For Microsoft 365 users: Go to https://passwordreset.microsoftonline.com For on-premises users: Contact your internal IT help desk. For a third-party hosting service: Contact your hosting provider for support. 3. I’m getting an “Access Denied” message — what does it mean? This generally indicates that your account does not have permission to view that site or document. Please contact the SharePoint site owner or your IT administrator to gain access for the SharePoint admin login . 4. Can I log into SharePoint from my phone? Yes. Download the Microsoft SharePoint app from the App Store or Google Play. Sign in with your Microsoft 365 email and password. Access documents, sites, and news from your mobile device. 5. Do I need to use VPN to access SharePoint? There is no VPN needed to access SharePoint Online (Office 365). If you are using on-premise SharePoint, you may need a VPN if you are outside the reach of the corporate network. 6. How can I stay signed in to SharePoint? When logging in, select the “Keep me signed in” checkbox after entering your password but do not select this on shared or public computers. 7. What is Multi-Factor Authentication (MFA), and is it required? MFA is an additional security level where you authenticate through a second method (like a code or mobile device approval) in addition to a password. If your organization requires MFA, your sign-in will require you to approve the sign-in using: Microsoft Authenticator app SMS Code Email verification 8. Can I access multiple SharePoint accounts from one browser? Yes, but you may have session conflicts. Use Incognito/Private Mode to log into a second account or different browsers (i.e. Edge for one account and Chrome for the other). ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2025/06/Step-By-Step-Guide-to-Logging-Into-SharePoint-scaled.png",
+          "alt": "Step-By-Step Guide to Logging Into SharePoint"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+          "alt": "Mortgage Automation in 2026"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+          "alt": "HMDA Reporting Setup in Encompass LOS"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+          "alt": "What is a Loan Origination System?"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Home",
+          "url": "https://awesometechinc.com/"
+        },
+        {
+          "label": "reliable SharePoint app development",
+          "url": "https://awesometechinc.com/sharepoint-development-services/"
+        },
+        {
+          "label": "SharePoint consulting services",
+          "url": "https://awesometechinc.com/sharepoint-consulting-services/"
+        },
+        {
+          "label": "Search",
+          "url": ""
+        },
+        {
+          "label": "Subscribe",
+          "url": ""
+        },
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form",
+          "form_id": "",
+          "fields": [
+            {
+              "name": "s",
+              "label": "",
+              "type": "search",
+              "required": false
+            }
+          ],
+          "submit_label": "Search"
+        },
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "Step 1: Navigate to Your Login Page",
+      "type": "form_section",
+      "content": "The first step for Microsoft SharePoint login is knowing exactly where you are logging into. SharePoint is hosted in different manners, therefore the method you take depends on how your organization has set up SharePoint. SharePoint is usually hosted using Microsoft Office 365 (cloud), on-premises (in-house), or a third-party host. Knowing what SharePoint deployment to use is very important to know where to find your SharePoint login URL. The same goes for SharePoint Online login . Microsoft Office 365 (Cloud) If used Office 365 to facilitate SharePoint, then there are two main ways to login into SharePoint : Option A: Company Specific URL Most organizations using Office 365 have configured a specific domain for their SharePoint online hosted site. The URL will look something like this: https://yourcompany.sharepoint.com Your company would be the name of your organization or a version of that name chosen by the IT department when SharePoint was established. What to do: If you have no idea where to look for a specific link, contact your internal IT help desk or network support. This link will direct you to your organization’s SharePoint home site or portal. Option B: Generic Microsoft Office URL At the initial stage, your confusion might still persist as ‘’ how to sign in SharePoint ’’? If you do not know the dedicated URL, you can also get to SharePoint by logging in via the Microsoft 365 homepage. Steps: Open your favourite browser, navigate to and open https://www.office.com. Click on Sign In, in the upper right corner of the page. You will be taken to a general Microsoft Sign in Page. Note: If your business has modified the sign in screen (corporate branding), you will not see that at first. After you enter your e-mail address, Microsoft detects your domain and then displays the corporate brand login experience for your organization. The same follows for SharePoint Office 365 login . On-Premises (Locally Hosted SharePoint) If you are using SharePoint hosted by your business’s own servers (rather than SharePoint in the cloud), you would need to use a different URL which is typically only available inside a company network or VPN if remote. What To Do? Please ask your IT team or SharePoint administrator for the correct link to login. The SharePoint admin login is made clear here. The URL format is likely something like: http://intranet/sites/yoursite These URLs are often not publicly available so accessing from outside the office is likely VPN or remote desktop access Third-Party SharePoint Hosting If you are operating a SharePoint environment that is hosted by a third-party service, you may need to contact your hosting provider for the access instructions. What should I do? Look for a welcome email from the provider with your login credentials and the URL for SharePoint login . You can either head to the provider’s website and find the login page for the provider or reach out to support via phone, email, or live chat! After you have narrowed down the proper SharePoint URL, the second step will be signing into the hosting provider using your credentials. The authentication will depend on how your SharePoint is hosted. Microsoft Office 365 Login: How do you access SharePoint using MS Office 365? Open a browser and go to the SharePoint URL or go to office.com. Type your email address for your company’s Microsoft 365 account. Example: john.doe@yourcompany.com Click Next. If your company uses a branded login page, you will be redirected to a branded login page. Type your password. Click Sign In. If Multi-Factor Authentication (MFA) is enabled, you will need to complete the verification process (i.e., approve via Microsoft Authenticator or entering an SMS or email code).",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 3,
+      "title": "Step 2: Sign In With Your Credentials",
+      "type": "content_section",
+      "content": "After you have determined your SharePoint URL, the next step is to login into SharePoint using your credentials. How you authenticate will depend on your SharePoint hosting. Microsoft Office 365 Login Open a browser and go to your SharePoint URL or through office.com. Enter the email associated with your company Microsoft 365 account. Example: john.doe@yourcompany.com Click Next. You will be redirected to a branded login page (if your company uses one). Enter your password. Click Sign In. If Multi-Factor Authentication (MFA) is enabled, you will have to complete some sort of verification (e.g. through the Microsoft Authenticator app, SMS, or Email). On-Premises or Third-Party Hosted Login Open a browser and go to the SharePoint sign in URL. You should be presented with one of two prompts depending on configuration: A web based login asking for a username and password. A pop-up message entitled “Windows Security” (sometimes referred to as a Basic Auth or NTLM prompt). Enter your network credentials: Format A: domain\\username (e.g., corp\\jdoe ) Format B: username@domain.com (e.g., jdoe@corp.com ) Click OK or Submit . You may be asked to change your password if it’s expired or your account requires reset on the next login.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 4,
+      "title": "Step 3: Navigate to Your SharePoint Site",
+      "type": "content_section",
+      "content": "Once you’ve successfully logged in, you will land on your SharePoint home page, or the default site assigned to you. Ways to Navigate: Use the App Launcher (the waffle menu) in the top left to select “ SharePoint .” If you want to use the direct link to a site (e.g., you have a team site, or a communication site link) you may want to bookmark the link for future use. Some common types of sites: Team Sites: For collaboration within departments and project teams Communication Sites: Used for highlighting news or resources to a larger audience Hub Sites: A one-stop shop for linking other SharePoint sites and SharePoint Online that are related.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 5,
+      "title": "Step 4: Verify Access and Permissions",
+      "type": "form_section",
+      "content": "After you log in to SharePoint, the next step of SharePoint sign in is to confirm that you have access and permission to do what you need to do. Here are the steps to verify: Navigate to the SharePoint Site After SharePoint log in , navigate to the SharePoint site you need to access (e.g. your team site or document library). URL example: https://[yourorganization].sharepoint.com/sites/[sitename] Check Page Access Check If you receive an “Access Denied” message or if you are redirected elsewhere, you may not have current permission to the site. Contact your SharePoint administrator. Confirm Navigation and Features Click around and open the various navigation options on the page (e.g. “Documents”, “Lists”, “Pages”). Confirm that you can open and view at least one file or folder in the SharePoin t site. Check Editing Permissions (if required) Try uploading a file or creating a new document (using the “New” or “Upload” button in a document library). If you are unable to edit or upload, you may only have read-only permissions. Review your Permission Level Go to Settings (gear icon) > Site permissions (or Site Settings > Site permissions) Look for a section with your user account and the permission level (e.g., “Edit”, “Contribute”, “Read”). If you lack access contact admin If none of the previous options have worked for Microsoft SharePoint login , contact your SharePoint or IT admin. You will need to provide them with: The URL of the SharePoint site Your user ID/email Description of the problem",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 6,
+      "title": "A. SharePoint Mobile App",
+      "type": "content_section",
+      "content": "You can use the Microsoft SharePoint mobile app to log in to SharePoint from mobile devices including Android and iOS. Steps: Download the app from App Store or Google Play Open the app and enter your work email Sign in with the same Microsoft 365 Sign-In credentials Authenticate with MFA (if applicable), and access your sites and documents while on-the-go. Mobile access is especially useful to teams working in the field, traveling, or working in hybrid environments no matter if it is SharePoint Online login . Connecting with a reliable SharePoint app development partner would be a wise decision!",
+      "images": [],
+      "buttons": [
+        {
+          "label": "reliable SharePoint app development",
+          "url": "https://awesometechinc.com/sharepoint-development-services/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 7,
+      "title": "B. OneDrive and Office Integration",
+      "type": "service_section",
+      "content": "When signed in to your Microsoft 365 account, SharePoint will automatically integrate with OneDrive and other office tenants (Word, Excel, Teams, etc.) Benefits: Open and edit documents right in Word/Excel Auto-save documents into SharePoint libraries Sync libraries to your desktop with OneDrive.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 8,
+      "title": "Step 6: Troubleshooting Login Issues",
+      "type": "form_section",
+      "content": "Even with these faster fixes, there could still be one or more problems you face as you login into SharePoint. Here are some common problems you may come across and their solutions: Problem: I Forgot my Password For Office 365 Users: Use the “Forgot Password” link on the login screen. For On-Premises Users: Communicate with your IT help desk. For Third-Party Hosting: Reach out to the hosting provider support team. Problem: Account Locked If you have made multiple failed attempts with the same password, your account can be locked temporarily. It usually takes 15-30 minutes to unlock your account. If waiting, you can contact support to unlock your account and proceed. Problem: “Access Denied” or Permission not on file. Each login account has its required permission level (ex. read only, contributor, etc.); determining what permission group you will be given or are to have becomes trial and error. If you need your username and password to reset access and permission levels, be sure to ask your site owner for assistance, or your IT system admin for help. This is a key component of SharePoint office 365 login . Problem: Browser issues SharePoint works better with Microsoft Edge, Google Chrome, or Mozilla Firefox, but no matter the browser you are using, clear your cache and clear your cookies if the log-on screen is not appearing typically.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 9,
+      "title": "Step 7: Security and Best Practices",
+      "type": "content_section",
+      "content": "Always Sign Out It is important to sign out when finished, especially on shared or public devices. Click your profile photo (top right). Select Sign Out. Use MFA (Multi-Factor Authentication) You should always use MFA if possible for added protection for your accounts. Use the Microsoft Authenticator app to approve your sign in more easily. Never Share your Credentials Do not email your password. You should not save passwords in public browsers.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 10,
+      "title": "To Wrap Up",
+      "type": "form_section",
+      "content": "Accessing your organization’s SharePoint site is the most critical step to begin working collaboratively, organized, and productive in the digital workplace. Most likely, you are using a cloud-hosted version of your SharePoint site via Microsoft 365 or an on-premises SharePoint installation or another hosted environment. Either way, it is important to understand where and how to access the SharePoint login page before getting started. This guide has shown you how to identify the login URL, authenticate your login with secure credentials, and access your organization and site. You have had a look at common errors such as password resets and errors on permissions and adding SharePoint to your mobile device or process. Accessing SharePoint is just the start whether you are using it via your web browser, mobile device, or are integrating it from workflow tools like Microsoft 365 Teams or OneDrive. At Awesome Technologies Inc, we help users login to SharePoint , but we also build powerful, custom SharePoint solutions to build upon the value of SharePoint even further for the modern workplace. We have a team of Microsoft-certified developers and solution architects that specializes in SharePoint . So far, we have helped organizations to realize the business value and potential of SharePoint as not just a tool, but as a business asset that minimizes cost and maximizes essential performance! Need Help Beyond Login? Awesome Technologies Inc can help you with the most common use cases for SharePoint even if you’re new to SharePoint or looking to scale. We provide support for your SharePoint journey that covers it all—onboarding and access management, custom development, and enterprise integration. Contact us if you would like to learn more about our SharePoint consulting services ; we’d be happy to discuss how we can design and implement your digital workplace!",
+      "images": [],
+      "buttons": [
+        {
+          "label": "SharePoint consulting services",
+          "url": "https://awesometechinc.com/sharepoint-consulting-services/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 11,
+      "title": "FAQs",
+      "type": "form_section",
+      "content": "1. What is SharePoint, and why do I need to log in? SharePoint is Microsoft’s web-based platform for document management, collaboration, content sharing, and intranet services. Logging in securely allows you to access shared company resources, files and workflows, and team collaboration spaces. 2. What should I do if I forgot my SharePoint password? For Microsoft 365 users: Go to https://passwordreset.microsoftonline.com For on-premises users: Contact your internal IT help desk. For a third-party hosting service: Contact your hosting provider for support. 3. I’m getting an “Access Denied” message — what does it mean? This generally indicates that your account does not have permission to view that site or document. Please contact the SharePoint site owner or your IT administrator to gain access for the SharePoint admin login . 4. Can I log into SharePoint from my phone? Yes. Download the Microsoft SharePoint app from the App Store or Google Play. Sign in with your Microsoft 365 email and password. Access documents, sites, and news from your mobile device. 5. Do I need to use VPN to access SharePoint? There is no VPN needed to access SharePoint Online (Office 365). If you are using on-premise SharePoint, you may need a VPN if you are outside the reach of the corporate network. 6. How can I stay signed in to SharePoint? When logging in, select the “Keep me signed in” checkbox after entering your password but do not select this on shared or public computers. 7. What is Multi-Factor Authentication (MFA), and is it required? MFA is an additional security level where you authenticate through a second method (like a code or mobile device approval) in addition to a password. If your organization requires MFA, your sign-in will require you to approve the sign-in using: Microsoft Authenticator app SMS Code Email verification 8. Can I access multiple SharePoint accounts from one browser? Yes, but you may have session conflicts. Use Incognito/Private Mode to log into a second account or different browsers (i.e. Edge for one account and Chrome for the other).",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 12,
+      "title": "Subscribe to ATI",
+      "type": "form_section",
+      "content": "First name Last Name Your email",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Subscribe",
+          "url": ""
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "title": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "type": "service_section",
+      "content": "Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 14,
+      "title": "HMDA Reporting Setup in Encompass LOS",
+      "type": "content_section",
+      "content": "March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 15,
+      "title": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "type": "content_section",
+      "content": "In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": []
+    }
+  ],
+  "images": [
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2025/06/Step-By-Step-Guide-to-Logging-Into-SharePoint-scaled.png",
+      "alt": "Step-By-Step Guide to Logging Into SharePoint"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+      "alt": "Mortgage Automation in 2026"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+      "alt": "HMDA Reporting Setup in Encompass LOS"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+      "alt": "What is a Loan Origination System?"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "reliable SharePoint app development",
+      "url": "https://awesometechinc.com/sharepoint-development-services/"
+    },
+    {
+      "label": "SharePoint consulting services",
+      "url": "https://awesometechinc.com/sharepoint-consulting-services/"
+    },
+    {
+      "label": "Search",
+      "url": ""
+    },
+    {
+      "label": "Subscribe",
+      "url": ""
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ],
+  "forms": [
+    {
+      "form_type": "contact_form",
+      "form_id": "",
+      "fields": [
+        {
+          "name": "s",
+          "label": "",
+          "type": "search",
+          "required": false
+        }
+      ],
+      "submit_label": "Search"
+    },
+    {
+      "form_type": "contact_form_7",
+      "form_id": "12171",
+      "fields": [
+        {
+          "name": "your-name",
+          "label": "your-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "last-name",
+          "label": "last-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "your-email",
+          "label": "your-email",
+          "type": "email",
+          "required": true
+        }
+      ],
+      "submit_label": "Subscribe"
+    }
+  ],
+  "links": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "reliable SharePoint app development",
+      "url": "https://awesometechinc.com/sharepoint-development-services/"
+    },
+    {
+      "label": "SharePoint consulting services",
+      "url": "https://awesometechinc.com/sharepoint-consulting-services/"
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ]
+}

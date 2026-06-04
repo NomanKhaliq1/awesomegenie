@@ -1,0 +1,91 @@
+{
+  "id": null,
+  "source_type": "page",
+  "slug": "lenders-one-2026",
+  "title": "Lenders One 2026 Event",
+  "url": "https://awesometechinc.com/events-photos/lenders-one-2026/",
+  "meta_title": "About Us: Unveiling Our Vision, Values, and Commitment",
+  "meta_description": "Learn about our journey, values, and commitment at Awesome Technologies Inc. We are dedicated to our mission. Explore our About Us page to discover more.",
+  "modified_at": "2026-03-12T21:27:21+00:00",
+  "status": "skipped",
+  "summary": "Learn about our journey, values, and commitment at Awesome Technologies Inc. We are dedicated to our mission.",
+  "keywords": [
+    "mortgage experience let",
+    "our",
+    "and",
+    "are",
+    "commitment",
+    "event",
+    "the",
+    "values",
+    "dedicated",
+    "get",
+    "inc",
+    "intro",
+    "journey",
+    "learn",
+    "lenders",
+    "mission"
+  ],
+  "full_text": "Intro Lenders One 2026 Event Event Showcase Our gallery lets you see the magical moments of the events that we hold! Share YOU ARE IN GOOD COMPANY Helping customers to create better mortgage experience LET’S TALK TO OUR EXPERTS Get The Conversation Rolling GET A FREE CONSULTATION QUICK INTRO CALL",
+  "word_count": 50,
+  "headings_count": 5,
+  "images_count": 0,
+  "buttons_count": 3,
+  "forms_count": 0,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "Lenders One 2026 Event Event Showcase Our gallery lets you see the magical moments of the events that we hold! Share YOU ARE IN GOOD COMPANY Helping customers to create better mortgage experience LET’S TALK TO OUR EXPERTS Get The Conversation Rolling GET A FREE CONSULTATION QUICK INTRO CALL",
+      "images": [],
+      "buttons": [
+        {
+          "label": "LET’S TALK TO OUR EXPERTS",
+          "url": "https://awesometechinc.com/contact-us/"
+        },
+        {
+          "label": "GET A FREE CONSULTATION",
+          "url": "https://awesometechinc.com/contact-us/"
+        },
+        {
+          "label": "QUICK INTRO CALL",
+          "url": "tel:%20877-284-4968"
+        }
+      ],
+      "forms": []
+    }
+  ],
+  "images": [],
+  "buttons": [
+    {
+      "label": "LET’S TALK TO OUR EXPERTS",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "GET A FREE CONSULTATION",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "QUICK INTRO CALL",
+      "url": "tel:%20877-284-4968"
+    }
+  ],
+  "forms": [],
+  "links": [
+    {
+      "label": "LET’S TALK TO OUR EXPERTS",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "GET A FREE CONSULTATION",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "QUICK INTRO CALL",
+      "url": "tel:%20877-284-4968"
+    }
+  ],
+  "skip_reason": "Event photo gallery page; low text value for chatbot retrieval."
+}

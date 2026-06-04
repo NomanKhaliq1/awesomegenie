@@ -1,0 +1,537 @@
+{
+  "id": null,
+  "source_type": "post",
+  "slug": "exploring-ai-integrations-for-encompass-whats-possible-in-2026",
+  "title": "Exploring AI Integrations for Encompass: What’s Possible in 2026",
+  "url": "https://awesometechinc.com/exploring-ai-integrations-for-encompass-whats-possible-in-2026/",
+  "meta_title": "Exploring AI Integrations for Encompass: What's Possible in 2026",
+  "meta_description": "Explore the AI integrations for Encompass in 2026 — from automation and underwriting to document processing and smarter lending workflows.",
+  "modified_at": "2026-05-21T17:13:39+00:00",
+  "status": "public",
+  "summary": "Explore the AI integrations for Encompass in 2026 — from automation and underwriting to document processing and smarter lending workflows.",
+  "keywords": [
+    "mortgage was able to reduce current wor",
+    "mortgage lending is not a space in whic",
+    "mortgage lending",
+    "mortgage industry",
+    "mortgage coach ai generated total cost",
+    "mortgage lenders are currently operatin",
+    "mortgage lifecycle and measurable benef",
+    "mortgage servicers using encompass gain",
+    "mortgage income verification",
+    "mortgage has replaced the manual verifi",
+    "mortgage industry toward epc and api",
+    "mortgage analyzers",
+    "mortgage analyzers use automated evalua",
+    "mortgage automation in",
+    "mortgage application on a tuesday morni",
+    "encompass in"
+  ],
+  "full_text": "Intro Exploring AI Integrations for Encompass: What’s Possible in 2026 Home » Exploring AI Integrations for Encompass: What’s Possible in 2026 Lenders on ICE’s Encompass platform are all asking the same question: What AI integrations are worth pursuing? In this blog, we provide the complete integration blueprint of the entire ecosystem of opportunities available to lenders. Let’s explore. Why 2026 is the Breaking Point for Encompass AI? Industry observers expect 2026 to become a major transformation period for lenders moving from legacy Encompass integrations toward EPC and API-first architectures. Moving to EPC from the previous service ordering systems and adjusting one’s integration stack is more than just a housekeeping change over. It represents a primary infrastructure changeover that every lender must engage in as they undergo their integration stack audit. Many realized that they can replace the old middleware with purpose-built AI-powered integrations. The goal is to facilitate the service orders they purchase through EPC. Furthermore, service providers have reported greater adoption in several categories as well. However, a few lenders have a limited window of opportunity to adopt the EPC solution before restrictions on using the old service ordering process take effect in January 2027. On a macro scale, the financials are clear. Costs for each new loan are nearly $11,000 for the industry. Lenders that installed AI integrations for Encompass experienced total processing time cuts of 30 – 60%. Lenders’ current rate level volatility and thin margins make it so that AI has become an essential product. The Encompass AI Integration Architecture: EPC+APIs It is important to identify how AI integrates into Encompass before reviewing any individual tool sets. In 2026 there are three main ways AI integrates with Encompass: Encompass Partner Connect (EPC) The modern API architecture for ordering service from third-party services offers appraisal, flood, title, verification, etc. Partners such as Blend, Cloudvirga and Argyle integrate their apps natively. Developer Connect (APIs) Open REST APIs provide the ability for custom AI applications, data pipelines, and workflow orchestration to read/write loan data without accessing the SDK. Plugins 2.0 (Coming Q3 2026) ICE will continue modernizing the Encompass plugin framework with more web-based extensibility and API-driven customization. Native Automation + Business Rules Built-in workflow rules and new improved conditions (updated for 2026 release) include automated triggers that can route files, flag exceptions, and update status without any third party. The key shift: This is a significant change from lenders having to choose between “staying native” or “going third-party”. The EPC + API architecture allows for specialized AI to be leveraged on top of Encompass while maintaining compliance, data integrity, and audit trails. Document Intelligence: The Highest-ROI Starting Point When you ask a processor what they do all day, they will tell you that it is spent searching and reviewing documents. This is where AI in Encompass LOS delivers the fastest, most measurable returns inside Encompass. What document AI does inside Encompass? Classification: Identifies which type of document (W-2, paystub, bank statement, tax return) has been uploaded from the raw upload with no manual sorting. Data extraction (OCR + LLM): Extracts income, employer, balance and other fields then matches to their respective Encompass fields. Discrepancy detection: Checks extracted value against the loan application and, prior to sending to the underwriter Condition linking: When a borrower uploads their document, they will automatically be matched with any unfulfilled conditions in eFolder at that time and then marked as fulfilled. Leading Document AI Tools that Integrate with Encompass Tool Best For EPC/API Integration Condition Sync Income Calc Ocrolus To extract Batches from multiple sources, such as bank statements and pay stubs, quickly. Yes Yes Yes Lender Toolkit (Prism) Document workflows and disclosures can also benefit from full automation. Yes Yes Yes Blend Autopilot An automated borrower journey will occur through the POS-to-LOS system. Yes (EPC Native) Yes – Zeitro Strata AI AI-assisted compliance tools can help validate ATR/QM calculations and flag potential exceptions for human review. API No Yes Argyle The URLA will be auto-populated with employment and income verification data through employer payroll. Yes (Consumer Connect) Yes AI-Powered Underwriting & Automated Condition Management Typical underwriting consists of the underwriter manually reviewing a loan file for conditions, generating a conditions list for fulfillment by the processor, and then returning to the original loan file to re-review. Each loop takes several days. With the use of AI for loan officers, all steps of this process will be brief as follows: Step 1: Pre-submission AI file review The complete eFolder will be analyzed by AI prior to reaching the underwriter’s queue. When working with a loan file, AI will automatically flag and route to the processor any missing documentation, expired items, or any mismatch between data and documentation. Step 2: Automated condition generation Through programmatic processes, Encompass and the identified conditions will allow for flawless synchronization between documents and data. It also tracks all conditions from identification to resolution with clear rationale and edit controls. Step 3: Income & employment verification in minutes Income can be verified through services like Argyle via direct payroll integration. This enables UWs to create consistent, auditable outputs in minutes vs hours. Example: American Federal Mortgage was able to reduce current workflow from an average of four hours to eight minutes using the Argyle method for income verification. Step 4: Human review of AI-prepared file The underwriter receives a file that has already been processed and annotated. Hence, instead of gathering the findings made by the AI, the underwriter should review the AI’s findings . Importance Governance Note: Mortgage lending is not a space in which black-box AI is allowed to operate without checks and balances. Every production AI workflow must have at least three required human checkpoints: before submission – reviewing the file; after conditional approval; and prior to funding – verifying compliance. The Lender Toolkit (ISO/IEC 42001 AI Risk Management Certification (Acquired April 2026) will set the new standard for responsible use of AI in mortgage lending. Compliance Automation: Your Real-Time Safety Net The compliance engine has always run Encompass. However, what AI gets to add in 2026 is predictive compliance, catching problems before they turn into violations, not after. 2026 Compliance AI capabilities in the Encompass Ecosystem Compliance Area What AI Does? Impact TRID/Disclosure Timing Verifies that the right data is there before disclosures get generated; flags tolerance violations in real time Cuts out the costs for curing disclosures ATR/QM Automated calculations of ability to repay cross-checked against the CFPB’s thresholds. Risk of QM misclassifications decreases Document Expiration Monitoring Monitored document timelines; automatically alerts LOS before credit, income, or ID documents expire during the process. Eliminates closing delays due to stale documents Fair Lending Dashboards Automated rate-speed calculations, real-time lending pattern analysis for ECOA/HMDA compliance Identifies unintentional bias before audit Enhanced Conditions (2026) Some new Encompass native features include better condition tracking, internal notes, and a clear audit trail per edit. Speeds up condition clearing, just makes examinations easier Lead Management and Sales AI: Velocify and Beyond The Velocify System in 2026 will also increasingly connect to EPC through AI-integrated CRMs and a variety of additional technology partners to support lead generation and lead conversion. What does Velocify actually do with AI? Velocify is a sales acceleration platform. In 2026, the following components of the Velocify Software Suite will be used: Velocify Lead Manager: An AI-based algorithm prioritizes incoming leads according to how likely they are to convert with an automated process of distributing incoming leads based on geolocation, loan type, and/or performance. It also manages duplicate leads. Velocify Dial-IQ: Integrating an automated dialer with the ability to record the outcome + a direct SIP connection (same number, different phone) to the CRM systems along with an AI-based recommendation of optimal times to call. Velocify Pulse: Automation of Salesforce workflows for large enterprise teams, integrated with Encompass stacks. Where third-party AI fills the gaps? According to its focus on lead routing, Velocify has historically struggled with post-lead nurturing, AI services for borrowers and lifetime marketing. In 2026, the majority of high-volume lenders will integrate further tools, including: In 2026, most high-volume lenders also use the following tools in addition to the Encompass platform as part of their overall strategy of combining mortgage-related tools and resources for their business; Total Expert Lifecycle marketing automation (rate-trigger alerts and automated anniversary campaigns, partner co-marketing, etc.) that is layered on top of Encompass loan data via API. Surefire CRM Co-marketing automation for LO + Realtor partner campaigns with mortgage industry-specific compliance templates and two-way connections back to Encompass . Mortgage Coach AI generated total cost analysis presentations to shift borrower conversations from rates to long-term value after capturing a lead. The Full Ecosystem Map: What Integrates and How? Stage AI Use Case Key Tools Integration Method Availability Lead Capture The scoring, routing and follow-up cadence for the lead will be guided by AI. Velocify, GoHighLevel EPC/Native Live Application Chat with the borrower about document requests and pre-fill URLA. Blend Autopilot, Argyle, Floify EPC (Consumer Connect) Live Processing Classify the documents and extract them with OCR and link them to Conditions. Ocrolus, Lender Toolkit Prism Developer Connect API Live Income Verification Paystub for Employment/Income verification directly via Payroll. Argyle, The Work Number, Truv EPC VOE/VOI Live Underwriting AI to auto-create Conditions, guidelines and AUS. Lender Toolkit, Zeitro Strata, Friday Harbor API + Native (DU/LP) Live Compliance Checking the TRID and disclosing automation Lender Toolkit Disclosures, Encompass native Native + EPC Live Closing E-signature, e-close, coordinate with title, record. Encompass eClose, Simplifile, MERS Native Live Post-close Investor package assembly and Quality Control and MERS registration. Lender Toolkit, MCTlive! API Live Workflow Orchestration AI / multi-step orchestration to replace legacy RPA. WisdomStream, LoanLogics Developer Connect API Live Plugins 2.0 AI plug-ins consolidated and additional web-based customization. Various (post-Release 26.2) Plugins 2.0 Q3 2026 Implementation Roadmap: The 4 Levels of Automation The majority of mortgage lenders are currently operating at either Level 1 (Manual) or Level 2 (Partial Automation). Levels 3 (Full Automation) and 4 (Predictive AI) offer the greatest opportunities for incorporating artificial intelligence. Level 1 Manual — “We do it ourselves” Level 1 is defined as being fully manual where only people are completing tasks. Encompass is typically used primarily as a data entry system so there is no integration of AI into your process. There is a high level of error and cycle times are slow. Therefore, if your company is working at this level you are losing market share each day. Level 2 Partial Automation — “We use some rules” Level 2 is partially automated with some triggering being done with business rules built into Encompass and some third-party services ordered through your process using EPC. Your process will still have many manual points used to process and underwrite loans. Level 3 Full Automation — “The system does the work” At this level, there is complete automation, including document extraction using AI, which automatically fills in fields in Encompass. All conditions are tracked and monitored. Also, compliance checks are conducted prior to disclosure to the borrower. Income verification also occurs via payroll API integration, resulting in 50%+ reduction in processing time. Level 4 Predictive AI — “The system anticipates problems” AI will be able to predict problems with loans before they occur. Smart alerts will automatically notify lenders of potential issues related to loans as they arise. Fair lending dashboards will automatically adjust based on real-time data. Agentic workflows will allow for the completion of multiple-step tasks by the system without the need for a human being to review each step. Your 90-day path from Level 1 to Level 3 Audit your current integration stack (Days 1–14) Identify any integration stack that is dependent on SDKs and/or that rely on legacy EPC connections. Recognize which processes are still manual and there is a need for an AI Encompass solution for lenders. Evaluate what your current cost per loan is versus the 30-60% baseline for cost savings. This will be your business case. Migrate to EPC and Developer Connect APIs (Days 15–45) Work with your ICE Relationship Manager to modify your current contract; then move (or transition) your property appraisal, flood, title and verification orders into EPC. This will enable you to access the modern API layer that will allow you to use AI tools. Deploy high-impact AI starting with document processing (Days 30–60) Of all AI tools, Document AI will give you the fastest rate of return on your investment with the lowest implementation complexity. Based upon published WisdomStream client data, a 5-processor shop can deploy Document AI with a $3,500 implementation cost and achieve a return on that cost within 30 days. Layer in underwriting and compliance automation (Days 60–90) After the foundation has been laid for Document AI, adding automated underwriting conditions, income verification, and automated disclosures further increases the total gain. Most shops report that they have improved their processing times on each file by 50% or more as a result of this stage. Real Results from Forward-Thinking Lenders “How can AI improve my Encompass workflow?” AI can transform your Encompass workflow in many ways. It can help lenders lower the cost-per-loan by accelerating cycle times, improving borrower experiences, and providing scalable capabilities. There are several areas within the mortgage lifecycle and measurable benefit in using AI within each. AI for mortgage servicers using Encompass gain a competitive advantage and can make cost-effective decisions. “Which AI integrations should we prioritize first?” Most lenders’ ROI from AI will come from using document intelligence and automated data extraction first. Once lenders get ROI from these platforms, then they typically will see the most operational gain in automating the underwriting process and the compliance workflow. The ecosystem breaks down the various leading solutions by use case, integration type, and deployment readiness, allowing lenders to determine the best candidates for their tech stack. “We’re ready to implement AI — what are the next steps?” Start by consulting with the ICE Relationship Manager regarding your migration needs for the EPC and assess compatibility for integration into the LOS. Once this is set up, engage with potential providers such as Lender Toolkit, Ocrolus or WisdomStream to set a time for a Discovery Meeting to establish implementation priorities. The 90-Day Roadmap will serve as a useful guideline for deploying resources, aligning stakeholders, and executing operational rollouts. Case Studies Case Study — WisdomStream Client (Miami) 5-processor shop cuts 2–3 hours per processor per day Operating in Miami, Encompass took advantage of its existing loan origination software to implement AI workflow automation. The cost of implementation was $3,500. The five processors regained anywhere from 2 to 3 hours each day, for a total of ten to fifteen hours of daily capacity. The team used this increased capacity to continue to hire more loan officers and increase volume without adding to their processing staff. $3,500 – Implementation cost 10–15 hrs – Daily capacity recovered 90 days – To documented ROI Case Study — American Federal Mortgage Income verification: hours → minutes American Federal Mortgage has replaced the manual verification of income and employment with vertical AI. Encompass AI tools extracts and validates income and employment from source documents. As a result, underwriters are receiving consistent and auditable outputs in minutes. This resulted in faster credit decisions, better balance of workloads and improved predictability of rate locks/closing dates. Hours → mins Income verification time Auditable – Every output traceable Better – Rate lock predictability Case Study – Neighborhood Loans Doubled loan volume with Ocrolus + Encompass vertical AI Neighborhood Loans implemented vertical AI technology to automate the reconciliation of borrower submitted documents with data from applications they submitted through Encompass. Ocrolus flagged any missing items, or conflicting pieces of information, and sent machine-readable results straight to the LOS for processing. This process enabled them to have fewer document touches as well as faster file processing times while controlling quality. 2× Loan volume achieved ↓ Touches Per file, significantly reduced Same team No new hires required Wrapping Up The shift of the mortgage industry toward EPC and API-first systems will mark 2026 as a crucial year for Encompass lenders. AI is rapidly moving to become more practical and is already facilitating lenders with faster processing times, lowering costs, and improving the borrower experience. By beginning to implement upgrades now, lenders will be more effectively modernizing their platforms and compete more efficiently in the market. If you are seeking to enhance your Encompass workflow using AI, our Encompass integration services will automate your processes, increase efficiency and develop a smarter lending organization for 2026 and beyond! FAQs 1. What is the December 31, 2026 deadline for Encompass lenders? All Encompass lenders will be expected to discontinue their use of the SDK kit and legacy service ordering integrations through ePass, TQL, EMN, and PSDK by December 31, 2026. At this point if you would like to continue to gain access to the SDK you will require special approval and there will be additional fees charged on a monthly basis. 2. Can small or mid-sized lenders realistically afford Encompass AI integrations? Document AI tools (Ocrolus, Lender Toolkit Prism, etc.) will be available through EPC or Developer Connect API’s for any lending business in the mid-market. The new API first architecture enables smaller lenders to deploy targeted AI to not have to completely rebuild their entire stack. 3. Does AI replace underwriters in the Encompass workflow? No, AI does the pre-analysis work before the Underwriter receives the pre-processed & annotated file. However, a human should importantly review the file at three minimum points in the process: Pre-Submission File Review, Conditional Approval, & Pre-Funding Compliance Review. 4. How do I start the EPC migration? To begin the EPC migration, contact your ICE Relationship Manager, have them update your contract, and then refer to the full FAQ and Countdown Resources provided by ICE on the Encompass Resource Center (mortgagetech.ice.com). The services provided by Fannie Mae and Freddie Mac will NOT be a part of this transition. 5. What is AI integration in Encompass? The integration of AI into Encompass allows lenders to use AI-driven automation to streamline their processes. This will let lenders to automate manual tasks, create better accuracy and compliance. 6. How does AI work with Encompass LOS? The AI in Encompass processes large amounts of data, makes predictions and automates complex decision making. The AI can identify what type of document and be able to extract from the images of documents and convert them to structured data. Other AI tools (i.e. ICE Mortgages Analyzers, etc.) can operate behind the scene to check documents. 7. What are the benefits of AI in Encompass? Based on a comparative study of lenders employing Encompass, the typical benefit is an increase in gross profit per loan and in production volume. Furthermore, lenders were able to reduce their time from application to closing by an average of three days overall. Thus, lenders enjoy speedier loans, lower costs, and less manual effort. 8. How is AI transforming Encompass in 2026? AI is rapidly expanding in the loan industry as partnership networks grow larger by 2026. Loan officers will have much less to do while paper documents are read through online or locating all missing paperwork. 9. How to integrate AI with Encompass? Encompass offers a broad range of APIs making it easy to connect with third party AI tools. Lenders can plug AI partner solutions in via ICE’s Partner Connect framework or use ICE’s built-in tools, ICE Mortgage Analyzers, and ICE Data/Document Automation. 10. How does AI improve loan processing in Encompass? ICE Mortgage Analyzers use automated evaluation to assess the borrower’s income, credit and assets and only flag exceptions for human review. This allows underwriters to focus on what they should do as a priority. Ultimately, AI reduces errors, quicken closing timelines and provides a better experience for borrowers. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026 Why 2026 is the Breaking Point for Encompass AI? Industry observers expect 2026 to become a major transformation period for lenders moving from legacy Encompass integrations toward EPC and API-first architectures. Moving to EPC from the previous service ordering systems and adjusting one’s integration stack is more than just a housekeeping change over. It represents a primary infrastructure changeover that every lender must engage in as they undergo their integration stack audit. Many realized that they can replace the old middleware with purpose-built AI-powered integrations. The goal is to facilitate the service orders they purchase through EPC. Furthermore, service providers have reported greater adoption in several categories as well. However, a few lenders have a limited window of opportunity to adopt the EPC solution before restrictions on using the old service ordering process take effect in January 2027. On a macro scale, the financials are clear. Costs for each new loan are nearly $11,000 for the industry. Lenders that installed AI integrations for Encompass experienced total processing time cuts of 30 – 60%. Lenders’ current rate level volatility and thin margins make it so that AI has become an essential product. The Encompass AI Integration Architecture: EPC+APIs It is important to identify how AI integrates into Encompass before reviewing any individual tool sets. In 2026 there are three main ways AI integrates with Encompass: Encompass Partner Connect (EPC) The modern API architecture for ordering service from third-party services offers appraisal, flood, title, verification, etc. Partners such as Blend, Cloudvirga and Argyle integrate their apps natively. Developer Connect (APIs) Open REST APIs provide the ability for custom AI applications, data pipelines, and workflow orchestration to read/write loan data without accessing the SDK. Plugins 2.0 (Coming Q3 2026) ICE will continue modernizing the Encompass plugin framework with more web-based extensibility and API-driven customization. Native Automation + Business Rules Built-in workflow rules and new improved conditions (updated for 2026 release) include automated triggers that can route files, flag exceptions, and update status without any third party. The key shift: This is a significant change from lenders having to choose between “staying native” or “going third-party”. The EPC + API architecture allows for specialized AI to be leveraged on top of Encompass while maintaining compliance, data integrity, and audit trails. Document Intelligence: The Highest-ROI Starting Point When you ask a processor what they do all day, they will tell you that it is spent searching and reviewing documents. This is where AI in Encompass LOS delivers the fastest, most measurable returns inside Encompass. What document AI does inside Encompass? Classification: Identifies which type of document (W-2, paystub, bank statement, tax return) has been uploaded from the raw upload with no manual sorting. Data extraction (OCR + LLM): Extracts income, employer, balance and other fields then matches to their respective Encompass fields. Discrepancy detection: Checks extracted value against the loan application and, prior to sending to the underwriter Condition linking: When a borrower uploads their document, they will automatically be matched with any unfulfilled conditions in eFolder at that time and then marked as fulfilled. Leading Document AI Tools that Integrate with Encompass Tool Best For EPC/API Integration Condition Sync Income Calc Ocrolus To extract Batches from multiple sources, such as bank statements and pay stubs, quickly. Yes Yes Yes Lender Toolkit (Prism) Document workflows and disclosures can also benefit from full automation. Yes Yes Yes Blend Autopilot An automated borrower journey will occur through the POS-to-LOS system. Yes (EPC Native) Yes – Zeitro Strata AI AI-assisted compliance tools can help validate ATR/QM calculations and flag potential exceptions for human review. API No Yes Argyle The URLA will be auto-populated with employment and income verification data through employer payroll. Yes (Consumer Connect) Yes AI-Powered Underwriting & Automated Condition Management Typical underwriting consists of the underwriter manually reviewing a loan file for conditions, generating a conditions list for fulfillment by the processor, and then returning to the original loan file to re-review. Each loop takes several days. With the use of AI for loan officers, all steps of this process will be brief as follows: Step 1: Pre-submission AI file review The complete eFolder will be analyzed by AI prior to reaching the underwriter’s queue. When working with a loan file, AI will automatically flag and route to the processor any missing documentation, expired items, or any mismatch between data and documentation. Step 2: Automated condition generation Through programmatic processes, Encompass and the identified conditions will allow for flawless synchronization between documents and data. It also tracks all conditions from identification to resolution with clear rationale and edit controls. Step 3: Income & employment verification in minutes Income can be verified through services like Argyle via direct payroll integration. This enables UWs to create consistent, auditable outputs in minutes vs hours. Example: American Federal Mortgage was able to reduce current workflow from an average of four hours to eight minutes using the Argyle method for income verification. Step 4: Human review of AI-prepared file The underwriter receives a file that has already been processed and annotated. Hence, instead of gathering the findings made by the AI, the underwriter should review the AI’s findings . Importance Governance Note: Mortgage lending is not a space in which black-box AI is allowed to operate without checks and balances. Every production AI workflow must have at least three required human checkpoints: before submission – reviewing the file; after conditional approval; and prior to funding – verifying compliance. The Lender Toolkit (ISO/IEC 42001 AI Risk Management Certification (Acquired April 2026) will set the new standard for responsible use of AI in mortgage lending. Compliance Automation: Your Real-Time Safety Net The compliance engine has always run Encompass. However, what AI gets to add in 2026 is predictive compliance, catching problems before they turn into violations, not after. 2026 Compliance AI capabilities in the Encompass Ecosystem Compliance Area What AI Does? Impact TRID/Disclosure Timing Verifies that the right data is there before disclosures get generated; flags tolerance violations in real time Cuts out the costs for curing disclosures ATR/QM Automated calculations of ability to repay cross-checked against the CFPB’s thresholds. Risk of QM misclassifications decreases Document Expiration Monitoring Monitored document timelines; automatically alerts LOS before credit, income, or ID documents expire during the process. Eliminates closing delays due to stale documents Fair Lending Dashboards Automated rate-speed calculations, real-time lending pattern analysis for ECOA/HMDA compliance Identifies unintentional bias before audit Enhanced Conditions (2026) Some new Encompass native features include better condition tracking, internal notes, and a clear audit trail per edit. Speeds up condition clearing, just makes examinations easier Lead Management and Sales AI: Velocify and Beyond The Velocify System in 2026 will also increasingly connect to EPC through AI-integrated CRMs and a variety of additional technology partners to support lead generation and lead conversion. What does Velocify actually do with AI? Velocify is a sales acceleration platform. In 2026, the following components of the Velocify Software Suite will be used: Velocify Lead Manager: An AI-based algorithm prioritizes incoming leads according to how likely they are to convert with an automated process of distributing incoming leads based on geolocation, loan type, and/or performance. It also manages duplicate leads. Velocify Dial-IQ: Integrating an automated dialer with the ability to record the outcome + a direct SIP connection (same number, different phone) to the CRM systems along with an AI-based recommendation of optimal times to call. Velocify Pulse: Automation of Salesforce workflows for large enterprise teams, integrated with Encompass stacks. Where third-party AI fills the gaps? According to its focus on lead routing, Velocify has historically struggled with post-lead nurturing, AI services for borrowers and lifetime marketing. In 2026, the majority of high-volume lenders will integrate further tools, including: In 2026, most high-volume lenders also use the following tools in addition to the Encompass platform as part of their overall strategy of combining mortgage-related tools and resources for their business; Total Expert Lifecycle marketing automation (rate-trigger alerts and automated anniversary campaigns, partner co-marketing, etc.) that is layered on top of Encompass loan data via API. Surefire CRM Co-marketing automation for LO + Realtor partner campaigns with mortgage industry-specific compliance templates and two-way connections back to Encompass . Mortgage Coach AI generated total cost analysis presentations to shift borrower conversations from rates to long-term value after capturing a lead. The Full Ecosystem Map: What Integrates and How? Stage AI Use Case Key Tools Integration Method Availability Lead Capture The scoring, routing and follow-up cadence for the lead will be guided by AI. Velocify, GoHighLevel EPC/Native Live Application Chat with the borrower about document requests and pre-fill URLA. Blend Autopilot, Argyle, Floify EPC (Consumer Connect) Live Processing Classify the documents and extract them with OCR and link them to Conditions. Ocrolus, Lender Toolkit Prism Developer Connect API Live Income Verification Paystub for Employment/Income verification directly via Payroll. Argyle, The Work Number, Truv EPC VOE/VOI Live Underwriting AI to auto-create Conditions, guidelines and AUS. Lender Toolkit, Zeitro Strata, Friday Harbor API + Native (DU/LP) Live Compliance Checking the TRID and disclosing automation Lender Toolkit Disclosures, Encompass native Native + EPC Live Closing E-signature, e-close, coordinate with title, record. Encompass eClose, Simplifile, MERS Native Live Post-close Investor package assembly and Quality Control and MERS registration. Lender Toolkit, MCTlive! API Live Workflow Orchestration AI / multi-step orchestration to replace legacy RPA. WisdomStream, LoanLogics Developer Connect API Live Plugins 2.0 AI plug-ins consolidated and additional web-based customization. Various (post-Release 26.2) Plugins 2.0 Q3 2026 Implementation Roadmap: The 4 Levels of Automation The majority of mortgage lenders are currently operating at either Level 1 (Manual) or Level 2 (Partial Automation). Levels 3 (Full Automation) and 4 (Predictive AI) offer the greatest opportunities for incorporating artificial intelligence. Level 1 Manual — “We do it ourselves” Level 1 is defined as being fully manual where only people are completing tasks. Encompass is typically used primarily as a data entry system so there is no integration of AI into your process. There is a high level of error and cycle times are slow. Therefore, if your company is working at this level you are losing market share each day. Level 2 Partial Automation — “We use some rules” Level 2 is partially automated with some triggering being done with business rules built into Encompass and some third-party services ordered through your process using EPC. Your process will still have many manual points used to process and underwrite loans. Level 3 Full Automation — “The system does the work” At this level, there is complete automation, including document extraction using AI, which automatically fills in fields in Encompass. All conditions are tracked and monitored. Also, compliance checks are conducted prior to disclosure to the borrower. Income verification also occurs via payroll API integration, resulting in 50%+ reduction in processing time. Level 4 Predictive AI — “The system anticipates problems” AI will be able to predict problems with loans before they occur. Smart alerts will automatically notify lenders of potential issues related to loans as they arise. Fair lending dashboards will automatically adjust based on real-time data. Agentic workflows will allow for the completion of multiple-step tasks by the system without the need for a human being to review each step. Your 90-day path from Level 1 to Level 3 Audit your current integration stack (Days 1–14) Identify any integration stack that is dependent on SDKs and/or that rely on legacy EPC connections. Recognize which processes are still manual and there is a need for an AI Encompass solution for lenders. Evaluate what your current cost per loan is versus the 30-60% baseline for cost savings. This will be your business case. Migrate to EPC and Developer Connect APIs (Days 15–45) Work with your ICE Relationship Manager to modify your current contract; then move (or transition) your property appraisal, flood, title and verification orders into EPC. This will enable you to access the modern API layer that will allow you to use AI tools. Deploy high-impact AI starting with document processing (Days 30–60) Of all AI tools, Document AI will give you the fastest rate of return on your investment with the lowest implementation complexity. Based upon published WisdomStream client data, a 5-processor shop can deploy Document AI with a $3,500 implementation cost and achieve a return on that cost within 30 days. Layer in underwriting and compliance automation (Days 60–90) After the foundation has been laid for Document AI, adding automated underwriting conditions, income verification, and automated disclosures further increases the total gain. Most shops report that they have improved their processing times on each file by 50% or more as a result of this stage. Real Results from Forward-Thinking Lenders “How can AI improve my Encompass workflow?” AI can transform your Encompass workflow in many ways. It can help lenders lower the cost-per-loan by accelerating cycle times, improving borrower experiences, and providing scalable capabilities. There are several areas within the mortgage lifecycle and measurable benefit in using AI within each. AI for mortgage servicers using Encompass gain a competitive advantage and can make cost-effective decisions. “Which AI integrations should we prioritize first?” Most lenders’ ROI from AI will come from using document intelligence and automated data extraction first. Once lenders get ROI from these platforms, then they typically will see the most operational gain in automating the underwriting process and the compliance workflow. The ecosystem breaks down the various leading solutions by use case, integration type, and deployment readiness, allowing lenders to determine the best candidates for their tech stack. “We’re ready to implement AI — what are the next steps?” Start by consulting with the ICE Relationship Manager regarding your migration needs for the EPC and assess compatibility for integration into the LOS. Once this is set up, engage with potential providers such as Lender Toolkit, Ocrolus or WisdomStream to set a time for a Discovery Meeting to establish implementation priorities. The 90-Day Roadmap will serve as a useful guideline for deploying resources, aligning stakeholders, and executing operational rollouts. Case Studies Case Study — WisdomStream Client (Miami) 5-processor shop cuts 2–3 hours per processor per day Operating in Miami, Encompass took advantage of its existing loan origination software to implement AI workflow automation. The cost of implementation was $3,500. The five processors regained anywhere from 2 to 3 hours each day, for a total of ten to fifteen hours of daily capacity. The team used this increased capacity to continue to hire more loan officers and increase volume without adding to their processing staff. $3,500 – Implementation cost 10–15 hrs – Daily capacity recovered 90 days – To documented ROI Case Study — American Federal Mortgage Income verification: hours → minutes American Federal Mortgage has replaced the manual verification of income and employment with vertical AI. Encompass AI tools extracts and validates income and employment from source documents. As a result, underwriters are receiving consistent and auditable outputs in minutes. This resulted in faster credit decisions, better balance of workloads and improved predictability of rate locks/closing dates. Hours → mins Income verification time Auditable – Every output traceable Better – Rate lock predictability Case Study – Neighborhood Loans Doubled loan volume with Ocrolus + Encompass vertical AI Neighborhood Loans implemented vertical AI technology to automate the reconciliation of borrower submitted documents with data from applications they submitted through Encompass. Ocrolus flagged any missing items, or conflicting pieces of information, and sent machine-readable results straight to the LOS for processing. This process enabled them to have fewer document touches as well as faster file processing times while controlling quality. 2× Loan volume achieved ↓ Touches Per file, significantly reduced Same team No new hires required Wrapping Up The shift of the mortgage industry toward EPC and API-first systems will mark 2026 as a crucial year for Encompass lenders. AI is rapidly moving to become more practical and is already facilitating lenders with faster processing times, lowering costs, and improving the borrower experience. By beginning to implement upgrades now, lenders will be more effectively modernizing their platforms and compete more efficiently in the market. If you are seeking to enhance your Encompass workflow using AI, our Encompass integration services will automate your processes, increase efficiency and develop a smarter lending organization for 2026 and beyond! FAQs 1. What is the December 31, 2026 deadline for Encompass lenders? All Encompass lenders will be expected to discontinue their use of the SDK kit and legacy service ordering integrations through ePass, TQL, EMN, and PSDK by December 31, 2026. At this point if you would like to continue to gain access to the SDK you will require special approval and there will be additional fees charged on a monthly basis. 2. Can small or mid-sized lenders realistically afford Encompass AI integrations? Document AI tools (Ocrolus, Lender Toolkit Prism, etc.) will be available through EPC or Developer Connect API’s for any lending business in the mid-market. The new API first architecture enables smaller lenders to deploy targeted AI to not have to completely rebuild their entire stack. 3. Does AI replace underwriters in the Encompass workflow? No, AI does the pre-analysis work before the Underwriter receives the pre-processed & annotated file. However, a human should importantly review the file at three minimum points in the process: Pre-Submission File Review, Conditional Approval, & Pre-Funding Compliance Review. 4. How do I start the EPC migration? To begin the EPC migration, contact your ICE Relationship Manager, have them update your contract, and then refer to the full FAQ and Countdown Resources provided by ICE on the Encompass Resource Center (mortgagetech.ice.com). The services provided by Fannie Mae and Freddie Mac will NOT be a part of this transition. 5. What is AI integration in Encompass? The integration of AI into Encompass allows lenders to use AI-driven automation to streamline their processes. This will let lenders to automate manual tasks, create better accuracy and compliance. 6. How does AI work with Encompass LOS? The AI in Encompass processes large amounts of data, makes predictions and automates complex decision making. The AI can identify what type of document and be able to extract from the images of documents and convert them to structured data. Other AI tools (i.e. ICE Mortgages Analyzers, etc.) can operate behind the scene to check documents. 7. What are the benefits of AI in Encompass? Based on a comparative study of lenders employing Encompass, the typical benefit is an increase in gross profit per loan and in production volume. Furthermore, lenders were able to reduce their time from application to closing by an average of three days overall. Thus, lenders enjoy speedier loans, lower costs, and less manual effort. 8. How is AI transforming Encompass in 2026? AI is rapidly expanding in the loan industry as partnership networks grow larger by 2026. Loan officers will have much less to do while paper documents are read through online or locating all missing paperwork. 9. How to integrate AI with Encompass? Encompass offers a broad range of APIs making it easy to connect with third party AI tools. Lenders can plug AI partner solutions in via ICE’s Partner Connect framework or use ICE’s built-in tools, ICE Mortgage Analyzers, and ICE Data/Document Automation. 10. How does AI improve loan processing in Encompass? ICE Mortgage Analyzers use automated evaluation to assess the borrower’s income, credit and assets and only flag exceptions for human review. This allows underwriters to focus on what they should do as a priority. Ultimately, AI reduces errors, quicken closing timelines and provides a better experience for borrowers. Subscribe to ATI First name Last Name Your email Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+  "word_count": 6809,
+  "headings_count": 23,
+  "images_count": 4,
+  "buttons_count": 12,
+  "forms_count": 2,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "Exploring AI Integrations for Encompass: What’s Possible in 2026 Home » Exploring AI Integrations for Encompass: What’s Possible in 2026 Lenders on ICE’s Encompass platform are all asking the same question: What AI integrations are worth pursuing? In this blog, we provide the complete integration blueprint of the entire ecosystem of opportunities available to lenders. Let’s explore. Why 2026 is the Breaking Point for Encompass AI? Industry observers expect 2026 to become a major transformation period for lenders moving from legacy Encompass integrations toward EPC and API-first architectures. Moving to EPC from the previous service ordering systems and adjusting one’s integration stack is more than just a housekeeping change over. It represents a primary infrastructure changeover that every lender must engage in as they undergo their integration stack audit. Many realized that they can replace the old middleware with purpose-built AI-powered integrations. The goal is to facilitate the service orders they purchase through EPC. Furthermore, service providers have reported greater adoption in several categories as well. However, a few lenders have a limited window of opportunity to adopt the EPC solution before restrictions on using the old service ordering process take effect in January 2027. On a macro scale, the financials are clear. Costs for each new loan are nearly $11,000 for the industry. Lenders that installed AI integrations for Encompass experienced total processing time cuts of 30 – 60%. Lenders’ current rate level volatility and thin margins make it so that AI has become an essential product. The Encompass AI Integration Architecture: EPC+APIs It is important to identify how AI integrates into Encompass before reviewing any individual tool sets. In 2026 there are three main ways AI integrates with Encompass: Encompass Partner Connect (EPC) The modern API architecture for ordering service from third-party services offers appraisal, flood, title, verification, etc. Partners such as Blend, Cloudvirga and Argyle integrate their apps natively. Developer Connect (APIs) Open REST APIs provide the ability for custom AI applications, data pipelines, and workflow orchestration to read/write loan data without accessing the SDK. Plugins 2.0 (Coming Q3 2026) ICE will continue modernizing the Encompass plugin framework with more web-based extensibility and API-driven customization. Native Automation + Business Rules Built-in workflow rules and new improved conditions (updated for 2026 release) include automated triggers that can route files, flag exceptions, and update status without any third party. The key shift: This is a significant change from lenders having to choose between “staying native” or “going third-party”. The EPC + API architecture allows for specialized AI to be leveraged on top of Encompass while maintaining compliance, data integrity, and audit trails. Document Intelligence: The Highest-ROI Starting Point When you ask a processor what they do all day, they will tell you that it is spent searching and reviewing documents. This is where AI in Encompass LOS delivers the fastest, most measurable returns inside Encompass. What document AI does inside Encompass? Classification: Identifies which type of document (W-2, paystub, bank statement, tax return) has been uploaded from the raw upload with no manual sorting. Data extraction (OCR + LLM): Extracts income, employer, balance and other fields then matches to their respective Encompass fields. Discrepancy detection: Checks extracted value against the loan application and, prior to sending to the underwriter Condition linking: When a borrower uploads their document, they will automatically be matched with any unfulfilled conditions in eFolder at that time and then marked as fulfilled. Leading Document AI Tools that Integrate with Encompass Tool Best For EPC/API Integration Condition Sync Income Calc Ocrolus To extract Batches from multiple sources, such as bank statements and pay stubs, quickly. Yes Yes Yes Lender Toolkit (Prism) Document workflows and disclosures can also benefit from full automation. Yes Yes Yes Blend Autopilot An automated borrower journey will occur through the POS-to-LOS system. Yes (EPC Native) Yes – Zeitro Strata AI AI-assisted compliance tools can help validate ATR/QM calculations and flag potential exceptions for human review. API No Yes Argyle The URLA will be auto-populated with employment and income verification data through employer payroll. Yes (Consumer Connect) Yes AI-Powered Underwriting & Automated Condition Management Typical underwriting consists of the underwriter manually reviewing a loan file for conditions, generating a conditions list for fulfillment by the processor, and then returning to the original loan file to re-review. Each loop takes several days. With the use of AI for loan officers, all steps of this process will be brief as follows: Step 1: Pre-submission AI file review The complete eFolder will be analyzed by AI prior to reaching the underwriter’s queue. When working with a loan file, AI will automatically flag and route to the processor any missing documentation, expired items, or any mismatch between data and documentation. Step 2: Automated condition generation Through programmatic processes, Encompass and the identified conditions will allow for flawless synchronization between documents and data. It also tracks all conditions from identification to resolution with clear rationale and edit controls. Step 3: Income & employment verification in minutes Income can be verified through services like Argyle via direct payroll integration. This enables UWs to create consistent, auditable outputs in minutes vs hours. Example: American Federal Mortgage was able to reduce current workflow from an average of four hours to eight minutes using the Argyle method for income verification. Step 4: Human review of AI-prepared file The underwriter receives a file that has already been processed and annotated. Hence, instead of gathering the findings made by the AI, the underwriter should review the AI’s findings . Importance Governance Note: Mortgage lending is not a space in which black-box AI is allowed to operate without checks and balances. Every production AI workflow must have at least three required human checkpoints: before submission – reviewing the file; after conditional approval; and prior to funding – verifying compliance. The Lender Toolkit (ISO/IEC 42001 AI Risk Management Certification (Acquired April 2026) will set the new standard for responsible use of AI in mortgage lending. Compliance Automation: Your Real-Time Safety Net The compliance engine has always run Encompass. However, what AI gets to add in 2026 is predictive compliance, catching problems before they turn into violations, not after. 2026 Compliance AI capabilities in the Encompass Ecosystem Compliance Area What AI Does? Impact TRID/Disclosure Timing Verifies that the right data is there before disclosures get generated; flags tolerance violations in real time Cuts out the costs for curing disclosures ATR/QM Automated calculations of ability to repay cross-checked against the CFPB’s thresholds. Risk of QM misclassifications decreases Document Expiration Monitoring Monitored document timelines; automatically alerts LOS before credit, income, or ID documents expire during the process. Eliminates closing delays due to stale documents Fair Lending Dashboards Automated rate-speed calculations, real-time lending pattern analysis for ECOA/HMDA compliance Identifies unintentional bias before audit Enhanced Conditions (2026) Some new Encompass native features include better condition tracking, internal notes, and a clear audit trail per edit. Speeds up condition clearing, just makes examinations easier Lead Management and Sales AI: Velocify and Beyond The Velocify System in 2026 will also increasingly connect to EPC through AI-integrated CRMs and a variety of additional technology partners to support lead generation and lead conversion. What does Velocify actually do with AI? Velocify is a sales acceleration platform. In 2026, the following components of the Velocify Software Suite will be used: Velocify Lead Manager: An AI-based algorithm prioritizes incoming leads according to how likely they are to convert with an automated process of distributing incoming leads based on geolocation, loan type, and/or performance. It also manages duplicate leads. Velocify Dial-IQ: Integrating an automated dialer with the ability to record the outcome + a direct SIP connection (same number, different phone) to the CRM systems along with an AI-based recommendation of optimal times to call. Velocify Pulse: Automation of Salesforce workflows for large enterprise teams, integrated with Encompass stacks. Where third-party AI fills the gaps? According to its focus on lead routing, Velocify has historically struggled with post-lead nurturing, AI services for borrowers and lifetime marketing. In 2026, the majority of high-volume lenders will integrate further tools, including: In 2026, most high-volume lenders also use the following tools in addition to the Encompass platform as part of their overall strategy of combining mortgage-related tools and resources for their business; Total Expert Lifecycle marketing automation (rate-trigger alerts and automated anniversary campaigns, partner co-marketing, etc.) that is layered on top of Encompass loan data via API. Surefire CRM Co-marketing automation for LO + Realtor partner campaigns with mortgage industry-specific compliance templates and two-way connections back to Encompass . Mortgage Coach AI generated total cost analysis presentations to shift borrower conversations from rates to long-term value after capturing a lead. The Full Ecosystem Map: What Integrates and How? Stage AI Use Case Key Tools Integration Method Availability Lead Capture The scoring, routing and follow-up cadence for the lead will be guided by AI. Velocify, GoHighLevel EPC/Native Live Application Chat with the borrower about document requests and pre-fill URLA. Blend Autopilot, Argyle, Floify EPC (Consumer Connect) Live Processing Classify the documents and extract them with OCR and link them to Conditions. Ocrolus, Lender Toolkit Prism Developer Connect API Live Income Verification Paystub for Employment/Income verification directly via Payroll. Argyle, The Work Number, Truv EPC VOE/VOI Live Underwriting AI to auto-create Conditions, guidelines and AUS. Lender Toolkit, Zeitro Strata, Friday Harbor API + Native (DU/LP) Live Compliance Checking the TRID and disclosing automation Lender Toolkit Disclosures, Encompass native Native + EPC Live Closing E-signature, e-close, coordinate with title, record. Encompass eClose, Simplifile, MERS Native Live Post-close Investor package assembly and Quality Control and MERS registration. Lender Toolkit, MCTlive! API Live Workflow Orchestration AI / multi-step orchestration to replace legacy RPA. WisdomStream, LoanLogics Developer Connect API Live Plugins 2.0 AI plug-ins consolidated and additional web-based customization. Various (post-Release 26.2) Plugins 2.0 Q3 2026 Implementation Roadmap: The 4 Levels of Automation The majority of mortgage lenders are currently operating at either Level 1 (Manual) or Level 2 (Partial Automation). Levels 3 (Full Automation) and 4 (Predictive AI) offer the greatest opportunities for incorporating artificial intelligence. Level 1 Manual — “We do it ourselves” Level 1 is defined as being fully manual where only people are completing tasks. Encompass is typically used primarily as a data entry system so there is no integration of AI into your process. There is a high level of error and cycle times are slow. Therefore, if your company is working at this level you are losing market share each day. Level 2 Partial Automation — “We use some rules” Level 2 is partially automated with some triggering being done with business rules built into Encompass and some third-party services ordered through your process using EPC. Your process will still have many manual points used to process and underwrite loans. Level 3 Full Automation — “The system does the work” At this level, there is complete automation, including document extraction using AI, which automatically fills in fields in Encompass. All conditions are tracked and monitored. Also, compliance checks are conducted prior to disclosure to the borrower. Income verification also occurs via payroll API integration, resulting in 50%+ reduction in processing time. Level 4 Predictive AI — “The system anticipates problems” AI will be able to predict problems with loans before they occur. Smart alerts will automatically notify lenders of potential issues related to loans as they arise. Fair lending dashboards will automatically adjust based on real-time data. Agentic workflows will allow for the completion of multiple-step tasks by the system without the need for a human being to review each step. Your 90-day path from Level 1 to Level 3 Audit your current integration stack (Days 1–14) Identify any integration stack that is dependent on SDKs and/or that rely on legacy EPC connections. Recognize which processes are still manual and there is a need for an AI Encompass solution for lenders. Evaluate what your current cost per loan is versus the 30-60% baseline for cost savings. This will be your business case. Migrate to EPC and Developer Connect APIs (Days 15–45) Work with your ICE Relationship Manager to modify your current contract; then move (or transition) your property appraisal, flood, title and verification orders into EPC. This will enable you to access the modern API layer that will allow you to use AI tools. Deploy high-impact AI starting with document processing (Days 30–60) Of all AI tools, Document AI will give you the fastest rate of return on your investment with the lowest implementation complexity. Based upon published WisdomStream client data, a 5-processor shop can deploy Document AI with a $3,500 implementation cost and achieve a return on that cost within 30 days. Layer in underwriting and compliance automation (Days 60–90) After the foundation has been laid for Document AI, adding automated underwriting conditions, income verification, and automated disclosures further increases the total gain. Most shops report that they have improved their processing times on each file by 50% or more as a result of this stage. Real Results from Forward-Thinking Lenders “How can AI improve my Encompass workflow?” AI can transform your Encompass workflow in many ways. It can help lenders lower the cost-per-loan by accelerating cycle times, improving borrower experiences, and providing scalable capabilities. There are several areas within the mortgage lifecycle and measurable benefit in using AI within each. AI for mortgage servicers using Encompass gain a competitive advantage and can make cost-effective decisions. “Which AI integrations should we prioritize first?” Most lenders’ ROI from AI will come from using document intelligence and automated data extraction first. Once lenders get ROI from these platforms, then they typically will see the most operational gain in automating the underwriting process and the compliance workflow. The ecosystem breaks down the various leading solutions by use case, integration type, and deployment readiness, allowing lenders to determine the best candidates for their tech stack. “We’re ready to implement AI — what are the next steps?” Start by consulting with the ICE Relationship Manager regarding your migration needs for the EPC and assess compatibility for integration into the LOS. Once this is set up, engage with potential providers such as Lender Toolkit, Ocrolus or WisdomStream to set a time for a Discovery Meeting to establish implementation priorities. The 90-Day Roadmap will serve as a useful guideline for deploying resources, aligning stakeholders, and executing operational rollouts. Case Studies Case Study — WisdomStream Client (Miami) 5-processor shop cuts 2–3 hours per processor per day Operating in Miami, Encompass took advantage of its existing loan origination software to implement AI workflow automation. The cost of implementation was $3,500. The five processors regained anywhere from 2 to 3 hours each day, for a total of ten to fifteen hours of daily capacity. The team used this increased capacity to continue to hire more loan officers and increase volume without adding to their processing staff. $3,500 – Implementation cost 10–15 hrs – Daily capacity recovered 90 days – To documented ROI Case Study — American Federal Mortgage Income verification: hours → minutes American Federal Mortgage has replaced the manual verification of income and employment with vertical AI. Encompass AI tools extracts and validates income and employment from source documents. As a result, underwriters are receiving consistent and auditable outputs in minutes. This resulted in faster credit decisions, better balance of workloads and improved predictability of rate locks/closing dates. Hours → mins Income verification time Auditable – Every output traceable Better – Rate lock predictability Case Study – Neighborhood Loans Doubled loan volume with Ocrolus + Encompass vertical AI Neighborhood Loans implemented vertical AI technology to automate the reconciliation of borrower submitted documents with data from applications they submitted through Encompass. Ocrolus flagged any missing items, or conflicting pieces of information, and sent machine-readable results straight to the LOS for processing. This process enabled them to have fewer document touches as well as faster file processing times while controlling quality. 2× Loan volume achieved ↓ Touches Per file, significantly reduced Same team No new hires required Wrapping Up The shift of the mortgage industry toward EPC and API-first systems will mark 2026 as a crucial year for Encompass lenders. AI is rapidly moving to become more practical and is already facilitating lenders with faster processing times, lowering costs, and improving the borrower experience. By beginning to implement upgrades now, lenders will be more effectively modernizing their platforms and compete more efficiently in the market. If you are seeking to enhance your Encompass workflow using AI, our Encompass integration services will automate your processes, increase efficiency and develop a smarter lending organization for 2026 and beyond! FAQs 1. What is the December 31, 2026 deadline for Encompass lenders? All Encompass lenders will be expected to discontinue their use of the SDK kit and legacy service ordering integrations through ePass, TQL, EMN, and PSDK by December 31, 2026. At this point if you would like to continue to gain access to the SDK you will require special approval and there will be additional fees charged on a monthly basis. 2. Can small or mid-sized lenders realistically afford Encompass AI integrations? Document AI tools (Ocrolus, Lender Toolkit Prism, etc.) will be available through EPC or Developer Connect API’s for any lending business in the mid-market. The new API first architecture enables smaller lenders to deploy targeted AI to not have to completely rebuild their entire stack. 3. Does AI replace underwriters in the Encompass workflow? No, AI does the pre-analysis work before the Underwriter receives the pre-processed & annotated file. However, a human should importantly review the file at three minimum points in the process: Pre-Submission File Review, Conditional Approval, & Pre-Funding Compliance Review. 4. How do I start the EPC migration? To begin the EPC migration, contact your ICE Relationship Manager, have them update your contract, and then refer to the full FAQ and Countdown Resources provided by ICE on the Encompass Resource Center (mortgagetech.ice.com). The services provided by Fannie Mae and Freddie Mac will NOT be a part of this transition. 5. What is AI integration in Encompass? The integration of AI into Encompass allows lenders to use AI-driven automation to streamline their processes. This will let lenders to automate manual tasks, create better accuracy and compliance. 6. How does AI work with Encompass LOS? The AI in Encompass processes large amounts of data, makes predictions and automates complex decision making. The AI can identify what type of document and be able to extract from the images of documents and convert them to structured data. Other AI tools (i.e. ICE Mortgages Analyzers, etc.) can operate behind the scene to check documents. 7. What are the benefits of AI in Encompass? Based on a comparative study of lenders employing Encompass, the typical benefit is an increase in gross profit per loan and in production volume. Furthermore, lenders were able to reduce their time from application to closing by an average of three days overall. Thus, lenders enjoy speedier loans, lower costs, and less manual effort. 8. How is AI transforming Encompass in 2026? AI is rapidly expanding in the loan industry as partnership networks grow larger by 2026. Loan officers will have much less to do while paper documents are read through online or locating all missing paperwork. 9. How to integrate AI with Encompass? Encompass offers a broad range of APIs making it easy to connect with third party AI tools. Lenders can plug AI partner solutions in via ICE’s Partner Connect framework or use ICE’s built-in tools, ICE Mortgage Analyzers, and ICE Data/Document Automation. 10. How does AI improve loan processing in Encompass? ICE Mortgage Analyzers use automated evaluation to assess the borrower’s income, credit and assets and only flag exceptions for human review. This allows underwriters to focus on what they should do as a priority. Ultimately, AI reduces errors, quicken closing timelines and provides a better experience for borrowers. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/05/Exploring-AI-Integrations-for-Encompass-Whats-Possible-in-2026.png",
+          "alt": "AI Integrations for Encompass"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+          "alt": "Mortgage Automation in 2026"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+          "alt": "HMDA Reporting Setup in Encompass LOS"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+          "alt": "What is a Loan Origination System?"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Home",
+          "url": "https://awesometechinc.com/"
+        },
+        {
+          "label": "Lender Toolkit (ISO/IEC 42001 AI Risk Management Certification",
+          "url": "https://lendertoolkit.com/lender-toolkit-achieves-iso-iec-42001-certification/"
+        },
+        {
+          "label": "Velocify",
+          "url": "https://mortgagetech.ice.com/products/velocify"
+        },
+        {
+          "label": "Encompass integration services",
+          "url": "https://awesometechinc.com/encompass-integration-services/"
+        },
+        {
+          "label": "Search",
+          "url": ""
+        },
+        {
+          "label": "Subscribe",
+          "url": ""
+        },
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form",
+          "form_id": "",
+          "fields": [
+            {
+              "name": "s",
+              "label": "",
+              "type": "search",
+              "required": false
+            }
+          ],
+          "submit_label": "Search"
+        },
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "Why 2026 is the Breaking Point for Encompass AI?",
+      "type": "service_section",
+      "content": "Industry observers expect 2026 to become a major transformation period for lenders moving from legacy Encompass integrations toward EPC and API-first architectures. Moving to EPC from the previous service ordering systems and adjusting one’s integration stack is more than just a housekeeping change over. It represents a primary infrastructure changeover that every lender must engage in as they undergo their integration stack audit. Many realized that they can replace the old middleware with purpose-built AI-powered integrations. The goal is to facilitate the service orders they purchase through EPC. Furthermore, service providers have reported greater adoption in several categories as well. However, a few lenders have a limited window of opportunity to adopt the EPC solution before restrictions on using the old service ordering process take effect in January 2027. On a macro scale, the financials are clear. Costs for each new loan are nearly $11,000 for the industry. Lenders that installed AI integrations for Encompass experienced total processing time cuts of 30 – 60%. Lenders’ current rate level volatility and thin margins make it so that AI has become an essential product.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 3,
+      "title": "The Encompass AI Integration Architecture: EPC+APIs",
+      "type": "testimonial_section",
+      "content": "It is important to identify how AI integrates into Encompass before reviewing any individual tool sets. In 2026 there are three main ways AI integrates with Encompass: Encompass Partner Connect (EPC) The modern API architecture for ordering service from third-party services offers appraisal, flood, title, verification, etc. Partners such as Blend, Cloudvirga and Argyle integrate their apps natively. Developer Connect (APIs) Open REST APIs provide the ability for custom AI applications, data pipelines, and workflow orchestration to read/write loan data without accessing the SDK. Plugins 2.0 (Coming Q3 2026) ICE will continue modernizing the Encompass plugin framework with more web-based extensibility and API-driven customization. Native Automation + Business Rules Built-in workflow rules and new improved conditions (updated for 2026 release) include automated triggers that can route files, flag exceptions, and update status without any third party. The key shift: This is a significant change from lenders having to choose between “staying native” or “going third-party”. The EPC + API architecture allows for specialized AI to be leveraged on top of Encompass while maintaining compliance, data integrity, and audit trails.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 4,
+      "title": "Document Intelligence: The Highest-ROI Starting Point",
+      "type": "testimonial_section",
+      "content": "When you ask a processor what they do all day, they will tell you that it is spent searching and reviewing documents. This is where AI in Encompass LOS delivers the fastest, most measurable returns inside Encompass. What document AI does inside Encompass? Classification: Identifies which type of document (W-2, paystub, bank statement, tax return) has been uploaded from the raw upload with no manual sorting. Data extraction (OCR + LLM): Extracts income, employer, balance and other fields then matches to their respective Encompass fields. Discrepancy detection: Checks extracted value against the loan application and, prior to sending to the underwriter Condition linking: When a borrower uploads their document, they will automatically be matched with any unfulfilled conditions in eFolder at that time and then marked as fulfilled.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 5,
+      "title": "Leading Document AI Tools that Integrate with Encompass",
+      "type": "testimonial_section",
+      "content": "Tool Best For EPC/API Integration Condition Sync Income Calc Ocrolus To extract Batches from multiple sources, such as bank statements and pay stubs, quickly. Yes Yes Yes Lender Toolkit (Prism) Document workflows and disclosures can also benefit from full automation. Yes Yes Yes Blend Autopilot An automated borrower journey will occur through the POS-to-LOS system. Yes (EPC Native) Yes – Zeitro Strata AI AI-assisted compliance tools can help validate ATR/QM calculations and flag potential exceptions for human review. API No Yes Argyle The URLA will be auto-populated with employment and income verification data through employer payroll. Yes (Consumer Connect) Yes AI-Powered Underwriting & Automated Condition Management Typical underwriting consists of the underwriter manually reviewing a loan file for conditions, generating a conditions list for fulfillment by the processor, and then returning to the original loan file to re-review. Each loop takes several days. With the use of AI for loan officers, all steps of this process will be brief as follows: Step 1: Pre-submission AI file review The complete eFolder will be analyzed by AI prior to reaching the underwriter’s queue. When working with a loan file, AI will automatically flag and route to the processor any missing documentation, expired items, or any mismatch between data and documentation. Step 2: Automated condition generation Through programmatic processes, Encompass and the identified conditions will allow for flawless synchronization between documents and data. It also tracks all conditions from identification to resolution with clear rationale and edit controls. Step 3: Income & employment verification in minutes Income can be verified through services like Argyle via direct payroll integration. This enables UWs to create consistent, auditable outputs in minutes vs hours. Example: American Federal Mortgage was able to reduce current workflow from an average of four hours to eight minutes using the Argyle method for income verification. Step 4: Human review of AI-prepared file The underwriter receives a file that has already been processed and annotated. Hence, instead of gathering the findings made by the AI, the underwriter should review the AI’s findings . Importance Governance Note: Mortgage lending is not a space in which black-box AI is allowed to operate without checks and balances. Every production AI workflow must have at least three required human checkpoints: before submission – reviewing the file; after conditional approval; and prior to funding – verifying compliance. The Lender Toolkit (ISO/IEC 42001 AI Risk Management Certification (Acquired April 2026) will set the new standard for responsible use of AI in mortgage lending.",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Lender Toolkit (ISO/IEC 42001 AI Risk Management Certification",
+          "url": "https://lendertoolkit.com/lender-toolkit-achieves-iso-iec-42001-certification/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 6,
+      "title": "Compliance Automation: Your Real-Time Safety Net",
+      "type": "service_section",
+      "content": "The compliance engine has always run Encompass. However, what AI gets to add in 2026 is predictive compliance, catching problems before they turn into violations, not after.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 7,
+      "title": "2026 Compliance AI capabilities in the Encompass Ecosystem",
+      "type": "service_section",
+      "content": "Compliance Area What AI Does? Impact TRID/Disclosure Timing Verifies that the right data is there before disclosures get generated; flags tolerance violations in real time Cuts out the costs for curing disclosures ATR/QM Automated calculations of ability to repay cross-checked against the CFPB’s thresholds. Risk of QM misclassifications decreases Document Expiration Monitoring Monitored document timelines; automatically alerts LOS before credit, income, or ID documents expire during the process. Eliminates closing delays due to stale documents Fair Lending Dashboards Automated rate-speed calculations, real-time lending pattern analysis for ECOA/HMDA compliance Identifies unintentional bias before audit Enhanced Conditions (2026) Some new Encompass native features include better condition tracking, internal notes, and a clear audit trail per edit. Speeds up condition clearing, just makes examinations easier",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 8,
+      "title": "Lead Management and Sales AI: Velocify and Beyond",
+      "type": "service_section",
+      "content": "The Velocify System in 2026 will also increasingly connect to EPC through AI-integrated CRMs and a variety of additional technology partners to support lead generation and lead conversion. What does Velocify actually do with AI? Velocify is a sales acceleration platform. In 2026, the following components of the Velocify Software Suite will be used: Velocify Lead Manager: An AI-based algorithm prioritizes incoming leads according to how likely they are to convert with an automated process of distributing incoming leads based on geolocation, loan type, and/or performance. It also manages duplicate leads. Velocify Dial-IQ: Integrating an automated dialer with the ability to record the outcome + a direct SIP connection (same number, different phone) to the CRM systems along with an AI-based recommendation of optimal times to call. Velocify Pulse: Automation of Salesforce workflows for large enterprise teams, integrated with Encompass stacks.",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Velocify",
+          "url": "https://mortgagetech.ice.com/products/velocify"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 9,
+      "title": "Where third-party AI fills the gaps?",
+      "type": "service_section",
+      "content": "According to its focus on lead routing, Velocify has historically struggled with post-lead nurturing, AI services for borrowers and lifetime marketing. In 2026, the majority of high-volume lenders will integrate further tools, including: In 2026, most high-volume lenders also use the following tools in addition to the Encompass platform as part of their overall strategy of combining mortgage-related tools and resources for their business; Total Expert Lifecycle marketing automation (rate-trigger alerts and automated anniversary campaigns, partner co-marketing, etc.) that is layered on top of Encompass loan data via API. Surefire CRM Co-marketing automation for LO + Realtor partner campaigns with mortgage industry-specific compliance templates and two-way connections back to Encompass . Mortgage Coach AI generated total cost analysis presentations to shift borrower conversations from rates to long-term value after capturing a lead.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 10,
+      "title": "The Full Ecosystem Map: What Integrates and How?",
+      "type": "service_section",
+      "content": "Stage AI Use Case Key Tools Integration Method Availability Lead Capture The scoring, routing and follow-up cadence for the lead will be guided by AI. Velocify, GoHighLevel EPC/Native Live Application Chat with the borrower about document requests and pre-fill URLA. Blend Autopilot, Argyle, Floify EPC (Consumer Connect) Live Processing Classify the documents and extract them with OCR and link them to Conditions. Ocrolus, Lender Toolkit Prism Developer Connect API Live Income Verification Paystub for Employment/Income verification directly via Payroll. Argyle, The Work Number, Truv EPC VOE/VOI Live Underwriting AI to auto-create Conditions, guidelines and AUS. Lender Toolkit, Zeitro Strata, Friday Harbor API + Native (DU/LP) Live Compliance Checking the TRID and disclosing automation Lender Toolkit Disclosures, Encompass native Native + EPC Live Closing E-signature, e-close, coordinate with title, record. Encompass eClose, Simplifile, MERS Native Live Post-close Investor package assembly and Quality Control and MERS registration. Lender Toolkit, MCTlive! API Live Workflow Orchestration AI / multi-step orchestration to replace legacy RPA. WisdomStream, LoanLogics Developer Connect API Live Plugins 2.0 AI plug-ins consolidated and additional web-based customization. Various (post-Release 26.2) Plugins 2.0 Q3 2026",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 11,
+      "title": "Implementation Roadmap: The 4 Levels of Automation",
+      "type": "testimonial_section",
+      "content": "The majority of mortgage lenders are currently operating at either Level 1 (Manual) or Level 2 (Partial Automation). Levels 3 (Full Automation) and 4 (Predictive AI) offer the greatest opportunities for incorporating artificial intelligence. Level 1 Manual — “We do it ourselves” Level 1 is defined as being fully manual where only people are completing tasks. Encompass is typically used primarily as a data entry system so there is no integration of AI into your process. There is a high level of error and cycle times are slow. Therefore, if your company is working at this level you are losing market share each day. Level 2 Partial Automation — “We use some rules” Level 2 is partially automated with some triggering being done with business rules built into Encompass and some third-party services ordered through your process using EPC. Your process will still have many manual points used to process and underwrite loans. Level 3 Full Automation — “The system does the work” At this level, there is complete automation, including document extraction using AI, which automatically fills in fields in Encompass. All conditions are tracked and monitored. Also, compliance checks are conducted prior to disclosure to the borrower. Income verification also occurs via payroll API integration, resulting in 50%+ reduction in processing time. Level 4 Predictive AI — “The system anticipates problems” AI will be able to predict problems with loans before they occur. Smart alerts will automatically notify lenders of potential issues related to loans as they arise. Fair lending dashboards will automatically adjust based on real-time data. Agentic workflows will allow for the completion of multiple-step tasks by the system without the need for a human being to review each step.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 12,
+      "title": "Your 90-day path from Level 1 to Level 3",
+      "type": "testimonial_section",
+      "content": "Audit your current integration stack (Days 1–14) Identify any integration stack that is dependent on SDKs and/or that rely on legacy EPC connections. Recognize which processes are still manual and there is a need for an AI Encompass solution for lenders. Evaluate what your current cost per loan is versus the 30-60% baseline for cost savings. This will be your business case. Migrate to EPC and Developer Connect APIs (Days 15–45) Work with your ICE Relationship Manager to modify your current contract; then move (or transition) your property appraisal, flood, title and verification orders into EPC. This will enable you to access the modern API layer that will allow you to use AI tools. Deploy high-impact AI starting with document processing (Days 30–60) Of all AI tools, Document AI will give you the fastest rate of return on your investment with the lowest implementation complexity. Based upon published WisdomStream client data, a 5-processor shop can deploy Document AI with a $3,500 implementation cost and achieve a return on that cost within 30 days. Layer in underwriting and compliance automation (Days 60–90) After the foundation has been laid for Document AI, adding automated underwriting conditions, income verification, and automated disclosures further increases the total gain. Most shops report that they have improved their processing times on each file by 50% or more as a result of this stage.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 13,
+      "title": "Real Results from Forward-Thinking Lenders",
+      "type": "service_section",
+      "content": "“How can AI improve my Encompass workflow?” AI can transform your Encompass workflow in many ways. It can help lenders lower the cost-per-loan by accelerating cycle times, improving borrower experiences, and providing scalable capabilities. There are several areas within the mortgage lifecycle and measurable benefit in using AI within each. AI for mortgage servicers using Encompass gain a competitive advantage and can make cost-effective decisions. “Which AI integrations should we prioritize first?” Most lenders’ ROI from AI will come from using document intelligence and automated data extraction first. Once lenders get ROI from these platforms, then they typically will see the most operational gain in automating the underwriting process and the compliance workflow. The ecosystem breaks down the various leading solutions by use case, integration type, and deployment readiness, allowing lenders to determine the best candidates for their tech stack. “We’re ready to implement AI — what are the next steps?” Start by consulting with the ICE Relationship Manager regarding your migration needs for the EPC and assess compatibility for integration into the LOS. Once this is set up, engage with potential providers such as Lender Toolkit, Ocrolus or WisdomStream to set a time for a Discovery Meeting to establish implementation priorities. The 90-Day Roadmap will serve as a useful guideline for deploying resources, aligning stakeholders, and executing operational rollouts.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 14,
+      "title": "Case Studies",
+      "type": "testimonial_section",
+      "content": "Case Study — WisdomStream Client (Miami) 5-processor shop cuts 2–3 hours per processor per day Operating in Miami, Encompass took advantage of its existing loan origination software to implement AI workflow automation. The cost of implementation was $3,500. The five processors regained anywhere from 2 to 3 hours each day, for a total of ten to fifteen hours of daily capacity. The team used this increased capacity to continue to hire more loan officers and increase volume without adding to their processing staff. $3,500 – Implementation cost 10–15 hrs – Daily capacity recovered 90 days – To documented ROI Case Study — American Federal Mortgage Income verification: hours → minutes American Federal Mortgage has replaced the manual verification of income and employment with vertical AI. Encompass AI tools extracts and validates income and employment from source documents. As a result, underwriters are receiving consistent and auditable outputs in minutes. This resulted in faster credit decisions, better balance of workloads and improved predictability of rate locks/closing dates. Hours → mins Income verification time Auditable – Every output traceable Better – Rate lock predictability Case Study – Neighborhood Loans Doubled loan volume with Ocrolus + Encompass vertical AI Neighborhood Loans implemented vertical AI technology to automate the reconciliation of borrower submitted documents with data from applications they submitted through Encompass. Ocrolus flagged any missing items, or conflicting pieces of information, and sent machine-readable results straight to the LOS for processing. This process enabled them to have fewer document touches as well as faster file processing times while controlling quality. 2× Loan volume achieved ↓ Touches Per file, significantly reduced Same team No new hires required",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 15,
+      "title": "Wrapping Up",
+      "type": "form_section",
+      "content": "The shift of the mortgage industry toward EPC and API-first systems will mark 2026 as a crucial year for Encompass lenders. AI is rapidly moving to become more practical and is already facilitating lenders with faster processing times, lowering costs, and improving the borrower experience. By beginning to implement upgrades now, lenders will be more effectively modernizing their platforms and compete more efficiently in the market. If you are seeking to enhance your Encompass workflow using AI, our Encompass integration services will automate your processes, increase efficiency and develop a smarter lending organization for 2026 and beyond! FAQs 1. What is the December 31, 2026 deadline for Encompass lenders? All Encompass lenders will be expected to discontinue their use of the SDK kit and legacy service ordering integrations through ePass, TQL, EMN, and PSDK by December 31, 2026. At this point if you would like to continue to gain access to the SDK you will require special approval and there will be additional fees charged on a monthly basis. 2. Can small or mid-sized lenders realistically afford Encompass AI integrations? Document AI tools (Ocrolus, Lender Toolkit Prism, etc.) will be available through EPC or Developer Connect API’s for any lending business in the mid-market. The new API first architecture enables smaller lenders to deploy targeted AI to not have to completely rebuild their entire stack. 3. Does AI replace underwriters in the Encompass workflow? No, AI does the pre-analysis work before the Underwriter receives the pre-processed & annotated file. However, a human should importantly review the file at three minimum points in the process: Pre-Submission File Review, Conditional Approval, & Pre-Funding Compliance Review. 4. How do I start the EPC migration? To begin the EPC migration, contact your ICE Relationship Manager, have them update your contract, and then refer to the full FAQ and Countdown Resources provided by ICE on the Encompass Resource Center (mortgagetech.ice.com). The services provided by Fannie Mae and Freddie Mac will NOT be a part of this transition. 5. What is AI integration in Encompass? The integration of AI into Encompass allows lenders to use AI-driven automation to streamline their processes. This will let lenders to automate manual tasks, create better accuracy and compliance. 6. How does AI work with Encompass LOS? The AI in Encompass processes large amounts of data, makes predictions and automates complex decision making. The AI can identify what type of document and be able to extract from the images of documents and convert them to structured data. Other AI tools (i.e. ICE Mortgages Analyzers, etc.) can operate behind the scene to check documents. 7. What are the benefits of AI in Encompass? Based on a comparative study of lenders employing Encompass, the typical benefit is an increase in gross profit per loan and in production volume. Furthermore, lenders were able to reduce their time from application to closing by an average of three days overall. Thus, lenders enjoy speedier loans, lower costs, and less manual effort. 8. How is AI transforming Encompass in 2026? AI is rapidly expanding in the loan industry as partnership networks grow larger by 2026. Loan officers will have much less to do while paper documents are read through online or locating all missing paperwork. 9. How to integrate AI with Encompass? Encompass offers a broad range of APIs making it easy to connect with third party AI tools. Lenders can plug AI partner solutions in via ICE’s Partner Connect framework or use ICE’s built-in tools, ICE Mortgage Analyzers, and ICE Data/Document Automation. 10. How does AI improve loan processing in Encompass? ICE Mortgage Analyzers use automated evaluation to assess the borrower’s income, credit and assets and only flag exceptions for human review. This allows underwriters to focus on what they should do as a priority. Ultimately, AI reduces errors, quicken closing timelines and provides a better experience for borrowers.",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Encompass integration services",
+          "url": "https://awesometechinc.com/encompass-integration-services/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 16,
+      "title": "Subscribe to ATI",
+      "type": "form_section",
+      "content": "First name Last Name Your email",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Subscribe",
+          "url": ""
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "title": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "type": "service_section",
+      "content": "Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 18,
+      "title": "HMDA Reporting Setup in Encompass LOS",
+      "type": "content_section",
+      "content": "March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 19,
+      "title": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "type": "content_section",
+      "content": "In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": []
+    }
+  ],
+  "images": [
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/05/Exploring-AI-Integrations-for-Encompass-Whats-Possible-in-2026.png",
+      "alt": "AI Integrations for Encompass"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+      "alt": "Mortgage Automation in 2026"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+      "alt": "HMDA Reporting Setup in Encompass LOS"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+      "alt": "What is a Loan Origination System?"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "Lender Toolkit (ISO/IEC 42001 AI Risk Management Certification",
+      "url": "https://lendertoolkit.com/lender-toolkit-achieves-iso-iec-42001-certification/"
+    },
+    {
+      "label": "Velocify",
+      "url": "https://mortgagetech.ice.com/products/velocify"
+    },
+    {
+      "label": "Encompass integration services",
+      "url": "https://awesometechinc.com/encompass-integration-services/"
+    },
+    {
+      "label": "Search",
+      "url": ""
+    },
+    {
+      "label": "Subscribe",
+      "url": ""
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ],
+  "forms": [
+    {
+      "form_type": "contact_form",
+      "form_id": "",
+      "fields": [
+        {
+          "name": "s",
+          "label": "",
+          "type": "search",
+          "required": false
+        }
+      ],
+      "submit_label": "Search"
+    },
+    {
+      "form_type": "contact_form_7",
+      "form_id": "12171",
+      "fields": [
+        {
+          "name": "your-name",
+          "label": "your-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "last-name",
+          "label": "last-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "your-email",
+          "label": "your-email",
+          "type": "email",
+          "required": true
+        }
+      ],
+      "submit_label": "Subscribe"
+    }
+  ],
+  "links": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "Lender Toolkit (ISO/IEC 42001 AI Risk Management Certification",
+      "url": "https://lendertoolkit.com/lender-toolkit-achieves-iso-iec-42001-certification/"
+    },
+    {
+      "label": "Velocify",
+      "url": "https://mortgagetech.ice.com/products/velocify"
+    },
+    {
+      "label": "Encompass integration services",
+      "url": "https://awesometechinc.com/encompass-integration-services/"
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ]
+}

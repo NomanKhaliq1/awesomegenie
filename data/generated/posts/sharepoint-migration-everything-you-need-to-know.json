@@ -1,0 +1,752 @@
+{
+  "id": null,
+  "source_type": "post",
+  "slug": "sharepoint-migration-everything-you-need-to-know",
+  "title": "SharePoint Migration: Everything You Need to Know",
+  "url": "https://awesometechinc.com/sharepoint-migration-everything-you-need-to-know/",
+  "meta_title": "SharePoint Migration: Everything You Need to Know - Awesome Tech Inc",
+  "meta_description": "",
+  "modified_at": "2026-02-13T18:18:41+00:00",
+  "status": "public",
+  "summary": "Intro SharePoint Migration: Everything You Need to Know Home » SharePoint Migration: Everything You Need to Know Are you thinking of moving your data into SharePoint or migrate SharePoint to another? You and so many others out there are thinking along such lines.",
+  "keywords": [
+    "mortgage crm functionalities that simpl",
+    "mortgage lead can be costly",
+    "encompass los march",
+    "integration with microsoft",
+    "and",
+    "sharepoint",
+    "the",
+    "migration",
+    "for",
+    "data",
+    "online",
+    "you",
+    "can",
+    "are",
+    "content",
+    "tools"
+  ],
+  "full_text": "Intro SharePoint Migration: Everything You Need to Know Home » SharePoint Migration: Everything You Need to Know Are you thinking of moving your data into SharePoint or migrate SharePoint to another? You and so many others out there are thinking along such lines. Thousands of companies are making their move into SharePoint data migration-but few understand the real scope of what it involves. There are many things at stake: data integrity, user access, compatibility, and governance. But when done properly by trusting a Microsoft SharePoint migration service , SharePoint data migrations have changed the game in collaboration, document management, and eventually digital transformation. How to keep your migration smooth, safe, and successful? Whether you are migrating from file shares, legacy systems, or older SharePoint versions, this guide covers it all. The key migration steps, challenges, and proven best practices will build your confidence in making the move. Whether it is SharePoint migration from 2013 to 2019 or SharePoint 2013 to 2016, it takes a great deal of effort but we can help you ease out! Let’s take a journey and learn about SharePoint migration in detail! What is SharePoint Migration? SharePoint migration is the process of moving your data, documents, and other content from one platform or version to another in the SharePoint environment. This can include from an on-premises SharePoint server to SharePoint Online, upgrading between versions of SharePoint, or migrating between different site collections or environments within SharePoint Online. The intent behind migration is to build collaboration and ease document management so that organizations can actually make use of what SharePoint promises: from enhanced security and compliance to collaboration and integration with Microsoft 365 tools. Whether you plan to migrate SharePoint 2013 to SharePoint Online or from on premises to Online, SharePoint migration gives value to your organization! Reasons To Migrate To SharePoint Organizations might consider migration to SharePoint due to various strategic, operational, and technical reasons, such as productivity and better collaboration, or modernization of IT infrastructure. To migrate to SharePoint, the following reasons are there: Centralized Document Management: It offers a well-structured and well-secured environment where teams can store and organize documents for quick and easy recovery. This system of SharePoint Online migration greatly reduces duplication, improves version control, and provides means of accessing the content from anywhere. Better Collaboration: SharePoint allows co-authoring in real time, sharing of documents, and assignment of tasks and facilitating smoother collaborative activities involving teams that work remotely. Sharpened Security: SharePoint has a complete range of tools ranging from role-based access control to encryption and compliance auditing. All these secure the information and ensure that only authorized persons can access vital content. Flexible and Scalable: Scalability makes SharePoint the perfect solution regardless of whether it fits the needs of a smaller business or that of a global enterprise. It offers rapid growth in the number of users, large amounts of data, and complex organizational structures. Integration with Microsoft 365: SharePoint perfectly integrates with applications like Teams, Outlook, and OneDrive and allows users to switch between tools without stopping work. Cloud Adoption: It reduces the needs of physical servers, lowers maintenance-related costs, and supports hybrid or fully remote work models, which align with modern digital transformation goals. Complete SharePoint Migration Guide SharePoint migration relates to transferring data from older storage or from previous versions of SharePoint into a newer environment. This process deeply assesses the current data, migrates strategy, which SharePoint migration tools to select, such as ShareGate or Microsoft SharePoint Migration Tools, and the preparation of the new environment. Other activities include making a complete list of the contents, and the removal of redundant data. To migrate SharePoint 2013 to SharePoint Online or from on premises to Online, it successfully requires participation by stakeholders and utilizing fine details in scheduling, with post-migration validation. Security, permissions, and metadata must all be preserved accurately. Continuous support in SharePoint data migration is also a must for adoption as well as monitoring. Indeed, SharePoint Online migration makes transition easy, minimises disruption, and improves collaboration via the experience of modern SharePoint! Key Considerations Before Migration Before starting SharePoint migration, it’s important to lay the groundwork with careful planning and evaluation. Successful migration starts with Data Mapping. Conduct an entire overview of your current content to identify what needs to be migrated, archived, or deleted. This simplifies the migration process by removing aged or duplicate data and focusing on mission-critical business content. Next, develop a strategy to migrate SharePoint focusing on the entire process from start to finish. This includes figuring out the scope, setting realistic schedules, figuring out which content or departments to migrate in the first place, and any potential risks. It is standard practice to do this in stages, especially with big or complex environments. Permissions and Security settings must be checked over and replicated properly in the environment. Badly managed permissions may result in data leakage or problems with user access, so permission mapping and validation planning should be given thought after migration. Assess the Customization Needs, i.e., custom workflows, lists, or site templates. Some custom items are not supported by SharePoint Online and may have to be re-engineered or replaced with newer choices. This can happen if you plan to migrate SharePoint 2013 to SharePoint Online! Finally, don’t forget Training and Support. Provide the users of SharePoint migration with adequate training and support materials to ease adoption and reduce disruption. Post-migration support is necessary to allow fix-it situations to be resolved promptly and productivity to be maintained! Types Of SharePoint Migration SharePoint Online to SharePoint Online: Migrating from SharePoint Online to SharePoint Online can also be called tenant-to-tenant migration. It is not an easy task for organizations. Mainly because of metadata integrity, content dependencies and permission models. For major events like mergers, acquisitions or restructuring within an organization, this migration is ideal. On-Premises to SharePoint Online: SharePoint migrations from on-premises SharePoint servers (e.g., 2013, 2016) to SharePoint Online are one of the most common migration scenarios that organizations will consider. If you have an older version of SharePoint installed, you may want to upgrade to a newer version available and take advantage of their feature set and support. Migrations from On-premises SharePoint to SharePoint Online are the most common and very significant migrations that organizations undertake today. The rationale to shift is primarily driven by desire to have more scalability, easier access, better collaborative features, and more security. Let’s take a closer look at migrating from On-premises SharePoint to SharePoint Online: SharePoint Version Upgrades (e.g., 2013 to 2019) As cloud adoption grows, there continue to be organizations that are leveraging on-premises environments because of compliance or operational needs. So, upgrading from a previous version of SharePoint (e.g. 2013 or 2016) to a newer version of SharePoint (e.g. SharePoint 2019) provides continued support, security updates, and access to current features. In such scenarios, SharePoint migration from 2013 to 2019 is a convenient process! SharePoint version upgrades consist of the migration of content, customizations, and configurations from previous environments to newer environments for better performance, features, and security. SharePoint does require stepped upgrading (e.g. 2013 -> 2016 -> 2019); you cannot upgrade from 2013 to 2019 directly, so planning, testing, and validating are important to help ensure no loss of data or downtime during the migration. Is SharePoint migration from 2013 to 2016 on your mind? SharePoint Migration 2013 to 2016 Migrating from SharePoint 2013 to SharePoint 2016 is an in-place upgrade that requires deploying a SharePoint 2016, restoring the databases from 2013, backing them up, and upgrading them. There are also compatibility tests to run, an audit of custom solutions, and user-interface changes to note. Having a single upgrade allows one to transition more easily towards additional upgrades or to a hybrid or cloud environment. SharePoint Migration 2013 to 2019 Direct migration from SharePoint 2013 to 2019 is not supported; it has to migrate through SharePoint 2016 first. After going through SharePoint 2016, one has to do the same process for 2019, set up a new farm, migrate the databases, and then upgrade. You should test and validate each step to migrate SharePoint ensures all customizations, workflows, and permissions are carried over properly. Hybrid SharePoint Migration A hybrid migration allows to run both SharePoint on-premises and SharePoint Online environments at the same time. It is a more practical option for organizations that want to make the move to the cloud, but would like to do it in stages or want to keep some information on-premises based on a regulatory requirement. Data Migration Use the tried & trusted SharePoint migration tools and move the entire site collections while maintaining the metadata, the document libraries, and user permissions. At this stage, it is essential to observe the size and performance of the site collections and ensure that it does not exceed the recommended limits in SharePoint Online . Benefits Of SharePoint Migration Improved Collaboration SharePoint allows for teamwork in real time by using the capability of real time editing, co-authoring, and having built in collaboration using Microsoft Teams tools. Now teams do not have to sift through numerous email attachments to collaborate, and everyone can comment, track changes, and see document history. Improved Security SharePoint Online has multiple enterprise-level tools to help organizations comply with industry security prerequisites. These include DLP, encryption at rest and in transit, advanced threat protection, and MFA. Come security breach is not a non-issue, however, the features dramatically reduce the impact of a data breach, plus they are also compliant with expectations of GDPR, HIPAA, ISO, etc. Cost Savings Migration SharePoint Online minimizes the need to pay for on-premise server infrastructure, backups, and arduous patch cycles. The subscription model provides not only budget predictability, but allows the use of IT resources in a much more strategic manner. Scalability SharePoint is able to scale along with your business at a cost effective pace, from 50 users up to 5,000 users. Users can be added as needed, storage capacity can be expanded, and new sites can be created all with ease as SharePoint resides on a cloud architecture. This is ideal for growth or necessary change in response to rapid market changes. Steps for SharePoint Migration SharePoint data migration is a clearly defined process that ensures data is transitioned without risks, remaining secure, and with minimum interruption to your organization’s normal processes. Each step in the migration process is important to avoid mistakes and maintain the integrity of the migrated data. Preparation: The beginning of the SharePoint migration process requires a thorough assessment of your current environment. There is a need to compile an inventory of content, including documents, libraries, workflows, metadata, and user permissions. You will need to identify items that are going to be migrated, archived or discarded. One should also understand the architecture of the current SharePoint set-up, and also outline goals for migration, such as greater collaboration, reduced infrastructure costs, or improved security. Tool Selection: After assessing needs, select an appropriate tool that matches the degree of complexity in migration. The selection will depend on a number of factors, such as the volume of data, the degree of customization, and whether one is performing an on-prem to cloud, or cloud to cloud migration. Some SharePoint migration tools will automate as much as possible, and allow for more complex workflows during migration, while others are meant for basic file migration. Data Mapping: Plan the restructuring of the current data into the new SharePoint environment. This could include the restructuring of sites, libraries, and creating or reorganizing taxonomy. One might end up re-mapping or re-assigning metadata and setting up permissions to maximize the best use but performance of the new environment. Migration Execution Now is the time to begin implementing the migration using the new tool, and it’s usually best practice to start with the least critical information so that one can start to establish the process. During the implementations, you will want to keep an eye out for errors or skipped items, and maintain a record of any issues to investigate later. Plan for throttling limits and schedule the migration in a way that will minimize poor SharePoint performance. Post-Migration Testing: Now that you’ve migrated all your data. It’s time to test; did your data migrate, are your links working, are the workflows functioning, are the right users in the right permissions? This is also a good opportunity to provide any additional user training and support documentation so that the transition is smoother and much easier for people to adopt. How To Create A SharePoint Migration Plan? Having a sound migration strategy is critical for success. Without a well-defined strategy, the chance of delay, data loss or user irritation will increase. Timeline: Consider a timeline that considers the scope and complexity of the project. Larger organizations with enterprise-wide applications will have to segment the migration into phases, which may take weeks/months to fully implement, while smaller organizations may transition in a couple of days. You must consider the testing, stakeholder approvals and post-migration support into the timeline defined above. Resource Allocation: Assign responsibility across members of the migration team. This may consist of IT, project manager, business analysts, and power users. Define the activities; for example, concerns over the tool configuration, user training and acceptability, foreshadowing and planning for any problems. Adequately staffing your project minimizes the likelihood of errors and fosters better implementation. Risk Management: Identify anticipated risks up front, such as data corruption or loss of permissions, user disruption, downtime, etc. You should plan a contingency risk per risk such as: rollback procedures, backup plans, and failure protocols. Communication: Keep stakeholders informed internally/externally. Also, keep users informed about potential downtime, changes to the user interface, and new processes. Regular communication builds confidence, mitigates climate resistance, and helps keep momentum during implementation. SharePoint Migration Tools (Selecting Suitable Tools) Picking the right SharePoint migration tool often makes the difference between a smooth, easy migration or a pain-ridden one. Here are a few popular migration tools: SharePoint Migration Tool (SPMT): Provided free by Microsoft, SPMT is an excellent option for small to medium-sized companies or for simple migrations from file shares or SharePoint on-premises to SharePoint Online. It’s easy to use, handles incremental migrations, and works with Microsoft 365. ShareGate: A top third-party migration tool, ShareGate has a user-friendly interface and robust functionality. It migrates content in bulk, preserves metadata, and provides deep reporting capabilities. It is best suited for complicated environments with bespoke solutions and huge amounts of data. AvePoint: Built for enterprise migrations, AvePoint provides sophisticated features such as pre-migration analytics, scheduled automation, error logging, and post-migration reporting. It is particularly handy in regulated fields or large-scale migrations with sensitive information. There is a strong point for each SharePoint migration tool. Select based on your project complexity, budget, and support needs. SMPT In Focus Microsoft SharePoint Migration Tool (SPMT) is a free tool for content migration from an on-premises SharePoint farm to Microsoft 365. Note that all SPMT capabilities are also available in Microsoft PowerShell. Top features: Pre-migration evaluation — SPMT 4.0 and later can check your source sites for issues and correct them prior to initiating your migration. Site migration — SPMT can migrate out-of-the-box SharePoint sites without coding or third-party solution required. You can migrate a site separately or migrate its subsites, and you can modify site structure while migrating. Content migration — Content supported is SharePoint lists, document libraries and workflows. Bulk migration — You can list multiple sources in a CSV or JSON file and upload the file to SPMT. Tracking and reporting — Migration sets can monitor the migration process in real time and generate detailed reports on the status of jobs, warnings, and errors. Cross-tenant OneDrive migration add-on licensing is offered by Microsoft. It migrates source to target content, leaving behind a redirect link on source; incremental and delta migration passes are not supported. There is a cross-tenant SharePoint migration feature in private preview. Permissions Required For SharePoint Migration SharePoint data migration is achievable with specific permissions to view, manage, and move information. Site Collection Administrator: This offers full control over site collections so you may install settings, access all content, and manage permissions. It is required for mapping user roles and restoring permissions in the target environment. Content Database Permissions: Highest priority to on-premises migrations are these permissions, which grant access to the SQL databases that hold SharePoint content. Proper access level must be granted by IT administrators to move and transfer the data securely. Migration Tool Permissions: Each migration tool varies in terms of permissions required. Typically, tools require administrative credentials for source and target environments. Failure to have these assigned leads to partial migrations or access problems. SharePoint Migration Checklist Use the following checklist to plan and execute a successful migration: Backup All Data: First, create a full backup to avoid loss of data if there is a failure during migration. Assess Data and Permissions: Check what needs to be migrated and who needs access. Select Migration Tools: Depending on project complexity, budget, and feature set, pick tools. Create a Migration Plan: Include timelines, roles, risk mitigation, and communication strategy. Test Migration in a Sandbox: Do a test migration to ensure processes and track potential issues in advance. Following these steps will reduce risks and ease the transitions. Limitations/Common Challenges of SharePoint Migration Data Integrity Preserving data integrity when migrating is of utmost importance. Content, metadata, and permissions do not always migrate as they are, potentially leading to loss or corruption. Great care must be taken in planning, validation checks, and using proper tools to ensure nothing goes amiss. Customization Compatibility Custom workflows, web parts, or third-party solutions built on older versions of SharePoint may not be compatible with SharePoint Online. They may have to be rebuilt with Power Platform or other modern alternatives, which can increase time and development expenses. Storage SharePoint Online includes storage quotas based on your Microsoft 365 plan. If you have data stored that exceeds those quotas, you’ll need to delete files, or purchase more storage. Both of these options will affect your budget as well as your migration timelines. File Size SharePoint Online supports file sizes of 250 GB, but a large file size may slow the migration process or even generate migration errors. It is best to pre-optimize the file size in SharePoint Online and first transfer batches of smaller files to ensure fast and better transfer. Number of File Versions Tons of versions of the same document could result in delays in migration and storage. Consider reducing version history prior to migration to improve performance and reduce bloat in the new environment. File Path Length SharePoint Online will throw a message if the URL is longer than 400 characters. Long folder structures and long file names can push a URL larger than 400 characters, and cause failures to upload files. Consider restructuring content and shortening file names to simplify migration, avoid interruptions and save valuable time. Throttling Microsoft has implemented throttling to manage resource overuse. Throttling may cause your migration to pause or slow down. To solve for throttling you can stagger your migration jobs, target non-peak hours, and utilize tools that can support auto-retry. Naming Limitations Keep in mind, certain characters and naming conventions (e.g., &, %, #) set in legacy systems are not supported by SharePoint Online. Before the migration, files and folders would have to be renamed and comply with naming standard norms. User Training If the end user is not comfortable using SharePoint with its different appearance and functionality after a successful migration, it could potentially impact productivity. Take the time investment into hands-on user training, quick-start guides, and support to aid user adoption. Conclusion: Embracing the Future with SharePoint Migration It’s not simply moving files—moving to SharePoint is a stage in digital transformation, and as organizations become more remote and cloud-first it is clear that solutions like SharePoint Online are no longer options—they are requirements. Coupled with built-in collaboration capabilities, seamless integration with Microsoft 365, and enterprise security, SharePoint sets your organization up for agility and future growth. When AI comes into the workplace, SharePoint gets smarter. Microsoft continues to make it smarter with AI-powered search and content insights along with Copilot. The way teams can find, arrange, and collaborate around content changes. Currently, Gartner estimates that by 2026, 60% of digital workplace services will be built on AI and cloud-based collaboration platforms, making the move to SharePoint more valuable. Yes, it takes planning, tools, and training- but the ROI is there in SharePoint Online migration: higher productivity, lower IT overhead, and a modern workplace experience your employees will love. No matter how you are upgrading, whether it is from an earlier version, merging environments, or fully investing in the cloud, SharePoint migration will lead to a more connected, seamless, and future-proof organization. To ease SharePoint migration, hire a reliable SharePoint partner for the best outcomes! The ROI-driven and useful SharePoint migration services given by Awesome Technologies Inc. are second to none! Let’s connect now! FAQs Why should I migrate to SharePoint Online? SharePoint Online provides cloud offering flexibility, integration with Microsoft 365, better collaboration capabilities, lower IT maintenance, and better security features. It allows teams to collaborate anywhere and stay connected in real-time. What types of content can be migrated? One can migrate documents, lists, libraries, metadata, site collections, permissions, workflows, and custom solutions. However, the complexity of migrating third-party tools or custom features depends on the compatibility. How long does a SharePoint migration take? Time depends on multiple factors, including the size of your environment, content complexity, the tool being used, and the migration strategy implemented. Smaller migrations can be completed within days, while major enterprise migrations could take weeks or even months. Do I need a migration tool? Yes. Manual migration is possible for small amounts of content, but tools such as SharePoint Migration Tool (SPMT), ShareGate, or AvePoint streamline the process, ensuring data integrity, and much better handle more complex scenarios. Will I lose any data during migration? No. If you follow the SharePoint migration tools and processes correctly, you should not have data loss. Always backup your content, conduct test migrations in a sandbox, and confirm content migration results before you go live. Can I transfer my SharePoint workflows? No, there are limitations to the migration of custom workflows existing in SharePoint, and those that were built in SharePoint Designer or InfoPath, in most cases, will not be supported in SharePoint Online. It is recommended to recreate your workflows using Power Automate for optimization and performance. How do I test my SharePoint migration? You will need to do “test migrations” in a staging environment. You would want to validate the content migration, metadata integrity, links, permissions and workflow functionality prior to doing any type of migration in a production environment. How much does SharePoint migration cost? The cost of a SharePoint migration can cover a range from $5,000 to $150,000, depending on the number of users in your organization, your amount of data, and the complexity of your environment. For small companies using Microsoft’s free SharePoint Migration Tool (SPMT), the cost can be minimal, basically only paying for internal labor. Mid-market companies using tools like ShareGate for their migrations may pay in the range of $10,000 to $30,000, inclusive of licenses and some consulting. Large companies with advanced customizations, tenant-to-tenant migrations, or with a hybrid environment may easily exceed $100,000 especially when you consider using upper-end tools like AvePoint and outside consultants or managed service providers. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026 Blog 10 Mortgage CRM Functionalities That Simplify The Lending Process Finding just one mortgage lead can be costly. The cost of errors made when managing leads can add up very quickly. Reaching your goals with Read More » David Miller 05/22/2026 What is SharePoint Migration? SharePoint migration is the process of moving your data, documents, and other content from one platform or version to another in the SharePoint environment. This can include from an on-premises SharePoint server to SharePoint Online, upgrading between versions of SharePoint, or migrating between different site collections or environments within SharePoint Online. The intent behind migration is to build collaboration and ease document management so that organizations can actually make use of what SharePoint promises: from enhanced security and compliance to collaboration and integration with Microsoft 365 tools. Whether you plan to migrate SharePoint 2013 to SharePoint Online or from on premises to Online, SharePoint migration gives value to your organization! Reasons To Migrate To SharePoint Organizations might consider migration to SharePoint due to various strategic, operational, and technical reasons, such as productivity and better collaboration, or modernization of IT infrastructure. To migrate to SharePoint, the following reasons are there: Centralized Document Management: It offers a well-structured and well-secured environment where teams can store and organize documents for quick and easy recovery. This system of SharePoint Online migration greatly reduces duplication, improves version control, and provides means of accessing the content from anywhere. Better Collaboration: SharePoint allows co-authoring in real time, sharing of documents, and assignment of tasks and facilitating smoother collaborative activities involving teams that work remotely. Sharpened Security: SharePoint has a complete range of tools ranging from role-based access control to encryption and compliance auditing. All these secure the information and ensure that only authorized persons can access vital content. Flexible and Scalable: Scalability makes SharePoint the perfect solution regardless of whether it fits the needs of a smaller business or that of a global enterprise. It offers rapid growth in the number of users, large amounts of data, and complex organizational structures. Integration with Microsoft 365: SharePoint perfectly integrates with applications like Teams, Outlook, and OneDrive and allows users to switch between tools without stopping work. Cloud Adoption: It reduces the needs of physical servers, lowers maintenance-related costs, and supports hybrid or fully remote work models, which align with modern digital transformation goals. Complete SharePoint Migration Guide SharePoint migration relates to transferring data from older storage or from previous versions of SharePoint into a newer environment. This process deeply assesses the current data, migrates strategy, which SharePoint migration tools to select, such as ShareGate or Microsoft SharePoint Migration Tools, and the preparation of the new environment. Other activities include making a complete list of the contents, and the removal of redundant data. To migrate SharePoint 2013 to SharePoint Online or from on premises to Online, it successfully requires participation by stakeholders and utilizing fine details in scheduling, with post-migration validation. Security, permissions, and metadata must all be preserved accurately. Continuous support in SharePoint data migration is also a must for adoption as well as monitoring. Indeed, SharePoint Online migration makes transition easy, minimises disruption, and improves collaboration via the experience of modern SharePoint! Key Considerations Before Migration Before starting SharePoint migration, it’s important to lay the groundwork with careful planning and evaluation. Successful migration starts with Data Mapping. Conduct an entire overview of your current content to identify what needs to be migrated, archived, or deleted. This simplifies the migration process by removing aged or duplicate data and focusing on mission-critical business content. Next, develop a strategy to migrate SharePoint focusing on the entire process from start to finish. This includes figuring out the scope, setting realistic schedules, figuring out which content or departments to migrate in the first place, and any potential risks. It is standard practice to do this in stages, especially with big or complex environments. Permissions and Security settings must be checked over and replicated properly in the environment. Badly managed permissions may result in data leakage or problems with user access, so permission mapping and validation planning should be given thought after migration. Assess the Customization Needs, i.e., custom workflows, lists, or site templates. Some custom items are not supported by SharePoint Online and may have to be re-engineered or replaced with newer choices. This can happen if you plan to migrate SharePoint 2013 to SharePoint Online! Finally, don’t forget Training and Support. Provide the users of SharePoint migration with adequate training and support materials to ease adoption and reduce disruption. Post-migration support is necessary to allow fix-it situations to be resolved promptly and productivity to be maintained! SharePoint Online to SharePoint Online: Migrating from SharePoint Online to SharePoint Online can also be called tenant-to-tenant migration. It is not an easy task for organizations. Mainly because of metadata integrity, content dependencies and permission models. For major events like mergers, acquisitions or restructuring within an organization, this migration is ideal. On-Premises to SharePoint Online: SharePoint migrations from on-premises SharePoint servers (e.g., 2013, 2016) to SharePoint Online are one of the most common migration scenarios that organizations will consider. If you have an older version of SharePoint installed, you may want to upgrade to a newer version available and take advantage of their feature set and support. Migrations from On-premises SharePoint to SharePoint Online are the most common and very significant migrations that organizations undertake today. The rationale to shift is primarily driven by desire to have more scalability, easier access, better collaborative features, and more security. Let’s take a closer look at migrating from On-premises SharePoint to SharePoint Online: SharePoint Version Upgrades (e.g., 2013 to 2019) As cloud adoption grows, there continue to be organizations that are leveraging on-premises environments because of compliance or operational needs. So, upgrading from a previous version of SharePoint (e.g. 2013 or 2016) to a newer version of SharePoint (e.g. SharePoint 2019) provides continued support, security updates, and access to current features. In such scenarios, SharePoint migration from 2013 to 2019 is a convenient process! SharePoint version upgrades consist of the migration of content, customizations, and configurations from previous environments to newer environments for better performance, features, and security. SharePoint does require stepped upgrading (e.g. 2013 -> 2016 -> 2019); you cannot upgrade from 2013 to 2019 directly, so planning, testing, and validating are important to help ensure no loss of data or downtime during the migration. Is SharePoint migration from 2013 to 2016 on your mind? SharePoint Migration 2013 to 2016 Migrating from SharePoint 2013 to SharePoint 2016 is an in-place upgrade that requires deploying a SharePoint 2016, restoring the databases from 2013, backing them up, and upgrading them. There are also compatibility tests to run, an audit of custom solutions, and user-interface changes to note. Having a single upgrade allows one to transition more easily towards additional upgrades or to a hybrid or cloud environment. SharePoint Migration 2013 to 2019 Direct migration from SharePoint 2013 to 2019 is not supported; it has to migrate through SharePoint 2016 first. After going through SharePoint 2016, one has to do the same process for 2019, set up a new farm, migrate the databases, and then upgrade. You should test and validate each step to migrate SharePoint ensures all customizations, workflows, and permissions are carried over properly. Hybrid SharePoint Migration A hybrid migration allows to run both SharePoint on-premises and SharePoint Online environments at the same time. It is a more practical option for organizations that want to make the move to the cloud, but would like to do it in stages or want to keep some information on-premises based on a regulatory requirement. Data Migration Use the tried & trusted SharePoint migration tools and move the entire site collections while maintaining the metadata, the document libraries, and user permissions. At this stage, it is essential to observe the size and performance of the site collections and ensure that it does not exceed the recommended limits in SharePoint Online . Benefits Of SharePoint Migration Improved Collaboration SharePoint allows for teamwork in real time by using the capability of real time editing, co-authoring, and having built in collaboration using Microsoft Teams tools. Now teams do not have to sift through numerous email attachments to collaborate, and everyone can comment, track changes, and see document history. Improved Security SharePoint Online has multiple enterprise-level tools to help organizations comply with industry security prerequisites. These include DLP, encryption at rest and in transit, advanced threat protection, and MFA. Come security breach is not a non-issue, however, the features dramatically reduce the impact of a data breach, plus they are also compliant with expectations of GDPR, HIPAA, ISO, etc. Cost Savings Migration SharePoint Online minimizes the need to pay for on-premise server infrastructure, backups, and arduous patch cycles. The subscription model provides not only budget predictability, but allows the use of IT resources in a much more strategic manner. Scalability SharePoint is able to scale along with your business at a cost effective pace, from 50 users up to 5,000 users. Users can be added as needed, storage capacity can be expanded, and new sites can be created all with ease as SharePoint resides on a cloud architecture. This is ideal for growth or necessary change in response to rapid market changes. Steps for SharePoint Migration SharePoint data migration is a clearly defined process that ensures data is transitioned without risks, remaining secure, and with minimum interruption to your organization’s normal processes. Each step in the migration process is important to avoid mistakes and maintain the integrity of the migrated data. Preparation: The beginning of the SharePoint migration process requires a thorough assessment of your current environment. There is a need to compile an inventory of content, including documents, libraries, workflows, metadata, and user permissions. You will need to identify items that are going to be migrated, archived or discarded. One should also understand the architecture of the current SharePoint set-up, and also outline goals for migration, such as greater collaboration, reduced infrastructure costs, or improved security. Tool Selection: After assessing needs, select an appropriate tool that matches the degree of complexity in migration. The selection will depend on a number of factors, such as the volume of data, the degree of customization, and whether one is performing an on-prem to cloud, or cloud to cloud migration. Some SharePoint migration tools will automate as much as possible, and allow for more complex workflows during migration, while others are meant for basic file migration. Data Mapping: Plan the restructuring of the current data into the new SharePoint environment. This could include the restructuring of sites, libraries, and creating or reorganizing taxonomy. One might end up re-mapping or re-assigning metadata and setting up permissions to maximize the best use but performance of the new environment. Migration Execution Now is the time to begin implementing the migration using the new tool, and it’s usually best practice to start with the least critical information so that one can start to establish the process. During the implementations, you will want to keep an eye out for errors or skipped items, and maintain a record of any issues to investigate later. Plan for throttling limits and schedule the migration in a way that will minimize poor SharePoint performance. Post-Migration Testing: Now that you’ve migrated all your data. It’s time to test; did your data migrate, are your links working, are the workflows functioning, are the right users in the right permissions? This is also a good opportunity to provide any additional user training and support documentation so that the transition is smoother and much easier for people to adopt. How To Create A SharePoint Migration Plan? Having a sound migration strategy is critical for success. Without a well-defined strategy, the chance of delay, data loss or user irritation will increase. Timeline: Consider a timeline that considers the scope and complexity of the project. Larger organizations with enterprise-wide applications will have to segment the migration into phases, which may take weeks/months to fully implement, while smaller organizations may transition in a couple of days. You must consider the testing, stakeholder approvals and post-migration support into the timeline defined above. Resource Allocation: Assign responsibility across members of the migration team. This may consist of IT, project manager, business analysts, and power users. Define the activities; for example, concerns over the tool configuration, user training and acceptability, foreshadowing and planning for any problems. Adequately staffing your project minimizes the likelihood of errors and fosters better implementation. Risk Management: Identify anticipated risks up front, such as data corruption or loss of permissions, user disruption, downtime, etc. You should plan a contingency risk per risk such as: rollback procedures, backup plans, and failure protocols. Communication: Keep stakeholders informed internally/externally. Also, keep users informed about potential downtime, changes to the user interface, and new processes. Regular communication builds confidence, mitigates climate resistance, and helps keep momentum during implementation. SharePoint Migration Tools (Selecting Suitable Tools) Picking the right SharePoint migration tool often makes the difference between a smooth, easy migration or a pain-ridden one. Here are a few popular migration tools: SharePoint Migration Tool (SPMT): Provided free by Microsoft, SPMT is an excellent option for small to medium-sized companies or for simple migrations from file shares or SharePoint on-premises to SharePoint Online. It’s easy to use, handles incremental migrations, and works with Microsoft 365. ShareGate: A top third-party migration tool, ShareGate has a user-friendly interface and robust functionality. It migrates content in bulk, preserves metadata, and provides deep reporting capabilities. It is best suited for complicated environments with bespoke solutions and huge amounts of data. AvePoint: Built for enterprise migrations, AvePoint provides sophisticated features such as pre-migration analytics, scheduled automation, error logging, and post-migration reporting. It is particularly handy in regulated fields or large-scale migrations with sensitive information. There is a strong point for each SharePoint migration tool. Select based on your project complexity, budget, and support needs. SMPT In Focus Microsoft SharePoint Migration Tool (SPMT) is a free tool for content migration from an on-premises SharePoint farm to Microsoft 365. Note that all SPMT capabilities are also available in Microsoft PowerShell. Top features: Pre-migration evaluation — SPMT 4.0 and later can check your source sites for issues and correct them prior to initiating your migration. Site migration — SPMT can migrate out-of-the-box SharePoint sites without coding or third-party solution required. You can migrate a site separately or migrate its subsites, and you can modify site structure while migrating. Content migration — Content supported is SharePoint lists, document libraries and workflows. Bulk migration — You can list multiple sources in a CSV or JSON file and upload the file to SPMT. Tracking and reporting — Migration sets can monitor the migration process in real time and generate detailed reports on the status of jobs, warnings, and errors. Cross-tenant OneDrive migration add-on licensing is offered by Microsoft. It migrates source to target content, leaving behind a redirect link on source; incremental and delta migration passes are not supported. There is a cross-tenant SharePoint migration feature in private preview. Permissions Required For SharePoint Migration SharePoint data migration is achievable with specific permissions to view, manage, and move information. Site Collection Administrator: This offers full control over site collections so you may install settings, access all content, and manage permissions. It is required for mapping user roles and restoring permissions in the target environment. Content Database Permissions: Highest priority to on-premises migrations are these permissions, which grant access to the SQL databases that hold SharePoint content. Proper access level must be granted by IT administrators to move and transfer the data securely. Migration Tool Permissions: Each migration tool varies in terms of permissions required. Typically, tools require administrative credentials for source and target environments. Failure to have these assigned leads to partial migrations or access problems. SharePoint Migration Checklist Use the following checklist to plan and execute a successful migration: Backup All Data: First, create a full backup to avoid loss of data if there is a failure during migration. Assess Data and Permissions: Check what needs to be migrated and who needs access. Select Migration Tools: Depending on project complexity, budget, and feature set, pick tools. Create a Migration Plan: Include timelines, roles, risk mitigation, and communication strategy. Test Migration in a Sandbox: Do a test migration to ensure processes and track potential issues in advance. Following these steps will reduce risks and ease the transitions. Data Integrity Preserving data integrity when migrating is of utmost importance. Content, metadata, and permissions do not always migrate as they are, potentially leading to loss or corruption. Great care must be taken in planning, validation checks, and using proper tools to ensure nothing goes amiss. Customization Compatibility Custom workflows, web parts, or third-party solutions built on older versions of SharePoint may not be compatible with SharePoint Online. They may have to be rebuilt with Power Platform or other modern alternatives, which can increase time and development expenses. Storage SharePoint Online includes storage quotas based on your Microsoft 365 plan. If you have data stored that exceeds those quotas, you’ll need to delete files, or purchase more storage. Both of these options will affect your budget as well as your migration timelines. File Size SharePoint Online supports file sizes of 250 GB, but a large file size may slow the migration process or even generate migration errors. It is best to pre-optimize the file size in SharePoint Online and first transfer batches of smaller files to ensure fast and better transfer. Number of File Versions Tons of versions of the same document could result in delays in migration and storage. Consider reducing version history prior to migration to improve performance and reduce bloat in the new environment. File Path Length SharePoint Online will throw a message if the URL is longer than 400 characters. Long folder structures and long file names can push a URL larger than 400 characters, and cause failures to upload files. Consider restructuring content and shortening file names to simplify migration, avoid interruptions and save valuable time. Throttling Microsoft has implemented throttling to manage resource overuse. Throttling may cause your migration to pause or slow down. To solve for throttling you can stagger your migration jobs, target non-peak hours, and utilize tools that can support auto-retry. Naming Limitations Keep in mind, certain characters and naming conventions (e.g., &, %, #) set in legacy systems are not supported by SharePoint Online. Before the migration, files and folders would have to be renamed and comply with naming standard norms. User Training If the end user is not comfortable using SharePoint with its different appearance and functionality after a successful migration, it could potentially impact productivity. Take the time investment into hands-on user training, quick-start guides, and support to aid user adoption. Conclusion: Embracing the Future with SharePoint Migration It’s not simply moving files—moving to SharePoint is a stage in digital transformation, and as organizations become more remote and cloud-first it is clear that solutions like SharePoint Online are no longer options—they are requirements. Coupled with built-in collaboration capabilities, seamless integration with Microsoft 365, and enterprise security, SharePoint sets your organization up for agility and future growth. When AI comes into the workplace, SharePoint gets smarter. Microsoft continues to make it smarter with AI-powered search and content insights along with Copilot. The way teams can find, arrange, and collaborate around content changes. Currently, Gartner estimates that by 2026, 60% of digital workplace services will be built on AI and cloud-based collaboration platforms, making the move to SharePoint more valuable. Yes, it takes planning, tools, and training- but the ROI is there in SharePoint Online migration: higher productivity, lower IT overhead, and a modern workplace experience your employees will love. No matter how you are upgrading, whether it is from an earlier version, merging environments, or fully investing in the cloud, SharePoint migration will lead to a more connected, seamless, and future-proof organization. To ease SharePoint migration, hire a reliable SharePoint partner for the best outcomes! The ROI-driven and useful SharePoint migration services given by Awesome Technologies Inc. are second to none! Let’s connect now! FAQs Why should I migrate to SharePoint Online? SharePoint Online provides cloud offering flexibility, integration with Microsoft 365, better collaboration capabilities, lower IT maintenance, and better security features. It allows teams to collaborate anywhere and stay connected in real-time. What types of content can be migrated? One can migrate documents, lists, libraries, metadata, site collections, permissions, workflows, and custom solutions. However, the complexity of migrating third-party tools or custom features depends on the compatibility. How long does a SharePoint migration take? Time depends on multiple factors, including the size of your environment, content complexity, the tool being used, and the migration strategy implemented. Smaller migrations can be completed within days, while major enterprise migrations could take weeks or even months. Do I need a migration tool? Yes. Manual migration is possible for small amounts of content, but tools such as SharePoint Migration Tool (SPMT), ShareGate, or AvePoint streamline the process, ensuring data integrity, and much better handle more complex scenarios. Will I lose any data during migration? No. If you follow the SharePoint migration tools and processes correctly, you should not have data loss. Always backup your content, conduct test migrations in a sandbox, and confirm content migration results before you go live. Can I transfer my SharePoint workflows? No, there are limitations to the migration of custom workflows existing in SharePoint, and those that were built in SharePoint Designer or InfoPath, in most cases, will not be supported in SharePoint Online. It is recommended to recreate your workflows using Power Automate for optimization and performance. How do I test my SharePoint migration? You will need to do “test migrations” in a staging environment. You would want to validate the content migration, metadata integrity, links, permissions and workflow functionality prior to doing any type of migration in a production environment. How much does SharePoint migration cost? The cost of a SharePoint migration can cover a range from $5,000 to $150,000, depending on the number of users in your organization, your amount of data, and the complexity of your environment. For small companies using Microsoft’s free SharePoint Migration Tool (SPMT), the cost can be minimal, basically only paying for internal labor. Mid-market companies using tools like ShareGate for their migrations may pay in the range of $10,000 to $30,000, inclusive of licenses and some consulting. Large companies with advanced customizations, tenant-to-tenant migrations, or with a hybrid environment may easily exceed $100,000 especially when you consider using upper-end tools like AvePoint and outside consultants or managed service providers. Subscribe to ATI First name Last Name Your email HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » 10 Mortgage CRM Functionalities That Simplify The Lending Process Finding just one mortgage lead can be costly. The cost of errors made when managing leads can add up very quickly. Reaching your goals with Read More »",
+  "word_count": 7896,
+  "headings_count": 43,
+  "images_count": 6,
+  "buttons_count": 14,
+  "forms_count": 2,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "SharePoint Migration: Everything You Need to Know Home » SharePoint Migration: Everything You Need to Know Are you thinking of moving your data into SharePoint or migrate SharePoint to another? You and so many others out there are thinking along such lines. Thousands of companies are making their move into SharePoint data migration-but few understand the real scope of what it involves. There are many things at stake: data integrity, user access, compatibility, and governance. But when done properly by trusting a Microsoft SharePoint migration service , SharePoint data migrations have changed the game in collaboration, document management, and eventually digital transformation. How to keep your migration smooth, safe, and successful? Whether you are migrating from file shares, legacy systems, or older SharePoint versions, this guide covers it all. The key migration steps, challenges, and proven best practices will build your confidence in making the move. Whether it is SharePoint migration from 2013 to 2019 or SharePoint 2013 to 2016, it takes a great deal of effort but we can help you ease out! Let’s take a journey and learn about SharePoint migration in detail! What is SharePoint Migration? SharePoint migration is the process of moving your data, documents, and other content from one platform or version to another in the SharePoint environment. This can include from an on-premises SharePoint server to SharePoint Online, upgrading between versions of SharePoint, or migrating between different site collections or environments within SharePoint Online. The intent behind migration is to build collaboration and ease document management so that organizations can actually make use of what SharePoint promises: from enhanced security and compliance to collaboration and integration with Microsoft 365 tools. Whether you plan to migrate SharePoint 2013 to SharePoint Online or from on premises to Online, SharePoint migration gives value to your organization! Reasons To Migrate To SharePoint Organizations might consider migration to SharePoint due to various strategic, operational, and technical reasons, such as productivity and better collaboration, or modernization of IT infrastructure. To migrate to SharePoint, the following reasons are there: Centralized Document Management: It offers a well-structured and well-secured environment where teams can store and organize documents for quick and easy recovery. This system of SharePoint Online migration greatly reduces duplication, improves version control, and provides means of accessing the content from anywhere. Better Collaboration: SharePoint allows co-authoring in real time, sharing of documents, and assignment of tasks and facilitating smoother collaborative activities involving teams that work remotely. Sharpened Security: SharePoint has a complete range of tools ranging from role-based access control to encryption and compliance auditing. All these secure the information and ensure that only authorized persons can access vital content. Flexible and Scalable: Scalability makes SharePoint the perfect solution regardless of whether it fits the needs of a smaller business or that of a global enterprise. It offers rapid growth in the number of users, large amounts of data, and complex organizational structures. Integration with Microsoft 365: SharePoint perfectly integrates with applications like Teams, Outlook, and OneDrive and allows users to switch between tools without stopping work. Cloud Adoption: It reduces the needs of physical servers, lowers maintenance-related costs, and supports hybrid or fully remote work models, which align with modern digital transformation goals. Complete SharePoint Migration Guide SharePoint migration relates to transferring data from older storage or from previous versions of SharePoint into a newer environment. This process deeply assesses the current data, migrates strategy, which SharePoint migration tools to select, such as ShareGate or Microsoft SharePoint Migration Tools, and the preparation of the new environment. Other activities include making a complete list of the contents, and the removal of redundant data. To migrate SharePoint 2013 to SharePoint Online or from on premises to Online, it successfully requires participation by stakeholders and utilizing fine details in scheduling, with post-migration validation. Security, permissions, and metadata must all be preserved accurately. Continuous support in SharePoint data migration is also a must for adoption as well as monitoring. Indeed, SharePoint Online migration makes transition easy, minimises disruption, and improves collaboration via the experience of modern SharePoint! Key Considerations Before Migration Before starting SharePoint migration, it’s important to lay the groundwork with careful planning and evaluation. Successful migration starts with Data Mapping. Conduct an entire overview of your current content to identify what needs to be migrated, archived, or deleted. This simplifies the migration process by removing aged or duplicate data and focusing on mission-critical business content. Next, develop a strategy to migrate SharePoint focusing on the entire process from start to finish. This includes figuring out the scope, setting realistic schedules, figuring out which content or departments to migrate in the first place, and any potential risks. It is standard practice to do this in stages, especially with big or complex environments. Permissions and Security settings must be checked over and replicated properly in the environment. Badly managed permissions may result in data leakage or problems with user access, so permission mapping and validation planning should be given thought after migration. Assess the Customization Needs, i.e., custom workflows, lists, or site templates. Some custom items are not supported by SharePoint Online and may have to be re-engineered or replaced with newer choices. This can happen if you plan to migrate SharePoint 2013 to SharePoint Online! Finally, don’t forget Training and Support. Provide the users of SharePoint migration with adequate training and support materials to ease adoption and reduce disruption. Post-migration support is necessary to allow fix-it situations to be resolved promptly and productivity to be maintained! Types Of SharePoint Migration SharePoint Online to SharePoint Online: Migrating from SharePoint Online to SharePoint Online can also be called tenant-to-tenant migration. It is not an easy task for organizations. Mainly because of metadata integrity, content dependencies and permission models. For major events like mergers, acquisitions or restructuring within an organization, this migration is ideal. On-Premises to SharePoint Online: SharePoint migrations from on-premises SharePoint servers (e.g., 2013, 2016) to SharePoint Online are one of the most common migration scenarios that organizations will consider. If you have an older version of SharePoint installed, you may want to upgrade to a newer version available and take advantage of their feature set and support. Migrations from On-premises SharePoint to SharePoint Online are the most common and very significant migrations that organizations undertake today. The rationale to shift is primarily driven by desire to have more scalability, easier access, better collaborative features, and more security. Let’s take a closer look at migrating from On-premises SharePoint to SharePoint Online: SharePoint Version Upgrades (e.g., 2013 to 2019) As cloud adoption grows, there continue to be organizations that are leveraging on-premises environments because of compliance or operational needs. So, upgrading from a previous version of SharePoint (e.g. 2013 or 2016) to a newer version of SharePoint (e.g. SharePoint 2019) provides continued support, security updates, and access to current features. In such scenarios, SharePoint migration from 2013 to 2019 is a convenient process! SharePoint version upgrades consist of the migration of content, customizations, and configurations from previous environments to newer environments for better performance, features, and security. SharePoint does require stepped upgrading (e.g. 2013 -> 2016 -> 2019); you cannot upgrade from 2013 to 2019 directly, so planning, testing, and validating are important to help ensure no loss of data or downtime during the migration. Is SharePoint migration from 2013 to 2016 on your mind? SharePoint Migration 2013 to 2016 Migrating from SharePoint 2013 to SharePoint 2016 is an in-place upgrade that requires deploying a SharePoint 2016, restoring the databases from 2013, backing them up, and upgrading them. There are also compatibility tests to run, an audit of custom solutions, and user-interface changes to note. Having a single upgrade allows one to transition more easily towards additional upgrades or to a hybrid or cloud environment. SharePoint Migration 2013 to 2019 Direct migration from SharePoint 2013 to 2019 is not supported; it has to migrate through SharePoint 2016 first. After going through SharePoint 2016, one has to do the same process for 2019, set up a new farm, migrate the databases, and then upgrade. You should test and validate each step to migrate SharePoint ensures all customizations, workflows, and permissions are carried over properly. Hybrid SharePoint Migration A hybrid migration allows to run both SharePoint on-premises and SharePoint Online environments at the same time. It is a more practical option for organizations that want to make the move to the cloud, but would like to do it in stages or want to keep some information on-premises based on a regulatory requirement. Data Migration Use the tried & trusted SharePoint migration tools and move the entire site collections while maintaining the metadata, the document libraries, and user permissions. At this stage, it is essential to observe the size and performance of the site collections and ensure that it does not exceed the recommended limits in SharePoint Online . Benefits Of SharePoint Migration Improved Collaboration SharePoint allows for teamwork in real time by using the capability of real time editing, co-authoring, and having built in collaboration using Microsoft Teams tools. Now teams do not have to sift through numerous email attachments to collaborate, and everyone can comment, track changes, and see document history. Improved Security SharePoint Online has multiple enterprise-level tools to help organizations comply with industry security prerequisites. These include DLP, encryption at rest and in transit, advanced threat protection, and MFA. Come security breach is not a non-issue, however, the features dramatically reduce the impact of a data breach, plus they are also compliant with expectations of GDPR, HIPAA, ISO, etc. Cost Savings Migration SharePoint Online minimizes the need to pay for on-premise server infrastructure, backups, and arduous patch cycles. The subscription model provides not only budget predictability, but allows the use of IT resources in a much more strategic manner. Scalability SharePoint is able to scale along with your business at a cost effective pace, from 50 users up to 5,000 users. Users can be added as needed, storage capacity can be expanded, and new sites can be created all with ease as SharePoint resides on a cloud architecture. This is ideal for growth or necessary change in response to rapid market changes. Steps for SharePoint Migration SharePoint data migration is a clearly defined process that ensures data is transitioned without risks, remaining secure, and with minimum interruption to your organization’s normal processes. Each step in the migration process is important to avoid mistakes and maintain the integrity of the migrated data. Preparation: The beginning of the SharePoint migration process requires a thorough assessment of your current environment. There is a need to compile an inventory of content, including documents, libraries, workflows, metadata, and user permissions. You will need to identify items that are going to be migrated, archived or discarded. One should also understand the architecture of the current SharePoint set-up, and also outline goals for migration, such as greater collaboration, reduced infrastructure costs, or improved security. Tool Selection: After assessing needs, select an appropriate tool that matches the degree of complexity in migration. The selection will depend on a number of factors, such as the volume of data, the degree of customization, and whether one is performing an on-prem to cloud, or cloud to cloud migration. Some SharePoint migration tools will automate as much as possible, and allow for more complex workflows during migration, while others are meant for basic file migration. Data Mapping: Plan the restructuring of the current data into the new SharePoint environment. This could include the restructuring of sites, libraries, and creating or reorganizing taxonomy. One might end up re-mapping or re-assigning metadata and setting up permissions to maximize the best use but performance of the new environment. Migration Execution Now is the time to begin implementing the migration using the new tool, and it’s usually best practice to start with the least critical information so that one can start to establish the process. During the implementations, you will want to keep an eye out for errors or skipped items, and maintain a record of any issues to investigate later. Plan for throttling limits and schedule the migration in a way that will minimize poor SharePoint performance. Post-Migration Testing: Now that you’ve migrated all your data. It’s time to test; did your data migrate, are your links working, are the workflows functioning, are the right users in the right permissions? This is also a good opportunity to provide any additional user training and support documentation so that the transition is smoother and much easier for people to adopt. How To Create A SharePoint Migration Plan? Having a sound migration strategy is critical for success. Without a well-defined strategy, the chance of delay, data loss or user irritation will increase. Timeline: Consider a timeline that considers the scope and complexity of the project. Larger organizations with enterprise-wide applications will have to segment the migration into phases, which may take weeks/months to fully implement, while smaller organizations may transition in a couple of days. You must consider the testing, stakeholder approvals and post-migration support into the timeline defined above. Resource Allocation: Assign responsibility across members of the migration team. This may consist of IT, project manager, business analysts, and power users. Define the activities; for example, concerns over the tool configuration, user training and acceptability, foreshadowing and planning for any problems. Adequately staffing your project minimizes the likelihood of errors and fosters better implementation. Risk Management: Identify anticipated risks up front, such as data corruption or loss of permissions, user disruption, downtime, etc. You should plan a contingency risk per risk such as: rollback procedures, backup plans, and failure protocols. Communication: Keep stakeholders informed internally/externally. Also, keep users informed about potential downtime, changes to the user interface, and new processes. Regular communication builds confidence, mitigates climate resistance, and helps keep momentum during implementation. SharePoint Migration Tools (Selecting Suitable Tools) Picking the right SharePoint migration tool often makes the difference between a smooth, easy migration or a pain-ridden one. Here are a few popular migration tools: SharePoint Migration Tool (SPMT): Provided free by Microsoft, SPMT is an excellent option for small to medium-sized companies or for simple migrations from file shares or SharePoint on-premises to SharePoint Online. It’s easy to use, handles incremental migrations, and works with Microsoft 365. ShareGate: A top third-party migration tool, ShareGate has a user-friendly interface and robust functionality. It migrates content in bulk, preserves metadata, and provides deep reporting capabilities. It is best suited for complicated environments with bespoke solutions and huge amounts of data. AvePoint: Built for enterprise migrations, AvePoint provides sophisticated features such as pre-migration analytics, scheduled automation, error logging, and post-migration reporting. It is particularly handy in regulated fields or large-scale migrations with sensitive information. There is a strong point for each SharePoint migration tool. Select based on your project complexity, budget, and support needs. SMPT In Focus Microsoft SharePoint Migration Tool (SPMT) is a free tool for content migration from an on-premises SharePoint farm to Microsoft 365. Note that all SPMT capabilities are also available in Microsoft PowerShell. Top features: Pre-migration evaluation — SPMT 4.0 and later can check your source sites for issues and correct them prior to initiating your migration. Site migration — SPMT can migrate out-of-the-box SharePoint sites without coding or third-party solution required. You can migrate a site separately or migrate its subsites, and you can modify site structure while migrating. Content migration — Content supported is SharePoint lists, document libraries and workflows. Bulk migration — You can list multiple sources in a CSV or JSON file and upload the file to SPMT. Tracking and reporting — Migration sets can monitor the migration process in real time and generate detailed reports on the status of jobs, warnings, and errors. Cross-tenant OneDrive migration add-on licensing is offered by Microsoft. It migrates source to target content, leaving behind a redirect link on source; incremental and delta migration passes are not supported. There is a cross-tenant SharePoint migration feature in private preview. Permissions Required For SharePoint Migration SharePoint data migration is achievable with specific permissions to view, manage, and move information. Site Collection Administrator: This offers full control over site collections so you may install settings, access all content, and manage permissions. It is required for mapping user roles and restoring permissions in the target environment. Content Database Permissions: Highest priority to on-premises migrations are these permissions, which grant access to the SQL databases that hold SharePoint content. Proper access level must be granted by IT administrators to move and transfer the data securely. Migration Tool Permissions: Each migration tool varies in terms of permissions required. Typically, tools require administrative credentials for source and target environments. Failure to have these assigned leads to partial migrations or access problems. SharePoint Migration Checklist Use the following checklist to plan and execute a successful migration: Backup All Data: First, create a full backup to avoid loss of data if there is a failure during migration. Assess Data and Permissions: Check what needs to be migrated and who needs access. Select Migration Tools: Depending on project complexity, budget, and feature set, pick tools. Create a Migration Plan: Include timelines, roles, risk mitigation, and communication strategy. Test Migration in a Sandbox: Do a test migration to ensure processes and track potential issues in advance. Following these steps will reduce risks and ease the transitions. Limitations/Common Challenges of SharePoint Migration Data Integrity Preserving data integrity when migrating is of utmost importance. Content, metadata, and permissions do not always migrate as they are, potentially leading to loss or corruption. Great care must be taken in planning, validation checks, and using proper tools to ensure nothing goes amiss. Customization Compatibility Custom workflows, web parts, or third-party solutions built on older versions of SharePoint may not be compatible with SharePoint Online. They may have to be rebuilt with Power Platform or other modern alternatives, which can increase time and development expenses. Storage SharePoint Online includes storage quotas based on your Microsoft 365 plan. If you have data stored that exceeds those quotas, you’ll need to delete files, or purchase more storage. Both of these options will affect your budget as well as your migration timelines. File Size SharePoint Online supports file sizes of 250 GB, but a large file size may slow the migration process or even generate migration errors. It is best to pre-optimize the file size in SharePoint Online and first transfer batches of smaller files to ensure fast and better transfer. Number of File Versions Tons of versions of the same document could result in delays in migration and storage. Consider reducing version history prior to migration to improve performance and reduce bloat in the new environment. File Path Length SharePoint Online will throw a message if the URL is longer than 400 characters. Long folder structures and long file names can push a URL larger than 400 characters, and cause failures to upload files. Consider restructuring content and shortening file names to simplify migration, avoid interruptions and save valuable time. Throttling Microsoft has implemented throttling to manage resource overuse. Throttling may cause your migration to pause or slow down. To solve for throttling you can stagger your migration jobs, target non-peak hours, and utilize tools that can support auto-retry. Naming Limitations Keep in mind, certain characters and naming conventions (e.g., &, %, #) set in legacy systems are not supported by SharePoint Online. Before the migration, files and folders would have to be renamed and comply with naming standard norms. User Training If the end user is not comfortable using SharePoint with its different appearance and functionality after a successful migration, it could potentially impact productivity. Take the time investment into hands-on user training, quick-start guides, and support to aid user adoption. Conclusion: Embracing the Future with SharePoint Migration It’s not simply moving files—moving to SharePoint is a stage in digital transformation, and as organizations become more remote and cloud-first it is clear that solutions like SharePoint Online are no longer options—they are requirements. Coupled with built-in collaboration capabilities, seamless integration with Microsoft 365, and enterprise security, SharePoint sets your organization up for agility and future growth. When AI comes into the workplace, SharePoint gets smarter. Microsoft continues to make it smarter with AI-powered search and content insights along with Copilot. The way teams can find, arrange, and collaborate around content changes. Currently, Gartner estimates that by 2026, 60% of digital workplace services will be built on AI and cloud-based collaboration platforms, making the move to SharePoint more valuable. Yes, it takes planning, tools, and training- but the ROI is there in SharePoint Online migration: higher productivity, lower IT overhead, and a modern workplace experience your employees will love. No matter how you are upgrading, whether it is from an earlier version, merging environments, or fully investing in the cloud, SharePoint migration will lead to a more connected, seamless, and future-proof organization. To ease SharePoint migration, hire a reliable SharePoint partner for the best outcomes! The ROI-driven and useful SharePoint migration services given by Awesome Technologies Inc. are second to none! Let’s connect now! FAQs Why should I migrate to SharePoint Online? SharePoint Online provides cloud offering flexibility, integration with Microsoft 365, better collaboration capabilities, lower IT maintenance, and better security features. It allows teams to collaborate anywhere and stay connected in real-time. What types of content can be migrated? One can migrate documents, lists, libraries, metadata, site collections, permissions, workflows, and custom solutions. However, the complexity of migrating third-party tools or custom features depends on the compatibility. How long does a SharePoint migration take? Time depends on multiple factors, including the size of your environment, content complexity, the tool being used, and the migration strategy implemented. Smaller migrations can be completed within days, while major enterprise migrations could take weeks or even months. Do I need a migration tool? Yes. Manual migration is possible for small amounts of content, but tools such as SharePoint Migration Tool (SPMT), ShareGate, or AvePoint streamline the process, ensuring data integrity, and much better handle more complex scenarios. Will I lose any data during migration? No. If you follow the SharePoint migration tools and processes correctly, you should not have data loss. Always backup your content, conduct test migrations in a sandbox, and confirm content migration results before you go live. Can I transfer my SharePoint workflows? No, there are limitations to the migration of custom workflows existing in SharePoint, and those that were built in SharePoint Designer or InfoPath, in most cases, will not be supported in SharePoint Online. It is recommended to recreate your workflows using Power Automate for optimization and performance. How do I test my SharePoint migration? You will need to do “test migrations” in a staging environment. You would want to validate the content migration, metadata integrity, links, permissions and workflow functionality prior to doing any type of migration in a production environment. How much does SharePoint migration cost? The cost of a SharePoint migration can cover a range from $5,000 to $150,000, depending on the number of users in your organization, your amount of data, and the complexity of your environment. For small companies using Microsoft’s free SharePoint Migration Tool (SPMT), the cost can be minimal, basically only paying for internal labor. Mid-market companies using tools like ShareGate for their migrations may pay in the range of $10,000 to $30,000, inclusive of licenses and some consulting. Large companies with advanced customizations, tenant-to-tenant migrations, or with a hybrid environment may easily exceed $100,000 especially when you consider using upper-end tools like AvePoint and outside consultants or managed service providers. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026 Blog 10 Mortgage CRM Functionalities That Simplify The Lending Process Finding just one mortgage lead can be costly. The cost of errors made when managing leads can add up very quickly. Reaching your goals with Read More » David Miller 05/22/2026",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2025/05/SharePoint-Migration-Everything-You-Need-to-Know-scaled.png",
+          "alt": "SharePoint Migration Everything You Need to Know"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2025/05/Reasons-To-Migrate-To-SharePoint-1024x538.png",
+          "alt": ""
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2025/05/Benefits-Of-SharePoint-Migration-1024x538.png",
+          "alt": ""
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+          "alt": "HMDA Reporting Setup in Encompass LOS"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+          "alt": "What is a Loan Origination System?"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/05/10-Mortgage-CRM-Functionalities-That-Simplify-the-Lending-Process-1.jpg",
+          "alt": "Mortgage CRM Functionalities"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Home",
+          "url": "https://awesometechinc.com/"
+        },
+        {
+          "label": "Microsoft SharePoint migration service",
+          "url": "https://awesometechinc.com/sharepoint-migration-services/"
+        },
+        {
+          "label": "SharePoint migration from 2013 to 2019",
+          "url": "https://awesometechinc.com/step-by-step-sharepoint-migration-from-2013-to-2019/"
+        },
+        {
+          "label": "by 2026, 60% of digital workplace services",
+          "url": "https://www.gartner.com/en/newsroom/press-releases/2025-03-12-gartner-predicts-over-20-percent-of-workplace-apps-will-use-ai-driven-personalization-algorithms-for-adaptive-worker-experiences-by-2028/"
+        },
+        {
+          "label": "SharePoint migration services",
+          "url": "https://awesometechinc.com/sharepoint-migration-services/"
+        },
+        {
+          "label": "Let’s connect",
+          "url": "https://awesometechinc.com/contact-us/"
+        },
+        {
+          "label": "Search",
+          "url": ""
+        },
+        {
+          "label": "Subscribe",
+          "url": ""
+        },
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "10 Mortgage CRM Functionalities That Simplify The Lending Process",
+          "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form",
+          "form_id": "",
+          "fields": [
+            {
+              "name": "s",
+              "label": "",
+              "type": "search",
+              "required": false
+            }
+          ],
+          "submit_label": "Search"
+        },
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "What is SharePoint Migration?",
+      "type": "service_section",
+      "content": "SharePoint migration is the process of moving your data, documents, and other content from one platform or version to another in the SharePoint environment. This can include from an on-premises SharePoint server to SharePoint Online, upgrading between versions of SharePoint, or migrating between different site collections or environments within SharePoint Online. The intent behind migration is to build collaboration and ease document management so that organizations can actually make use of what SharePoint promises: from enhanced security and compliance to collaboration and integration with Microsoft 365 tools. Whether you plan to migrate SharePoint 2013 to SharePoint Online or from on premises to Online, SharePoint migration gives value to your organization!",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 3,
+      "title": "Reasons To Migrate To SharePoint",
+      "type": "service_section",
+      "content": "Organizations might consider migration to SharePoint due to various strategic, operational, and technical reasons, such as productivity and better collaboration, or modernization of IT infrastructure. To migrate to SharePoint, the following reasons are there: Centralized Document Management: It offers a well-structured and well-secured environment where teams can store and organize documents for quick and easy recovery. This system of SharePoint Online migration greatly reduces duplication, improves version control, and provides means of accessing the content from anywhere. Better Collaboration: SharePoint allows co-authoring in real time, sharing of documents, and assignment of tasks and facilitating smoother collaborative activities involving teams that work remotely. Sharpened Security: SharePoint has a complete range of tools ranging from role-based access control to encryption and compliance auditing. All these secure the information and ensure that only authorized persons can access vital content. Flexible and Scalable: Scalability makes SharePoint the perfect solution regardless of whether it fits the needs of a smaller business or that of a global enterprise. It offers rapid growth in the number of users, large amounts of data, and complex organizational structures. Integration with Microsoft 365: SharePoint perfectly integrates with applications like Teams, Outlook, and OneDrive and allows users to switch between tools without stopping work. Cloud Adoption: It reduces the needs of physical servers, lowers maintenance-related costs, and supports hybrid or fully remote work models, which align with modern digital transformation goals.",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2025/05/Reasons-To-Migrate-To-SharePoint-1024x538.png",
+          "alt": ""
+        }
+      ],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 4,
+      "title": "Complete SharePoint Migration Guide",
+      "type": "content_section",
+      "content": "SharePoint migration relates to transferring data from older storage or from previous versions of SharePoint into a newer environment. This process deeply assesses the current data, migrates strategy, which SharePoint migration tools to select, such as ShareGate or Microsoft SharePoint Migration Tools, and the preparation of the new environment. Other activities include making a complete list of the contents, and the removal of redundant data. To migrate SharePoint 2013 to SharePoint Online or from on premises to Online, it successfully requires participation by stakeholders and utilizing fine details in scheduling, with post-migration validation. Security, permissions, and metadata must all be preserved accurately. Continuous support in SharePoint data migration is also a must for adoption as well as monitoring. Indeed, SharePoint Online migration makes transition easy, minimises disruption, and improves collaboration via the experience of modern SharePoint!",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 5,
+      "title": "Key Considerations Before Migration",
+      "type": "content_section",
+      "content": "Before starting SharePoint migration, it’s important to lay the groundwork with careful planning and evaluation. Successful migration starts with Data Mapping. Conduct an entire overview of your current content to identify what needs to be migrated, archived, or deleted. This simplifies the migration process by removing aged or duplicate data and focusing on mission-critical business content. Next, develop a strategy to migrate SharePoint focusing on the entire process from start to finish. This includes figuring out the scope, setting realistic schedules, figuring out which content or departments to migrate in the first place, and any potential risks. It is standard practice to do this in stages, especially with big or complex environments. Permissions and Security settings must be checked over and replicated properly in the environment. Badly managed permissions may result in data leakage or problems with user access, so permission mapping and validation planning should be given thought after migration. Assess the Customization Needs, i.e., custom workflows, lists, or site templates. Some custom items are not supported by SharePoint Online and may have to be re-engineered or replaced with newer choices. This can happen if you plan to migrate SharePoint 2013 to SharePoint Online! Finally, don’t forget Training and Support. Provide the users of SharePoint migration with adequate training and support materials to ease adoption and reduce disruption. Post-migration support is necessary to allow fix-it situations to be resolved promptly and productivity to be maintained!",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 6,
+      "title": "SharePoint Online to SharePoint Online:",
+      "type": "content_section",
+      "content": "Migrating from SharePoint Online to SharePoint Online can also be called tenant-to-tenant migration. It is not an easy task for organizations. Mainly because of metadata integrity, content dependencies and permission models. For major events like mergers, acquisitions or restructuring within an organization, this migration is ideal.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 7,
+      "title": "On-Premises to SharePoint Online:",
+      "type": "service_section",
+      "content": "SharePoint migrations from on-premises SharePoint servers (e.g., 2013, 2016) to SharePoint Online are one of the most common migration scenarios that organizations will consider. If you have an older version of SharePoint installed, you may want to upgrade to a newer version available and take advantage of their feature set and support. Migrations from On-premises SharePoint to SharePoint Online are the most common and very significant migrations that organizations undertake today. The rationale to shift is primarily driven by desire to have more scalability, easier access, better collaborative features, and more security. Let’s take a closer look at migrating from On-premises SharePoint to SharePoint Online:",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 8,
+      "title": "SharePoint Version Upgrades (e.g., 2013 to 2019)",
+      "type": "service_section",
+      "content": "As cloud adoption grows, there continue to be organizations that are leveraging on-premises environments because of compliance or operational needs. So, upgrading from a previous version of SharePoint (e.g. 2013 or 2016) to a newer version of SharePoint (e.g. SharePoint 2019) provides continued support, security updates, and access to current features. In such scenarios, SharePoint migration from 2013 to 2019 is a convenient process! SharePoint version upgrades consist of the migration of content, customizations, and configurations from previous environments to newer environments for better performance, features, and security. SharePoint does require stepped upgrading (e.g. 2013 -> 2016 -> 2019); you cannot upgrade from 2013 to 2019 directly, so planning, testing, and validating are important to help ensure no loss of data or downtime during the migration. Is SharePoint migration from 2013 to 2016 on your mind?",
+      "images": [],
+      "buttons": [
+        {
+          "label": "SharePoint migration from 2013 to 2019",
+          "url": "https://awesometechinc.com/step-by-step-sharepoint-migration-from-2013-to-2019/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 9,
+      "title": "SharePoint Migration 2013 to 2016",
+      "type": "service_section",
+      "content": "Migrating from SharePoint 2013 to SharePoint 2016 is an in-place upgrade that requires deploying a SharePoint 2016, restoring the databases from 2013, backing them up, and upgrading them. There are also compatibility tests to run, an audit of custom solutions, and user-interface changes to note. Having a single upgrade allows one to transition more easily towards additional upgrades or to a hybrid or cloud environment.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 10,
+      "title": "SharePoint Migration 2013 to 2019",
+      "type": "content_section",
+      "content": "Direct migration from SharePoint 2013 to 2019 is not supported; it has to migrate through SharePoint 2016 first. After going through SharePoint 2016, one has to do the same process for 2019, set up a new farm, migrate the databases, and then upgrade. You should test and validate each step to migrate SharePoint ensures all customizations, workflows, and permissions are carried over properly.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 11,
+      "title": "Hybrid SharePoint Migration",
+      "type": "content_section",
+      "content": "A hybrid migration allows to run both SharePoint on-premises and SharePoint Online environments at the same time. It is a more practical option for organizations that want to make the move to the cloud, but would like to do it in stages or want to keep some information on-premises based on a regulatory requirement.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 12,
+      "title": "Data Migration",
+      "type": "content_section",
+      "content": "Use the tried & trusted SharePoint migration tools and move the entire site collections while maintaining the metadata, the document libraries, and user permissions. At this stage, it is essential to observe the size and performance of the site collections and ensure that it does not exceed the recommended limits in SharePoint Online .",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 13,
+      "title": "Benefits Of SharePoint Migration",
+      "type": "service_section",
+      "content": "Improved Collaboration SharePoint allows for teamwork in real time by using the capability of real time editing, co-authoring, and having built in collaboration using Microsoft Teams tools. Now teams do not have to sift through numerous email attachments to collaborate, and everyone can comment, track changes, and see document history. Improved Security SharePoint Online has multiple enterprise-level tools to help organizations comply with industry security prerequisites. These include DLP, encryption at rest and in transit, advanced threat protection, and MFA. Come security breach is not a non-issue, however, the features dramatically reduce the impact of a data breach, plus they are also compliant with expectations of GDPR, HIPAA, ISO, etc. Cost Savings Migration SharePoint Online minimizes the need to pay for on-premise server infrastructure, backups, and arduous patch cycles. The subscription model provides not only budget predictability, but allows the use of IT resources in a much more strategic manner. Scalability SharePoint is able to scale along with your business at a cost effective pace, from 50 users up to 5,000 users. Users can be added as needed, storage capacity can be expanded, and new sites can be created all with ease as SharePoint resides on a cloud architecture. This is ideal for growth or necessary change in response to rapid market changes.",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2025/05/Benefits-Of-SharePoint-Migration-1024x538.png",
+          "alt": ""
+        }
+      ],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 14,
+      "title": "Steps for SharePoint Migration",
+      "type": "content_section",
+      "content": "SharePoint data migration is a clearly defined process that ensures data is transitioned without risks, remaining secure, and with minimum interruption to your organization’s normal processes. Each step in the migration process is important to avoid mistakes and maintain the integrity of the migrated data. Preparation: The beginning of the SharePoint migration process requires a thorough assessment of your current environment. There is a need to compile an inventory of content, including documents, libraries, workflows, metadata, and user permissions. You will need to identify items that are going to be migrated, archived or discarded. One should also understand the architecture of the current SharePoint set-up, and also outline goals for migration, such as greater collaboration, reduced infrastructure costs, or improved security. Tool Selection: After assessing needs, select an appropriate tool that matches the degree of complexity in migration. The selection will depend on a number of factors, such as the volume of data, the degree of customization, and whether one is performing an on-prem to cloud, or cloud to cloud migration. Some SharePoint migration tools will automate as much as possible, and allow for more complex workflows during migration, while others are meant for basic file migration. Data Mapping: Plan the restructuring of the current data into the new SharePoint environment. This could include the restructuring of sites, libraries, and creating or reorganizing taxonomy. One might end up re-mapping or re-assigning metadata and setting up permissions to maximize the best use but performance of the new environment. Migration Execution Now is the time to begin implementing the migration using the new tool, and it’s usually best practice to start with the least critical information so that one can start to establish the process. During the implementations, you will want to keep an eye out for errors or skipped items, and maintain a record of any issues to investigate later. Plan for throttling limits and schedule the migration in a way that will minimize poor SharePoint performance. Post-Migration Testing: Now that you’ve migrated all your data. It’s time to test; did your data migrate, are your links working, are the workflows functioning, are the right users in the right permissions? This is also a good opportunity to provide any additional user training and support documentation so that the transition is smoother and much easier for people to adopt.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 15,
+      "title": "How To Create A SharePoint Migration Plan?",
+      "type": "content_section",
+      "content": "Having a sound migration strategy is critical for success. Without a well-defined strategy, the chance of delay, data loss or user irritation will increase. Timeline: Consider a timeline that considers the scope and complexity of the project. Larger organizations with enterprise-wide applications will have to segment the migration into phases, which may take weeks/months to fully implement, while smaller organizations may transition in a couple of days. You must consider the testing, stakeholder approvals and post-migration support into the timeline defined above. Resource Allocation: Assign responsibility across members of the migration team. This may consist of IT, project manager, business analysts, and power users. Define the activities; for example, concerns over the tool configuration, user training and acceptability, foreshadowing and planning for any problems. Adequately staffing your project minimizes the likelihood of errors and fosters better implementation. Risk Management: Identify anticipated risks up front, such as data corruption or loss of permissions, user disruption, downtime, etc. You should plan a contingency risk per risk such as: rollback procedures, backup plans, and failure protocols. Communication: Keep stakeholders informed internally/externally. Also, keep users informed about potential downtime, changes to the user interface, and new processes. Regular communication builds confidence, mitigates climate resistance, and helps keep momentum during implementation.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 16,
+      "title": "SharePoint Migration Tools (Selecting Suitable Tools)",
+      "type": "service_section",
+      "content": "Picking the right SharePoint migration tool often makes the difference between a smooth, easy migration or a pain-ridden one. Here are a few popular migration tools: SharePoint Migration Tool (SPMT): Provided free by Microsoft, SPMT is an excellent option for small to medium-sized companies or for simple migrations from file shares or SharePoint on-premises to SharePoint Online. It’s easy to use, handles incremental migrations, and works with Microsoft 365. ShareGate: A top third-party migration tool, ShareGate has a user-friendly interface and robust functionality. It migrates content in bulk, preserves metadata, and provides deep reporting capabilities. It is best suited for complicated environments with bespoke solutions and huge amounts of data. AvePoint: Built for enterprise migrations, AvePoint provides sophisticated features such as pre-migration analytics, scheduled automation, error logging, and post-migration reporting. It is particularly handy in regulated fields or large-scale migrations with sensitive information. There is a strong point for each SharePoint migration tool. Select based on your project complexity, budget, and support needs. SMPT In Focus Microsoft SharePoint Migration Tool (SPMT) is a free tool for content migration from an on-premises SharePoint farm to Microsoft 365. Note that all SPMT capabilities are also available in Microsoft PowerShell.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 17,
+      "title": "Top features:",
+      "type": "testimonial_section",
+      "content": "Pre-migration evaluation — SPMT 4.0 and later can check your source sites for issues and correct them prior to initiating your migration. Site migration — SPMT can migrate out-of-the-box SharePoint sites without coding or third-party solution required. You can migrate a site separately or migrate its subsites, and you can modify site structure while migrating. Content migration — Content supported is SharePoint lists, document libraries and workflows. Bulk migration — You can list multiple sources in a CSV or JSON file and upload the file to SPMT. Tracking and reporting — Migration sets can monitor the migration process in real time and generate detailed reports on the status of jobs, warnings, and errors. Cross-tenant OneDrive migration add-on licensing is offered by Microsoft. It migrates source to target content, leaving behind a redirect link on source; incremental and delta migration passes are not supported. There is a cross-tenant SharePoint migration feature in private preview.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 18,
+      "title": "Permissions Required For SharePoint Migration",
+      "type": "content_section",
+      "content": "SharePoint data migration is achievable with specific permissions to view, manage, and move information.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 19,
+      "title": "Site Collection Administrator:",
+      "type": "content_section",
+      "content": "This offers full control over site collections so you may install settings, access all content, and manage permissions. It is required for mapping user roles and restoring permissions in the target environment.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 20,
+      "title": "Content Database Permissions:",
+      "type": "content_section",
+      "content": "Highest priority to on-premises migrations are these permissions, which grant access to the SQL databases that hold SharePoint content. Proper access level must be granted by IT administrators to move and transfer the data securely.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 21,
+      "title": "Migration Tool Permissions:",
+      "type": "content_section",
+      "content": "Each migration tool varies in terms of permissions required. Typically, tools require administrative credentials for source and target environments. Failure to have these assigned leads to partial migrations or access problems.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 22,
+      "title": "SharePoint Migration Checklist",
+      "type": "service_section",
+      "content": "Use the following checklist to plan and execute a successful migration: Backup All Data: First, create a full backup to avoid loss of data if there is a failure during migration. Assess Data and Permissions: Check what needs to be migrated and who needs access. Select Migration Tools: Depending on project complexity, budget, and feature set, pick tools. Create a Migration Plan: Include timelines, roles, risk mitigation, and communication strategy. Test Migration in a Sandbox: Do a test migration to ensure processes and track potential issues in advance. Following these steps will reduce risks and ease the transitions.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 23,
+      "title": "Data Integrity",
+      "type": "content_section",
+      "content": "Preserving data integrity when migrating is of utmost importance. Content, metadata, and permissions do not always migrate as they are, potentially leading to loss or corruption. Great care must be taken in planning, validation checks, and using proper tools to ensure nothing goes amiss.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 24,
+      "title": "Customization Compatibility",
+      "type": "service_section",
+      "content": "Custom workflows, web parts, or third-party solutions built on older versions of SharePoint may not be compatible with SharePoint Online. They may have to be rebuilt with Power Platform or other modern alternatives, which can increase time and development expenses.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 25,
+      "title": "Storage",
+      "type": "content_section",
+      "content": "SharePoint Online includes storage quotas based on your Microsoft 365 plan. If you have data stored that exceeds those quotas, you’ll need to delete files, or purchase more storage. Both of these options will affect your budget as well as your migration timelines.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 26,
+      "title": "File Size",
+      "type": "content_section",
+      "content": "SharePoint Online supports file sizes of 250 GB, but a large file size may slow the migration process or even generate migration errors. It is best to pre-optimize the file size in SharePoint Online and first transfer batches of smaller files to ensure fast and better transfer.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 27,
+      "title": "Number of File Versions",
+      "type": "content_section",
+      "content": "Tons of versions of the same document could result in delays in migration and storage. Consider reducing version history prior to migration to improve performance and reduce bloat in the new environment.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 28,
+      "title": "File Path Length",
+      "type": "content_section",
+      "content": "SharePoint Online will throw a message if the URL is longer than 400 characters. Long folder structures and long file names can push a URL larger than 400 characters, and cause failures to upload files. Consider restructuring content and shortening file names to simplify migration, avoid interruptions and save valuable time.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 29,
+      "title": "Throttling",
+      "type": "content_section",
+      "content": "Microsoft has implemented throttling to manage resource overuse. Throttling may cause your migration to pause or slow down. To solve for throttling you can stagger your migration jobs, target non-peak hours, and utilize tools that can support auto-retry.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 30,
+      "title": "Naming Limitations",
+      "type": "content_section",
+      "content": "Keep in mind, certain characters and naming conventions (e.g., &, %, #) set in legacy systems are not supported by SharePoint Online. Before the migration, files and folders would have to be renamed and comply with naming standard norms.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 31,
+      "title": "User Training",
+      "type": "content_section",
+      "content": "If the end user is not comfortable using SharePoint with its different appearance and functionality after a successful migration, it could potentially impact productivity. Take the time investment into hands-on user training, quick-start guides, and support to aid user adoption.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 32,
+      "title": "Conclusion: Embracing the Future with SharePoint Migration",
+      "type": "service_section",
+      "content": "It’s not simply moving files—moving to SharePoint is a stage in digital transformation, and as organizations become more remote and cloud-first it is clear that solutions like SharePoint Online are no longer options—they are requirements. Coupled with built-in collaboration capabilities, seamless integration with Microsoft 365, and enterprise security, SharePoint sets your organization up for agility and future growth. When AI comes into the workplace, SharePoint gets smarter. Microsoft continues to make it smarter with AI-powered search and content insights along with Copilot. The way teams can find, arrange, and collaborate around content changes. Currently, Gartner estimates that by 2026, 60% of digital workplace services will be built on AI and cloud-based collaboration platforms, making the move to SharePoint more valuable. Yes, it takes planning, tools, and training- but the ROI is there in SharePoint Online migration: higher productivity, lower IT overhead, and a modern workplace experience your employees will love. No matter how you are upgrading, whether it is from an earlier version, merging environments, or fully investing in the cloud, SharePoint migration will lead to a more connected, seamless, and future-proof organization. To ease SharePoint migration, hire a reliable SharePoint partner for the best outcomes! The ROI-driven and useful SharePoint migration services given by Awesome Technologies Inc. are second to none! Let’s connect now!",
+      "images": [],
+      "buttons": [
+        {
+          "label": "by 2026, 60% of digital workplace services",
+          "url": "https://www.gartner.com/en/newsroom/press-releases/2025-03-12-gartner-predicts-over-20-percent-of-workplace-apps-will-use-ai-driven-personalization-algorithms-for-adaptive-worker-experiences-by-2028/"
+        },
+        {
+          "label": "SharePoint migration services",
+          "url": "https://awesometechinc.com/sharepoint-migration-services/"
+        },
+        {
+          "label": "Let’s connect",
+          "url": "https://awesometechinc.com/contact-us/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 33,
+      "title": "FAQs",
+      "type": "faq_section",
+      "content": "Why should I migrate to SharePoint Online? SharePoint Online provides cloud offering flexibility, integration with Microsoft 365, better collaboration capabilities, lower IT maintenance, and better security features. It allows teams to collaborate anywhere and stay connected in real-time. What types of content can be migrated? One can migrate documents, lists, libraries, metadata, site collections, permissions, workflows, and custom solutions. However, the complexity of migrating third-party tools or custom features depends on the compatibility. How long does a SharePoint migration take? Time depends on multiple factors, including the size of your environment, content complexity, the tool being used, and the migration strategy implemented. Smaller migrations can be completed within days, while major enterprise migrations could take weeks or even months. Do I need a migration tool? Yes. Manual migration is possible for small amounts of content, but tools such as SharePoint Migration Tool (SPMT), ShareGate, or AvePoint streamline the process, ensuring data integrity, and much better handle more complex scenarios. Will I lose any data during migration? No. If you follow the SharePoint migration tools and processes correctly, you should not have data loss. Always backup your content, conduct test migrations in a sandbox, and confirm content migration results before you go live. Can I transfer my SharePoint workflows? No, there are limitations to the migration of custom workflows existing in SharePoint, and those that were built in SharePoint Designer or InfoPath, in most cases, will not be supported in SharePoint Online. It is recommended to recreate your workflows using Power Automate for optimization and performance. How do I test my SharePoint migration? You will need to do “test migrations” in a staging environment. You would want to validate the content migration, metadata integrity, links, permissions and workflow functionality prior to doing any type of migration in a production environment. How much does SharePoint migration cost? The cost of a SharePoint migration can cover a range from $5,000 to $150,000, depending on the number of users in your organization, your amount of data, and the complexity of your environment. For small companies using Microsoft’s free SharePoint Migration Tool (SPMT), the cost can be minimal, basically only paying for internal labor. Mid-market companies using tools like ShareGate for their migrations may pay in the range of $10,000 to $30,000, inclusive of licenses and some consulting. Large companies with advanced customizations, tenant-to-tenant migrations, or with a hybrid environment may easily exceed $100,000 especially when you consider using upper-end tools like AvePoint and outside consultants or managed service providers.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 34,
+      "title": "Subscribe to ATI",
+      "type": "form_section",
+      "content": "First name Last Name Your email",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Subscribe",
+          "url": ""
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 35,
+      "title": "HMDA Reporting Setup in Encompass LOS",
+      "type": "content_section",
+      "content": "March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 36,
+      "title": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "type": "content_section",
+      "content": "In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 37,
+      "title": "10 Mortgage CRM Functionalities That Simplify The Lending Process",
+      "type": "content_section",
+      "content": "Finding just one mortgage lead can be costly. The cost of errors made when managing leads can add up very quickly. Reaching your goals with Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "10 Mortgage CRM Functionalities That Simplify The Lending Process",
+          "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+        }
+      ],
+      "forms": []
+    }
+  ],
+  "images": [
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2025/05/SharePoint-Migration-Everything-You-Need-to-Know-scaled.png",
+      "alt": "SharePoint Migration Everything You Need to Know"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2025/05/Reasons-To-Migrate-To-SharePoint-1024x538.png",
+      "alt": ""
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2025/05/Benefits-Of-SharePoint-Migration-1024x538.png",
+      "alt": ""
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+      "alt": "HMDA Reporting Setup in Encompass LOS"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+      "alt": "What is a Loan Origination System?"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/05/10-Mortgage-CRM-Functionalities-That-Simplify-the-Lending-Process-1.jpg",
+      "alt": "Mortgage CRM Functionalities"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "Microsoft SharePoint migration service",
+      "url": "https://awesometechinc.com/sharepoint-migration-services/"
+    },
+    {
+      "label": "SharePoint migration from 2013 to 2019",
+      "url": "https://awesometechinc.com/step-by-step-sharepoint-migration-from-2013-to-2019/"
+    },
+    {
+      "label": "by 2026, 60% of digital workplace services",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2025-03-12-gartner-predicts-over-20-percent-of-workplace-apps-will-use-ai-driven-personalization-algorithms-for-adaptive-worker-experiences-by-2028/"
+    },
+    {
+      "label": "SharePoint migration services",
+      "url": "https://awesometechinc.com/sharepoint-migration-services/"
+    },
+    {
+      "label": "Let’s connect",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "Search",
+      "url": ""
+    },
+    {
+      "label": "Subscribe",
+      "url": ""
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "10 Mortgage CRM Functionalities That Simplify The Lending Process",
+      "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+    }
+  ],
+  "forms": [
+    {
+      "form_type": "contact_form",
+      "form_id": "",
+      "fields": [
+        {
+          "name": "s",
+          "label": "",
+          "type": "search",
+          "required": false
+        }
+      ],
+      "submit_label": "Search"
+    },
+    {
+      "form_type": "contact_form_7",
+      "form_id": "12171",
+      "fields": [
+        {
+          "name": "your-name",
+          "label": "your-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "last-name",
+          "label": "last-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "your-email",
+          "label": "your-email",
+          "type": "email",
+          "required": true
+        }
+      ],
+      "submit_label": "Subscribe"
+    }
+  ],
+  "links": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "Microsoft SharePoint migration service",
+      "url": "https://awesometechinc.com/sharepoint-migration-services/"
+    },
+    {
+      "label": "SharePoint migration from 2013 to 2019",
+      "url": "https://awesometechinc.com/step-by-step-sharepoint-migration-from-2013-to-2019/"
+    },
+    {
+      "label": "by 2026, 60% of digital workplace services",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2025-03-12-gartner-predicts-over-20-percent-of-workplace-apps-will-use-ai-driven-personalization-algorithms-for-adaptive-worker-experiences-by-2028/"
+    },
+    {
+      "label": "SharePoint migration services",
+      "url": "https://awesometechinc.com/sharepoint-migration-services/"
+    },
+    {
+      "label": "Let’s connect",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "10 Mortgage CRM Functionalities That Simplify The Lending Process",
+      "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/10-mortgage-crm-functionalities-that-simplify-the-lending-process/"
+    }
+  ]
+}

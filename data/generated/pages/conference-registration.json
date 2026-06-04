@@ -1,0 +1,251 @@
+{
+  "id": null,
+  "source_type": "page",
+  "slug": "conference-registration",
+  "title": "AI FOR MORTGAGE LEADERS",
+  "url": "https://awesometechinc.com/conference-registration",
+  "meta_title": "Get in Touch with Us | Awesome Technologies Inc",
+  "meta_description": "Have questions about mortgage automation? Reach out to us through our Contact Us page. We're here to provide information and insights about streamlining lending processes through automation.",
+  "modified_at": "2026-05-13T22:54:07+00:00",
+  "status": "public",
+  "summary": "Have questions about mortgage automation? Reach out to us through our Contact Us page.",
+  "keywords": [
+    "mortgage leaders have questions about m",
+    "mortgage automation",
+    "mortgage leaders in houston for a strat",
+    "contact us page",
+    "complimentary",
+    "mortgage",
+    "name",
+    "automation",
+    "for",
+    "inc",
+    "technologies",
+    "access",
+    "address",
+    "and",
+    "contact",
+    "early"
+  ],
+  "full_text": "Intro AI FOR MORTGAGE LEADERS In Houston for a strategic deep-dive into AI Decisions, Risk, and Economics. Conference Registration Priority Notification & Early Access Full Name* Executive Title* Company Name* Email Address* Phone Number* How Were You Referred? * Lenders One Member (Complimentary) Awesome Technologies, Inc. (Complimentary) Gregg & Valby, LLP (Complimentary) No Referral ($495 Fee) Message / Specific AI Interests Page URL Priority Notification & Early Access Full Name* Executive Title* Company Name* Email Address* Phone Number* How Were You Referred? * Lenders One Member (Complimentary) Awesome Technologies, Inc. (Complimentary) Gregg & Valby, LLP (Complimentary) No Referral ($495 Fee) Message / Specific AI Interests Page URL",
+  "word_count": 107,
+  "headings_count": 3,
+  "images_count": 3,
+  "buttons_count": 1,
+  "forms_count": 1,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "AI FOR MORTGAGE LEADERS In Houston for a strategic deep-dive into AI Decisions, Risk, and Economics. Conference Registration Priority Notification & Early Access Full Name* Executive Title* Company Name* Email Address* Phone Number* How Were You Referred? * Lenders One Member (Complimentary) Awesome Technologies, Inc. (Complimentary) Gregg & Valby, LLP (Complimentary) No Referral ($495 Fee) Message / Specific AI Interests Page URL",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2023/07/Lenders-One-Logo_NoTag_RGB_highres-1.png",
+          "alt": "Lenders One L1"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2023/07/Awesome-Tech-inc-logo.webp",
+          "alt": "Awesome Tech inc logo"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/04/gregg-valby.png",
+          "alt": ""
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Priority Notification & Early Access",
+          "url": ""
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "21774",
+          "fields": [
+            {
+              "name": "FullName",
+              "label": "e.g., John Doe",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "ExecutiveTitle",
+              "label": "e.g., Chief Operations Officer",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "CompanyName",
+              "label": "Your Organization",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "email",
+              "label": "work@company.com",
+              "type": "email",
+              "required": true
+            },
+            {
+              "name": "phone",
+              "label": "(555) 000-0000",
+              "type": "tel",
+              "required": true
+            },
+            {
+              "name": "LendersOneMember",
+              "label": "LendersOneMember",
+              "type": "select",
+              "required": true
+            },
+            {
+              "name": "comments",
+              "label": "Tell us about the specific AI challenges or use cases you are most interested in exploring.",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "submit_label": "Priority Notification & Early Access"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "Priority Notification & Early Access",
+      "type": "form_section",
+      "content": "Full Name* Executive Title* Company Name* Email Address* Phone Number* How Were You Referred? * Lenders One Member (Complimentary) Awesome Technologies, Inc. (Complimentary) Gregg & Valby, LLP (Complimentary) No Referral ($495 Fee) Message / Specific AI Interests Page URL",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Priority Notification & Early Access",
+          "url": ""
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "21774",
+          "fields": [
+            {
+              "name": "FullName",
+              "label": "e.g., John Doe",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "ExecutiveTitle",
+              "label": "e.g., Chief Operations Officer",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "CompanyName",
+              "label": "Your Organization",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "email",
+              "label": "work@company.com",
+              "type": "email",
+              "required": true
+            },
+            {
+              "name": "phone",
+              "label": "(555) 000-0000",
+              "type": "tel",
+              "required": true
+            },
+            {
+              "name": "LendersOneMember",
+              "label": "LendersOneMember",
+              "type": "select",
+              "required": true
+            },
+            {
+              "name": "comments",
+              "label": "Tell us about the specific AI challenges or use cases you are most interested in exploring.",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "submit_label": "Priority Notification & Early Access"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2023/07/Lenders-One-Logo_NoTag_RGB_highres-1.png",
+      "alt": "Lenders One L1"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2023/07/Awesome-Tech-inc-logo.webp",
+      "alt": "Awesome Tech inc logo"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/04/gregg-valby.png",
+      "alt": ""
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Priority Notification & Early Access",
+      "url": ""
+    }
+  ],
+  "forms": [
+    {
+      "form_type": "contact_form_7",
+      "form_id": "21774",
+      "fields": [
+        {
+          "name": "FullName",
+          "label": "e.g., John Doe",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "ExecutiveTitle",
+          "label": "e.g., Chief Operations Officer",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "CompanyName",
+          "label": "Your Organization",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "email",
+          "label": "work@company.com",
+          "type": "email",
+          "required": true
+        },
+        {
+          "name": "phone",
+          "label": "(555) 000-0000",
+          "type": "tel",
+          "required": true
+        },
+        {
+          "name": "LendersOneMember",
+          "label": "LendersOneMember",
+          "type": "select",
+          "required": true
+        },
+        {
+          "name": "comments",
+          "label": "Tell us about the specific AI challenges or use cases you are most interested in exploring.",
+          "type": "textarea",
+          "required": false
+        }
+      ],
+      "submit_label": "Priority Notification & Early Access"
+    }
+  ],
+  "links": []
+}

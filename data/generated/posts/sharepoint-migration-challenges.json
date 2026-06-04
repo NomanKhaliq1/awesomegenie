@@ -1,0 +1,632 @@
+{
+  "id": null,
+  "source_type": "post",
+  "slug": "sharepoint-migration-challenges",
+  "title": "Common Challenges in SharePoint Migration and How to Overcome Them",
+  "url": "https://awesometechinc.com/sharepoint-migration-challenges/",
+  "meta_title": "Common Challenges in SharePoint Migration and How to Overcome Them - Awesome Tech Inc",
+  "meta_description": "",
+  "modified_at": "2025-11-14T16:41:38+00:00",
+  "status": "public",
+  "summary": "Intro Common Challenges in SharePoint Migration and How to Overcome Them Home » Common Challenges in SharePoint Migration and How to Overcome Them Are you facing SharePoint on-premise or online migration challenges? If so, you’re not alone.",
+  "keywords": [
+    "mortgage automation in",
+    "mortgage application on a tuesday morni",
+    "encompass los march",
+    "integration with teams",
+    "the",
+    "and",
+    "migration",
+    "sharepoint",
+    "data",
+    "for",
+    "are",
+    "you",
+    "can",
+    "when",
+    "new",
+    "users"
+  ],
+  "full_text": "Intro Common Challenges in SharePoint Migration and How to Overcome Them Home » Common Challenges in SharePoint Migration and How to Overcome Them Are you facing SharePoint on-premise or online migration challenges? If so, you’re not alone. Migrating from the SharePoint on-premise to the SharePoint online is quite a daunting task. Most organizations depend upon SharePoint, and they have spent a lot of money and time intending and implementing their on-premise configurations. Even the idea of considering all this be moved to SharePoint Online can be frightening for these organizations. It is easy to see why many organizations might find the proposition of SharePoint Online compelling; however, can you imagine better scale, fewer infrastructure costs, the simplicity of retaining regular application updates, and seamless interaction with other services of Microsoft 365? However, moving from SharePoint on-premise to Online is not an easy test that will involve one not facing several issues that may hinder migration and may bring about serious issues. You may migrate from SharePoint 2010 to 2013, from 2013 to 2016, or from on-premises SharePoint to Office 365, SharePoint Online; each poses different SharePoint migration challenges. From data loss problems, compatibility problems, and a performance disaster to the problem of getting the users to start using the new tool, migration problems can indeed seem overwhelming. In this blog, we have listed SharePoint migration challenges, SharePoint 2010 to 2013 migration issues, and SharePoint migration challenges and solutions. Whether you are migrating from SharePoint 2010 to 2013 or from on-premise to SharePoint online, understanding and quickly identifying these issues will go a long way in enhancing the overall migration. Below we take a closer look at SharePoint migration common issues and how to prevent them and hence get the best out of your new SharePoint implementation. Introduction: Why is SharePoint Migration Important? SharePoint is a web-based application that enables organizations to access, store, structure, share, manage, and collaborate on content and documents. The requirements of an organization change over time, including functionality, flexibility, and, most importantly, security. Over time, these on-premises versions become outdated, and businesses find it challenging to upgrade from, for example, SharePoint 2010 to 2013, from SharePoint 2013 to 2016, or to migrate to SharePoint Online. However, transitioning from one version of SharePoint to another is a challenging task. It entails relocating a huge amount of data, configuration settings, builds, templates, workbench sets, and setups to a new context. Speaking about potential roadblocks, it is possible to note that depending on the version and the type of migration, there can be several roadblocks that lead to such problems as, for example, downtime, data loss, performance degradation, etc. Yet, all these types of SharePoint migration issues may occur depending on the version and the type of migration: from within on-premise environments to cloud. Understanding of these general SharePoint migration problems and their solutions may be the main factor between a successful migration process and experience stuffed with numerous errors. 1. Data Migration and Content Loss Challenges faced in data migration! The first challenges of SharePoint migration are data migration and content loss. It is the most crucial and most challenging task in the SharePoint migration process. Transferring documents, lists, libraries, metadata and permissions is normally a difficult process when we are dealing with large quantities of content. However, if the process is not properly coordinated, there are strong possibilities of losing data or files or of missing content. For instance, the first challenge when migrating from Sharepoint 2010 to 2013 was losing or getting erroneous links to files and metadata. Additionally, metadata mapping issues during migration often lead to broken links to documents. Compatibility issues arise when transitioning between different SharePoint versions, especially when migrating from SharePoint 2010 to SharePoint 2013. Common SharePoint Migration Issues Missing files Broken links Corrupted metadata Inconsistent content versions Why does this happen? The migration process can always be as simple as copying data from the initial SharePoint site and then pasting it into a new environment. This is why if the right validation and mapping are not conducted, they unwittingly replicate the wrong data. However, even if there exist structural differences between the source and the target, it will definitely be a problem for migration, and the differences in the results are most definitely caused by this. Solution: How to Overcome Data Migration Challenges Pre-Migration Audit First, analyze your current SharePoint sites and conduct a content audit. Determine the types of content becoming stored, consider the metadata structure, and look for content that may not always have to be migrated. This step also helps in clearing our environment and also reduces the amount of migration workload. Use Reliable Migration Tools During migration, it is sometimes impossible to avoid data loss, but using the right migration tools is a good way to avoid data loss. The SharePoint Migration Tool (SPMT) is one of the most effective and free tools for migrating data to SharePoint Online, and it’s often the preferred choice for smaller migrations. However, for more complex environments or larger transfers, organizations typically rely on third-party tools like AvePoint, Metalogix, or ShareGate for greater efficiency. Among the features that most of these tools provide are batch processing, data validation and error tracking. Test Migration We recommend that you do a trial migration where you migrate a small amount of data before migrating the whole project. Testing helps when you do an assessment of data integrity, file formats or mapping of metadata. This is the reason why you want to deal with problems in advance; otherwise they will resurface when you are migrating the entire data set. Backup Your Data Users should always ensure they have copies of the data they plan to move from one computer to another. In this way, if throughout the migration process there are problems with loss, or even damage, of certain data, you can return to the content. Post-Migration Validation After migration, it is crucial to ensure that information is migrated without failure. Verify data document classification and structure; check metadata. If data differences occur, you can often resolve these gaps in the second pass of the migration or by making semantic adjustments to some records. 2. Compatibility Issues: Version Upgrades Why Is This Challenge? A number of times, when converting from one version of SharePoint to another, there may be problems with compatibility. Hence, making it difficult for the transition to go smoothly. There are many SharePoint 2010 to 2013 migration challenges. For instance, in SharePoint 2010, the main problems are no longer supported functionality, customized workflow, or custom code that didn’t make the transition. In addition, sometimes the configuration and implementation of new features in SharePoint are different. For example, SharePoint 2013 added some advanced features like the integrated search function and new templates or changes in how web parts materialize or function and workflows. These can become problematic during the migration from SharePoint 2010 if your organization primarily uses custom features or third-party solutions. Common SharePoint Migration Challenges Legacy features not supported in newer versions Custom solutions or third-party apps that don’t work with the new version Feature or workflow incompatibility Why does this happen? Newer versions of SharePoint always come with enhancements, but some of the enhancements have deprecated previous functionality or altered the way that the functionality works. For instance, when you upgrade from SharePoint 2010 to 2013, you realize that there are deprecated elements, different processes, permissions, and sites. Collection approach. If your organization heavily depends upon heavy customizations, this might cause compatibility problems. Solution: How to Overcome Compatibility Challenges Evaluate Custom Solutions Before making any transition, perform an analysis of any customizations that you may be implementing on SharePoint, such as workflows, web parts, and third-party applications. Find out which of the mentioned customizations are not valid with the latest version, and then figure out whether you need to update them or reinstall them. For example, separate workflows such as those used in SharePoint 2010 using SharePoint Designer are not compatible with SharePoint 2013 and above and thus require migration to Power Automate. In addition, this is one of the biggest SharePoint 2013 migration challenges. Version-Specific Migration Plans If the question is how to conceptualize version-specific migration strategies. The answer is crucial when you are coming from SP 2010 to 2013 that you closely determine the changes from one version to the other. As with any upgrade, some features in 2010 may have been changed or removed in 2013, and that must be discussed in advance. For example, some specific workflows, site templates and custom elements that can exist in the site may be missing in SharePoint 2013; this therefore means redesigns or getting some completely different solutions. Incremental Migration Approach Migrate in small bite-sized chunks rather than in large chunks that will overwhelm you. It let you launch gradually, test features and also solve compatibility difficulties incrementally. Whenever you move all your data and settings in one go, you do not have to risk any plug-and-play experiment; hence, you can perform a trial run using single departments, site collections or even certain features to confirm that they will respond correctly in the new environment. Utilize Compatibility Tools Pre-upgrade checks, which include SharePoint upgrade checkers and other third-party migration tools, will be helpful in identifying potential compatibility problems before they occur. They are capable of scanning your environment in order to identify deprecated features that can be addressed before migration. 3. User Adoption Challenges Why Is This a Challenge? In most cases, migrating SharePoint is not only concerned with data transfer but with the change that is triggered in an organization. It is not a secret that SharePoint migration has pain points, and the key factor that affects it is user adoption. If your employees migrated from SharePoint Classic, they are likely to experience some challenges when interacting with new features, workflows and interfaces in the upgraded version of SharePoint Online. For instance, when transitioning from SharePoint on-premise to Online, people face the problem of navigation or get lost given new features like OneDrive for Business or integration with Teams. In addition, if the users are not well trained on the new system, they may completely opt not to use it for their migration, which is not very productive. Common SharePoint Migration Issues Resistance to change Absence of training or compromised verbal and written communication Users unaware of new features There is confusion as to the nature of the new interface. Why this happens Staff can experience problems at first when working with a new version of SharePoint due to numerous factors, such as the appearance of workshops and the configuration of main functions. Also, users familiar with particular tools or routines will be reluctant to change in the absence of reasons why their preferred mode of operation should shift. Solution: How to Overcome User Adoption Challenges Early Communication Start communicating the benefits and timeline of the migration well in advance. Help users understand why the migration is happening, what benefits it will bring (e.g., easier access, improved collaboration, enhanced security), and what they can expect during the transition. Providing a clear roadmap helps reduce uncertainty and resistance to change. Training and Support Provide comprehensive training for end-users before, during, and after the migration. Tailor the training to different roles within the organization. For example, site owners may need to understand how to manage permissions and document libraries in the new version, while end users may need training on how to access documents, create new libraries, and use new collaboration features like Power Automation or Power BI. Involve Key Users Early Determine the interests of such users so they may help drive the adoption of the new system. Such people can help in the dissemination of information and provide support to others. Internal holders can, in the end, catalyze other adoption and decrease explicit opposition and covert resistance. Offer Ongoing Support After the migration, offer ongoing support to users who may still be struggling with the new system. Set up a helpdesk or internal knowledge base that users can turn to for troubleshooting. You may also consider running follow-up sessions to address any issues or questions that arise after the migration. Provide a Feedback Loop Encourage users to provide feedback on the new system, both positive and negative. Use this feedback to make improvements and address concerns quickly, ensuring that the system is fully adopted and used optimally. 4. Performance and Downtime Issues Why This is a Challenge Migrating large amounts of data or making significant changes to your SharePoint environment can impact system performance and lead to downtime. This is especially critical for businesses that rely on SharePoint for day-to-day operations. During migration, if the process is not well managed, there can be slow performance or periods where the SharePoint environment is completely unavailable. For example, the main SharePoint 2013 to 2016 migration challenge is transferring a large library of documents. The migration process could take several days, during which time users might experience slow access or interruptions in service. These performance issues can lead to frustration among users and impact business productivity. Common SharePoint Migration Issues Slow system performance Unexpected downtime Losing connection to the users while migrating the service. Why this happens Large data transfers or simple configuration updates will exert a large load on not only the source but also the target SharePoint. Moreover, sometimes we can face problems like network saturation, low server performance or, for example, insufficient functionality of migration tools, which aggravates the situation. Solution: How to Overcome Performance and Downtime Issues Schedule Migrations During Off-Peak Hours To minimize the level of disruption to users, this should be done at night when there are not many users up or during the weekend when few users are online. This increases the chances of reducing the performance of an organization when migrating from one system to another. If possible, the migration exercise should be done in phases and should be done at times that are off working hours. Migrate in Phases Instead of moving all the world data simultaneously, make the migration into batches. This approach makes it possible for only a section of the environment to be used at any one time, hence minimizing the negative effects on performance. This can be done, for example, by upgrading one department or site collection at a time to ensure that other parts of the organization remain active. Optimize Migration Tools Ensure that the migration tools you are using have the best performance. Currently, there are many third-party apps for SharePoint, such as AvePoint, ShareGate, and Metalogix, that include performance optimization features whereby one can implement urgent content priorities to lessen the load of the system. Monitor Migration Progress Periodically check on the migration process so as to confirm that all was well during the process. The majority of migration tools include graphs and charts that will help the user view progress, potential problems, and other areas of concern in real time. This reduces the duration of major outages or substantial slowing in the operation speed. 5. Security and Compliance Concerns Common SharePoint Migration Challenges Loss or leakage of information that requires special protection Violations of laws such as GDPR, HIPAA, etc When migration takes place from one context of use to another, there are sometimes incomprehensible permissions. Why This is a Challenge Moving structured data, especially when moving from corporate LAN infrastructures to SharePoint Online, poses unique security and compliance issues. Migration of data to any other place requires that other data security policies, access controls and compliance should not be compromised. For instance, organizations under GDPR or HIPAA rules will suffer the consequences when migrating without protecting the information stored in the application. Likewise, the wrong matching of permissions during the migration process may result in users gaining unauthorized access to some important data. Why does this happen? Data privacy standards require the application of high-security mechanisms over such information, and any mishandling of such data in the process of migration poses the organization risk. Moreover, when migrating information, users cannot translate permissions and access control measures, which could lead to access to unauthorized information or disclosure of sensitive data. Solution: How to Overcome Security and Compliance Challenges Conduct a Security Audit: Prior to the migration process, consider the security needs of your organization. It is possible to compare it with investigating possible issues with sensitive data during the migration process, such as financial records, PII or healthcare data. Make sure that you have the correct encryption and security measures put in place before, in the process of migration, and after it has taken place. Data Encryption Encryption should be applied to data in the course of transfer and, at the same time, when it is in the new SharePoint environment. Of course, for migrations to SharePoint Online, Microsoft provides end-to-end encryption in order to secure your data while in transfer and at rest; however, you should ensure that your migration tools also support this feature. Review Permissions and Access Controls Make it a point that the implementation of user rights and privileges is most effective during migration. It is wrong if the permissions are not balanced because this can cause someone unauthorized to access or even leak information. Before migrating the corporate data, one probably should carry out a permissions checkup to make sure no unauthorized personnel get access to such data after the migration. Compliance Monitoring When moving data to SharePoint Online, you should use DLP mechanisms and eDiscovery appliances provided by Microsoft to stay compliant with regulations. They can assist in exposing compliance threats and securing your data. Conclusion As we know, there are many SharePoint migration common issues, but yet they can be overcome with careful planning and the right approach. Whether migrating from SharePoint 2010 to SharePoint 2013 or SharePoint Online migration challenges such as data transfer, compatibility problems, user adoption, performance stability, and security risks are inevitable. The difficulties that emerge—data transfer, compatibility problems, user acceptance, stability issues, and security—evolved time, proper instruments, and excellent coordination. With an understanding of some of the most frequent problems organizations face when migrating to SharePoint, you are ready to avoid these issues, make a plan, practice migration, and accomplish the new SharePoint migration as a success that will improve company collaboration, effectiveness, and security. It is not only about moving data; it is also about making sure whoever is taking care of the migrated environment attacks it efficiently—performs at optimum, and encourages users. In the same manner, your organization can overcome challenges, whether SharePoint on-premise to online migration challenges or a new SharePoint version, by adopting a strategic approach and focus. In addition, there are many SharePoint migration services with worldwide best approaches for leveraging SharePoint’s powerful technologies available today. Of these, SharePoint Awesome Tech Inc is one of the most popular SharePoint migration company famous for its knowledge and unique products in the market. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026 Introduction: Why is SharePoint Migration Important? SharePoint is a web-based application that enables organizations to access, store, structure, share, manage, and collaborate on content and documents. The requirements of an organization change over time, including functionality, flexibility, and, most importantly, security. Over time, these on-premises versions become outdated, and businesses find it challenging to upgrade from, for example, SharePoint 2010 to 2013, from SharePoint 2013 to 2016, or to migrate to SharePoint Online. However, transitioning from one version of SharePoint to another is a challenging task. It entails relocating a huge amount of data, configuration settings, builds, templates, workbench sets, and setups to a new context. Speaking about potential roadblocks, it is possible to note that depending on the version and the type of migration, there can be several roadblocks that lead to such problems as, for example, downtime, data loss, performance degradation, etc. Yet, all these types of SharePoint migration issues may occur depending on the version and the type of migration: from within on-premise environments to cloud. Understanding of these general SharePoint migration problems and their solutions may be the main factor between a successful migration process and experience stuffed with numerous errors. 1. Data Migration and Content Loss Challenges faced in data migration! The first challenges of SharePoint migration are data migration and content loss. It is the most crucial and most challenging task in the SharePoint migration process. Transferring documents, lists, libraries, metadata and permissions is normally a difficult process when we are dealing with large quantities of content. However, if the process is not properly coordinated, there are strong possibilities of losing data or files or of missing content. For instance, the first challenge when migrating from Sharepoint 2010 to 2013 was losing or getting erroneous links to files and metadata. Additionally, metadata mapping issues during migration often lead to broken links to documents. Compatibility issues arise when transitioning between different SharePoint versions, especially when migrating from SharePoint 2010 to SharePoint 2013. Common SharePoint Migration Issues Missing files Broken links Corrupted metadata Inconsistent content versions Why does this happen? The migration process can always be as simple as copying data from the initial SharePoint site and then pasting it into a new environment. This is why if the right validation and mapping are not conducted, they unwittingly replicate the wrong data. However, even if there exist structural differences between the source and the target, it will definitely be a problem for migration, and the differences in the results are most definitely caused by this. Solution: How to Overcome Data Migration Challenges Pre-Migration Audit First, analyze your current SharePoint sites and conduct a content audit. Determine the types of content becoming stored, consider the metadata structure, and look for content that may not always have to be migrated. This step also helps in clearing our environment and also reduces the amount of migration workload. Use Reliable Migration Tools During migration, it is sometimes impossible to avoid data loss, but using the right migration tools is a good way to avoid data loss. The SharePoint Migration Tool (SPMT) is one of the most effective and free tools for migrating data to SharePoint Online, and it’s often the preferred choice for smaller migrations. However, for more complex environments or larger transfers, organizations typically rely on third-party tools like AvePoint, Metalogix, or ShareGate for greater efficiency. Among the features that most of these tools provide are batch processing, data validation and error tracking. Test Migration We recommend that you do a trial migration where you migrate a small amount of data before migrating the whole project. Testing helps when you do an assessment of data integrity, file formats or mapping of metadata. This is the reason why you want to deal with problems in advance; otherwise they will resurface when you are migrating the entire data set. Backup Your Data Users should always ensure they have copies of the data they plan to move from one computer to another. In this way, if throughout the migration process there are problems with loss, or even damage, of certain data, you can return to the content. Post-Migration Validation After migration, it is crucial to ensure that information is migrated without failure. Verify data document classification and structure; check metadata. If data differences occur, you can often resolve these gaps in the second pass of the migration or by making semantic adjustments to some records. 2. Compatibility Issues: Version Upgrades Why Is This Challenge? A number of times, when converting from one version of SharePoint to another, there may be problems with compatibility. Hence, making it difficult for the transition to go smoothly. There are many SharePoint 2010 to 2013 migration challenges. For instance, in SharePoint 2010, the main problems are no longer supported functionality, customized workflow, or custom code that didn’t make the transition. In addition, sometimes the configuration and implementation of new features in SharePoint are different. For example, SharePoint 2013 added some advanced features like the integrated search function and new templates or changes in how web parts materialize or function and workflows. These can become problematic during the migration from SharePoint 2010 if your organization primarily uses custom features or third-party solutions. Common SharePoint Migration Challenges Legacy features not supported in newer versions Custom solutions or third-party apps that don’t work with the new version Feature or workflow incompatibility Why does this happen? Newer versions of SharePoint always come with enhancements, but some of the enhancements have deprecated previous functionality or altered the way that the functionality works. For instance, when you upgrade from SharePoint 2010 to 2013, you realize that there are deprecated elements, different processes, permissions, and sites. Collection approach. If your organization heavily depends upon heavy customizations, this might cause compatibility problems. Solution: How to Overcome Compatibility Challenges Evaluate Custom Solutions Before making any transition, perform an analysis of any customizations that you may be implementing on SharePoint, such as workflows, web parts, and third-party applications. Find out which of the mentioned customizations are not valid with the latest version, and then figure out whether you need to update them or reinstall them. For example, separate workflows such as those used in SharePoint 2010 using SharePoint Designer are not compatible with SharePoint 2013 and above and thus require migration to Power Automate. In addition, this is one of the biggest SharePoint 2013 migration challenges. Version-Specific Migration Plans If the question is how to conceptualize version-specific migration strategies. The answer is crucial when you are coming from SP 2010 to 2013 that you closely determine the changes from one version to the other. As with any upgrade, some features in 2010 may have been changed or removed in 2013, and that must be discussed in advance. For example, some specific workflows, site templates and custom elements that can exist in the site may be missing in SharePoint 2013; this therefore means redesigns or getting some completely different solutions. Incremental Migration Approach Migrate in small bite-sized chunks rather than in large chunks that will overwhelm you. It let you launch gradually, test features and also solve compatibility difficulties incrementally. Whenever you move all your data and settings in one go, you do not have to risk any plug-and-play experiment; hence, you can perform a trial run using single departments, site collections or even certain features to confirm that they will respond correctly in the new environment. Utilize Compatibility Tools Pre-upgrade checks, which include SharePoint upgrade checkers and other third-party migration tools, will be helpful in identifying potential compatibility problems before they occur. They are capable of scanning your environment in order to identify deprecated features that can be addressed before migration. Why Is This a Challenge? In most cases, migrating SharePoint is not only concerned with data transfer but with the change that is triggered in an organization. It is not a secret that SharePoint migration has pain points, and the key factor that affects it is user adoption. If your employees migrated from SharePoint Classic, they are likely to experience some challenges when interacting with new features, workflows and interfaces in the upgraded version of SharePoint Online. For instance, when transitioning from SharePoint on-premise to Online, people face the problem of navigation or get lost given new features like OneDrive for Business or integration with Teams. In addition, if the users are not well trained on the new system, they may completely opt not to use it for their migration, which is not very productive. Common SharePoint Migration Issues Resistance to change Absence of training or compromised verbal and written communication Users unaware of new features There is confusion as to the nature of the new interface. Why this happens Staff can experience problems at first when working with a new version of SharePoint due to numerous factors, such as the appearance of workshops and the configuration of main functions. Also, users familiar with particular tools or routines will be reluctant to change in the absence of reasons why their preferred mode of operation should shift. Solution: How to Overcome User Adoption Challenges Early Communication Start communicating the benefits and timeline of the migration well in advance. Help users understand why the migration is happening, what benefits it will bring (e.g., easier access, improved collaboration, enhanced security), and what they can expect during the transition. Providing a clear roadmap helps reduce uncertainty and resistance to change. Training and Support Provide comprehensive training for end-users before, during, and after the migration. Tailor the training to different roles within the organization. For example, site owners may need to understand how to manage permissions and document libraries in the new version, while end users may need training on how to access documents, create new libraries, and use new collaboration features like Power Automation or Power BI. Involve Key Users Early Determine the interests of such users so they may help drive the adoption of the new system. Such people can help in the dissemination of information and provide support to others. Internal holders can, in the end, catalyze other adoption and decrease explicit opposition and covert resistance. Offer Ongoing Support After the migration, offer ongoing support to users who may still be struggling with the new system. Set up a helpdesk or internal knowledge base that users can turn to for troubleshooting. You may also consider running follow-up sessions to address any issues or questions that arise after the migration. Provide a Feedback Loop Encourage users to provide feedback on the new system, both positive and negative. Use this feedback to make improvements and address concerns quickly, ensuring that the system is fully adopted and used optimally. Why This is a Challenge Migrating large amounts of data or making significant changes to your SharePoint environment can impact system performance and lead to downtime. This is especially critical for businesses that rely on SharePoint for day-to-day operations. During migration, if the process is not well managed, there can be slow performance or periods where the SharePoint environment is completely unavailable. For example, the main SharePoint 2013 to 2016 migration challenge is transferring a large library of documents. The migration process could take several days, during which time users might experience slow access or interruptions in service. These performance issues can lead to frustration among users and impact business productivity. Common SharePoint Migration Issues Slow system performance Unexpected downtime Losing connection to the users while migrating the service. Why this happens Large data transfers or simple configuration updates will exert a large load on not only the source but also the target SharePoint. Moreover, sometimes we can face problems like network saturation, low server performance or, for example, insufficient functionality of migration tools, which aggravates the situation. Solution: How to Overcome Performance and Downtime Issues Schedule Migrations During Off-Peak Hours To minimize the level of disruption to users, this should be done at night when there are not many users up or during the weekend when few users are online. This increases the chances of reducing the performance of an organization when migrating from one system to another. If possible, the migration exercise should be done in phases and should be done at times that are off working hours. Migrate in Phases Instead of moving all the world data simultaneously, make the migration into batches. This approach makes it possible for only a section of the environment to be used at any one time, hence minimizing the negative effects on performance. This can be done, for example, by upgrading one department or site collection at a time to ensure that other parts of the organization remain active. Optimize Migration Tools Ensure that the migration tools you are using have the best performance. Currently, there are many third-party apps for SharePoint, such as AvePoint, ShareGate, and Metalogix, that include performance optimization features whereby one can implement urgent content priorities to lessen the load of the system. Monitor Migration Progress Periodically check on the migration process so as to confirm that all was well during the process. The majority of migration tools include graphs and charts that will help the user view progress, potential problems, and other areas of concern in real time. This reduces the duration of major outages or substantial slowing in the operation speed. Common SharePoint Migration Challenges Loss or leakage of information that requires special protection Violations of laws such as GDPR, HIPAA, etc When migration takes place from one context of use to another, there are sometimes incomprehensible permissions. Why This is a Challenge Moving structured data, especially when moving from corporate LAN infrastructures to SharePoint Online, poses unique security and compliance issues. Migration of data to any other place requires that other data security policies, access controls and compliance should not be compromised. For instance, organizations under GDPR or HIPAA rules will suffer the consequences when migrating without protecting the information stored in the application. Likewise, the wrong matching of permissions during the migration process may result in users gaining unauthorized access to some important data. Why does this happen? Data privacy standards require the application of high-security mechanisms over such information, and any mishandling of such data in the process of migration poses the organization risk. Moreover, when migrating information, users cannot translate permissions and access control measures, which could lead to access to unauthorized information or disclosure of sensitive data. Solution: How to Overcome Security and Compliance Challenges Conduct a Security Audit: Prior to the migration process, consider the security needs of your organization. It is possible to compare it with investigating possible issues with sensitive data during the migration process, such as financial records, PII or healthcare data. Make sure that you have the correct encryption and security measures put in place before, in the process of migration, and after it has taken place. Data Encryption Encryption should be applied to data in the course of transfer and, at the same time, when it is in the new SharePoint environment. Of course, for migrations to SharePoint Online, Microsoft provides end-to-end encryption in order to secure your data while in transfer and at rest; however, you should ensure that your migration tools also support this feature. Review Permissions and Access Controls Make it a point that the implementation of user rights and privileges is most effective during migration. It is wrong if the permissions are not balanced because this can cause someone unauthorized to access or even leak information. Before migrating the corporate data, one probably should carry out a permissions checkup to make sure no unauthorized personnel get access to such data after the migration. Compliance Monitoring When moving data to SharePoint Online, you should use DLP mechanisms and eDiscovery appliances provided by Microsoft to stay compliant with regulations. They can assist in exposing compliance threats and securing your data. Conclusion As we know, there are many SharePoint migration common issues, but yet they can be overcome with careful planning and the right approach. Whether migrating from SharePoint 2010 to SharePoint 2013 or SharePoint Online migration challenges such as data transfer, compatibility problems, user adoption, performance stability, and security risks are inevitable. The difficulties that emerge—data transfer, compatibility problems, user acceptance, stability issues, and security—evolved time, proper instruments, and excellent coordination. With an understanding of some of the most frequent problems organizations face when migrating to SharePoint, you are ready to avoid these issues, make a plan, practice migration, and accomplish the new SharePoint migration as a success that will improve company collaboration, effectiveness, and security. It is not only about moving data; it is also about making sure whoever is taking care of the migrated environment attacks it efficiently—performs at optimum, and encourages users. In the same manner, your organization can overcome challenges, whether SharePoint on-premise to online migration challenges or a new SharePoint version, by adopting a strategic approach and focus. In addition, there are many SharePoint migration services with worldwide best approaches for leveraging SharePoint’s powerful technologies available today. Of these, SharePoint Awesome Tech Inc is one of the most popular SharePoint migration company famous for its knowledge and unique products in the market. Subscribe to ATI First name Last Name Your email Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+  "word_count": 6259,
+  "headings_count": 36,
+  "images_count": 7,
+  "buttons_count": 10,
+  "forms_count": 2,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "Common Challenges in SharePoint Migration and How to Overcome Them Home » Common Challenges in SharePoint Migration and How to Overcome Them Are you facing SharePoint on-premise or online migration challenges? If so, you’re not alone. Migrating from the SharePoint on-premise to the SharePoint online is quite a daunting task. Most organizations depend upon SharePoint, and they have spent a lot of money and time intending and implementing their on-premise configurations. Even the idea of considering all this be moved to SharePoint Online can be frightening for these organizations. It is easy to see why many organizations might find the proposition of SharePoint Online compelling; however, can you imagine better scale, fewer infrastructure costs, the simplicity of retaining regular application updates, and seamless interaction with other services of Microsoft 365? However, moving from SharePoint on-premise to Online is not an easy test that will involve one not facing several issues that may hinder migration and may bring about serious issues. You may migrate from SharePoint 2010 to 2013, from 2013 to 2016, or from on-premises SharePoint to Office 365, SharePoint Online; each poses different SharePoint migration challenges. From data loss problems, compatibility problems, and a performance disaster to the problem of getting the users to start using the new tool, migration problems can indeed seem overwhelming. In this blog, we have listed SharePoint migration challenges, SharePoint 2010 to 2013 migration issues, and SharePoint migration challenges and solutions. Whether you are migrating from SharePoint 2010 to 2013 or from on-premise to SharePoint online, understanding and quickly identifying these issues will go a long way in enhancing the overall migration. Below we take a closer look at SharePoint migration common issues and how to prevent them and hence get the best out of your new SharePoint implementation. Introduction: Why is SharePoint Migration Important? SharePoint is a web-based application that enables organizations to access, store, structure, share, manage, and collaborate on content and documents. The requirements of an organization change over time, including functionality, flexibility, and, most importantly, security. Over time, these on-premises versions become outdated, and businesses find it challenging to upgrade from, for example, SharePoint 2010 to 2013, from SharePoint 2013 to 2016, or to migrate to SharePoint Online. However, transitioning from one version of SharePoint to another is a challenging task. It entails relocating a huge amount of data, configuration settings, builds, templates, workbench sets, and setups to a new context. Speaking about potential roadblocks, it is possible to note that depending on the version and the type of migration, there can be several roadblocks that lead to such problems as, for example, downtime, data loss, performance degradation, etc. Yet, all these types of SharePoint migration issues may occur depending on the version and the type of migration: from within on-premise environments to cloud. Understanding of these general SharePoint migration problems and their solutions may be the main factor between a successful migration process and experience stuffed with numerous errors. 1. Data Migration and Content Loss Challenges faced in data migration! The first challenges of SharePoint migration are data migration and content loss. It is the most crucial and most challenging task in the SharePoint migration process. Transferring documents, lists, libraries, metadata and permissions is normally a difficult process when we are dealing with large quantities of content. However, if the process is not properly coordinated, there are strong possibilities of losing data or files or of missing content. For instance, the first challenge when migrating from Sharepoint 2010 to 2013 was losing or getting erroneous links to files and metadata. Additionally, metadata mapping issues during migration often lead to broken links to documents. Compatibility issues arise when transitioning between different SharePoint versions, especially when migrating from SharePoint 2010 to SharePoint 2013. Common SharePoint Migration Issues Missing files Broken links Corrupted metadata Inconsistent content versions Why does this happen? The migration process can always be as simple as copying data from the initial SharePoint site and then pasting it into a new environment. This is why if the right validation and mapping are not conducted, they unwittingly replicate the wrong data. However, even if there exist structural differences between the source and the target, it will definitely be a problem for migration, and the differences in the results are most definitely caused by this. Solution: How to Overcome Data Migration Challenges Pre-Migration Audit First, analyze your current SharePoint sites and conduct a content audit. Determine the types of content becoming stored, consider the metadata structure, and look for content that may not always have to be migrated. This step also helps in clearing our environment and also reduces the amount of migration workload. Use Reliable Migration Tools During migration, it is sometimes impossible to avoid data loss, but using the right migration tools is a good way to avoid data loss. The SharePoint Migration Tool (SPMT) is one of the most effective and free tools for migrating data to SharePoint Online, and it’s often the preferred choice for smaller migrations. However, for more complex environments or larger transfers, organizations typically rely on third-party tools like AvePoint, Metalogix, or ShareGate for greater efficiency. Among the features that most of these tools provide are batch processing, data validation and error tracking. Test Migration We recommend that you do a trial migration where you migrate a small amount of data before migrating the whole project. Testing helps when you do an assessment of data integrity, file formats or mapping of metadata. This is the reason why you want to deal with problems in advance; otherwise they will resurface when you are migrating the entire data set. Backup Your Data Users should always ensure they have copies of the data they plan to move from one computer to another. In this way, if throughout the migration process there are problems with loss, or even damage, of certain data, you can return to the content. Post-Migration Validation After migration, it is crucial to ensure that information is migrated without failure. Verify data document classification and structure; check metadata. If data differences occur, you can often resolve these gaps in the second pass of the migration or by making semantic adjustments to some records. 2. Compatibility Issues: Version Upgrades Why Is This Challenge? A number of times, when converting from one version of SharePoint to another, there may be problems with compatibility. Hence, making it difficult for the transition to go smoothly. There are many SharePoint 2010 to 2013 migration challenges. For instance, in SharePoint 2010, the main problems are no longer supported functionality, customized workflow, or custom code that didn’t make the transition. In addition, sometimes the configuration and implementation of new features in SharePoint are different. For example, SharePoint 2013 added some advanced features like the integrated search function and new templates or changes in how web parts materialize or function and workflows. These can become problematic during the migration from SharePoint 2010 if your organization primarily uses custom features or third-party solutions. Common SharePoint Migration Challenges Legacy features not supported in newer versions Custom solutions or third-party apps that don’t work with the new version Feature or workflow incompatibility Why does this happen? Newer versions of SharePoint always come with enhancements, but some of the enhancements have deprecated previous functionality or altered the way that the functionality works. For instance, when you upgrade from SharePoint 2010 to 2013, you realize that there are deprecated elements, different processes, permissions, and sites. Collection approach. If your organization heavily depends upon heavy customizations, this might cause compatibility problems. Solution: How to Overcome Compatibility Challenges Evaluate Custom Solutions Before making any transition, perform an analysis of any customizations that you may be implementing on SharePoint, such as workflows, web parts, and third-party applications. Find out which of the mentioned customizations are not valid with the latest version, and then figure out whether you need to update them or reinstall them. For example, separate workflows such as those used in SharePoint 2010 using SharePoint Designer are not compatible with SharePoint 2013 and above and thus require migration to Power Automate. In addition, this is one of the biggest SharePoint 2013 migration challenges. Version-Specific Migration Plans If the question is how to conceptualize version-specific migration strategies. The answer is crucial when you are coming from SP 2010 to 2013 that you closely determine the changes from one version to the other. As with any upgrade, some features in 2010 may have been changed or removed in 2013, and that must be discussed in advance. For example, some specific workflows, site templates and custom elements that can exist in the site may be missing in SharePoint 2013; this therefore means redesigns or getting some completely different solutions. Incremental Migration Approach Migrate in small bite-sized chunks rather than in large chunks that will overwhelm you. It let you launch gradually, test features and also solve compatibility difficulties incrementally. Whenever you move all your data and settings in one go, you do not have to risk any plug-and-play experiment; hence, you can perform a trial run using single departments, site collections or even certain features to confirm that they will respond correctly in the new environment. Utilize Compatibility Tools Pre-upgrade checks, which include SharePoint upgrade checkers and other third-party migration tools, will be helpful in identifying potential compatibility problems before they occur. They are capable of scanning your environment in order to identify deprecated features that can be addressed before migration. 3. User Adoption Challenges Why Is This a Challenge? In most cases, migrating SharePoint is not only concerned with data transfer but with the change that is triggered in an organization. It is not a secret that SharePoint migration has pain points, and the key factor that affects it is user adoption. If your employees migrated from SharePoint Classic, they are likely to experience some challenges when interacting with new features, workflows and interfaces in the upgraded version of SharePoint Online. For instance, when transitioning from SharePoint on-premise to Online, people face the problem of navigation or get lost given new features like OneDrive for Business or integration with Teams. In addition, if the users are not well trained on the new system, they may completely opt not to use it for their migration, which is not very productive. Common SharePoint Migration Issues Resistance to change Absence of training or compromised verbal and written communication Users unaware of new features There is confusion as to the nature of the new interface. Why this happens Staff can experience problems at first when working with a new version of SharePoint due to numerous factors, such as the appearance of workshops and the configuration of main functions. Also, users familiar with particular tools or routines will be reluctant to change in the absence of reasons why their preferred mode of operation should shift. Solution: How to Overcome User Adoption Challenges Early Communication Start communicating the benefits and timeline of the migration well in advance. Help users understand why the migration is happening, what benefits it will bring (e.g., easier access, improved collaboration, enhanced security), and what they can expect during the transition. Providing a clear roadmap helps reduce uncertainty and resistance to change. Training and Support Provide comprehensive training for end-users before, during, and after the migration. Tailor the training to different roles within the organization. For example, site owners may need to understand how to manage permissions and document libraries in the new version, while end users may need training on how to access documents, create new libraries, and use new collaboration features like Power Automation or Power BI. Involve Key Users Early Determine the interests of such users so they may help drive the adoption of the new system. Such people can help in the dissemination of information and provide support to others. Internal holders can, in the end, catalyze other adoption and decrease explicit opposition and covert resistance. Offer Ongoing Support After the migration, offer ongoing support to users who may still be struggling with the new system. Set up a helpdesk or internal knowledge base that users can turn to for troubleshooting. You may also consider running follow-up sessions to address any issues or questions that arise after the migration. Provide a Feedback Loop Encourage users to provide feedback on the new system, both positive and negative. Use this feedback to make improvements and address concerns quickly, ensuring that the system is fully adopted and used optimally. 4. Performance and Downtime Issues Why This is a Challenge Migrating large amounts of data or making significant changes to your SharePoint environment can impact system performance and lead to downtime. This is especially critical for businesses that rely on SharePoint for day-to-day operations. During migration, if the process is not well managed, there can be slow performance or periods where the SharePoint environment is completely unavailable. For example, the main SharePoint 2013 to 2016 migration challenge is transferring a large library of documents. The migration process could take several days, during which time users might experience slow access or interruptions in service. These performance issues can lead to frustration among users and impact business productivity. Common SharePoint Migration Issues Slow system performance Unexpected downtime Losing connection to the users while migrating the service. Why this happens Large data transfers or simple configuration updates will exert a large load on not only the source but also the target SharePoint. Moreover, sometimes we can face problems like network saturation, low server performance or, for example, insufficient functionality of migration tools, which aggravates the situation. Solution: How to Overcome Performance and Downtime Issues Schedule Migrations During Off-Peak Hours To minimize the level of disruption to users, this should be done at night when there are not many users up or during the weekend when few users are online. This increases the chances of reducing the performance of an organization when migrating from one system to another. If possible, the migration exercise should be done in phases and should be done at times that are off working hours. Migrate in Phases Instead of moving all the world data simultaneously, make the migration into batches. This approach makes it possible for only a section of the environment to be used at any one time, hence minimizing the negative effects on performance. This can be done, for example, by upgrading one department or site collection at a time to ensure that other parts of the organization remain active. Optimize Migration Tools Ensure that the migration tools you are using have the best performance. Currently, there are many third-party apps for SharePoint, such as AvePoint, ShareGate, and Metalogix, that include performance optimization features whereby one can implement urgent content priorities to lessen the load of the system. Monitor Migration Progress Periodically check on the migration process so as to confirm that all was well during the process. The majority of migration tools include graphs and charts that will help the user view progress, potential problems, and other areas of concern in real time. This reduces the duration of major outages or substantial slowing in the operation speed. 5. Security and Compliance Concerns Common SharePoint Migration Challenges Loss or leakage of information that requires special protection Violations of laws such as GDPR, HIPAA, etc When migration takes place from one context of use to another, there are sometimes incomprehensible permissions. Why This is a Challenge Moving structured data, especially when moving from corporate LAN infrastructures to SharePoint Online, poses unique security and compliance issues. Migration of data to any other place requires that other data security policies, access controls and compliance should not be compromised. For instance, organizations under GDPR or HIPAA rules will suffer the consequences when migrating without protecting the information stored in the application. Likewise, the wrong matching of permissions during the migration process may result in users gaining unauthorized access to some important data. Why does this happen? Data privacy standards require the application of high-security mechanisms over such information, and any mishandling of such data in the process of migration poses the organization risk. Moreover, when migrating information, users cannot translate permissions and access control measures, which could lead to access to unauthorized information or disclosure of sensitive data. Solution: How to Overcome Security and Compliance Challenges Conduct a Security Audit: Prior to the migration process, consider the security needs of your organization. It is possible to compare it with investigating possible issues with sensitive data during the migration process, such as financial records, PII or healthcare data. Make sure that you have the correct encryption and security measures put in place before, in the process of migration, and after it has taken place. Data Encryption Encryption should be applied to data in the course of transfer and, at the same time, when it is in the new SharePoint environment. Of course, for migrations to SharePoint Online, Microsoft provides end-to-end encryption in order to secure your data while in transfer and at rest; however, you should ensure that your migration tools also support this feature. Review Permissions and Access Controls Make it a point that the implementation of user rights and privileges is most effective during migration. It is wrong if the permissions are not balanced because this can cause someone unauthorized to access or even leak information. Before migrating the corporate data, one probably should carry out a permissions checkup to make sure no unauthorized personnel get access to such data after the migration. Compliance Monitoring When moving data to SharePoint Online, you should use DLP mechanisms and eDiscovery appliances provided by Microsoft to stay compliant with regulations. They can assist in exposing compliance threats and securing your data. Conclusion As we know, there are many SharePoint migration common issues, but yet they can be overcome with careful planning and the right approach. Whether migrating from SharePoint 2010 to SharePoint 2013 or SharePoint Online migration challenges such as data transfer, compatibility problems, user adoption, performance stability, and security risks are inevitable. The difficulties that emerge—data transfer, compatibility problems, user acceptance, stability issues, and security—evolved time, proper instruments, and excellent coordination. With an understanding of some of the most frequent problems organizations face when migrating to SharePoint, you are ready to avoid these issues, make a plan, practice migration, and accomplish the new SharePoint migration as a success that will improve company collaboration, effectiveness, and security. It is not only about moving data; it is also about making sure whoever is taking care of the migrated environment attacks it efficiently—performs at optimum, and encourages users. In the same manner, your organization can overcome challenges, whether SharePoint on-premise to online migration challenges or a new SharePoint version, by adopting a strategic approach and focus. In addition, there are many SharePoint migration services with worldwide best approaches for leveraging SharePoint’s powerful technologies available today. Of these, SharePoint Awesome Tech Inc is one of the most popular SharePoint migration company famous for its knowledge and unique products in the market. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2025/01/Common-Challenges-in-SharePoint-Migration-and-How-to-Overcome-Them.png",
+          "alt": "Common Challenges in SharePoint Migration and How to Overcome Them"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2025/01/Why-is-SharePoint-Migration-Important_.png",
+          "alt": ""
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2025/01/Data-Migration-and-Content-Loss.png",
+          "alt": ""
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2025/01/SharePoint-Migration-Data.png",
+          "alt": ""
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+          "alt": "Mortgage Automation in 2026"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+          "alt": "HMDA Reporting Setup in Encompass LOS"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+          "alt": "What is a Loan Origination System?"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Home",
+          "url": "https://awesometechinc.com/"
+        },
+        {
+          "label": "SharePoint migration services",
+          "url": "https://awesometechinc.com/sharepoint-migration-services/"
+        },
+        {
+          "label": "Search",
+          "url": ""
+        },
+        {
+          "label": "Subscribe",
+          "url": ""
+        },
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form",
+          "form_id": "",
+          "fields": [
+            {
+              "name": "s",
+              "label": "",
+              "type": "search",
+              "required": false
+            }
+          ],
+          "submit_label": "Search"
+        },
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "Introduction: Why is SharePoint Migration Important?",
+      "type": "service_section",
+      "content": "SharePoint is a web-based application that enables organizations to access, store, structure, share, manage, and collaborate on content and documents. The requirements of an organization change over time, including functionality, flexibility, and, most importantly, security. Over time, these on-premises versions become outdated, and businesses find it challenging to upgrade from, for example, SharePoint 2010 to 2013, from SharePoint 2013 to 2016, or to migrate to SharePoint Online. However, transitioning from one version of SharePoint to another is a challenging task. It entails relocating a huge amount of data, configuration settings, builds, templates, workbench sets, and setups to a new context. Speaking about potential roadblocks, it is possible to note that depending on the version and the type of migration, there can be several roadblocks that lead to such problems as, for example, downtime, data loss, performance degradation, etc. Yet, all these types of SharePoint migration issues may occur depending on the version and the type of migration: from within on-premise environments to cloud. Understanding of these general SharePoint migration problems and their solutions may be the main factor between a successful migration process and experience stuffed with numerous errors.",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2025/01/Why-is-SharePoint-Migration-Important_.png",
+          "alt": ""
+        }
+      ],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 3,
+      "title": "1. Data Migration and Content Loss",
+      "type": "content_section",
+      "content": "",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2025/01/Data-Migration-and-Content-Loss.png",
+          "alt": ""
+        }
+      ],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 4,
+      "title": "Challenges faced in data migration!",
+      "type": "content_section",
+      "content": "The first challenges of SharePoint migration are data migration and content loss. It is the most crucial and most challenging task in the SharePoint migration process. Transferring documents, lists, libraries, metadata and permissions is normally a difficult process when we are dealing with large quantities of content. However, if the process is not properly coordinated, there are strong possibilities of losing data or files or of missing content. For instance, the first challenge when migrating from Sharepoint 2010 to 2013 was losing or getting erroneous links to files and metadata. Additionally, metadata mapping issues during migration often lead to broken links to documents. Compatibility issues arise when transitioning between different SharePoint versions, especially when migrating from SharePoint 2010 to SharePoint 2013.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 5,
+      "title": "Common SharePoint Migration Issues",
+      "type": "content_section",
+      "content": "Missing files Broken links Corrupted metadata Inconsistent content versions",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 6,
+      "title": "Why does this happen?",
+      "type": "content_section",
+      "content": "The migration process can always be as simple as copying data from the initial SharePoint site and then pasting it into a new environment. This is why if the right validation and mapping are not conducted, they unwittingly replicate the wrong data. However, even if there exist structural differences between the source and the target, it will definitely be a problem for migration, and the differences in the results are most definitely caused by this.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 7,
+      "title": "Solution: How to Overcome Data Migration Challenges",
+      "type": "service_section",
+      "content": "Pre-Migration Audit First, analyze your current SharePoint sites and conduct a content audit. Determine the types of content becoming stored, consider the metadata structure, and look for content that may not always have to be migrated. This step also helps in clearing our environment and also reduces the amount of migration workload. Use Reliable Migration Tools During migration, it is sometimes impossible to avoid data loss, but using the right migration tools is a good way to avoid data loss. The SharePoint Migration Tool (SPMT) is one of the most effective and free tools for migrating data to SharePoint Online, and it’s often the preferred choice for smaller migrations. However, for more complex environments or larger transfers, organizations typically rely on third-party tools like AvePoint, Metalogix, or ShareGate for greater efficiency. Among the features that most of these tools provide are batch processing, data validation and error tracking. Test Migration We recommend that you do a trial migration where you migrate a small amount of data before migrating the whole project. Testing helps when you do an assessment of data integrity, file formats or mapping of metadata. This is the reason why you want to deal with problems in advance; otherwise they will resurface when you are migrating the entire data set. Backup Your Data Users should always ensure they have copies of the data they plan to move from one computer to another. In this way, if throughout the migration process there are problems with loss, or even damage, of certain data, you can return to the content. Post-Migration Validation After migration, it is crucial to ensure that information is migrated without failure. Verify data document classification and structure; check metadata. If data differences occur, you can often resolve these gaps in the second pass of the migration or by making semantic adjustments to some records.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 8,
+      "title": "2. Compatibility Issues: Version Upgrades",
+      "type": "content_section",
+      "content": "",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2025/01/SharePoint-Migration-Data.png",
+          "alt": ""
+        }
+      ],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 9,
+      "title": "Why Is This Challenge?",
+      "type": "service_section",
+      "content": "A number of times, when converting from one version of SharePoint to another, there may be problems with compatibility. Hence, making it difficult for the transition to go smoothly. There are many SharePoint 2010 to 2013 migration challenges. For instance, in SharePoint 2010, the main problems are no longer supported functionality, customized workflow, or custom code that didn’t make the transition. In addition, sometimes the configuration and implementation of new features in SharePoint are different. For example, SharePoint 2013 added some advanced features like the integrated search function and new templates or changes in how web parts materialize or function and workflows. These can become problematic during the migration from SharePoint 2010 if your organization primarily uses custom features or third-party solutions.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 10,
+      "title": "Common SharePoint Migration Challenges",
+      "type": "service_section",
+      "content": "Legacy features not supported in newer versions Custom solutions or third-party apps that don’t work with the new version Feature or workflow incompatibility",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 11,
+      "title": "Why does this happen?",
+      "type": "content_section",
+      "content": "Newer versions of SharePoint always come with enhancements, but some of the enhancements have deprecated previous functionality or altered the way that the functionality works. For instance, when you upgrade from SharePoint 2010 to 2013, you realize that there are deprecated elements, different processes, permissions, and sites. Collection approach. If your organization heavily depends upon heavy customizations, this might cause compatibility problems.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 12,
+      "title": "Solution: How to Overcome Compatibility Challenges",
+      "type": "faq_section",
+      "content": "Evaluate Custom Solutions Before making any transition, perform an analysis of any customizations that you may be implementing on SharePoint, such as workflows, web parts, and third-party applications. Find out which of the mentioned customizations are not valid with the latest version, and then figure out whether you need to update them or reinstall them. For example, separate workflows such as those used in SharePoint 2010 using SharePoint Designer are not compatible with SharePoint 2013 and above and thus require migration to Power Automate. In addition, this is one of the biggest SharePoint 2013 migration challenges. Version-Specific Migration Plans If the question is how to conceptualize version-specific migration strategies. The answer is crucial when you are coming from SP 2010 to 2013 that you closely determine the changes from one version to the other. As with any upgrade, some features in 2010 may have been changed or removed in 2013, and that must be discussed in advance. For example, some specific workflows, site templates and custom elements that can exist in the site may be missing in SharePoint 2013; this therefore means redesigns or getting some completely different solutions. Incremental Migration Approach Migrate in small bite-sized chunks rather than in large chunks that will overwhelm you. It let you launch gradually, test features and also solve compatibility difficulties incrementally. Whenever you move all your data and settings in one go, you do not have to risk any plug-and-play experiment; hence, you can perform a trial run using single departments, site collections or even certain features to confirm that they will respond correctly in the new environment. Utilize Compatibility Tools Pre-upgrade checks, which include SharePoint upgrade checkers and other third-party migration tools, will be helpful in identifying potential compatibility problems before they occur. They are capable of scanning your environment in order to identify deprecated features that can be addressed before migration.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 13,
+      "title": "Why Is This a Challenge?",
+      "type": "service_section",
+      "content": "In most cases, migrating SharePoint is not only concerned with data transfer but with the change that is triggered in an organization. It is not a secret that SharePoint migration has pain points, and the key factor that affects it is user adoption. If your employees migrated from SharePoint Classic, they are likely to experience some challenges when interacting with new features, workflows and interfaces in the upgraded version of SharePoint Online. For instance, when transitioning from SharePoint on-premise to Online, people face the problem of navigation or get lost given new features like OneDrive for Business or integration with Teams. In addition, if the users are not well trained on the new system, they may completely opt not to use it for their migration, which is not very productive.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 14,
+      "title": "Common SharePoint Migration Issues",
+      "type": "service_section",
+      "content": "Resistance to change Absence of training or compromised verbal and written communication Users unaware of new features There is confusion as to the nature of the new interface.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 15,
+      "title": "Why this happens",
+      "type": "content_section",
+      "content": "Staff can experience problems at first when working with a new version of SharePoint due to numerous factors, such as the appearance of workshops and the configuration of main functions. Also, users familiar with particular tools or routines will be reluctant to change in the absence of reasons why their preferred mode of operation should shift.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 16,
+      "title": "Solution: How to Overcome User Adoption Challenges",
+      "type": "faq_section",
+      "content": "Early Communication Start communicating the benefits and timeline of the migration well in advance. Help users understand why the migration is happening, what benefits it will bring (e.g., easier access, improved collaboration, enhanced security), and what they can expect during the transition. Providing a clear roadmap helps reduce uncertainty and resistance to change. Training and Support Provide comprehensive training for end-users before, during, and after the migration. Tailor the training to different roles within the organization. For example, site owners may need to understand how to manage permissions and document libraries in the new version, while end users may need training on how to access documents, create new libraries, and use new collaboration features like Power Automation or Power BI. Involve Key Users Early Determine the interests of such users so they may help drive the adoption of the new system. Such people can help in the dissemination of information and provide support to others. Internal holders can, in the end, catalyze other adoption and decrease explicit opposition and covert resistance. Offer Ongoing Support After the migration, offer ongoing support to users who may still be struggling with the new system. Set up a helpdesk or internal knowledge base that users can turn to for troubleshooting. You may also consider running follow-up sessions to address any issues or questions that arise after the migration. Provide a Feedback Loop Encourage users to provide feedback on the new system, both positive and negative. Use this feedback to make improvements and address concerns quickly, ensuring that the system is fully adopted and used optimally.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 17,
+      "title": "Why This is a Challenge",
+      "type": "service_section",
+      "content": "Migrating large amounts of data or making significant changes to your SharePoint environment can impact system performance and lead to downtime. This is especially critical for businesses that rely on SharePoint for day-to-day operations. During migration, if the process is not well managed, there can be slow performance or periods where the SharePoint environment is completely unavailable. For example, the main SharePoint 2013 to 2016 migration challenge is transferring a large library of documents. The migration process could take several days, during which time users might experience slow access or interruptions in service. These performance issues can lead to frustration among users and impact business productivity.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 18,
+      "title": "Common SharePoint Migration Issues",
+      "type": "service_section",
+      "content": "Slow system performance Unexpected downtime Losing connection to the users while migrating the service.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 19,
+      "title": "Why this happens",
+      "type": "content_section",
+      "content": "Large data transfers or simple configuration updates will exert a large load on not only the source but also the target SharePoint. Moreover, sometimes we can face problems like network saturation, low server performance or, for example, insufficient functionality of migration tools, which aggravates the situation.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 20,
+      "title": "Solution: How to Overcome Performance and Downtime Issues",
+      "type": "service_section",
+      "content": "Schedule Migrations During Off-Peak Hours To minimize the level of disruption to users, this should be done at night when there are not many users up or during the weekend when few users are online. This increases the chances of reducing the performance of an organization when migrating from one system to another. If possible, the migration exercise should be done in phases and should be done at times that are off working hours. Migrate in Phases Instead of moving all the world data simultaneously, make the migration into batches. This approach makes it possible for only a section of the environment to be used at any one time, hence minimizing the negative effects on performance. This can be done, for example, by upgrading one department or site collection at a time to ensure that other parts of the organization remain active. Optimize Migration Tools Ensure that the migration tools you are using have the best performance. Currently, there are many third-party apps for SharePoint, such as AvePoint, ShareGate, and Metalogix, that include performance optimization features whereby one can implement urgent content priorities to lessen the load of the system. Monitor Migration Progress Periodically check on the migration process so as to confirm that all was well during the process. The majority of migration tools include graphs and charts that will help the user view progress, potential problems, and other areas of concern in real time. This reduces the duration of major outages or substantial slowing in the operation speed.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 21,
+      "title": "Common SharePoint Migration Challenges",
+      "type": "content_section",
+      "content": "Loss or leakage of information that requires special protection Violations of laws such as GDPR, HIPAA, etc When migration takes place from one context of use to another, there are sometimes incomprehensible permissions.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 22,
+      "title": "Why This is a Challenge",
+      "type": "content_section",
+      "content": "Moving structured data, especially when moving from corporate LAN infrastructures to SharePoint Online, poses unique security and compliance issues. Migration of data to any other place requires that other data security policies, access controls and compliance should not be compromised. For instance, organizations under GDPR or HIPAA rules will suffer the consequences when migrating without protecting the information stored in the application. Likewise, the wrong matching of permissions during the migration process may result in users gaining unauthorized access to some important data.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 23,
+      "title": "Why does this happen?",
+      "type": "content_section",
+      "content": "Data privacy standards require the application of high-security mechanisms over such information, and any mishandling of such data in the process of migration poses the organization risk. Moreover, when migrating information, users cannot translate permissions and access control measures, which could lead to access to unauthorized information or disclosure of sensitive data.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 24,
+      "title": "Solution: How to Overcome Security and Compliance Challenges",
+      "type": "testimonial_section",
+      "content": "Conduct a Security Audit: Prior to the migration process, consider the security needs of your organization. It is possible to compare it with investigating possible issues with sensitive data during the migration process, such as financial records, PII or healthcare data. Make sure that you have the correct encryption and security measures put in place before, in the process of migration, and after it has taken place. Data Encryption Encryption should be applied to data in the course of transfer and, at the same time, when it is in the new SharePoint environment. Of course, for migrations to SharePoint Online, Microsoft provides end-to-end encryption in order to secure your data while in transfer and at rest; however, you should ensure that your migration tools also support this feature. Review Permissions and Access Controls Make it a point that the implementation of user rights and privileges is most effective during migration. It is wrong if the permissions are not balanced because this can cause someone unauthorized to access or even leak information. Before migrating the corporate data, one probably should carry out a permissions checkup to make sure no unauthorized personnel get access to such data after the migration. Compliance Monitoring When moving data to SharePoint Online, you should use DLP mechanisms and eDiscovery appliances provided by Microsoft to stay compliant with regulations. They can assist in exposing compliance threats and securing your data.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 25,
+      "title": "Conclusion",
+      "type": "service_section",
+      "content": "As we know, there are many SharePoint migration common issues, but yet they can be overcome with careful planning and the right approach. Whether migrating from SharePoint 2010 to SharePoint 2013 or SharePoint Online migration challenges such as data transfer, compatibility problems, user adoption, performance stability, and security risks are inevitable. The difficulties that emerge—data transfer, compatibility problems, user acceptance, stability issues, and security—evolved time, proper instruments, and excellent coordination. With an understanding of some of the most frequent problems organizations face when migrating to SharePoint, you are ready to avoid these issues, make a plan, practice migration, and accomplish the new SharePoint migration as a success that will improve company collaboration, effectiveness, and security. It is not only about moving data; it is also about making sure whoever is taking care of the migrated environment attacks it efficiently—performs at optimum, and encourages users. In the same manner, your organization can overcome challenges, whether SharePoint on-premise to online migration challenges or a new SharePoint version, by adopting a strategic approach and focus. In addition, there are many SharePoint migration services with worldwide best approaches for leveraging SharePoint’s powerful technologies available today. Of these, SharePoint Awesome Tech Inc is one of the most popular SharePoint migration company famous for its knowledge and unique products in the market.",
+      "images": [],
+      "buttons": [
+        {
+          "label": "SharePoint migration services",
+          "url": "https://awesometechinc.com/sharepoint-migration-services/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 26,
+      "title": "Subscribe to ATI",
+      "type": "form_section",
+      "content": "First name Last Name Your email",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Subscribe",
+          "url": ""
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 27,
+      "title": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "type": "service_section",
+      "content": "Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 28,
+      "title": "HMDA Reporting Setup in Encompass LOS",
+      "type": "content_section",
+      "content": "March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 29,
+      "title": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "type": "content_section",
+      "content": "In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": []
+    }
+  ],
+  "images": [
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2025/01/Common-Challenges-in-SharePoint-Migration-and-How-to-Overcome-Them.png",
+      "alt": "Common Challenges in SharePoint Migration and How to Overcome Them"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2025/01/Why-is-SharePoint-Migration-Important_.png",
+      "alt": ""
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2025/01/Data-Migration-and-Content-Loss.png",
+      "alt": ""
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2025/01/SharePoint-Migration-Data.png",
+      "alt": ""
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+      "alt": "Mortgage Automation in 2026"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+      "alt": "HMDA Reporting Setup in Encompass LOS"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+      "alt": "What is a Loan Origination System?"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "SharePoint migration services",
+      "url": "https://awesometechinc.com/sharepoint-migration-services/"
+    },
+    {
+      "label": "Search",
+      "url": ""
+    },
+    {
+      "label": "Subscribe",
+      "url": ""
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ],
+  "forms": [
+    {
+      "form_type": "contact_form",
+      "form_id": "",
+      "fields": [
+        {
+          "name": "s",
+          "label": "",
+          "type": "search",
+          "required": false
+        }
+      ],
+      "submit_label": "Search"
+    },
+    {
+      "form_type": "contact_form_7",
+      "form_id": "12171",
+      "fields": [
+        {
+          "name": "your-name",
+          "label": "your-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "last-name",
+          "label": "last-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "your-email",
+          "label": "your-email",
+          "type": "email",
+          "required": true
+        }
+      ],
+      "submit_label": "Subscribe"
+    }
+  ],
+  "links": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "SharePoint migration services",
+      "url": "https://awesometechinc.com/sharepoint-migration-services/"
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ]
+}

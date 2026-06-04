@@ -1,0 +1,687 @@
+{
+  "id": null,
+  "source_type": "post",
+  "slug": "sharepoint-migration-from-2010-to-2019",
+  "title": "Step by Step SharePoint Migration from 2010 to 2019",
+  "url": "https://awesometechinc.com/sharepoint-migration-from-2010-to-2019/",
+  "meta_title": "Step by Step SharePoint Migration from 2010 to 2019 - Awesome Tech Inc",
+  "meta_description": "",
+  "modified_at": "2025-05-30T17:15:12+00:00",
+  "status": "public",
+  "summary": "Intro Step by Step SharePoint Migration from 2010 to 2019 Home » Step by Step SharePoint Migration from 2010 to 2019 SharePoint has been an important tool for document management and collaboration for businesses around the world for several years. During those years, Microsoft has made many improvements to the platform",
+  "keywords": [
+    "mortgage automation in",
+    "mortgage application on a tuesday morni",
+    "encompass los march",
+    "contact microsoft for troublesho",
+    "integration failures",
+    "integration with tls",
+    "the",
+    "and",
+    "sharepoint",
+    "migration",
+    "for",
+    "you",
+    "will",
+    "support",
+    "process",
+    "can"
+  ],
+  "full_text": "Intro Step by Step SharePoint Migration from 2010 to 2019 Home » Step by Step SharePoint Migration from 2010 to 2019 SharePoint has been an important tool for document management and collaboration for businesses around the world for several years. During those years, Microsoft has made many improvements to the platform. Each of the versions of SharePoint has improved the overall functionality, enhanced security, and boosted the user experience. SharePoint Server 2019 is one of the most robust and advanced versions of SharePoint. It is built to facilitate hybrid situations, accommodate mobile experiences, and deliver a modern user experience. SharePoint Server 2010, although the best in its time, has reached the end of its life, and is no longer being used. This blog is dedicated specifically to migrating from SharePoint Server 2010 to SharePoint Server 2019. The discussion will cover an upgrade from SharePoint Server 2010 to SharePoint Server 2019, but it will highlight how seamless the transition can be without the side effects or difficulties of upgrading. April 13, 2021 – End of Support Day On April 13, 2021, Microsoft formally ended support for SharePoint Server 2010. This was a significant event in the software’s life cycle because for organizations that used this version, the end of support meant there would not be any updates, support, or security patches. End of support is a very important event for technology because it removes any technical support from the vendor and signals that the software is no longer compliant with modern standards or technological advancements. For organizations that had been operating on SharePoint Server 2010, continuing past this date only introduces risk. The risks exist in the entire platform from potential data breaches to system integration failures. While the technology would still work, it did so without the backing of any support from Microsoft. Thus, should an issue arise, it could result in extended downtime and pricey fixes! Consequences of End of Support The conclusion of support for SharePoint 2010 generates a number of risks which can pose a threat to an organization’s productivity, security, and compliance. The most immediate and maybe most dangerous risk is the lack of security updates. Without these updates, vulnerabilities on the platform are not patched, making it easier for bad actors to exploit them! Additionally, organizations will likely see their compatibility challenges with modern browsers, apps, and hardware. The rest of the IT ecosystem will keep evolving while SharePoint 2010 will struggle to keep up. This will lead to broken integrations, lack of functionality, and bad user experiences. Also, there will not be any more support from Microsoft meaning that if there are any technical issues, the organization’s IT team will need to resolve them or pay expensive third-party vendors to solve them. A further complication and cost to operational procedures! From a compliance perspective, organizations using unsupported software may put their internal policies in danger or break external rules from regulators. This is particularly true for organizations in regulated industries like finance, healthcare, or government where data protection and systems integrity is of prime importance. Regulators usually require supported and up-to-date systems as part of their compliance systems! What You Will Not Receive After End of Support? Once support has officially ended, Microsoft will no longer provide a variety of services and updates for SharePoint 2010. They will stop releasing security patches meant to keep sensitive information safe from the ongoing evolution of threats, which means that SharePoint 2010 deployment becomes high-risk within the IT infrastructure. Furthermore, Microsoft stops providing bug fixes and hotfixes for SharePoint 2010. Any bugs or problems that you may have experienced with the software remain unfixed unless you completed an internal fix. Microsoft also stops making changes and improvements to performance, meaning the newer legacy systems will continue to be inefficient relative to new solutions. Even technical support stops, so issues are not highlighted or even recognized, even critical or high-impact issues. You cannot contact Microsoft for troubleshooting, escalation support, or any architectural advice. Updates to time zones that affect the daylight savings time, which affects many calendar applications and scheduling capabilities, also stop. Lastly, updates to documentation and learning materials also end, which limits how a shared services team may learn or change best practice usage for a legacy system. Why Migrate from SharePoint Server 2010 to SharePoint Server 2019? The rationale for transitioning from SharePoint Server 2010 to SharePoint Server 2019 is a combination of need, opportunity and IT strategic alignment. SharePoint 2019 offers a number of modern features and capabilities that were simply not available 10 years ago. Transitioning to the new server version is not only about avoiding the potential dangers of no longer being supported as a platform, it is also about taking advantage of those potential improvements that can help to improve the overall business performance. One of the biggest areas of improvement from SharePoint 2010 to full software in 2019 is the overall user experience. Rather than the classic interface of SharePoint 2010, SharePoint 2019 offers a more acceptable modern interface that incorporates a cleaner and more intuitive user design, a responsive layout and mobile compatibility. Especially since user engagement is key and implementation of SharePoint is a collaborative effort, better interface design leads to better user engagement and consequently more adoption across teams. Another important advantage of SharePoint 2019 is that it is also supported in a hybrid situation. SharePoint 2019 can be deployed with ease if organizations are using Microsoft 365 services, meaning that organizations can deploy new SharePoint just to have a cloud or hybrid collaboration environment and, if the transition goes well, migrate further on cloud-based. Again, the ability to modernize your IT environment without completely “burning the bridges” or investment you have made in on-premises modernization is important for many organizations, especially now. Finally, as organizations adopt the modern workplace and corresponding standards of security and compliance, SharePoint 2019 is equipped with more and better protection. Enhanced protection is achieved by recognizing data protection needs. SharePoint 2019 is a big improvement over SharePoint 2010 in areas such as data loss prevention (DLP) and the audit logs can maintain a better history and session of usage requirements. In addition, SharePoint 2019 offers better integration with TLS-encryption (1.2). These protocols allow an organization to meet security and privacy standards identified in modern workplaces. Migrating Using SharePoint Migration Solution Although Microsoft does not support an upgrade path from SharePoint 2010 directly to SharePoint 2019, using manual, multi-stage upgrades that migrate through SharePoint 2013 and SharePoint 2016 is difficult to carry and expensive. Luckily, new migration tools like Kernel Migration for SharePoint are smarter and more efficient than these options. They allow organizations to do a direct migration from SharePoint 2010 to SharePoint 2019 without going through other versions in between. Kernel Migration for SharePoint lets organizations choose to do complete migrations or partial migrations of sites, lists, libraries, metadata, and user permissions. The self-service process is user-friendly and designed to be thought of as similar to copying and pasting content between folders. Add SharePoint Server 2010 as the Source To start the migration process, run the Kernel Migration for SharePoint tool. Once in the application, go to the Source pane and right-click on SharePoint (On-Premises/Online), then select the “Add New SharePoint Site” option. You should enter a name for your project so you can better organize your migration tasks during this process. Next, you will choose an authentication method. The tool has Basic and Modern authentication, with Modern authentication being the most secure. So, you will want to select Modern authentication and enter your credentials for your SharePoint 2010 environment. You can add one site at a time by default, but you can also select “Find/Add Multiple Sites” if you wish to add multiple source sites at the same time. A prompt will ask you if the same SharePoint site should be added as a destination and click “No” to proceed. The site that was added, will appear in the Source pane when it has been successfully added. Migrate SharePoint 2010 to 2019 Now do the same to add your SharePoint 2019 environment as the destination. You will again go to the Destination pane and follow similar steps that you did when adding the source. When choosing content attributes, the next page will also allow you to choose specific list and library options. Filters can also be used to include or exclude content based on date, size, or condition of content. At this time, if you want to maintain user permissions, make sure to check the “Migrate Permissions” option. You will then be given the option to schedule the migration for a future time or to execute the migration immediately. If you would like to start immediately, select “Execute Immediate”. Meanwhile, you may select a time later to satisfy your deployment schedule. The last page is a summary of your selections. Once confirmed, click “Next” to process the migration. After the migration is completed, a detailed summary report will be presented showing what content was migrated and what the new URLs now are. Click “Finish” to close the process. SharePoint Migration from 2010 to SharePoint Online Migrating from SharePoint On-premises 2010 to SharePoint Online is complicated because there is not a direct upgrade path. The migration is often carried in several steps and typically involves how to get the content from a version of SharePoint you can upgrade (such as SharePoint 2013 or 2016) before moving to SharePoint Online. The opportunity loss for moving data and the risk of data loss and or corruption is much higher in an untested environment. The first step of migration is to understand the current SharePoint 2010 environment. Determine what content to migrate, archive whatever content is not going to be migrated, and clarify if there are custom solutions or workflows that have to be updated or replaced. The SharePoint Migration Tool (SPMT) developed by Microsoft, or tools offered by third parties like ShareGate and Metalogix are designed for this type of migration. You need to test the migration process in a trial environment, take a full backup of all data, and communicate the process with users. Once you plan to migrate SharePoint On-Premises 2010 to 2019, users can leverage a modern SharePoint Online , with the benefits like collaborating with users with anyone across the globe, flexibility of where the content is located, enhanced security, and access to Microsoft 365. Tips for a Successful SharePoint Migration Successful SharePoint migration from 2010 to 2019 includes a lot of additional preparation, and ongoing management. First, make sure you understand your environment before migration and set your migration goals. Create a migration plan with timeframes, required resources, and contingency plans. Before migrating your live environment, complete the entire process using a test environment in order to identify any issues and mitigate concerns before migrating the live environment. Regularly backup your data before and during the migration process to avoid data loss. Communication with your users is also critical – ensure they are aware of the migration timing and provide enough training so they are familiar with the new system before going live. Make sure to monitor operations throughout the migration process to ensure it goes well. Be prepared to respond quickly should something go wrong. Using third-party SharePoint tools for monitoring and management of your environment can help keep your migration stable and operational throughout the process. Adopting these best practices will help limit interruption and speed up the process of migrating to SharePoint 2019. Conclusion Migrating from SharePoint 2010 to SharePoint 2019 is a massive undertaking that requires detailed planning, last will and testament performance, and thorough testing. If you follow along with the steps outlined in this guide and take advantage of the proper tool and resources, could smooth out your SharePoint migration process. Although you will experience some hiccups along the way, it will be worth it to ensure your organization has the support and security that will come in the latest version of SharePoint with a whole new host of features and capabilities. Be sure to work through each phase of the project; internally plan and schedule your migration well, maintain proper backups of your data, thoroughly test your migration process, communicate regularly and clearly with your team and stakeholders, and follow the progress through the migration. With proper planning and focus, migrating will not be an unattainable goal! Always a good idea is to engage a trustworthy SharePoint migration service provider for the migration! We hope that we have helped you on your process of getting from SharePoint 2010 to SharePoint 2019! If you have any questions, or would like to talk to an expert, our SharePoint Consultants are here to help with your migration as it progresses! ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026 April 13, 2021 – End of Support Day On April 13, 2021, Microsoft formally ended support for SharePoint Server 2010. This was a significant event in the software’s life cycle because for organizations that used this version, the end of support meant there would not be any updates, support, or security patches. End of support is a very important event for technology because it removes any technical support from the vendor and signals that the software is no longer compliant with modern standards or technological advancements. For organizations that had been operating on SharePoint Server 2010, continuing past this date only introduces risk. The risks exist in the entire platform from potential data breaches to system integration failures. While the technology would still work, it did so without the backing of any support from Microsoft. Thus, should an issue arise, it could result in extended downtime and pricey fixes! Consequences of End of Support The conclusion of support for SharePoint 2010 generates a number of risks which can pose a threat to an organization’s productivity, security, and compliance. The most immediate and maybe most dangerous risk is the lack of security updates. Without these updates, vulnerabilities on the platform are not patched, making it easier for bad actors to exploit them! Additionally, organizations will likely see their compatibility challenges with modern browsers, apps, and hardware. The rest of the IT ecosystem will keep evolving while SharePoint 2010 will struggle to keep up. This will lead to broken integrations, lack of functionality, and bad user experiences. Also, there will not be any more support from Microsoft meaning that if there are any technical issues, the organization’s IT team will need to resolve them or pay expensive third-party vendors to solve them. A further complication and cost to operational procedures! From a compliance perspective, organizations using unsupported software may put their internal policies in danger or break external rules from regulators. This is particularly true for organizations in regulated industries like finance, healthcare, or government where data protection and systems integrity is of prime importance. Regulators usually require supported and up-to-date systems as part of their compliance systems! What You Will Not Receive After End of Support? Once support has officially ended, Microsoft will no longer provide a variety of services and updates for SharePoint 2010. They will stop releasing security patches meant to keep sensitive information safe from the ongoing evolution of threats, which means that SharePoint 2010 deployment becomes high-risk within the IT infrastructure. Furthermore, Microsoft stops providing bug fixes and hotfixes for SharePoint 2010. Any bugs or problems that you may have experienced with the software remain unfixed unless you completed an internal fix. Microsoft also stops making changes and improvements to performance, meaning the newer legacy systems will continue to be inefficient relative to new solutions. Even technical support stops, so issues are not highlighted or even recognized, even critical or high-impact issues. You cannot contact Microsoft for troubleshooting, escalation support, or any architectural advice. Updates to time zones that affect the daylight savings time, which affects many calendar applications and scheduling capabilities, also stop. Lastly, updates to documentation and learning materials also end, which limits how a shared services team may learn or change best practice usage for a legacy system. Why Migrate from SharePoint Server 2010 to SharePoint Server 2019? The rationale for transitioning from SharePoint Server 2010 to SharePoint Server 2019 is a combination of need, opportunity and IT strategic alignment. SharePoint 2019 offers a number of modern features and capabilities that were simply not available 10 years ago. Transitioning to the new server version is not only about avoiding the potential dangers of no longer being supported as a platform, it is also about taking advantage of those potential improvements that can help to improve the overall business performance. One of the biggest areas of improvement from SharePoint 2010 to full software in 2019 is the overall user experience. Rather than the classic interface of SharePoint 2010, SharePoint 2019 offers a more acceptable modern interface that incorporates a cleaner and more intuitive user design, a responsive layout and mobile compatibility. Especially since user engagement is key and implementation of SharePoint is a collaborative effort, better interface design leads to better user engagement and consequently more adoption across teams. Another important advantage of SharePoint 2019 is that it is also supported in a hybrid situation. SharePoint 2019 can be deployed with ease if organizations are using Microsoft 365 services, meaning that organizations can deploy new SharePoint just to have a cloud or hybrid collaboration environment and, if the transition goes well, migrate further on cloud-based. Again, the ability to modernize your IT environment without completely “burning the bridges” or investment you have made in on-premises modernization is important for many organizations, especially now. Finally, as organizations adopt the modern workplace and corresponding standards of security and compliance, SharePoint 2019 is equipped with more and better protection. Enhanced protection is achieved by recognizing data protection needs. SharePoint 2019 is a big improvement over SharePoint 2010 in areas such as data loss prevention (DLP) and the audit logs can maintain a better history and session of usage requirements. In addition, SharePoint 2019 offers better integration with TLS-encryption (1.2). These protocols allow an organization to meet security and privacy standards identified in modern workplaces. Migrating Using SharePoint Migration Solution Although Microsoft does not support an upgrade path from SharePoint 2010 directly to SharePoint 2019, using manual, multi-stage upgrades that migrate through SharePoint 2013 and SharePoint 2016 is difficult to carry and expensive. Luckily, new migration tools like Kernel Migration for SharePoint are smarter and more efficient than these options. They allow organizations to do a direct migration from SharePoint 2010 to SharePoint 2019 without going through other versions in between. Kernel Migration for SharePoint lets organizations choose to do complete migrations or partial migrations of sites, lists, libraries, metadata, and user permissions. The self-service process is user-friendly and designed to be thought of as similar to copying and pasting content between folders. Add SharePoint Server 2010 as the Source To start the migration process, run the Kernel Migration for SharePoint tool. Once in the application, go to the Source pane and right-click on SharePoint (On-Premises/Online), then select the “Add New SharePoint Site” option. You should enter a name for your project so you can better organize your migration tasks during this process. Next, you will choose an authentication method. The tool has Basic and Modern authentication, with Modern authentication being the most secure. So, you will want to select Modern authentication and enter your credentials for your SharePoint 2010 environment. You can add one site at a time by default, but you can also select “Find/Add Multiple Sites” if you wish to add multiple source sites at the same time. A prompt will ask you if the same SharePoint site should be added as a destination and click “No” to proceed. The site that was added, will appear in the Source pane when it has been successfully added. Migrate SharePoint 2010 to 2019 Now do the same to add your SharePoint 2019 environment as the destination. You will again go to the Destination pane and follow similar steps that you did when adding the source. When choosing content attributes, the next page will also allow you to choose specific list and library options. Filters can also be used to include or exclude content based on date, size, or condition of content. At this time, if you want to maintain user permissions, make sure to check the “Migrate Permissions” option. You will then be given the option to schedule the migration for a future time or to execute the migration immediately. If you would like to start immediately, select “Execute Immediate”. Meanwhile, you may select a time later to satisfy your deployment schedule. The last page is a summary of your selections. Once confirmed, click “Next” to process the migration. After the migration is completed, a detailed summary report will be presented showing what content was migrated and what the new URLs now are. Click “Finish” to close the process. SharePoint Migration from 2010 to SharePoint Online Migrating from SharePoint On-premises 2010 to SharePoint Online is complicated because there is not a direct upgrade path. The migration is often carried in several steps and typically involves how to get the content from a version of SharePoint you can upgrade (such as SharePoint 2013 or 2016) before moving to SharePoint Online. The opportunity loss for moving data and the risk of data loss and or corruption is much higher in an untested environment. The first step of migration is to understand the current SharePoint 2010 environment. Determine what content to migrate, archive whatever content is not going to be migrated, and clarify if there are custom solutions or workflows that have to be updated or replaced. The SharePoint Migration Tool (SPMT) developed by Microsoft, or tools offered by third parties like ShareGate and Metalogix are designed for this type of migration. You need to test the migration process in a trial environment, take a full backup of all data, and communicate the process with users. Once you plan to migrate SharePoint On-Premises 2010 to 2019, users can leverage a modern SharePoint Online , with the benefits like collaborating with users with anyone across the globe, flexibility of where the content is located, enhanced security, and access to Microsoft 365. Tips for a Successful SharePoint Migration Successful SharePoint migration from 2010 to 2019 includes a lot of additional preparation, and ongoing management. First, make sure you understand your environment before migration and set your migration goals. Create a migration plan with timeframes, required resources, and contingency plans. Before migrating your live environment, complete the entire process using a test environment in order to identify any issues and mitigate concerns before migrating the live environment. Regularly backup your data before and during the migration process to avoid data loss. Communication with your users is also critical – ensure they are aware of the migration timing and provide enough training so they are familiar with the new system before going live. Make sure to monitor operations throughout the migration process to ensure it goes well. Be prepared to respond quickly should something go wrong. Using third-party SharePoint tools for monitoring and management of your environment can help keep your migration stable and operational throughout the process. Adopting these best practices will help limit interruption and speed up the process of migrating to SharePoint 2019. Conclusion Migrating from SharePoint 2010 to SharePoint 2019 is a massive undertaking that requires detailed planning, last will and testament performance, and thorough testing. If you follow along with the steps outlined in this guide and take advantage of the proper tool and resources, could smooth out your SharePoint migration process. Although you will experience some hiccups along the way, it will be worth it to ensure your organization has the support and security that will come in the latest version of SharePoint with a whole new host of features and capabilities. Be sure to work through each phase of the project; internally plan and schedule your migration well, maintain proper backups of your data, thoroughly test your migration process, communicate regularly and clearly with your team and stakeholders, and follow the progress through the migration. With proper planning and focus, migrating will not be an unattainable goal! Always a good idea is to engage a trustworthy SharePoint migration service provider for the migration! We hope that we have helped you on your process of getting from SharePoint 2010 to SharePoint 2019! If you have any questions, or would like to talk to an expert, our SharePoint Consultants are here to help with your migration as it progresses! Subscribe to ATI First name Last Name Your email Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+  "word_count": 4349,
+  "headings_count": 19,
+  "images_count": 18,
+  "buttons_count": 13,
+  "forms_count": 2,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "Step by Step SharePoint Migration from 2010 to 2019 Home » Step by Step SharePoint Migration from 2010 to 2019 SharePoint has been an important tool for document management and collaboration for businesses around the world for several years. During those years, Microsoft has made many improvements to the platform. Each of the versions of SharePoint has improved the overall functionality, enhanced security, and boosted the user experience. SharePoint Server 2019 is one of the most robust and advanced versions of SharePoint. It is built to facilitate hybrid situations, accommodate mobile experiences, and deliver a modern user experience. SharePoint Server 2010, although the best in its time, has reached the end of its life, and is no longer being used. This blog is dedicated specifically to migrating from SharePoint Server 2010 to SharePoint Server 2019. The discussion will cover an upgrade from SharePoint Server 2010 to SharePoint Server 2019, but it will highlight how seamless the transition can be without the side effects or difficulties of upgrading. April 13, 2021 – End of Support Day On April 13, 2021, Microsoft formally ended support for SharePoint Server 2010. This was a significant event in the software’s life cycle because for organizations that used this version, the end of support meant there would not be any updates, support, or security patches. End of support is a very important event for technology because it removes any technical support from the vendor and signals that the software is no longer compliant with modern standards or technological advancements. For organizations that had been operating on SharePoint Server 2010, continuing past this date only introduces risk. The risks exist in the entire platform from potential data breaches to system integration failures. While the technology would still work, it did so without the backing of any support from Microsoft. Thus, should an issue arise, it could result in extended downtime and pricey fixes! Consequences of End of Support The conclusion of support for SharePoint 2010 generates a number of risks which can pose a threat to an organization’s productivity, security, and compliance. The most immediate and maybe most dangerous risk is the lack of security updates. Without these updates, vulnerabilities on the platform are not patched, making it easier for bad actors to exploit them! Additionally, organizations will likely see their compatibility challenges with modern browsers, apps, and hardware. The rest of the IT ecosystem will keep evolving while SharePoint 2010 will struggle to keep up. This will lead to broken integrations, lack of functionality, and bad user experiences. Also, there will not be any more support from Microsoft meaning that if there are any technical issues, the organization’s IT team will need to resolve them or pay expensive third-party vendors to solve them. A further complication and cost to operational procedures! From a compliance perspective, organizations using unsupported software may put their internal policies in danger or break external rules from regulators. This is particularly true for organizations in regulated industries like finance, healthcare, or government where data protection and systems integrity is of prime importance. Regulators usually require supported and up-to-date systems as part of their compliance systems! What You Will Not Receive After End of Support? Once support has officially ended, Microsoft will no longer provide a variety of services and updates for SharePoint 2010. They will stop releasing security patches meant to keep sensitive information safe from the ongoing evolution of threats, which means that SharePoint 2010 deployment becomes high-risk within the IT infrastructure. Furthermore, Microsoft stops providing bug fixes and hotfixes for SharePoint 2010. Any bugs or problems that you may have experienced with the software remain unfixed unless you completed an internal fix. Microsoft also stops making changes and improvements to performance, meaning the newer legacy systems will continue to be inefficient relative to new solutions. Even technical support stops, so issues are not highlighted or even recognized, even critical or high-impact issues. You cannot contact Microsoft for troubleshooting, escalation support, or any architectural advice. Updates to time zones that affect the daylight savings time, which affects many calendar applications and scheduling capabilities, also stop. Lastly, updates to documentation and learning materials also end, which limits how a shared services team may learn or change best practice usage for a legacy system. Why Migrate from SharePoint Server 2010 to SharePoint Server 2019? The rationale for transitioning from SharePoint Server 2010 to SharePoint Server 2019 is a combination of need, opportunity and IT strategic alignment. SharePoint 2019 offers a number of modern features and capabilities that were simply not available 10 years ago. Transitioning to the new server version is not only about avoiding the potential dangers of no longer being supported as a platform, it is also about taking advantage of those potential improvements that can help to improve the overall business performance. One of the biggest areas of improvement from SharePoint 2010 to full software in 2019 is the overall user experience. Rather than the classic interface of SharePoint 2010, SharePoint 2019 offers a more acceptable modern interface that incorporates a cleaner and more intuitive user design, a responsive layout and mobile compatibility. Especially since user engagement is key and implementation of SharePoint is a collaborative effort, better interface design leads to better user engagement and consequently more adoption across teams. Another important advantage of SharePoint 2019 is that it is also supported in a hybrid situation. SharePoint 2019 can be deployed with ease if organizations are using Microsoft 365 services, meaning that organizations can deploy new SharePoint just to have a cloud or hybrid collaboration environment and, if the transition goes well, migrate further on cloud-based. Again, the ability to modernize your IT environment without completely “burning the bridges” or investment you have made in on-premises modernization is important for many organizations, especially now. Finally, as organizations adopt the modern workplace and corresponding standards of security and compliance, SharePoint 2019 is equipped with more and better protection. Enhanced protection is achieved by recognizing data protection needs. SharePoint 2019 is a big improvement over SharePoint 2010 in areas such as data loss prevention (DLP) and the audit logs can maintain a better history and session of usage requirements. In addition, SharePoint 2019 offers better integration with TLS-encryption (1.2). These protocols allow an organization to meet security and privacy standards identified in modern workplaces. Migrating Using SharePoint Migration Solution Although Microsoft does not support an upgrade path from SharePoint 2010 directly to SharePoint 2019, using manual, multi-stage upgrades that migrate through SharePoint 2013 and SharePoint 2016 is difficult to carry and expensive. Luckily, new migration tools like Kernel Migration for SharePoint are smarter and more efficient than these options. They allow organizations to do a direct migration from SharePoint 2010 to SharePoint 2019 without going through other versions in between. Kernel Migration for SharePoint lets organizations choose to do complete migrations or partial migrations of sites, lists, libraries, metadata, and user permissions. The self-service process is user-friendly and designed to be thought of as similar to copying and pasting content between folders. Add SharePoint Server 2010 as the Source To start the migration process, run the Kernel Migration for SharePoint tool. Once in the application, go to the Source pane and right-click on SharePoint (On-Premises/Online), then select the “Add New SharePoint Site” option. You should enter a name for your project so you can better organize your migration tasks during this process. Next, you will choose an authentication method. The tool has Basic and Modern authentication, with Modern authentication being the most secure. So, you will want to select Modern authentication and enter your credentials for your SharePoint 2010 environment. You can add one site at a time by default, but you can also select “Find/Add Multiple Sites” if you wish to add multiple source sites at the same time. A prompt will ask you if the same SharePoint site should be added as a destination and click “No” to proceed. The site that was added, will appear in the Source pane when it has been successfully added. Migrate SharePoint 2010 to 2019 Now do the same to add your SharePoint 2019 environment as the destination. You will again go to the Destination pane and follow similar steps that you did when adding the source. When choosing content attributes, the next page will also allow you to choose specific list and library options. Filters can also be used to include or exclude content based on date, size, or condition of content. At this time, if you want to maintain user permissions, make sure to check the “Migrate Permissions” option. You will then be given the option to schedule the migration for a future time or to execute the migration immediately. If you would like to start immediately, select “Execute Immediate”. Meanwhile, you may select a time later to satisfy your deployment schedule. The last page is a summary of your selections. Once confirmed, click “Next” to process the migration. After the migration is completed, a detailed summary report will be presented showing what content was migrated and what the new URLs now are. Click “Finish” to close the process. SharePoint Migration from 2010 to SharePoint Online Migrating from SharePoint On-premises 2010 to SharePoint Online is complicated because there is not a direct upgrade path. The migration is often carried in several steps and typically involves how to get the content from a version of SharePoint you can upgrade (such as SharePoint 2013 or 2016) before moving to SharePoint Online. The opportunity loss for moving data and the risk of data loss and or corruption is much higher in an untested environment. The first step of migration is to understand the current SharePoint 2010 environment. Determine what content to migrate, archive whatever content is not going to be migrated, and clarify if there are custom solutions or workflows that have to be updated or replaced. The SharePoint Migration Tool (SPMT) developed by Microsoft, or tools offered by third parties like ShareGate and Metalogix are designed for this type of migration. You need to test the migration process in a trial environment, take a full backup of all data, and communicate the process with users. Once you plan to migrate SharePoint On-Premises 2010 to 2019, users can leverage a modern SharePoint Online , with the benefits like collaborating with users with anyone across the globe, flexibility of where the content is located, enhanced security, and access to Microsoft 365. Tips for a Successful SharePoint Migration Successful SharePoint migration from 2010 to 2019 includes a lot of additional preparation, and ongoing management. First, make sure you understand your environment before migration and set your migration goals. Create a migration plan with timeframes, required resources, and contingency plans. Before migrating your live environment, complete the entire process using a test environment in order to identify any issues and mitigate concerns before migrating the live environment. Regularly backup your data before and during the migration process to avoid data loss. Communication with your users is also critical – ensure they are aware of the migration timing and provide enough training so they are familiar with the new system before going live. Make sure to monitor operations throughout the migration process to ensure it goes well. Be prepared to respond quickly should something go wrong. Using third-party SharePoint tools for monitoring and management of your environment can help keep your migration stable and operational throughout the process. Adopting these best practices will help limit interruption and speed up the process of migrating to SharePoint 2019. Conclusion Migrating from SharePoint 2010 to SharePoint 2019 is a massive undertaking that requires detailed planning, last will and testament performance, and thorough testing. If you follow along with the steps outlined in this guide and take advantage of the proper tool and resources, could smooth out your SharePoint migration process. Although you will experience some hiccups along the way, it will be worth it to ensure your organization has the support and security that will come in the latest version of SharePoint with a whole new host of features and capabilities. Be sure to work through each phase of the project; internally plan and schedule your migration well, maintain proper backups of your data, thoroughly test your migration process, communicate regularly and clearly with your team and stakeholders, and follow the progress through the migration. With proper planning and focus, migrating will not be an unattainable goal! Always a good idea is to engage a trustworthy SharePoint migration service provider for the migration! We hope that we have helped you on your process of getting from SharePoint 2010 to SharePoint 2019! If you have any questions, or would like to talk to an expert, our SharePoint Consultants are here to help with your migration as it progresses! ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2025/05/Step-by-Step-SharePoint-Migration-from-2010-to-2019-scaled.png",
+          "alt": "SharePoint Migration from 2010 to 2019"
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfwd954QloAz9b5SmfkNxzKwT3yYrBs6yimrnFhnagDh5O6ctsEStArabIIWiJhgqtexlaNCqCpIBYI2XNCyE2Qa9cXcgHNN7naWVyX-obcGllb8U2PTxd84RJIGtLfyfCAAPOUwA?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXduUzAUwBdZ3t25MdU2rkuHORmopPLl2ySHRXEkUnBS6KhPv75Liu_bRm-6qOiXVMtALBPu02PpxWZoqdViIjn0wfTNv-KcIhPPHbYFEUdL8Pgt85wSDYKG-lsh_8QSm1i5N9_ysg?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfdjphRJKr6rOYNAMtRmAkBKsg4-Btyxjn_cnMDHPtKet8LNeu1Sm5meSnLwmw6LDKRvC4TBgM26KOH9PwbzGlN1shMt_G6kZ9wqtG9u4-hRUAHzedDvIaD42loxbRZL5f7F-lPlA?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcodds8xIc-jGD_PMQDN2u0JaznrhgmbzGvvHulVyAX60Ng0o3QyMop2C6kNUBrgkZboVS845xeh36hieRW-YIHKDFQRHWPJTP8qB00A1-cZ-TtiHnIoTDgAzp2FjuaRq90FY4aYA?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdKBIUYx_9XZ0aCoC2HZU11wjNrm1W5DB7oBdZ88w5gY-FvAjH2cJhWyrl60HiX2vJ-sVrgnrwue9BcccomQRnhDDaEFJJlfGkEmCvScW94jhRQvex2GDqheNfqP37QANQygB9V?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdz3-mjS4N12csvmfhGadFyXBIELLx817jGvyMIRo-zDQu7ijvYSXkqoSaUcas0ElMcBIfOTx4kfxvZ091KAJIrwaUsvKwkLw6uTf-fOZuyf-JQ-VaAJnkKAX5Ke25YAN9prUlVqA?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeo_q1gPhfKOLopqtaO7TWyCGdc8C1sEzQAPI892d-6fiGQqqsuufxBx4_8lSqwx9bzsDvBY8oi80fQTVMsL9aOFJwgdssZ8RSGkum1W35_39Sz0hY1UeCTpGQejmy8rUmmVC7geg?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfjXmXVPDgku3_zXj-cbFG4_YZlqzTkkZHD3h_DWHnBGrOF9HVlt1GX74ixuDM9dzVUq600mKQWQ_hBFlQZQ4HlOAlmCbeGP7rfCdsb1upvBVLVQBgQ4tqiU54CMTAu6aFysJ5-?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdVC8zx6wb9w5qwPcSl520oAE6cK6p9rdM1NWsUPIO8Obj08G5_W7zNbbfdqrh0Hne15ZDTav1Djh7R56QlviHbhzzs_9Oo9GfviPeu8HMLMgIXiNtOcHQM1vY9rEGUnoUG9ZsDeA?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXhiu4XJ-uZc16zxhLmb1kDcGujR2yAx_I8MetcokVrTQBmlEoWkw3qq4TWfUIZ-2rsLygH9xatq9ofGPnZbDfs2TIbEdcYX2-b0FXE6g4PVZsfe1zIOT37K3KU-_vNVohjiniYg?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeR9-k7eHdNMD7OjNxy_JC2YNIE62wI7U8Y9HpkHzKwlS1KW0mlHCap-EMaazOgWiejC9pwlGHop6uurW1oj3EF-cOJKm3e9Te6VQTLQRaX7Qp-NWJ6J9wiUHF1p57QeZkiiSEE?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBL5TNyboImT4SUwlEM-FEmWaYYt2c8-ZQi2n65Y13wsAoIbXfFg7AShUdv0Gi3fQj0HAXT8ewRrkav46C0ERmvnZT6f6y4Ko1U1XNi6urC-x0ihY8atjCCNG9yuR3l50evYwCUQ?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXQxIJTpO-raw6taR31Ht8-G8ushFNctFJFB_98hPzkVj3IgFD7nov4aqktsdv8cjFjioWff3QKBAgg_Z2A_BNvdSut7jCrnJBizGztgoboJw68rg52POFbgStmOBN4JQwnx2K?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfXo_ARJbBgxEVzPS8k3bayRYSU4ctrm9Iu64gnsnSbXtvObXAhOLdKmPM2ueKMhddADHwn0F5rA0BduXuelvGXOq1qhrUmOsYmiDb_p-UXJGXJfpiyqnNtn4kphMsirMAU_OYKfA?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+          "alt": "Mortgage Automation in 2026"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+          "alt": "HMDA Reporting Setup in Encompass LOS"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+          "alt": "What is a Loan Origination System?"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Home",
+          "url": "https://awesometechinc.com/"
+        },
+        {
+          "label": "Migrating from SharePoint On-premises",
+          "url": "https://awesometechinc.com/sharepoint-migration-services/"
+        },
+        {
+          "label": "SharePoint Online",
+          "url": "https://awesometechinc.com/sharepoint-online-services/"
+        },
+        {
+          "label": "SharePoint migration service provider",
+          "url": "https://awesometechinc.com/sharepoint-migration-services/"
+        },
+        {
+          "label": "SharePoint Consultants are here",
+          "url": "https://awesometechinc.com/sharepoint-consulting-services/"
+        },
+        {
+          "label": "Search",
+          "url": ""
+        },
+        {
+          "label": "Subscribe",
+          "url": ""
+        },
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form",
+          "form_id": "",
+          "fields": [
+            {
+              "name": "s",
+              "label": "",
+              "type": "search",
+              "required": false
+            }
+          ],
+          "submit_label": "Search"
+        },
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "April 13, 2021 – End of Support Day",
+      "type": "service_section",
+      "content": "On April 13, 2021, Microsoft formally ended support for SharePoint Server 2010. This was a significant event in the software’s life cycle because for organizations that used this version, the end of support meant there would not be any updates, support, or security patches. End of support is a very important event for technology because it removes any technical support from the vendor and signals that the software is no longer compliant with modern standards or technological advancements. For organizations that had been operating on SharePoint Server 2010, continuing past this date only introduces risk. The risks exist in the entire platform from potential data breaches to system integration failures. While the technology would still work, it did so without the backing of any support from Microsoft. Thus, should an issue arise, it could result in extended downtime and pricey fixes!",
+      "images": [
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfwd954QloAz9b5SmfkNxzKwT3yYrBs6yimrnFhnagDh5O6ctsEStArabIIWiJhgqtexlaNCqCpIBYI2XNCyE2Qa9cXcgHNN7naWVyX-obcGllb8U2PTxd84RJIGtLfyfCAAPOUwA?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        }
+      ],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 3,
+      "title": "Consequences of End of Support",
+      "type": "service_section",
+      "content": "The conclusion of support for SharePoint 2010 generates a number of risks which can pose a threat to an organization’s productivity, security, and compliance. The most immediate and maybe most dangerous risk is the lack of security updates. Without these updates, vulnerabilities on the platform are not patched, making it easier for bad actors to exploit them! Additionally, organizations will likely see their compatibility challenges with modern browsers, apps, and hardware. The rest of the IT ecosystem will keep evolving while SharePoint 2010 will struggle to keep up. This will lead to broken integrations, lack of functionality, and bad user experiences. Also, there will not be any more support from Microsoft meaning that if there are any technical issues, the organization’s IT team will need to resolve them or pay expensive third-party vendors to solve them. A further complication and cost to operational procedures! From a compliance perspective, organizations using unsupported software may put their internal policies in danger or break external rules from regulators. This is particularly true for organizations in regulated industries like finance, healthcare, or government where data protection and systems integrity is of prime importance. Regulators usually require supported and up-to-date systems as part of their compliance systems!",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 4,
+      "title": "What You Will Not Receive After End of Support?",
+      "type": "form_section",
+      "content": "Once support has officially ended, Microsoft will no longer provide a variety of services and updates for SharePoint 2010. They will stop releasing security patches meant to keep sensitive information safe from the ongoing evolution of threats, which means that SharePoint 2010 deployment becomes high-risk within the IT infrastructure. Furthermore, Microsoft stops providing bug fixes and hotfixes for SharePoint 2010. Any bugs or problems that you may have experienced with the software remain unfixed unless you completed an internal fix. Microsoft also stops making changes and improvements to performance, meaning the newer legacy systems will continue to be inefficient relative to new solutions. Even technical support stops, so issues are not highlighted or even recognized, even critical or high-impact issues. You cannot contact Microsoft for troubleshooting, escalation support, or any architectural advice. Updates to time zones that affect the daylight savings time, which affects many calendar applications and scheduling capabilities, also stop. Lastly, updates to documentation and learning materials also end, which limits how a shared services team may learn or change best practice usage for a legacy system.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 5,
+      "title": "Why Migrate from SharePoint Server 2010 to SharePoint Server 2019?",
+      "type": "service_section",
+      "content": "The rationale for transitioning from SharePoint Server 2010 to SharePoint Server 2019 is a combination of need, opportunity and IT strategic alignment. SharePoint 2019 offers a number of modern features and capabilities that were simply not available 10 years ago. Transitioning to the new server version is not only about avoiding the potential dangers of no longer being supported as a platform, it is also about taking advantage of those potential improvements that can help to improve the overall business performance. One of the biggest areas of improvement from SharePoint 2010 to full software in 2019 is the overall user experience. Rather than the classic interface of SharePoint 2010, SharePoint 2019 offers a more acceptable modern interface that incorporates a cleaner and more intuitive user design, a responsive layout and mobile compatibility. Especially since user engagement is key and implementation of SharePoint is a collaborative effort, better interface design leads to better user engagement and consequently more adoption across teams. Another important advantage of SharePoint 2019 is that it is also supported in a hybrid situation. SharePoint 2019 can be deployed with ease if organizations are using Microsoft 365 services, meaning that organizations can deploy new SharePoint just to have a cloud or hybrid collaboration environment and, if the transition goes well, migrate further on cloud-based. Again, the ability to modernize your IT environment without completely “burning the bridges” or investment you have made in on-premises modernization is important for many organizations, especially now. Finally, as organizations adopt the modern workplace and corresponding standards of security and compliance, SharePoint 2019 is equipped with more and better protection. Enhanced protection is achieved by recognizing data protection needs. SharePoint 2019 is a big improvement over SharePoint 2010 in areas such as data loss prevention (DLP) and the audit logs can maintain a better history and session of usage requirements. In addition, SharePoint 2019 offers better integration with TLS-encryption (1.2). These protocols allow an organization to meet security and privacy standards identified in modern workplaces.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 6,
+      "title": "Migrating Using SharePoint Migration Solution",
+      "type": "service_section",
+      "content": "Although Microsoft does not support an upgrade path from SharePoint 2010 directly to SharePoint 2019, using manual, multi-stage upgrades that migrate through SharePoint 2013 and SharePoint 2016 is difficult to carry and expensive. Luckily, new migration tools like Kernel Migration for SharePoint are smarter and more efficient than these options. They allow organizations to do a direct migration from SharePoint 2010 to SharePoint 2019 without going through other versions in between. Kernel Migration for SharePoint lets organizations choose to do complete migrations or partial migrations of sites, lists, libraries, metadata, and user permissions. The self-service process is user-friendly and designed to be thought of as similar to copying and pasting content between folders.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 7,
+      "title": "Add SharePoint Server 2010 as the Source",
+      "type": "content_section",
+      "content": "To start the migration process, run the Kernel Migration for SharePoint tool. Once in the application, go to the Source pane and right-click on SharePoint (On-Premises/Online), then select the “Add New SharePoint Site” option. You should enter a name for your project so you can better organize your migration tasks during this process. Next, you will choose an authentication method. The tool has Basic and Modern authentication, with Modern authentication being the most secure. So, you will want to select Modern authentication and enter your credentials for your SharePoint 2010 environment. You can add one site at a time by default, but you can also select “Find/Add Multiple Sites” if you wish to add multiple source sites at the same time. A prompt will ask you if the same SharePoint site should be added as a destination and click “No” to proceed. The site that was added, will appear in the Source pane when it has been successfully added.",
+      "images": [
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXduUzAUwBdZ3t25MdU2rkuHORmopPLl2ySHRXEkUnBS6KhPv75Liu_bRm-6qOiXVMtALBPu02PpxWZoqdViIjn0wfTNv-KcIhPPHbYFEUdL8Pgt85wSDYKG-lsh_8QSm1i5N9_ysg?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfdjphRJKr6rOYNAMtRmAkBKsg4-Btyxjn_cnMDHPtKet8LNeu1Sm5meSnLwmw6LDKRvC4TBgM26KOH9PwbzGlN1shMt_G6kZ9wqtG9u4-hRUAHzedDvIaD42loxbRZL5f7F-lPlA?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcodds8xIc-jGD_PMQDN2u0JaznrhgmbzGvvHulVyAX60Ng0o3QyMop2C6kNUBrgkZboVS845xeh36hieRW-YIHKDFQRHWPJTP8qB00A1-cZ-TtiHnIoTDgAzp2FjuaRq90FY4aYA?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        }
+      ],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 8,
+      "title": "Migrate SharePoint 2010 to 2019",
+      "type": "content_section",
+      "content": "Now do the same to add your SharePoint 2019 environment as the destination. You will again go to the Destination pane and follow similar steps that you did when adding the source. When choosing content attributes, the next page will also allow you to choose specific list and library options. Filters can also be used to include or exclude content based on date, size, or condition of content. At this time, if you want to maintain user permissions, make sure to check the “Migrate Permissions” option. You will then be given the option to schedule the migration for a future time or to execute the migration immediately. If you would like to start immediately, select “Execute Immediate”. Meanwhile, you may select a time later to satisfy your deployment schedule. The last page is a summary of your selections. Once confirmed, click “Next” to process the migration. After the migration is completed, a detailed summary report will be presented showing what content was migrated and what the new URLs now are. Click “Finish” to close the process.",
+      "images": [
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdKBIUYx_9XZ0aCoC2HZU11wjNrm1W5DB7oBdZ88w5gY-FvAjH2cJhWyrl60HiX2vJ-sVrgnrwue9BcccomQRnhDDaEFJJlfGkEmCvScW94jhRQvex2GDqheNfqP37QANQygB9V?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdz3-mjS4N12csvmfhGadFyXBIELLx817jGvyMIRo-zDQu7ijvYSXkqoSaUcas0ElMcBIfOTx4kfxvZ091KAJIrwaUsvKwkLw6uTf-fOZuyf-JQ-VaAJnkKAX5Ke25YAN9prUlVqA?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeo_q1gPhfKOLopqtaO7TWyCGdc8C1sEzQAPI892d-6fiGQqqsuufxBx4_8lSqwx9bzsDvBY8oi80fQTVMsL9aOFJwgdssZ8RSGkum1W35_39Sz0hY1UeCTpGQejmy8rUmmVC7geg?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfjXmXVPDgku3_zXj-cbFG4_YZlqzTkkZHD3h_DWHnBGrOF9HVlt1GX74ixuDM9dzVUq600mKQWQ_hBFlQZQ4HlOAlmCbeGP7rfCdsb1upvBVLVQBgQ4tqiU54CMTAu6aFysJ5-?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdVC8zx6wb9w5qwPcSl520oAE6cK6p9rdM1NWsUPIO8Obj08G5_W7zNbbfdqrh0Hne15ZDTav1Djh7R56QlviHbhzzs_9Oo9GfviPeu8HMLMgIXiNtOcHQM1vY9rEGUnoUG9ZsDeA?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXhiu4XJ-uZc16zxhLmb1kDcGujR2yAx_I8MetcokVrTQBmlEoWkw3qq4TWfUIZ-2rsLygH9xatq9ofGPnZbDfs2TIbEdcYX2-b0FXE6g4PVZsfe1zIOT37K3KU-_vNVohjiniYg?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeR9-k7eHdNMD7OjNxy_JC2YNIE62wI7U8Y9HpkHzKwlS1KW0mlHCap-EMaazOgWiejC9pwlGHop6uurW1oj3EF-cOJKm3e9Te6VQTLQRaX7Qp-NWJ6J9wiUHF1p57QeZkiiSEE?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBL5TNyboImT4SUwlEM-FEmWaYYt2c8-ZQi2n65Y13wsAoIbXfFg7AShUdv0Gi3fQj0HAXT8ewRrkav46C0ERmvnZT6f6y4Ko1U1XNi6urC-x0ihY8atjCCNG9yuR3l50evYwCUQ?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXQxIJTpO-raw6taR31Ht8-G8ushFNctFJFB_98hPzkVj3IgFD7nov4aqktsdv8cjFjioWff3QKBAgg_Z2A_BNvdSut7jCrnJBizGztgoboJw68rg52POFbgStmOBN4JQwnx2K?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfXo_ARJbBgxEVzPS8k3bayRYSU4ctrm9Iu64gnsnSbXtvObXAhOLdKmPM2ueKMhddADHwn0F5rA0BduXuelvGXOq1qhrUmOsYmiDb_p-UXJGXJfpiyqnNtn4kphMsirMAU_OYKfA?key=-3jsxvqmYyn6K96v1GLTeA",
+          "alt": ""
+        }
+      ],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 9,
+      "title": "SharePoint Migration from 2010 to SharePoint Online",
+      "type": "service_section",
+      "content": "Migrating from SharePoint On-premises 2010 to SharePoint Online is complicated because there is not a direct upgrade path. The migration is often carried in several steps and typically involves how to get the content from a version of SharePoint you can upgrade (such as SharePoint 2013 or 2016) before moving to SharePoint Online. The opportunity loss for moving data and the risk of data loss and or corruption is much higher in an untested environment. The first step of migration is to understand the current SharePoint 2010 environment. Determine what content to migrate, archive whatever content is not going to be migrated, and clarify if there are custom solutions or workflows that have to be updated or replaced. The SharePoint Migration Tool (SPMT) developed by Microsoft, or tools offered by third parties like ShareGate and Metalogix are designed for this type of migration. You need to test the migration process in a trial environment, take a full backup of all data, and communicate the process with users. Once you plan to migrate SharePoint On-Premises 2010 to 2019, users can leverage a modern SharePoint Online , with the benefits like collaborating with users with anyone across the globe, flexibility of where the content is located, enhanced security, and access to Microsoft 365.",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Migrating from SharePoint On-premises",
+          "url": "https://awesometechinc.com/sharepoint-migration-services/"
+        },
+        {
+          "label": "SharePoint Online",
+          "url": "https://awesometechinc.com/sharepoint-online-services/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 10,
+      "title": "Tips for a Successful SharePoint Migration",
+      "type": "content_section",
+      "content": "Successful SharePoint migration from 2010 to 2019 includes a lot of additional preparation, and ongoing management. First, make sure you understand your environment before migration and set your migration goals. Create a migration plan with timeframes, required resources, and contingency plans. Before migrating your live environment, complete the entire process using a test environment in order to identify any issues and mitigate concerns before migrating the live environment. Regularly backup your data before and during the migration process to avoid data loss. Communication with your users is also critical – ensure they are aware of the migration timing and provide enough training so they are familiar with the new system before going live. Make sure to monitor operations throughout the migration process to ensure it goes well. Be prepared to respond quickly should something go wrong. Using third-party SharePoint tools for monitoring and management of your environment can help keep your migration stable and operational throughout the process. Adopting these best practices will help limit interruption and speed up the process of migrating to SharePoint 2019.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 11,
+      "title": "Conclusion",
+      "type": "faq_section",
+      "content": "Migrating from SharePoint 2010 to SharePoint 2019 is a massive undertaking that requires detailed planning, last will and testament performance, and thorough testing. If you follow along with the steps outlined in this guide and take advantage of the proper tool and resources, could smooth out your SharePoint migration process. Although you will experience some hiccups along the way, it will be worth it to ensure your organization has the support and security that will come in the latest version of SharePoint with a whole new host of features and capabilities. Be sure to work through each phase of the project; internally plan and schedule your migration well, maintain proper backups of your data, thoroughly test your migration process, communicate regularly and clearly with your team and stakeholders, and follow the progress through the migration. With proper planning and focus, migrating will not be an unattainable goal! Always a good idea is to engage a trustworthy SharePoint migration service provider for the migration! We hope that we have helped you on your process of getting from SharePoint 2010 to SharePoint 2019! If you have any questions, or would like to talk to an expert, our SharePoint Consultants are here to help with your migration as it progresses!",
+      "images": [],
+      "buttons": [
+        {
+          "label": "SharePoint migration service provider",
+          "url": "https://awesometechinc.com/sharepoint-migration-services/"
+        },
+        {
+          "label": "SharePoint Consultants are here",
+          "url": "https://awesometechinc.com/sharepoint-consulting-services/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 12,
+      "title": "Subscribe to ATI",
+      "type": "form_section",
+      "content": "First name Last Name Your email",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Subscribe",
+          "url": ""
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "title": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "type": "service_section",
+      "content": "Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 14,
+      "title": "HMDA Reporting Setup in Encompass LOS",
+      "type": "content_section",
+      "content": "March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 15,
+      "title": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "type": "content_section",
+      "content": "In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": []
+    }
+  ],
+  "images": [
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2025/05/Step-by-Step-SharePoint-Migration-from-2010-to-2019-scaled.png",
+      "alt": "SharePoint Migration from 2010 to 2019"
+    },
+    {
+      "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfwd954QloAz9b5SmfkNxzKwT3yYrBs6yimrnFhnagDh5O6ctsEStArabIIWiJhgqtexlaNCqCpIBYI2XNCyE2Qa9cXcgHNN7naWVyX-obcGllb8U2PTxd84RJIGtLfyfCAAPOUwA?key=-3jsxvqmYyn6K96v1GLTeA",
+      "alt": ""
+    },
+    {
+      "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXduUzAUwBdZ3t25MdU2rkuHORmopPLl2ySHRXEkUnBS6KhPv75Liu_bRm-6qOiXVMtALBPu02PpxWZoqdViIjn0wfTNv-KcIhPPHbYFEUdL8Pgt85wSDYKG-lsh_8QSm1i5N9_ysg?key=-3jsxvqmYyn6K96v1GLTeA",
+      "alt": ""
+    },
+    {
+      "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfdjphRJKr6rOYNAMtRmAkBKsg4-Btyxjn_cnMDHPtKet8LNeu1Sm5meSnLwmw6LDKRvC4TBgM26KOH9PwbzGlN1shMt_G6kZ9wqtG9u4-hRUAHzedDvIaD42loxbRZL5f7F-lPlA?key=-3jsxvqmYyn6K96v1GLTeA",
+      "alt": ""
+    },
+    {
+      "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcodds8xIc-jGD_PMQDN2u0JaznrhgmbzGvvHulVyAX60Ng0o3QyMop2C6kNUBrgkZboVS845xeh36hieRW-YIHKDFQRHWPJTP8qB00A1-cZ-TtiHnIoTDgAzp2FjuaRq90FY4aYA?key=-3jsxvqmYyn6K96v1GLTeA",
+      "alt": ""
+    },
+    {
+      "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdKBIUYx_9XZ0aCoC2HZU11wjNrm1W5DB7oBdZ88w5gY-FvAjH2cJhWyrl60HiX2vJ-sVrgnrwue9BcccomQRnhDDaEFJJlfGkEmCvScW94jhRQvex2GDqheNfqP37QANQygB9V?key=-3jsxvqmYyn6K96v1GLTeA",
+      "alt": ""
+    },
+    {
+      "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdz3-mjS4N12csvmfhGadFyXBIELLx817jGvyMIRo-zDQu7ijvYSXkqoSaUcas0ElMcBIfOTx4kfxvZ091KAJIrwaUsvKwkLw6uTf-fOZuyf-JQ-VaAJnkKAX5Ke25YAN9prUlVqA?key=-3jsxvqmYyn6K96v1GLTeA",
+      "alt": ""
+    },
+    {
+      "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeo_q1gPhfKOLopqtaO7TWyCGdc8C1sEzQAPI892d-6fiGQqqsuufxBx4_8lSqwx9bzsDvBY8oi80fQTVMsL9aOFJwgdssZ8RSGkum1W35_39Sz0hY1UeCTpGQejmy8rUmmVC7geg?key=-3jsxvqmYyn6K96v1GLTeA",
+      "alt": ""
+    },
+    {
+      "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfjXmXVPDgku3_zXj-cbFG4_YZlqzTkkZHD3h_DWHnBGrOF9HVlt1GX74ixuDM9dzVUq600mKQWQ_hBFlQZQ4HlOAlmCbeGP7rfCdsb1upvBVLVQBgQ4tqiU54CMTAu6aFysJ5-?key=-3jsxvqmYyn6K96v1GLTeA",
+      "alt": ""
+    },
+    {
+      "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdVC8zx6wb9w5qwPcSl520oAE6cK6p9rdM1NWsUPIO8Obj08G5_W7zNbbfdqrh0Hne15ZDTav1Djh7R56QlviHbhzzs_9Oo9GfviPeu8HMLMgIXiNtOcHQM1vY9rEGUnoUG9ZsDeA?key=-3jsxvqmYyn6K96v1GLTeA",
+      "alt": ""
+    },
+    {
+      "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXhiu4XJ-uZc16zxhLmb1kDcGujR2yAx_I8MetcokVrTQBmlEoWkw3qq4TWfUIZ-2rsLygH9xatq9ofGPnZbDfs2TIbEdcYX2-b0FXE6g4PVZsfe1zIOT37K3KU-_vNVohjiniYg?key=-3jsxvqmYyn6K96v1GLTeA",
+      "alt": ""
+    },
+    {
+      "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeR9-k7eHdNMD7OjNxy_JC2YNIE62wI7U8Y9HpkHzKwlS1KW0mlHCap-EMaazOgWiejC9pwlGHop6uurW1oj3EF-cOJKm3e9Te6VQTLQRaX7Qp-NWJ6J9wiUHF1p57QeZkiiSEE?key=-3jsxvqmYyn6K96v1GLTeA",
+      "alt": ""
+    },
+    {
+      "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBL5TNyboImT4SUwlEM-FEmWaYYt2c8-ZQi2n65Y13wsAoIbXfFg7AShUdv0Gi3fQj0HAXT8ewRrkav46C0ERmvnZT6f6y4Ko1U1XNi6urC-x0ihY8atjCCNG9yuR3l50evYwCUQ?key=-3jsxvqmYyn6K96v1GLTeA",
+      "alt": ""
+    },
+    {
+      "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXQxIJTpO-raw6taR31Ht8-G8ushFNctFJFB_98hPzkVj3IgFD7nov4aqktsdv8cjFjioWff3QKBAgg_Z2A_BNvdSut7jCrnJBizGztgoboJw68rg52POFbgStmOBN4JQwnx2K?key=-3jsxvqmYyn6K96v1GLTeA",
+      "alt": ""
+    },
+    {
+      "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfXo_ARJbBgxEVzPS8k3bayRYSU4ctrm9Iu64gnsnSbXtvObXAhOLdKmPM2ueKMhddADHwn0F5rA0BduXuelvGXOq1qhrUmOsYmiDb_p-UXJGXJfpiyqnNtn4kphMsirMAU_OYKfA?key=-3jsxvqmYyn6K96v1GLTeA",
+      "alt": ""
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+      "alt": "Mortgage Automation in 2026"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+      "alt": "HMDA Reporting Setup in Encompass LOS"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+      "alt": "What is a Loan Origination System?"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "Migrating from SharePoint On-premises",
+      "url": "https://awesometechinc.com/sharepoint-migration-services/"
+    },
+    {
+      "label": "SharePoint Online",
+      "url": "https://awesometechinc.com/sharepoint-online-services/"
+    },
+    {
+      "label": "SharePoint migration service provider",
+      "url": "https://awesometechinc.com/sharepoint-migration-services/"
+    },
+    {
+      "label": "SharePoint Consultants are here",
+      "url": "https://awesometechinc.com/sharepoint-consulting-services/"
+    },
+    {
+      "label": "Search",
+      "url": ""
+    },
+    {
+      "label": "Subscribe",
+      "url": ""
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ],
+  "forms": [
+    {
+      "form_type": "contact_form",
+      "form_id": "",
+      "fields": [
+        {
+          "name": "s",
+          "label": "",
+          "type": "search",
+          "required": false
+        }
+      ],
+      "submit_label": "Search"
+    },
+    {
+      "form_type": "contact_form_7",
+      "form_id": "12171",
+      "fields": [
+        {
+          "name": "your-name",
+          "label": "your-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "last-name",
+          "label": "last-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "your-email",
+          "label": "your-email",
+          "type": "email",
+          "required": true
+        }
+      ],
+      "submit_label": "Subscribe"
+    }
+  ],
+  "links": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "Migrating from SharePoint On-premises",
+      "url": "https://awesometechinc.com/sharepoint-migration-services/"
+    },
+    {
+      "label": "SharePoint Online",
+      "url": "https://awesometechinc.com/sharepoint-online-services/"
+    },
+    {
+      "label": "SharePoint migration service provider",
+      "url": "https://awesometechinc.com/sharepoint-migration-services/"
+    },
+    {
+      "label": "SharePoint Consultants are here",
+      "url": "https://awesometechinc.com/sharepoint-consulting-services/"
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ]
+}

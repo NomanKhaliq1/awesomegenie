@@ -1,0 +1,210 @@
+{
+  "id": null,
+  "source_type": "page",
+  "slug": "get-a-quote",
+  "title": "Get a Quote and Discover Affordable Solutions Tailored to Your Specific Needs",
+  "url": "https://awesometechinc.com/get-a-quote/",
+  "meta_title": "Get a Quote: Unlocking Solutions Tailored to Your Needs",
+  "meta_description": "Ready to explore customized solutions? Request a quote from Awesome Technologies Inc today. Our team is eager to understand your requirements and provide you with tailored offerings that address your unique needs.",
+  "modified_at": "2025-01-29T21:11:14+00:00",
+  "status": "public",
+  "summary": "Ready to explore customized solutions? Request a quote from Awesome Technologies Inc today.",
+  "keywords": [
+    "and",
+    "solutions",
+    "get",
+    "quote",
+    "tailored",
+    "needs",
+    "explore",
+    "inc",
+    "technologies",
+    "affordable",
+    "customized",
+    "discover",
+    "email",
+    "intro",
+    "may",
+    "message"
+  ],
+  "full_text": "Intro Get a Quote and Discover Affordable Solutions Tailored to Your Specific Needs Explore a wide range of options and receive custom-tailored quotes designed to match your unique requirements, helping you find cost-effective solutions with ease. Name* Email* Cell Company Name Plugin Interested In* Quantity Currently have our Projects or Services? Yes No Project Details I consent to be contacted via phone, SMS text messages, and email regarding my inquiry and to receive promotional offers from Awesome Technologies Inc. Message & data rates may apply. Message frequency may varies. Reply STOP to unsubscribe. Page URL Get the conversation rolling GET A FREE CONSULTATION QUICK INTRO CALL",
+  "word_count": 106,
+  "headings_count": 2,
+  "images_count": 0,
+  "buttons_count": 3,
+  "forms_count": 1,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "Get a Quote and Discover Affordable Solutions Tailored to Your Specific Needs Explore a wide range of options and receive custom-tailored quotes designed to match your unique requirements, helping you find cost-effective solutions with ease. Name* Email* Cell Company Name Plugin Interested In* Quantity Currently have our Projects or Services? Yes No Project Details I consent to be contacted via phone, SMS text messages, and email regarding my inquiry and to receive promotional offers from Awesome Technologies Inc. Message & data rates may apply. Message frequency may varies. Reply STOP to unsubscribe. Page URL Get the conversation rolling GET A FREE CONSULTATION QUICK INTRO CALL",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Request a Quote",
+          "url": ""
+        },
+        {
+          "label": "GET A FREE CONSULTATION",
+          "url": "https://awesometechinc.com/contact-us"
+        },
+        {
+          "label": "QUICK INTRO CALL",
+          "url": "tel:877-284-4968"
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "2708",
+          "fields": [
+            {
+              "name": "Name",
+              "label": "Name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "email",
+              "label": "email",
+              "type": "email",
+              "required": true
+            },
+            {
+              "name": "phone",
+              "label": "phone",
+              "type": "tel",
+              "required": false
+            },
+            {
+              "name": "companyname",
+              "label": "companyname",
+              "type": "text",
+              "required": false
+            },
+            {
+              "name": "PluginInterestedin",
+              "label": "PluginInterestedin",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "Quantity",
+              "label": "Quantity",
+              "type": "text",
+              "required": false
+            },
+            {
+              "name": "subject",
+              "label": "subject",
+              "type": "select",
+              "required": false
+            },
+            {
+              "name": "comments",
+              "label": "comments",
+              "type": "textarea",
+              "required": false
+            },
+            {
+              "name": "consent",
+              "label": "I consent to be contacted via phone, SMS text messages, and email regarding my inquiry and to receive promotional offers from Awesome Technologies Inc. Message & data rates may apply. Message frequency may varies. Reply STOP to unsubscribe.",
+              "type": "checkbox",
+              "required": false
+            }
+          ],
+          "submit_label": "Request a Quote"
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "buttons": [
+    {
+      "label": "Request a Quote",
+      "url": ""
+    },
+    {
+      "label": "GET A FREE CONSULTATION",
+      "url": "https://awesometechinc.com/contact-us"
+    },
+    {
+      "label": "QUICK INTRO CALL",
+      "url": "tel:877-284-4968"
+    }
+  ],
+  "forms": [
+    {
+      "form_type": "contact_form_7",
+      "form_id": "2708",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "email",
+          "label": "email",
+          "type": "email",
+          "required": true
+        },
+        {
+          "name": "phone",
+          "label": "phone",
+          "type": "tel",
+          "required": false
+        },
+        {
+          "name": "companyname",
+          "label": "companyname",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "PluginInterestedin",
+          "label": "PluginInterestedin",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "Quantity",
+          "label": "Quantity",
+          "type": "text",
+          "required": false
+        },
+        {
+          "name": "subject",
+          "label": "subject",
+          "type": "select",
+          "required": false
+        },
+        {
+          "name": "comments",
+          "label": "comments",
+          "type": "textarea",
+          "required": false
+        },
+        {
+          "name": "consent",
+          "label": "I consent to be contacted via phone, SMS text messages, and email regarding my inquiry and to receive promotional offers from Awesome Technologies Inc. Message & data rates may apply. Message frequency may varies. Reply STOP to unsubscribe.",
+          "type": "checkbox",
+          "required": false
+        }
+      ],
+      "submit_label": "Request a Quote"
+    }
+  ],
+  "links": [
+    {
+      "label": "GET A FREE CONSULTATION",
+      "url": "https://awesometechinc.com/contact-us"
+    },
+    {
+      "label": "QUICK INTRO CALL",
+      "url": "tel:877-284-4968"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "id": null,
+  "source_type": "page",
+  "slug": "conference-registration-status",
+  "title": "AI FOR MORTGAGE LEADERS",
+  "url": "https://awesometechinc.com/conference-registration-status",
+  "meta_title": "Get in Touch with Us | Awesome Technologies Inc",
+  "meta_description": "Have questions about mortgage automation? Reach out to us through our Contact Us page. We're here to provide information and insights about streamlining lending processes through automation.",
+  "modified_at": "2026-02-04T16:54:42+00:00",
+  "status": "public",
+  "summary": "Have questions about mortgage automation? Reach out to us through our Contact Us page.",
+  "keywords": [
+    "mortgage leaders have questions about m",
+    "mortgage automation",
+    "mortgage leaders join us at toyota stad",
+    "mortgage use cases",
+    "contact us page",
+    "for",
+    "and",
+    "mortgage",
+    "how",
+    "leaders",
+    "the",
+    "automation",
+    "out",
+    "complimentary",
+    "contact",
+    "executive"
+  ],
+  "full_text": "Intro AI FOR MORTGAGE LEADERS Join us at Toyota Stadium for a strategic deep-dive into AI Decisions, Risk, and Economics. The Executive Experience 19 February 2026 9 AM TO 1 PM | Followed By Lunch National Soccer Hall of Fame at Toyota Stadium Full Name* Executive Title* Company Name* Email Address* Phone Number* How Were You Referred? * Lenders One Member (Complimentary) Awesome Technologies, Inc. (Complimentary) No Referral ($495 Fee) Message / Specific AI Interests Page URL What Leaders Will Gain? AI Without the Jargon : Understand what Generative AI actually means for your bottom line, explained in simple terms. Scale with Confidence : Learn how to roll out AI across your company while keeping your data secure and compliant. Proven Mortgage Use Cases : See how AI is already being used to speed up processing, underwriting, and lead gen. Your AI Action Plan : Identify “quick wins” to lower your cost-per-loan now and strategic goals for the future. Close the Communication Gap : Learn how to lead your technology team effectively to ensure your AI vision becomes a reality. Training Fee : $495 Free for LendersOne Members Who Should Attend : CEO, COO, CSO, CRO, Directors, Innovation & Transformation Leaders",
+  "word_count": 201,
+  "headings_count": 5,
+  "images_count": 2,
+  "buttons_count": 1,
+  "forms_count": 1,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "AI FOR MORTGAGE LEADERS Join us at Toyota Stadium for a strategic deep-dive into AI Decisions, Risk, and Economics. The Executive Experience 19 February 2026 9 AM TO 1 PM | Followed By Lunch National Soccer Hall of Fame at Toyota Stadium Full Name* Executive Title* Company Name* Email Address* Phone Number* How Were You Referred? * Lenders One Member (Complimentary) Awesome Technologies, Inc. (Complimentary) No Referral ($495 Fee) Message / Specific AI Interests Page URL What Leaders Will Gain? AI Without the Jargon : Understand what Generative AI actually means for your bottom line, explained in simple terms. Scale with Confidence : Learn how to roll out AI across your company while keeping your data secure and compliant. Proven Mortgage Use Cases : See how AI is already being used to speed up processing, underwriting, and lead gen. Your AI Action Plan : Identify “quick wins” to lower your cost-per-loan now and strategic goals for the future. Close the Communication Gap : Learn how to lead your technology team effectively to ensure your AI vision becomes a reality. Training Fee : $495 Free for LendersOne Members Who Should Attend : CEO, COO, CSO, CRO, Directors, Innovation & Transformation Leaders",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/01/download-1.png",
+          "alt": "Lenderone"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2023/07/Awesome-Tech-inc-logo.webp",
+          "alt": "Awesome Tech inc logo"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Register for Training",
+          "url": ""
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "20823",
+          "fields": [
+            {
+              "name": "FullName",
+              "label": "e.g., John Doe",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "ExecutiveTitle",
+              "label": "e.g., Chief Operations Officer",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "CompanyName",
+              "label": "Your Organization",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "email",
+              "label": "work@company.com",
+              "type": "email",
+              "required": true
+            },
+            {
+              "name": "phone",
+              "label": "(555) 000-0000",
+              "type": "tel",
+              "required": true
+            },
+            {
+              "name": "LendersOneMember",
+              "label": "LendersOneMember",
+              "type": "select",
+              "required": true
+            },
+            {
+              "name": "comments",
+              "label": "Tell us about the specific AI challenges or use cases you are most interested in exploring.",
+              "type": "textarea",
+              "required": false
+            }
+          ],
+          "submit_label": "Register for Training"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/01/download-1.png",
+      "alt": "Lenderone"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2023/07/Awesome-Tech-inc-logo.webp",
+      "alt": "Awesome Tech inc logo"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Register for Training",
+      "url": ""
+    }
+  ],
+  "forms": [
+    {
+      "form_type": "contact_form_7",
+      "form_id": "20823",
+      "fields": [
+        {
+          "name": "FullName",
+          "label": "e.g., John Doe",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "ExecutiveTitle",
+          "label": "e.g., Chief Operations Officer",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "CompanyName",
+          "label": "Your Organization",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "email",
+          "label": "work@company.com",
+          "type": "email",
+          "required": true
+        },
+        {
+          "name": "phone",
+          "label": "(555) 000-0000",
+          "type": "tel",
+          "required": true
+        },
+        {
+          "name": "LendersOneMember",
+          "label": "LendersOneMember",
+          "type": "select",
+          "required": true
+        },
+        {
+          "name": "comments",
+          "label": "Tell us about the specific AI challenges or use cases you are most interested in exploring.",
+          "type": "textarea",
+          "required": false
+        }
+      ],
+      "submit_label": "Register for Training"
+    }
+  ],
+  "links": []
+}

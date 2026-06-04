@@ -1,0 +1,573 @@
+{
+  "id": null,
+  "source_type": "post",
+  "slug": "upgrade-sharepoint-2016-to-2019",
+  "title": "Step-by-Step Guide to Upgrade SharePoint 2016 to SharePoint 2019",
+  "url": "https://awesometechinc.com/upgrade-sharepoint-2016-to-2019/",
+  "meta_title": "Step-by-Step Guide to Upgrade SharePoint 2016 to 2019",
+  "meta_description": "Step-by-step guide to upgrade SharePoint 2016 to 2019. Ensure a smooth transition with improved features, performance, and data integrity.",
+  "modified_at": "2026-05-19T19:36:41+00:00",
+  "status": "public",
+  "summary": "Step-by-step guide to upgrade SharePoint 2016 to 2019. Ensure a smooth transition with improved features, performance, and data integrity.",
+  "keywords": [
+    "mortgage automation in",
+    "mortgage application on a tuesday morni",
+    "encompass los march",
+    "contact us today for sharepoint",
+    "the",
+    "and",
+    "sharepoint",
+    "upgrade",
+    "you",
+    "step",
+    "for",
+    "will",
+    "environment",
+    "content",
+    "new",
+    "databases"
+  ],
+  "full_text": "Intro Step-by-Step Guide to Upgrade SharePoint 2016 to SharePoint 2019 Home » Step-by-Step Guide to Upgrade SharePoint 2016 to SharePoint 2019 Upgrading your SharePoint environment is a key milestone for most organizations because it is not just a technical requirement – it is an opportunity to unlock new features, elevate performance, and future-proof your digital workspace. Microsoft has closed the gap between on-premises collaboration and cloud innovation with SharePoint 2019. Indeed, it will be a wise decision to upgrade SharePoint 2016 to 2019 before it is too late! Surely, SharePoint 2019 offers a modern user experience, improves hybrid integration, and focuses on big-ticket items like support for modern team sites (teams and SharePoint modern experiences) and communication sites. If you are using SharePoint 2016 now, moving to SharePoint 2019 is a win-win, and can fundamentally change how your organization collaborates and manages content. But SharePoint upgrade is not automatic and not simple – there is planning, steps to take to realize an upgrade to SharePoint, and most importantly a solid understanding of the upgrade methods. SharePoint does not support upgraded, in-place upgrades, between major versions, so you will be using the database-attach method to move your content and configurations. The sharepoint 2016 to 2019 migration is a vital move as more organizations are continuing to evolve their digital infrastructure for competitive, safe, and effective environments. In this blog, we’ll walk you through a detailed, step-by-step guide to upgrade from SharePoint 2016 to SharePoint 2019. Whether you’re a SharePoint admin, IT manager, or consultant, this guide will help you navigate the process with confidence and clarity. Prerequisites to Upgrade SharePoint 2016 to SharePoint 2019 1. Hardware Requirements Check that your new servers have the basic hardware requirements for SharePoint 2019: Processor – 64-bit, 4 cores (minimum) RAM – no less than 16 GB (for development/test) or 24+ GB (production) Disk Space – 80 GB for system drive, plus additional space depending on content 2. Software Requirements You have to install and configure the supported OS and SQL versions: Operating System – Windows Server 2016 or 2019 SQL Server – SQL Server 2016 SP1 or later .NET Framework – 4.7.2 or higher Windows Features – You must install prerequisites such as IIS features, .NET roles, Application Server role 3. SharePoint 2019 Installation Install SharePoint 2019 on the new environment; however, do not create web applications or site collections. In the upgrade sharepoint 2016 to 2019 , attach the existing databases only. 4. Service Packs and Cumulative Updates Make certain that your SharePoint 2016 farm is completely patched as per the latest cumulative update; this will avoid (or at least decrease) any issues related to compatibility and update during your upgrade. 5. Custom Solutions Inventory Stock up any custom WSP, features, and any third-party integrations; then test and validate them against SharePoint 2019 capabilities, or plan on upgrading/replacing them during the SharePoint upgrade. 6. Backup Strategy Follow these steps to backup not only your content, but also the service application databases. Also, backup your SharePoint 2016 farm configuration so it can be referenced. 7. User Communication and Downtime Planning Make sure all users are aware of these changes related to SharePoint 2016 to 2019 migration . Schedule your upgrade during a planned maintenance window so it ensures that it is a known period of downtime – and even rollback planned periods of downtime. 8. Testing Environment It’s also a best practice to implement a testing environment that closely mirrors your production environment so you can test the upgrade. Make sure to validate your content database attachments, your customizations, and your performance in the testing environment before trying anything in the production environment. The above prerequisites will help facilitate a proper, smooth sharepoint 2016 to 2019 migration step by step . Skipping the steps or even rushing through the steps, puts you at risk of data loss, downtime, or broken functionality. Step by Step Process of Upgrading From 2016 to 2019 Step 1: Pre-Upgrade Assessment and Planning Before you commence the process of sharepoint upgrade , you should assess your current environment. Create an inventory of your content databases, custom solutions, workflows, and any third-party tools that you are using to avoid any surprises later. It is also important that you assess the system requirements for SharePoint 2019 on the current physical servers. Good planning of sharepoint 2016 to 2019 migration step by step includes key team members in the decision process, setting realistic timelines and deciding how success of the upgrade will be measured. Step 2: Preparing Your Environment for Upgrade First, you must make sure your SharePoint 2016 databases are functional (i.e., inspect your farms directly and do some house cleaning regarding unused content) and the SharePoint 2016 system is updated against the latest package releases. Second, with respect to SharePoint 2019, you must deploy the new farm which adheres to Microsoft’s guidance for a new farm and the proper setup and configuration of the roles and services. Step 3: Database Upgrade Process Migrate SharePoint 2016 to 2019 using a “database attach” process. You will detach the content databases from SharePoint 2016, make backups of the databases, you will restore the content databases on the SQL Server that is connected to the SharePoint 2019 installation. You will quickly attach the attachment of the content databases using PowerShell to the SharePoint 2019 farm. Make sure that all the content databases were attached correctly and working well, and that any customizations in the SharePoint sites were still working well once the databases were attached to the SharePoint farm. Step 4: Validating and Testing Post-Attach Upgrade Once you attach your content databases to SharePoint 2019, it is now time to validate and thoroughly test the SharePoint 2019 environment. Make sure that all content is still functioning, that all sites, workflows, and customizations are functioning as intended for SharePoint upgrade . You will want to create a testing plan that includes different testing scenarios for the site collections, search, and user permissions. Thoroughly workout all issues or fixes before going to a new production environment. Step 5: Handling Custom Solutions and Third-Party Integrations Upgrades can potentially be problematic if you are using custom tools and third-party add-ins. Before the upgrade of sharepoint 2016 to 2019 begins you should research their compatibility with SharePoint 2019. Some of the older customizations may need to be rebuilt and/or replaced with new alternatives for SharePoint 2019. SharePoint 2019 also supports modern SharePoint Framework (SPFx), which can lead to better performance and user experience. It is very important that your IT and dev teams work closely together to be sure nothing breaks. Step 6: Production Deployment and Cutover Once testing is complete, it is time to go to production. You can either have a phased upgrade (moving pieces of it to production at a time) or a full cutover (everything at once). A phased approach will give you more control and flexibility but a full cutover will allow for a quicker upgrade but a greater risk. Regardless of how you go about it relevant to sharepoint 2016 to 2019 upgrade , it is still essential for continued communication to keep everyone informed and users prepared to take advantage of the new system. Step 7: Post-Upgrade Monitoring and Optimization As soon as you go to production, monitor closely what is working or what is not working and how it is performing. Most importantly, monitor performance, search indexing, and running workflows. You will want to begin the corrections based on user feedback. This is also an excellent time to eliminate the old, redundant content, reshape your website, and examine your governance policies and practices. Step 8: Governance and Compliance Updates With the sharepoint upgrade 2016 to 2019 , you should also consider reviewing your governance policies. Update and review policies regarding the creation of sites, managing your content, how access will be restricted on your site. Continue to be compliant with your data protection and compliance policies. At this point, it would be a good idea to also involve your compliance officers and IT security teams to make sure new or existing legal obligations are considered. Step 9: Training and Change Management Training is important for the user for successful transition and adaptation to a new environment. Offer various sessions based on user roles, from simple users only to site owners. Present new functionality, site structure, and how to use SharePoint 2019 in a proper way. Good communication with your users, as well as continuing to provide support to them, will help them feel more confident to adopt the new system quicker. Step 10: Long-Term Maintenance and Future Planning In conclusion, think about a sustained maintenance program as you migrate SharePoint 2016 to 2019 . This program includes periodic updates, the application of security fixes, and performance monitoring. There are planned future upgrades, which will ensure future use of the tools, and features, in SharePoint 2019. Embracing a forward-looking view will keep the system in good operational order while preparing for the future, whether that future includes a renewal on-premises or through the cloud! To Wrap Upgrading your environment from SharePoint 2016 to SharePoint 2019 is a multi-step process and can be challenging. A successful SharePoint upgrade requires planning, effective teamwork, and sound execution. By thoroughly assessing the current situation and preparing the environment, it is important to assess your custom solutions to ensure they can be successfully handled with a SharePoint 2019 upgrade. It is advisable to discuss the upgrade and any related risks with stakeholders. By undertaking these steps, businesses can help ensure their upgrade process with minimal disruption in operations. After the sharepoint 2016 to 2019 upgrade is complete, it is mandatory to monitor the new environment, update the governance procedures, and deliver training to help users adapt to SharePoint 2019. All these steps are vital to ensure your upgrade will be a success in the long run. With the right planning and ongoing maintenance, organizations can take full advantage of SharePoint 2019, providing a modern, secure, and efficient digital workplace to drive employee engagement. Awesome Technologies Inc. specializes in supporting organizations through the upgrade process. Our experts offer the best SharePoint migration consulting services so that the businesses can transition seamlessly from SharePoint 2016 to SharePoint 2019. Ultimately, we make sure that the length of downtime is minimized, data is protected, and your environment is set up for success. Let us handle the technical aspects of your upgrade so you can focus on improving productivity and growing your business. Contact us today for SharePoint migration services , and start your upgrade process! FAQs 1. Can I upgrade SharePoint 2016 to 2019 in-place? No. SharePoint does not support in-place upgrades between major versions. You will need to perform a database-attach upgrade from SharePoint 2016 to 2019. This method of SharePoint upgrade requires the following steps: Create a new SharePoint 2019 farm, backup the content databases from the SharePoint 2016 farm, restore them to the SQL Server for the SharePoint 2019 farm, and finally attach them to the new farm. This process is cleaner and more stable than an upgrade in place, as it does not carry over problems, errors, or issues that were present in your old environment. 2. What customizations need to be reviewed before upgrading? You must evaluate all your custom solutions prior to starting the upgrade, including farm solutions (WSP), sandbox solutions, custom features, scripts, and any 3rd party components. Not all customizations from SharePoint 2016 would work on SharePoint 2019, particularly those relying on deprecated components. There may be a need to upgrade or entirely recreate older solutions. It is highly recommended to also test in a staging environment to mitigate any functionality issues after the upgrade. 3. How long does the upgrade process take? The length of time taken for the SharePoint upgrade from 2016 to 2019 depends on a number of factors including; the size of your content databases, the degree of complexity of your SharePoint architecture, and level of customization. If you have a smaller to mid-sized environment this could take a few days including testing, while the larger environments could take several weeks for complete planning, execution, and validation. Adequate planning and phased testing will help minimize downtime and risk during actual production cutover. 4. Will there be any data loss during the upgrade? If the upgrade is done properly using the database-attach method and correct backups, you should not have any data loss. Making sure your content databases are switched to read-only mode prior to backups is very important if you want to preserve all your data. You should also verify those backups, go through testing the upgrade process in a development or staging environment, and then run your validation checks post-upgrade. Following the best practices will reduce risk, and help to secure a smooth and complete data hand-off. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026 1. Hardware Requirements Check that your new servers have the basic hardware requirements for SharePoint 2019: Processor – 64-bit, 4 cores (minimum) RAM – no less than 16 GB (for development/test) or 24+ GB (production) Disk Space – 80 GB for system drive, plus additional space depending on content 2. Software Requirements You have to install and configure the supported OS and SQL versions: Operating System – Windows Server 2016 or 2019 SQL Server – SQL Server 2016 SP1 or later .NET Framework – 4.7.2 or higher Windows Features – You must install prerequisites such as IIS features, .NET roles, Application Server role 3. SharePoint 2019 Installation Install SharePoint 2019 on the new environment; however, do not create web applications or site collections. In the upgrade sharepoint 2016 to 2019 , attach the existing databases only. 4. Service Packs and Cumulative Updates Make certain that your SharePoint 2016 farm is completely patched as per the latest cumulative update; this will avoid (or at least decrease) any issues related to compatibility and update during your upgrade. 5. Custom Solutions Inventory Stock up any custom WSP, features, and any third-party integrations; then test and validate them against SharePoint 2019 capabilities, or plan on upgrading/replacing them during the SharePoint upgrade. 6. Backup Strategy Follow these steps to backup not only your content, but also the service application databases. Also, backup your SharePoint 2016 farm configuration so it can be referenced. 7. User Communication and Downtime Planning Make sure all users are aware of these changes related to SharePoint 2016 to 2019 migration . Schedule your upgrade during a planned maintenance window so it ensures that it is a known period of downtime – and even rollback planned periods of downtime. 8. Testing Environment It’s also a best practice to implement a testing environment that closely mirrors your production environment so you can test the upgrade. Make sure to validate your content database attachments, your customizations, and your performance in the testing environment before trying anything in the production environment. The above prerequisites will help facilitate a proper, smooth sharepoint 2016 to 2019 migration step by step . Skipping the steps or even rushing through the steps, puts you at risk of data loss, downtime, or broken functionality. Step 1: Pre-Upgrade Assessment and Planning Before you commence the process of sharepoint upgrade , you should assess your current environment. Create an inventory of your content databases, custom solutions, workflows, and any third-party tools that you are using to avoid any surprises later. It is also important that you assess the system requirements for SharePoint 2019 on the current physical servers. Good planning of sharepoint 2016 to 2019 migration step by step includes key team members in the decision process, setting realistic timelines and deciding how success of the upgrade will be measured. Step 2: Preparing Your Environment for Upgrade First, you must make sure your SharePoint 2016 databases are functional (i.e., inspect your farms directly and do some house cleaning regarding unused content) and the SharePoint 2016 system is updated against the latest package releases. Second, with respect to SharePoint 2019, you must deploy the new farm which adheres to Microsoft’s guidance for a new farm and the proper setup and configuration of the roles and services. Step 3: Database Upgrade Process Migrate SharePoint 2016 to 2019 using a “database attach” process. You will detach the content databases from SharePoint 2016, make backups of the databases, you will restore the content databases on the SQL Server that is connected to the SharePoint 2019 installation. You will quickly attach the attachment of the content databases using PowerShell to the SharePoint 2019 farm. Make sure that all the content databases were attached correctly and working well, and that any customizations in the SharePoint sites were still working well once the databases were attached to the SharePoint farm. Step 4: Validating and Testing Post-Attach Upgrade Once you attach your content databases to SharePoint 2019, it is now time to validate and thoroughly test the SharePoint 2019 environment. Make sure that all content is still functioning, that all sites, workflows, and customizations are functioning as intended for SharePoint upgrade . You will want to create a testing plan that includes different testing scenarios for the site collections, search, and user permissions. Thoroughly workout all issues or fixes before going to a new production environment. Step 5: Handling Custom Solutions and Third-Party Integrations Upgrades can potentially be problematic if you are using custom tools and third-party add-ins. Before the upgrade of sharepoint 2016 to 2019 begins you should research their compatibility with SharePoint 2019. Some of the older customizations may need to be rebuilt and/or replaced with new alternatives for SharePoint 2019. SharePoint 2019 also supports modern SharePoint Framework (SPFx), which can lead to better performance and user experience. It is very important that your IT and dev teams work closely together to be sure nothing breaks. Step 6: Production Deployment and Cutover Once testing is complete, it is time to go to production. You can either have a phased upgrade (moving pieces of it to production at a time) or a full cutover (everything at once). A phased approach will give you more control and flexibility but a full cutover will allow for a quicker upgrade but a greater risk. Regardless of how you go about it relevant to sharepoint 2016 to 2019 upgrade , it is still essential for continued communication to keep everyone informed and users prepared to take advantage of the new system. Step 7: Post-Upgrade Monitoring and Optimization As soon as you go to production, monitor closely what is working or what is not working and how it is performing. Most importantly, monitor performance, search indexing, and running workflows. You will want to begin the corrections based on user feedback. This is also an excellent time to eliminate the old, redundant content, reshape your website, and examine your governance policies and practices. Step 8: Governance and Compliance Updates With the sharepoint upgrade 2016 to 2019 , you should also consider reviewing your governance policies. Update and review policies regarding the creation of sites, managing your content, how access will be restricted on your site. Continue to be compliant with your data protection and compliance policies. At this point, it would be a good idea to also involve your compliance officers and IT security teams to make sure new or existing legal obligations are considered. Step 9: Training and Change Management Training is important for the user for successful transition and adaptation to a new environment. Offer various sessions based on user roles, from simple users only to site owners. Present new functionality, site structure, and how to use SharePoint 2019 in a proper way. Good communication with your users, as well as continuing to provide support to them, will help them feel more confident to adopt the new system quicker. Step 10: Long-Term Maintenance and Future Planning In conclusion, think about a sustained maintenance program as you migrate SharePoint 2016 to 2019 . This program includes periodic updates, the application of security fixes, and performance monitoring. There are planned future upgrades, which will ensure future use of the tools, and features, in SharePoint 2019. Embracing a forward-looking view will keep the system in good operational order while preparing for the future, whether that future includes a renewal on-premises or through the cloud! To Wrap Upgrading your environment from SharePoint 2016 to SharePoint 2019 is a multi-step process and can be challenging. A successful SharePoint upgrade requires planning, effective teamwork, and sound execution. By thoroughly assessing the current situation and preparing the environment, it is important to assess your custom solutions to ensure they can be successfully handled with a SharePoint 2019 upgrade. It is advisable to discuss the upgrade and any related risks with stakeholders. By undertaking these steps, businesses can help ensure their upgrade process with minimal disruption in operations. After the sharepoint 2016 to 2019 upgrade is complete, it is mandatory to monitor the new environment, update the governance procedures, and deliver training to help users adapt to SharePoint 2019. All these steps are vital to ensure your upgrade will be a success in the long run. With the right planning and ongoing maintenance, organizations can take full advantage of SharePoint 2019, providing a modern, secure, and efficient digital workplace to drive employee engagement. Awesome Technologies Inc. specializes in supporting organizations through the upgrade process. Our experts offer the best SharePoint migration consulting services so that the businesses can transition seamlessly from SharePoint 2016 to SharePoint 2019. Ultimately, we make sure that the length of downtime is minimized, data is protected, and your environment is set up for success. Let us handle the technical aspects of your upgrade so you can focus on improving productivity and growing your business. Contact us today for SharePoint migration services , and start your upgrade process! FAQs 1. Can I upgrade SharePoint 2016 to 2019 in-place? No. SharePoint does not support in-place upgrades between major versions. You will need to perform a database-attach upgrade from SharePoint 2016 to 2019. This method of SharePoint upgrade requires the following steps: Create a new SharePoint 2019 farm, backup the content databases from the SharePoint 2016 farm, restore them to the SQL Server for the SharePoint 2019 farm, and finally attach them to the new farm. This process is cleaner and more stable than an upgrade in place, as it does not carry over problems, errors, or issues that were present in your old environment. 2. What customizations need to be reviewed before upgrading? You must evaluate all your custom solutions prior to starting the upgrade, including farm solutions (WSP), sandbox solutions, custom features, scripts, and any 3rd party components. Not all customizations from SharePoint 2016 would work on SharePoint 2019, particularly those relying on deprecated components. There may be a need to upgrade or entirely recreate older solutions. It is highly recommended to also test in a staging environment to mitigate any functionality issues after the upgrade. 3. How long does the upgrade process take? The length of time taken for the SharePoint upgrade from 2016 to 2019 depends on a number of factors including; the size of your content databases, the degree of complexity of your SharePoint architecture, and level of customization. If you have a smaller to mid-sized environment this could take a few days including testing, while the larger environments could take several weeks for complete planning, execution, and validation. Adequate planning and phased testing will help minimize downtime and risk during actual production cutover. 4. Will there be any data loss during the upgrade? If the upgrade is done properly using the database-attach method and correct backups, you should not have any data loss. Making sure your content databases are switched to read-only mode prior to backups is very important if you want to preserve all your data. You should also verify those backups, go through testing the upgrade process in a development or staging environment, and then run your validation checks post-upgrade. Following the best practices will reduce risk, and help to secure a smooth and complete data hand-off. Subscribe to ATI First name Last Name Your email Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+  "word_count": 4256,
+  "headings_count": 31,
+  "images_count": 4,
+  "buttons_count": 11,
+  "forms_count": 2,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "Step-by-Step Guide to Upgrade SharePoint 2016 to SharePoint 2019 Home » Step-by-Step Guide to Upgrade SharePoint 2016 to SharePoint 2019 Upgrading your SharePoint environment is a key milestone for most organizations because it is not just a technical requirement – it is an opportunity to unlock new features, elevate performance, and future-proof your digital workspace. Microsoft has closed the gap between on-premises collaboration and cloud innovation with SharePoint 2019. Indeed, it will be a wise decision to upgrade SharePoint 2016 to 2019 before it is too late! Surely, SharePoint 2019 offers a modern user experience, improves hybrid integration, and focuses on big-ticket items like support for modern team sites (teams and SharePoint modern experiences) and communication sites. If you are using SharePoint 2016 now, moving to SharePoint 2019 is a win-win, and can fundamentally change how your organization collaborates and manages content. But SharePoint upgrade is not automatic and not simple – there is planning, steps to take to realize an upgrade to SharePoint, and most importantly a solid understanding of the upgrade methods. SharePoint does not support upgraded, in-place upgrades, between major versions, so you will be using the database-attach method to move your content and configurations. The sharepoint 2016 to 2019 migration is a vital move as more organizations are continuing to evolve their digital infrastructure for competitive, safe, and effective environments. In this blog, we’ll walk you through a detailed, step-by-step guide to upgrade from SharePoint 2016 to SharePoint 2019. Whether you’re a SharePoint admin, IT manager, or consultant, this guide will help you navigate the process with confidence and clarity. Prerequisites to Upgrade SharePoint 2016 to SharePoint 2019 1. Hardware Requirements Check that your new servers have the basic hardware requirements for SharePoint 2019: Processor – 64-bit, 4 cores (minimum) RAM – no less than 16 GB (for development/test) or 24+ GB (production) Disk Space – 80 GB for system drive, plus additional space depending on content 2. Software Requirements You have to install and configure the supported OS and SQL versions: Operating System – Windows Server 2016 or 2019 SQL Server – SQL Server 2016 SP1 or later .NET Framework – 4.7.2 or higher Windows Features – You must install prerequisites such as IIS features, .NET roles, Application Server role 3. SharePoint 2019 Installation Install SharePoint 2019 on the new environment; however, do not create web applications or site collections. In the upgrade sharepoint 2016 to 2019 , attach the existing databases only. 4. Service Packs and Cumulative Updates Make certain that your SharePoint 2016 farm is completely patched as per the latest cumulative update; this will avoid (or at least decrease) any issues related to compatibility and update during your upgrade. 5. Custom Solutions Inventory Stock up any custom WSP, features, and any third-party integrations; then test and validate them against SharePoint 2019 capabilities, or plan on upgrading/replacing them during the SharePoint upgrade. 6. Backup Strategy Follow these steps to backup not only your content, but also the service application databases. Also, backup your SharePoint 2016 farm configuration so it can be referenced. 7. User Communication and Downtime Planning Make sure all users are aware of these changes related to SharePoint 2016 to 2019 migration . Schedule your upgrade during a planned maintenance window so it ensures that it is a known period of downtime – and even rollback planned periods of downtime. 8. Testing Environment It’s also a best practice to implement a testing environment that closely mirrors your production environment so you can test the upgrade. Make sure to validate your content database attachments, your customizations, and your performance in the testing environment before trying anything in the production environment. The above prerequisites will help facilitate a proper, smooth sharepoint 2016 to 2019 migration step by step . Skipping the steps or even rushing through the steps, puts you at risk of data loss, downtime, or broken functionality. Step by Step Process of Upgrading From 2016 to 2019 Step 1: Pre-Upgrade Assessment and Planning Before you commence the process of sharepoint upgrade , you should assess your current environment. Create an inventory of your content databases, custom solutions, workflows, and any third-party tools that you are using to avoid any surprises later. It is also important that you assess the system requirements for SharePoint 2019 on the current physical servers. Good planning of sharepoint 2016 to 2019 migration step by step includes key team members in the decision process, setting realistic timelines and deciding how success of the upgrade will be measured. Step 2: Preparing Your Environment for Upgrade First, you must make sure your SharePoint 2016 databases are functional (i.e., inspect your farms directly and do some house cleaning regarding unused content) and the SharePoint 2016 system is updated against the latest package releases. Second, with respect to SharePoint 2019, you must deploy the new farm which adheres to Microsoft’s guidance for a new farm and the proper setup and configuration of the roles and services. Step 3: Database Upgrade Process Migrate SharePoint 2016 to 2019 using a “database attach” process. You will detach the content databases from SharePoint 2016, make backups of the databases, you will restore the content databases on the SQL Server that is connected to the SharePoint 2019 installation. You will quickly attach the attachment of the content databases using PowerShell to the SharePoint 2019 farm. Make sure that all the content databases were attached correctly and working well, and that any customizations in the SharePoint sites were still working well once the databases were attached to the SharePoint farm. Step 4: Validating and Testing Post-Attach Upgrade Once you attach your content databases to SharePoint 2019, it is now time to validate and thoroughly test the SharePoint 2019 environment. Make sure that all content is still functioning, that all sites, workflows, and customizations are functioning as intended for SharePoint upgrade . You will want to create a testing plan that includes different testing scenarios for the site collections, search, and user permissions. Thoroughly workout all issues or fixes before going to a new production environment. Step 5: Handling Custom Solutions and Third-Party Integrations Upgrades can potentially be problematic if you are using custom tools and third-party add-ins. Before the upgrade of sharepoint 2016 to 2019 begins you should research their compatibility with SharePoint 2019. Some of the older customizations may need to be rebuilt and/or replaced with new alternatives for SharePoint 2019. SharePoint 2019 also supports modern SharePoint Framework (SPFx), which can lead to better performance and user experience. It is very important that your IT and dev teams work closely together to be sure nothing breaks. Step 6: Production Deployment and Cutover Once testing is complete, it is time to go to production. You can either have a phased upgrade (moving pieces of it to production at a time) or a full cutover (everything at once). A phased approach will give you more control and flexibility but a full cutover will allow for a quicker upgrade but a greater risk. Regardless of how you go about it relevant to sharepoint 2016 to 2019 upgrade , it is still essential for continued communication to keep everyone informed and users prepared to take advantage of the new system. Step 7: Post-Upgrade Monitoring and Optimization As soon as you go to production, monitor closely what is working or what is not working and how it is performing. Most importantly, monitor performance, search indexing, and running workflows. You will want to begin the corrections based on user feedback. This is also an excellent time to eliminate the old, redundant content, reshape your website, and examine your governance policies and practices. Step 8: Governance and Compliance Updates With the sharepoint upgrade 2016 to 2019 , you should also consider reviewing your governance policies. Update and review policies regarding the creation of sites, managing your content, how access will be restricted on your site. Continue to be compliant with your data protection and compliance policies. At this point, it would be a good idea to also involve your compliance officers and IT security teams to make sure new or existing legal obligations are considered. Step 9: Training and Change Management Training is important for the user for successful transition and adaptation to a new environment. Offer various sessions based on user roles, from simple users only to site owners. Present new functionality, site structure, and how to use SharePoint 2019 in a proper way. Good communication with your users, as well as continuing to provide support to them, will help them feel more confident to adopt the new system quicker. Step 10: Long-Term Maintenance and Future Planning In conclusion, think about a sustained maintenance program as you migrate SharePoint 2016 to 2019 . This program includes periodic updates, the application of security fixes, and performance monitoring. There are planned future upgrades, which will ensure future use of the tools, and features, in SharePoint 2019. Embracing a forward-looking view will keep the system in good operational order while preparing for the future, whether that future includes a renewal on-premises or through the cloud! To Wrap Upgrading your environment from SharePoint 2016 to SharePoint 2019 is a multi-step process and can be challenging. A successful SharePoint upgrade requires planning, effective teamwork, and sound execution. By thoroughly assessing the current situation and preparing the environment, it is important to assess your custom solutions to ensure they can be successfully handled with a SharePoint 2019 upgrade. It is advisable to discuss the upgrade and any related risks with stakeholders. By undertaking these steps, businesses can help ensure their upgrade process with minimal disruption in operations. After the sharepoint 2016 to 2019 upgrade is complete, it is mandatory to monitor the new environment, update the governance procedures, and deliver training to help users adapt to SharePoint 2019. All these steps are vital to ensure your upgrade will be a success in the long run. With the right planning and ongoing maintenance, organizations can take full advantage of SharePoint 2019, providing a modern, secure, and efficient digital workplace to drive employee engagement. Awesome Technologies Inc. specializes in supporting organizations through the upgrade process. Our experts offer the best SharePoint migration consulting services so that the businesses can transition seamlessly from SharePoint 2016 to SharePoint 2019. Ultimately, we make sure that the length of downtime is minimized, data is protected, and your environment is set up for success. Let us handle the technical aspects of your upgrade so you can focus on improving productivity and growing your business. Contact us today for SharePoint migration services , and start your upgrade process! FAQs 1. Can I upgrade SharePoint 2016 to 2019 in-place? No. SharePoint does not support in-place upgrades between major versions. You will need to perform a database-attach upgrade from SharePoint 2016 to 2019. This method of SharePoint upgrade requires the following steps: Create a new SharePoint 2019 farm, backup the content databases from the SharePoint 2016 farm, restore them to the SQL Server for the SharePoint 2019 farm, and finally attach them to the new farm. This process is cleaner and more stable than an upgrade in place, as it does not carry over problems, errors, or issues that were present in your old environment. 2. What customizations need to be reviewed before upgrading? You must evaluate all your custom solutions prior to starting the upgrade, including farm solutions (WSP), sandbox solutions, custom features, scripts, and any 3rd party components. Not all customizations from SharePoint 2016 would work on SharePoint 2019, particularly those relying on deprecated components. There may be a need to upgrade or entirely recreate older solutions. It is highly recommended to also test in a staging environment to mitigate any functionality issues after the upgrade. 3. How long does the upgrade process take? The length of time taken for the SharePoint upgrade from 2016 to 2019 depends on a number of factors including; the size of your content databases, the degree of complexity of your SharePoint architecture, and level of customization. If you have a smaller to mid-sized environment this could take a few days including testing, while the larger environments could take several weeks for complete planning, execution, and validation. Adequate planning and phased testing will help minimize downtime and risk during actual production cutover. 4. Will there be any data loss during the upgrade? If the upgrade is done properly using the database-attach method and correct backups, you should not have any data loss. Making sure your content databases are switched to read-only mode prior to backups is very important if you want to preserve all your data. You should also verify those backups, go through testing the upgrade process in a development or staging environment, and then run your validation checks post-upgrade. Following the best practices will reduce risk, and help to secure a smooth and complete data hand-off. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2025/06/Step-by-step-Guide-to-Upgrade-SharePoint-2016-to-SharePoint-2019-scaled.png",
+          "alt": "Upgrade SharePoint 2016 to 2019"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+          "alt": "Mortgage Automation in 2026"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+          "alt": "HMDA Reporting Setup in Encompass LOS"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+          "alt": "What is a Loan Origination System?"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Home",
+          "url": "https://awesometechinc.com/"
+        },
+        {
+          "label": "SharePoint migration consulting services",
+          "url": "https://awesometechinc.com/sharepoint-consulting-services"
+        },
+        {
+          "label": "SharePoint migration services",
+          "url": "https://awesometechinc.com/sharepoint-migration-services/"
+        },
+        {
+          "label": "Search",
+          "url": ""
+        },
+        {
+          "label": "Subscribe",
+          "url": ""
+        },
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form",
+          "form_id": "",
+          "fields": [
+            {
+              "name": "s",
+              "label": "",
+              "type": "search",
+              "required": false
+            }
+          ],
+          "submit_label": "Search"
+        },
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "1. Hardware Requirements",
+      "type": "content_section",
+      "content": "Check that your new servers have the basic hardware requirements for SharePoint 2019: Processor – 64-bit, 4 cores (minimum) RAM – no less than 16 GB (for development/test) or 24+ GB (production) Disk Space – 80 GB for system drive, plus additional space depending on content",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 3,
+      "title": "2. Software Requirements",
+      "type": "service_section",
+      "content": "You have to install and configure the supported OS and SQL versions: Operating System – Windows Server 2016 or 2019 SQL Server – SQL Server 2016 SP1 or later .NET Framework – 4.7.2 or higher Windows Features – You must install prerequisites such as IIS features, .NET roles, Application Server role",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 4,
+      "title": "3. SharePoint 2019 Installation",
+      "type": "content_section",
+      "content": "Install SharePoint 2019 on the new environment; however, do not create web applications or site collections. In the upgrade sharepoint 2016 to 2019 , attach the existing databases only.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 5,
+      "title": "4. Service Packs and Cumulative Updates",
+      "type": "service_section",
+      "content": "Make certain that your SharePoint 2016 farm is completely patched as per the latest cumulative update; this will avoid (or at least decrease) any issues related to compatibility and update during your upgrade.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 6,
+      "title": "5. Custom Solutions Inventory",
+      "type": "service_section",
+      "content": "Stock up any custom WSP, features, and any third-party integrations; then test and validate them against SharePoint 2019 capabilities, or plan on upgrading/replacing them during the SharePoint upgrade.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 7,
+      "title": "6. Backup Strategy",
+      "type": "service_section",
+      "content": "Follow these steps to backup not only your content, but also the service application databases. Also, backup your SharePoint 2016 farm configuration so it can be referenced.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 8,
+      "title": "7. User Communication and Downtime Planning",
+      "type": "content_section",
+      "content": "Make sure all users are aware of these changes related to SharePoint 2016 to 2019 migration . Schedule your upgrade during a planned maintenance window so it ensures that it is a known period of downtime – and even rollback planned periods of downtime.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 9,
+      "title": "8. Testing Environment",
+      "type": "content_section",
+      "content": "It’s also a best practice to implement a testing environment that closely mirrors your production environment so you can test the upgrade. Make sure to validate your content database attachments, your customizations, and your performance in the testing environment before trying anything in the production environment. The above prerequisites will help facilitate a proper, smooth sharepoint 2016 to 2019 migration step by step . Skipping the steps or even rushing through the steps, puts you at risk of data loss, downtime, or broken functionality.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 10,
+      "title": "Step 1: Pre-Upgrade Assessment and Planning",
+      "type": "service_section",
+      "content": "Before you commence the process of sharepoint upgrade , you should assess your current environment. Create an inventory of your content databases, custom solutions, workflows, and any third-party tools that you are using to avoid any surprises later. It is also important that you assess the system requirements for SharePoint 2019 on the current physical servers. Good planning of sharepoint 2016 to 2019 migration step by step includes key team members in the decision process, setting realistic timelines and deciding how success of the upgrade will be measured.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 11,
+      "title": "Step 2: Preparing Your Environment for Upgrade",
+      "type": "service_section",
+      "content": "First, you must make sure your SharePoint 2016 databases are functional (i.e., inspect your farms directly and do some house cleaning regarding unused content) and the SharePoint 2016 system is updated against the latest package releases. Second, with respect to SharePoint 2019, you must deploy the new farm which adheres to Microsoft’s guidance for a new farm and the proper setup and configuration of the roles and services.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 12,
+      "title": "Step 3: Database Upgrade Process",
+      "type": "content_section",
+      "content": "Migrate SharePoint 2016 to 2019 using a “database attach” process. You will detach the content databases from SharePoint 2016, make backups of the databases, you will restore the content databases on the SQL Server that is connected to the SharePoint 2019 installation. You will quickly attach the attachment of the content databases using PowerShell to the SharePoint 2019 farm. Make sure that all the content databases were attached correctly and working well, and that any customizations in the SharePoint sites were still working well once the databases were attached to the SharePoint farm.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 13,
+      "title": "Step 4: Validating and Testing Post-Attach Upgrade",
+      "type": "content_section",
+      "content": "Once you attach your content databases to SharePoint 2019, it is now time to validate and thoroughly test the SharePoint 2019 environment. Make sure that all content is still functioning, that all sites, workflows, and customizations are functioning as intended for SharePoint upgrade . You will want to create a testing plan that includes different testing scenarios for the site collections, search, and user permissions. Thoroughly workout all issues or fixes before going to a new production environment.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 14,
+      "title": "Step 5: Handling Custom Solutions and Third-Party Integrations",
+      "type": "service_section",
+      "content": "Upgrades can potentially be problematic if you are using custom tools and third-party add-ins. Before the upgrade of sharepoint 2016 to 2019 begins you should research their compatibility with SharePoint 2019. Some of the older customizations may need to be rebuilt and/or replaced with new alternatives for SharePoint 2019. SharePoint 2019 also supports modern SharePoint Framework (SPFx), which can lead to better performance and user experience. It is very important that your IT and dev teams work closely together to be sure nothing breaks.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 15,
+      "title": "Step 6: Production Deployment and Cutover",
+      "type": "content_section",
+      "content": "Once testing is complete, it is time to go to production. You can either have a phased upgrade (moving pieces of it to production at a time) or a full cutover (everything at once). A phased approach will give you more control and flexibility but a full cutover will allow for a quicker upgrade but a greater risk. Regardless of how you go about it relevant to sharepoint 2016 to 2019 upgrade , it is still essential for continued communication to keep everyone informed and users prepared to take advantage of the new system.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 16,
+      "title": "Step 7: Post-Upgrade Monitoring and Optimization",
+      "type": "content_section",
+      "content": "As soon as you go to production, monitor closely what is working or what is not working and how it is performing. Most importantly, monitor performance, search indexing, and running workflows. You will want to begin the corrections based on user feedback. This is also an excellent time to eliminate the old, redundant content, reshape your website, and examine your governance policies and practices.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 17,
+      "title": "Step 8: Governance and Compliance Updates",
+      "type": "testimonial_section",
+      "content": "With the sharepoint upgrade 2016 to 2019 , you should also consider reviewing your governance policies. Update and review policies regarding the creation of sites, managing your content, how access will be restricted on your site. Continue to be compliant with your data protection and compliance policies. At this point, it would be a good idea to also involve your compliance officers and IT security teams to make sure new or existing legal obligations are considered.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 18,
+      "title": "Step 9: Training and Change Management",
+      "type": "content_section",
+      "content": "Training is important for the user for successful transition and adaptation to a new environment. Offer various sessions based on user roles, from simple users only to site owners. Present new functionality, site structure, and how to use SharePoint 2019 in a proper way. Good communication with your users, as well as continuing to provide support to them, will help them feel more confident to adopt the new system quicker.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 19,
+      "title": "Step 10: Long-Term Maintenance and Future Planning",
+      "type": "service_section",
+      "content": "In conclusion, think about a sustained maintenance program as you migrate SharePoint 2016 to 2019 . This program includes periodic updates, the application of security fixes, and performance monitoring. There are planned future upgrades, which will ensure future use of the tools, and features, in SharePoint 2019. Embracing a forward-looking view will keep the system in good operational order while preparing for the future, whether that future includes a renewal on-premises or through the cloud!",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 20,
+      "title": "To Wrap",
+      "type": "form_section",
+      "content": "Upgrading your environment from SharePoint 2016 to SharePoint 2019 is a multi-step process and can be challenging. A successful SharePoint upgrade requires planning, effective teamwork, and sound execution. By thoroughly assessing the current situation and preparing the environment, it is important to assess your custom solutions to ensure they can be successfully handled with a SharePoint 2019 upgrade. It is advisable to discuss the upgrade and any related risks with stakeholders. By undertaking these steps, businesses can help ensure their upgrade process with minimal disruption in operations. After the sharepoint 2016 to 2019 upgrade is complete, it is mandatory to monitor the new environment, update the governance procedures, and deliver training to help users adapt to SharePoint 2019. All these steps are vital to ensure your upgrade will be a success in the long run. With the right planning and ongoing maintenance, organizations can take full advantage of SharePoint 2019, providing a modern, secure, and efficient digital workplace to drive employee engagement. Awesome Technologies Inc. specializes in supporting organizations through the upgrade process. Our experts offer the best SharePoint migration consulting services so that the businesses can transition seamlessly from SharePoint 2016 to SharePoint 2019. Ultimately, we make sure that the length of downtime is minimized, data is protected, and your environment is set up for success. Let us handle the technical aspects of your upgrade so you can focus on improving productivity and growing your business. Contact us today for SharePoint migration services , and start your upgrade process!",
+      "images": [],
+      "buttons": [
+        {
+          "label": "SharePoint migration consulting services",
+          "url": "https://awesometechinc.com/sharepoint-consulting-services"
+        },
+        {
+          "label": "SharePoint migration services",
+          "url": "https://awesometechinc.com/sharepoint-migration-services/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 21,
+      "title": "FAQs",
+      "type": "faq_section",
+      "content": "1. Can I upgrade SharePoint 2016 to 2019 in-place? No. SharePoint does not support in-place upgrades between major versions. You will need to perform a database-attach upgrade from SharePoint 2016 to 2019. This method of SharePoint upgrade requires the following steps: Create a new SharePoint 2019 farm, backup the content databases from the SharePoint 2016 farm, restore them to the SQL Server for the SharePoint 2019 farm, and finally attach them to the new farm. This process is cleaner and more stable than an upgrade in place, as it does not carry over problems, errors, or issues that were present in your old environment. 2. What customizations need to be reviewed before upgrading? You must evaluate all your custom solutions prior to starting the upgrade, including farm solutions (WSP), sandbox solutions, custom features, scripts, and any 3rd party components. Not all customizations from SharePoint 2016 would work on SharePoint 2019, particularly those relying on deprecated components. There may be a need to upgrade or entirely recreate older solutions. It is highly recommended to also test in a staging environment to mitigate any functionality issues after the upgrade. 3. How long does the upgrade process take? The length of time taken for the SharePoint upgrade from 2016 to 2019 depends on a number of factors including; the size of your content databases, the degree of complexity of your SharePoint architecture, and level of customization. If you have a smaller to mid-sized environment this could take a few days including testing, while the larger environments could take several weeks for complete planning, execution, and validation. Adequate planning and phased testing will help minimize downtime and risk during actual production cutover. 4. Will there be any data loss during the upgrade? If the upgrade is done properly using the database-attach method and correct backups, you should not have any data loss. Making sure your content databases are switched to read-only mode prior to backups is very important if you want to preserve all your data. You should also verify those backups, go through testing the upgrade process in a development or staging environment, and then run your validation checks post-upgrade. Following the best practices will reduce risk, and help to secure a smooth and complete data hand-off.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 22,
+      "title": "Subscribe to ATI",
+      "type": "form_section",
+      "content": "First name Last Name Your email",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Subscribe",
+          "url": ""
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 23,
+      "title": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "type": "service_section",
+      "content": "Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 24,
+      "title": "HMDA Reporting Setup in Encompass LOS",
+      "type": "content_section",
+      "content": "March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 25,
+      "title": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "type": "content_section",
+      "content": "In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": []
+    }
+  ],
+  "images": [
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2025/06/Step-by-step-Guide-to-Upgrade-SharePoint-2016-to-SharePoint-2019-scaled.png",
+      "alt": "Upgrade SharePoint 2016 to 2019"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+      "alt": "Mortgage Automation in 2026"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+      "alt": "HMDA Reporting Setup in Encompass LOS"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+      "alt": "What is a Loan Origination System?"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "SharePoint migration consulting services",
+      "url": "https://awesometechinc.com/sharepoint-consulting-services"
+    },
+    {
+      "label": "SharePoint migration services",
+      "url": "https://awesometechinc.com/sharepoint-migration-services/"
+    },
+    {
+      "label": "Search",
+      "url": ""
+    },
+    {
+      "label": "Subscribe",
+      "url": ""
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ],
+  "forms": [
+    {
+      "form_type": "contact_form",
+      "form_id": "",
+      "fields": [
+        {
+          "name": "s",
+          "label": "",
+          "type": "search",
+          "required": false
+        }
+      ],
+      "submit_label": "Search"
+    },
+    {
+      "form_type": "contact_form_7",
+      "form_id": "12171",
+      "fields": [
+        {
+          "name": "your-name",
+          "label": "your-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "last-name",
+          "label": "last-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "your-email",
+          "label": "your-email",
+          "type": "email",
+          "required": true
+        }
+      ],
+      "submit_label": "Subscribe"
+    }
+  ],
+  "links": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "SharePoint migration consulting services",
+      "url": "https://awesometechinc.com/sharepoint-consulting-services"
+    },
+    {
+      "label": "SharePoint migration services",
+      "url": "https://awesometechinc.com/sharepoint-migration-services/"
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": null,
+  "source_type": "page",
+  "slug": "page-not-found",
+  "title": "4 0 4",
+  "url": "https://awesometechinc.com/page-not-found/",
+  "meta_title": "Page not Found - Awesome Tech Inc",
+  "meta_description": "",
+  "modified_at": "2024-12-18T20:52:39+00:00",
+  "status": "skipped",
+  "summary": "Intro 4 0 4 WE ARE SORRY, PAGE NOT FOUND! Uh oh, we can’t seem to find the page you’re looking for.",
+  "keywords": [
+    "for",
+    "found",
+    "not",
+    "the",
+    "are",
+    "back",
+    "can",
+    "find",
+    "intro",
+    "looking",
+    "seem",
+    "sorry",
+    "you",
+    "going",
+    "home",
+    "homepage"
+  ],
+  "full_text": "Intro 4 0 4 WE ARE SORRY, PAGE NOT FOUND! Uh oh, we can’t seem to find the page you’re looking for. Try going back to the homepage for more information. BACK TO HOME",
+  "word_count": 34,
+  "headings_count": 2,
+  "images_count": 0,
+  "buttons_count": 2,
+  "forms_count": 0,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "4 0 4 WE ARE SORRY, PAGE NOT FOUND! Uh oh, we can’t seem to find the page you’re looking for. Try going back to the homepage for more information. BACK TO HOME",
+      "images": [],
+      "buttons": [
+        {
+          "label": "back to the homepage",
+          "url": "https://awesometechinc.com/"
+        },
+        {
+          "label": "BACK TO HOME",
+          "url": "https://awesometechinc.com/"
+        }
+      ],
+      "forms": []
+    }
+  ],
+  "images": [],
+  "buttons": [
+    {
+      "label": "back to the homepage",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "BACK TO HOME",
+      "url": "https://awesometechinc.com/"
+    }
+  ],
+  "forms": [],
+  "links": [
+    {
+      "label": "back to the homepage",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "BACK TO HOME",
+      "url": "https://awesometechinc.com/"
+    }
+  ],
+  "skip_reason": "Utility page with no durable RAG value."
+}

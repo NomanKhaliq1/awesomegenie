@@ -1,0 +1,680 @@
+{
+  "id": null,
+  "source_type": "post",
+  "slug": "sharepoint-cost-estimation",
+  "title": "SharePoint Cost Estimation 2026: Complete Pricing Insights and Factors",
+  "url": "https://awesometechinc.com/sharepoint-cost-estimation/",
+  "meta_title": "SharePoint Cost Estimation 2026: Complete Pricing Insights and Factors",
+  "meta_description": "SharePoint cost estimation with a clear breakdown of licensing, development, customization, and maintenance expenses for better budget planning.",
+  "modified_at": "2026-02-25T18:44:55+00:00",
+  "status": "public",
+  "summary": "SharePoint cost estimation with a clear breakdown of licensing, development, customization, and maintenance expenses for better budget planning.",
+  "keywords": [
+    "mortgage automation in",
+    "mortgage application on a tuesday morni",
+    "encompass los march",
+    "integration of sharepoint with other tools",
+    "integration costs",
+    "integration and change management",
+    "integration maintenance sharepoint",
+    "integration with these tools",
+    "sharepoint",
+    "and",
+    "the",
+    "cost",
+    "costs",
+    "for",
+    "can",
+    "users"
+  ],
+  "full_text": "Intro SharePoint Cost Estimation 2026: Complete Pricing Insights and Factors Home » SharePoint Cost Estimation 2026: Complete Pricing Insights and Factors If you are thinking about using SharePoint in 2026, don’t just rely on inaccurate assumptions. This guide acts as a realistic and practical estimation about SharePoint migration, implementation, customization and maintenance. It is a collection of the real-life experiences of many businesses that implement SharePoint. This SharePoint cost estimation guide for 2026 talks about all four Microsoft 365 licensing levels. It will compare SharePoint On-Premises Hosting with SharePoint Online in depth. Also, there is a list of costs regarding SharePoint architecture, governance, integration, migration and training. Also, there is a detailed section describing the admin costs incurred and the three-year TCO. As the current corporate environment is moving to a hybrid workplace and following the compliance standards strictly, integration of SharePoint with other tools and systems should be a risk-free attempt. However, any miscalculation related to SharePoint development cost could add an extra burden on your overall budget. Furthermore, it ends up in lower adoption rates of the users. Whether you are an IT manager, company’s CFO, a project manager or belong to Managed Service Providers (MSPs) planning for scalable SharePoint deployment , this guide is for you. Not sure what SharePoint will really cost your organization in 2026? Let’s map out a clear, numbers-backed estimate before you invest! What is SharePoint in 2026? SharePoint is a web-based application designed by Microsoft. It started its operations in 2001 when it was just a basic document storage and an intranet solution. Businesses use SharePoint to store, share and organize documents efficiently. Today it is serving businesses beyond that by being a modern collaborative work environment. It integrates with Team and OneDrive to give a boost to the overall digital workplace. Organizations nowadays have a choice to either select SharePoint Online or On-Premises according to the need. SharePoint Online is a cloud version that benefits organizations with steady updates, security and infrastructure management. If you are a business managing operations remotely or in a hybrid environment, then SharePoint Online is often the most practical option for hybrid or remote environments. However, SharePoint On-Premises will assist you in storing data, protecting it and maintaining the system. In 2026 and beyond, industry experts expect SharePoint to remain a vital solution for most organizations. It is a perfect tool to control documents, give permissions, works effectively with compliance tools, automates workflows and integrates smoothly with various Microsoft tools. With experienced support, enterprises can benefit from scalable SharePoint development services as they facilitate collaboration and safe data handling and protection. SharePoint’s Business Value SharePoint enhances collaboration as it is an easy to use and safe platform. Typically, employees use it to save and share documents. SharePoint facilitates in finding a document without much hassle. The version control feature of SharePoint helps you keep track of dual documents. With SharePoint’s real time editing feature, team members/workers can work on the same document, edit it and manage it while minimizing mistakes. Also, the compliance and governance features of SharePoint allow users to access and share data via role-based systems. The IT team has the authority to allow edit and viewer access of documents on SharePoint. Your data will be protected on SharePoint with the built-in safety features. Being a central hub to manage content, SharePoint has libraries, a feature to save files and metadata to gather and manage information. When the employees have a large data set, SharePoint assists in finding files with ease. Last but not least, SharePoint efficiently integrates with Teams, Outlook and OneDrive within the same cloud-based digital workspace. SharePoint Deployment Types The type of SharePoint deployment you choose has a direct impact on cost. SharePoint Online SharePoint Online works on a monthly and yearly subscription. It works smartly on cloud architecture, manages servers, keeps the system updates, offers safety patches and data backups as well. For this reason, there is no need to have hardware. As the business scales, SharePoint Online also scales up and down efficiently. To reduce IT workload and unnecessary cost of infrastructure, most of the companies prefer to use SharePoint Online. Also, SharePoint online pricing is predictable as compared to On-premises set up. SharePoint On-Premise SharePoint On-Premises needs server licenses and CALs. Also, SharePoint On-Premises cannot function properly without having a proper hardware, a storage setup, maintenance system that upkeeps steady updates and safety notifications. The flip side of SharePoint On-Premises is that the starting investment could be costly and may impact the business more because of high IT expenses linked to the system. Hybrid Environments Hybrid environment focuses on both on-premises and cloud-based infrastructure. Organizations that have strict data rules or larger legacy systems utilize hybrid models. On the other hand, a hybrid environment can be more complex to handle. Across both on-premises and cloud-systems, a hybrid environment has many aspects. Hence, the cost to run a hybrid model is typically more than just using SharePoint Online, a cloud-based environment. SharePoint Licensing Costs Microsoft 365 Licensing & SharePoint Microsoft 365 plans include SharePoint Online. Microsoft bills these plans per user, per month. Plan Total Price Key Features Basic $6 Web apps, SharePoint Online, Teams, OneDrive Standard $12.50 Desktop apps + cloud services E3 $36 Advanced security, compliance, analytics E5 $57 Premium security, threat protection, analytics Included SharePoint features by tier: Business Basic/Standard – Basic SharePoint site, document libraries with less permissions E3 – Updated security, compliance, and governance capabilities with higher storage options. E5 – Higher-level protection and analytics for your enterprise. User limits & restrictions: Typically, the Business plans assist up to 300 users E3/E5 facilitates a vast number of users. Standalone SharePoint Licensing Cost Area Typical Range (USD) What It Covers Discovery and Planning $3,000–$12,000 Scope, architecture, and a solid project plan Site Structure $5,000–$20,000 Taxonomy, site hierarchy, governance rules Custom Development $10,000–$100,000+ SPFx solutions, APIs, custom workflows Integration Costs $8,000–$60,000 Teams, Azure, ERP, CRM, or other system integrations Migration $5,000–$50,000 Migrating files and data from old systems Training & Change management $3,000–$25,000 Workshops, documentation, and adoption programs QA & Testing $2,000–$15,000 User acceptance testing, performance checks Server versions: SharePoint Server 2019 on premises pricing SharePoint Server Subscription Edition SharePoint Licensing Cost Scenarios Small Business (25 users): 25 Business Standard Employees @ $12.50 = $325.00/month ($3,900.00/Year) Mid‑Market (100 users): 100 Microsoft 365 E3 Employees @ 36.00 = $3,600.00/month ($43,200.00/Year) Enterprise (1,000 users): 1,000 Microsoft 365 E5 Employees @ 57.00 = $57,000.00/month ($684,000.00/Year) On‑Premise Example (500 users): SharePoint Server License ~ $8,500 500 × Standard CAL @ $125 = $62,500 500 × Enterprise CAL @ $100 = $50,000 Total licenses = ~$121,000 + Software Assurance To review SharePoint license costs , look at our detailed guide that provides information on various plans, pricing tiers and what is included in each plan based on your company’s size! SharePoint Implementation Costs Implementing the SharePoint platform needs detailed effort. When you understand the SharePoint implementation costs, you will be aware of the current and upfront costs. Setup: Begin with setting up a proper SharePoint environment. Permissions & Governance: The SharePoint users get the authority to organize, edit and control the site information. It has governance policies to protect sensitive data. Information Architecture: Your team should define and organize the information in one central location to keep the information at one place and the users access it with ease. Detailed Cost Breakdown Cost Area Typical Range (USD) What It Covers Discovery and Planning $3,000–$12,000 Scope, architecture, and a solid project plan Site Structure $5,000–$20,000 Taxonomy, site hierarchy, governance rules Custom Development $10,000–$100,000+ SPFx solutions, APIs, custom workflows Integration Costs $8,000–$60,000 Teams, Azure, ERP, CRM, or other system integrations Migration $5,000–$50,000 Migrating files and data from old systems Training & Change management $3,000–$25,000 Workshops, documentation, and adoption programs QA & Testing $2,000–$15,000 User acceptance testing, performance checks SharePoint Online pricing vary based on a variety of factors, including: Size of the business Complexity of workflows Tailored approach/customization needed Exact number of users Real-World Cost Scenarios Small Business Implementation – It is a basic plan and can cost from $5,000 to $25,000 for 5 to 25 users. Mid-market Implementation – It offers average customization, handling site structures and a few integrations that can cost from $25,000 to $150,000 for 50 to 200 users. Enterprise-level or Multi-site Implementations – It automates complex workflows with multi-cloud integration and change management. Can from $150,000 – $500,000 for unlimited users. Timeline vs Cost Impact Project Typical Duration Cost Impact Simple 4 - 8 weeks Low Medium 3 - 5 months Moderate Enterprise 6 - 12 months High Hidden & Overlooked Costs Most organizations ignore hidden costs which can pile up and increase overall costs. The following sections outline these costs in detail: Governance Overhead Businesses frequently forget to maintain system governance which can eventually become a burden in terms of cost. More admin hours need to be allocated or hiring a proper consultant could be the dire need which is again very costly to manage. Ideally, businesses using SharePoint should take care of governance needs from the start. Security & Compliance Security and compliance add more to the actual costs because of strict safety and regulatory protocols. Organizations manage security and compliance by using the following: Data Loss Prevention (DLP) tools. SIEM Connectors. Encryption solutions. Support & Admin Costs Administrative support include: Managing permissions, sites, and other troubleshooting support Vendor support contracts or tackling service providers Integration Maintenance SharePoint’s functionality improves as it integrates with Teams, Power Platform, ERP and third-party apps. If a business fails to maintain SharePoint integration with these tools, proper processing can be hampered and there will be a sudden and surprising rise in the costs. App Marketplace & Third-Party Tools Many organizations use add-on tools to increase SharePoint usage such as : Backup and recovery solutions Advanced search and taxonomy management Workflow automation engines Customization & Development Level 1 – OOTB + Branding — $5,000 – $15,000. Level 2 – Low Code (power platform integration) – $20,000 – $50,000. Level 3 – Full Custom (SPFx, API integrations) — $50,000 – $150,000 or more. Worried about hidden costs like migration, governance, or storage growth? We’ll help you uncover them by following SharePoint best practices for document management and security. ROI, TCO & Budget Planning Companies need to think about 2026 costs so they can define an accurate 3-year TCO. 3-Year Total Cost of Ownership (TCO) Licenses: Poor estimation of storage needs result in increased costs. Usually, the costs to manage additional storage are almost $0.20 per GB per month. For example, if your organization adds 1 TB of storage, the annual cost will be approximately $2,400. Implementation: For small deployments, typical implementation costs are between $5,000 and $25,000. For large enterprise deployments, costs typically exceed $150,000 to $500,000. Support: Ongoing support will cost between $5,000 and $50,000 or more. It depends on the complexity of the project. Hardware (On-Premise): If your organization implements SharePoint on-premise, the SharePoint server costs, hardware, networking, backup, and data storage hardware will be more. Sample TCO Table: Year Licenses Implementation Support Total 1 $30,000 $100,000 $15,000 $145,000 2 $30,000 - $15,000 $45,000 3 $30,000 - $15,000 $45,000 Strategic Cost Optimization: License Bridge: Select lower-cost F3 Licenses versus E3 Licenses Microsoft Archive: Using Cold Storage (SharePoint) can reduce storage costs up to 75%. Early Renewal Strategy: Lock in 2025 price before the July 2026 price increase. Copilot Usage Assessment: Identify active versus unused AI licenses. ROI Calculation SharePoint can deliver measurable ROI: Increased productivity: Teams can locate documents quickly & collaborate even faster. Reduced SharePoint storage costs: Organizations can save storage costs by automating deletions and employing tiered storage. Faster onboarding: Immediate access to content for new members. Compliance savings: Using a governance tool can protect your company from penalties that could arise from data misuses. To make smarter investments in SharePoint 2026, companies should understand TCO, ROI, and consider hidden costs. Using the knowledge of SharePoint pricing will help create forecasted budgets, have higher adoption rates, and gain long-term business value. SharePoint vs. Alternatives When deploying SharePoint in 2026, it is helpful to compare it to the other popular platforms. Knowing the difference between the various platforms will help businesses define the best option based on cost, compliance, and productivity. SharePoint vs Google Workspace Collaboration: Google Workspace is very collaborative with their real-time editing. Many users can edit documents at one time. The SharePoint users can “co-author” files via Microsoft 365 apps. Licensing Cost: Google Workspace has a subscription service, Business Starter ( $6.00 user/month) to Business Plus ($18.00/user/month). SharePoint Online pricing ranges from Business Basic ($6.00/user/month) to E5 ($35.00/user/month). SharePoint vs Confluence Document Control: Confluence is a great option to create content. However, SharePoint has more advanced features which fall into two main categories: Document Versioning Metadata Tagging and Custom Workflows Compliance: SharePoint is well-known for its vast and detailed compliance capabilities. It supports many industry compliance protocols/standards. Confluence, on the other hand, may not be as useful as SharePoint as it only grants access control. SharePoint vs Dropbox Business File Sharing vs Governance: Dropbox Business is a file storage and sharing solution. It is convenient for smaller teams that store files in the cloud. But it often is devoid of strong document lifecycle processes, permissions and enterprise workflow. SharePoint, on the other hand, has very strong governance capability, audit trails, document retention policies, and structured document workflow. Integration & Ecosystem: SharePoint integrates well with Microsoft 365 applications. While both Dropbox and Confluence also integrate with third-party apps, it could sometimes need supplementary licensing or connectors. With SharePoint, organizations in 2026 will benefit from a secure, compliant, and flexible platform. Therefore, IT leaders, Project Managers, and CFOs that are planning for investments in a digital workplace would be encouraged to choose SharePoint. To Wrap Up SharePoint for business pricing varies according to size, goals, and implementation method used by each organization. Small organizations often pay $5,000-$25,000, medium-sized businesses can expect to spend between $25,000 and $150,000, while large businesses may well exceed $150,000-$500,000. In addition to budgeted licenses, organizations should think about the cost of designing architecture, governance, migration, integration, training and ongoing support. A business, however, should not forget the hidden costs linked to SharePoint implementation. These costs may rise if the overall deployment is not planned properly. A complete, realistic 3-year Total Cost of Ownership (TCO) analysis for SharePoint should include the cost of the licensing, implementation, support, future storage growth, and potential upgrades. The most important thing to remember is to calculate your SharePoint budget based on your needs, usage of licenses, and creating a well-documented roadmap for success. The next step is to transform these estimations into an organized cost plan. Engage an experienced partner to ensure accurate budgeting and scalable SharePoint implementation . Schedule a SharePoint Cost Estimation Call to get SharePoint pricing insights — Get a personalized cost plan and 3-year TCO projection tailored to your organization! FAQs 1. How much does SharePoint cost in 2026? For small businesses SharePoint expenses range from $5,000-$25,000. Medium sized businesses pay between $25,000-$150,000. For large enterprises, the costs could be between $150,000 to $500,000 or even higher. 2. Is SharePoint free with Microsoft 365? No, it is not completely free. Most of the Microsoft 365 plans include SharePoint but you still need to purchase a proper license. 3. How much does SharePoint migration cost? The cost of migrating data to SharePoint varies from $5,000 – $50,000. 4. How long does SharePoint implementation take? It ranges from four to eight weeks for small companies, three to five months for mid-sized companies, and six to twelve months or longer for larger companies. 5. Can SharePoint be self-installed? Yes, SharePoint On-Premise can be installed by the person themselves. However, Microsoft installs and manages SharePoint Online. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026 What is SharePoint in 2026? SharePoint is a web-based application designed by Microsoft. It started its operations in 2001 when it was just a basic document storage and an intranet solution. Businesses use SharePoint to store, share and organize documents efficiently. Today it is serving businesses beyond that by being a modern collaborative work environment. It integrates with Team and OneDrive to give a boost to the overall digital workplace. Organizations nowadays have a choice to either select SharePoint Online or On-Premises according to the need. SharePoint Online is a cloud version that benefits organizations with steady updates, security and infrastructure management. If you are a business managing operations remotely or in a hybrid environment, then SharePoint Online is often the most practical option for hybrid or remote environments. However, SharePoint On-Premises will assist you in storing data, protecting it and maintaining the system. In 2026 and beyond, industry experts expect SharePoint to remain a vital solution for most organizations. It is a perfect tool to control documents, give permissions, works effectively with compliance tools, automates workflows and integrates smoothly with various Microsoft tools. With experienced support, enterprises can benefit from scalable SharePoint development services as they facilitate collaboration and safe data handling and protection. SharePoint’s Business Value SharePoint enhances collaboration as it is an easy to use and safe platform. Typically, employees use it to save and share documents. SharePoint facilitates in finding a document without much hassle. The version control feature of SharePoint helps you keep track of dual documents. With SharePoint’s real time editing feature, team members/workers can work on the same document, edit it and manage it while minimizing mistakes. Also, the compliance and governance features of SharePoint allow users to access and share data via role-based systems. The IT team has the authority to allow edit and viewer access of documents on SharePoint. Your data will be protected on SharePoint with the built-in safety features. Being a central hub to manage content, SharePoint has libraries, a feature to save files and metadata to gather and manage information. When the employees have a large data set, SharePoint assists in finding files with ease. Last but not least, SharePoint efficiently integrates with Teams, Outlook and OneDrive within the same cloud-based digital workspace. SharePoint Deployment Types The type of SharePoint deployment you choose has a direct impact on cost. SharePoint Online SharePoint Online works on a monthly and yearly subscription. It works smartly on cloud architecture, manages servers, keeps the system updates, offers safety patches and data backups as well. For this reason, there is no need to have hardware. As the business scales, SharePoint Online also scales up and down efficiently. To reduce IT workload and unnecessary cost of infrastructure, most of the companies prefer to use SharePoint Online. Also, SharePoint online pricing is predictable as compared to On-premises set up. SharePoint On-Premise SharePoint On-Premises needs server licenses and CALs. Also, SharePoint On-Premises cannot function properly without having a proper hardware, a storage setup, maintenance system that upkeeps steady updates and safety notifications. The flip side of SharePoint On-Premises is that the starting investment could be costly and may impact the business more because of high IT expenses linked to the system. Hybrid Environments Hybrid environment focuses on both on-premises and cloud-based infrastructure. Organizations that have strict data rules or larger legacy systems utilize hybrid models. On the other hand, a hybrid environment can be more complex to handle. Across both on-premises and cloud-systems, a hybrid environment has many aspects. Hence, the cost to run a hybrid model is typically more than just using SharePoint Online, a cloud-based environment. Microsoft 365 Licensing & SharePoint Microsoft 365 plans include SharePoint Online. Microsoft bills these plans per user, per month. Plan Total Price Key Features Basic $6 Web apps, SharePoint Online, Teams, OneDrive Standard $12.50 Desktop apps + cloud services E3 $36 Advanced security, compliance, analytics E5 $57 Premium security, threat protection, analytics Included SharePoint features by tier: Business Basic/Standard – Basic SharePoint site, document libraries with less permissions E3 – Updated security, compliance, and governance capabilities with higher storage options. E5 – Higher-level protection and analytics for your enterprise. User limits & restrictions: Typically, the Business plans assist up to 300 users E3/E5 facilitates a vast number of users. Standalone SharePoint Licensing Cost Area Typical Range (USD) What It Covers Discovery and Planning $3,000–$12,000 Scope, architecture, and a solid project plan Site Structure $5,000–$20,000 Taxonomy, site hierarchy, governance rules Custom Development $10,000–$100,000+ SPFx solutions, APIs, custom workflows Integration Costs $8,000–$60,000 Teams, Azure, ERP, CRM, or other system integrations Migration $5,000–$50,000 Migrating files and data from old systems Training & Change management $3,000–$25,000 Workshops, documentation, and adoption programs QA & Testing $2,000–$15,000 User acceptance testing, performance checks Server versions: SharePoint Server 2019 on premises pricing SharePoint Server Subscription Edition SharePoint Licensing Cost Scenarios Small Business (25 users): 25 Business Standard Employees @ $12.50 = $325.00/month ($3,900.00/Year) Mid‑Market (100 users): 100 Microsoft 365 E3 Employees @ 36.00 = $3,600.00/month ($43,200.00/Year) Enterprise (1,000 users): 1,000 Microsoft 365 E5 Employees @ 57.00 = $57,000.00/month ($684,000.00/Year) On‑Premise Example (500 users): SharePoint Server License ~ $8,500 500 × Standard CAL @ $125 = $62,500 500 × Enterprise CAL @ $100 = $50,000 Total licenses = ~$121,000 + Software Assurance To review SharePoint license costs , look at our detailed guide that provides information on various plans, pricing tiers and what is included in each plan based on your company’s size! SharePoint Implementation Costs Implementing the SharePoint platform needs detailed effort. When you understand the SharePoint implementation costs, you will be aware of the current and upfront costs. Setup: Begin with setting up a proper SharePoint environment. Permissions & Governance: The SharePoint users get the authority to organize, edit and control the site information. It has governance policies to protect sensitive data. Information Architecture: Your team should define and organize the information in one central location to keep the information at one place and the users access it with ease. Detailed Cost Breakdown Cost Area Typical Range (USD) What It Covers Discovery and Planning $3,000–$12,000 Scope, architecture, and a solid project plan Site Structure $5,000–$20,000 Taxonomy, site hierarchy, governance rules Custom Development $10,000–$100,000+ SPFx solutions, APIs, custom workflows Integration Costs $8,000–$60,000 Teams, Azure, ERP, CRM, or other system integrations Migration $5,000–$50,000 Migrating files and data from old systems Training & Change management $3,000–$25,000 Workshops, documentation, and adoption programs QA & Testing $2,000–$15,000 User acceptance testing, performance checks SharePoint Online pricing vary based on a variety of factors, including: Size of the business Complexity of workflows Tailored approach/customization needed Exact number of users Real-World Cost Scenarios Small Business Implementation – It is a basic plan and can cost from $5,000 to $25,000 for 5 to 25 users. Mid-market Implementation – It offers average customization, handling site structures and a few integrations that can cost from $25,000 to $150,000 for 50 to 200 users. Enterprise-level or Multi-site Implementations – It automates complex workflows with multi-cloud integration and change management. Can from $150,000 – $500,000 for unlimited users. Timeline vs Cost Impact Project Typical Duration Cost Impact Simple 4 - 8 weeks Low Medium 3 - 5 months Moderate Enterprise 6 - 12 months High Hidden & Overlooked Costs Most organizations ignore hidden costs which can pile up and increase overall costs. The following sections outline these costs in detail: Governance Overhead Businesses frequently forget to maintain system governance which can eventually become a burden in terms of cost. More admin hours need to be allocated or hiring a proper consultant could be the dire need which is again very costly to manage. Ideally, businesses using SharePoint should take care of governance needs from the start. Security & Compliance Security and compliance add more to the actual costs because of strict safety and regulatory protocols. Organizations manage security and compliance by using the following: Data Loss Prevention (DLP) tools. SIEM Connectors. Encryption solutions. Support & Admin Costs Administrative support include: Managing permissions, sites, and other troubleshooting support Vendor support contracts or tackling service providers Integration Maintenance SharePoint’s functionality improves as it integrates with Teams, Power Platform, ERP and third-party apps. If a business fails to maintain SharePoint integration with these tools, proper processing can be hampered and there will be a sudden and surprising rise in the costs. App Marketplace & Third-Party Tools Many organizations use add-on tools to increase SharePoint usage such as : Backup and recovery solutions Advanced search and taxonomy management Workflow automation engines Customization & Development Level 1 – OOTB + Branding — $5,000 – $15,000. Level 2 – Low Code (power platform integration) – $20,000 – $50,000. Level 3 – Full Custom (SPFx, API integrations) — $50,000 – $150,000 or more. Worried about hidden costs like migration, governance, or storage growth? We’ll help you uncover them by following SharePoint best practices for document management and security. ROI, TCO & Budget Planning Companies need to think about 2026 costs so they can define an accurate 3-year TCO. 3-Year Total Cost of Ownership (TCO) Licenses: Poor estimation of storage needs result in increased costs. Usually, the costs to manage additional storage are almost $0.20 per GB per month. For example, if your organization adds 1 TB of storage, the annual cost will be approximately $2,400. Implementation: For small deployments, typical implementation costs are between $5,000 and $25,000. For large enterprise deployments, costs typically exceed $150,000 to $500,000. Support: Ongoing support will cost between $5,000 and $50,000 or more. It depends on the complexity of the project. Hardware (On-Premise): If your organization implements SharePoint on-premise, the SharePoint server costs, hardware, networking, backup, and data storage hardware will be more. Sample TCO Table: Year Licenses Implementation Support Total 1 $30,000 $100,000 $15,000 $145,000 2 $30,000 - $15,000 $45,000 3 $30,000 - $15,000 $45,000 Strategic Cost Optimization: License Bridge: Select lower-cost F3 Licenses versus E3 Licenses Microsoft Archive: Using Cold Storage (SharePoint) can reduce storage costs up to 75%. Early Renewal Strategy: Lock in 2025 price before the July 2026 price increase. Copilot Usage Assessment: Identify active versus unused AI licenses. ROI Calculation SharePoint can deliver measurable ROI: Increased productivity: Teams can locate documents quickly & collaborate even faster. Reduced SharePoint storage costs: Organizations can save storage costs by automating deletions and employing tiered storage. Faster onboarding: Immediate access to content for new members. Compliance savings: Using a governance tool can protect your company from penalties that could arise from data misuses. To make smarter investments in SharePoint 2026, companies should understand TCO, ROI, and consider hidden costs. Using the knowledge of SharePoint pricing will help create forecasted budgets, have higher adoption rates, and gain long-term business value. SharePoint vs. Alternatives When deploying SharePoint in 2026, it is helpful to compare it to the other popular platforms. Knowing the difference between the various platforms will help businesses define the best option based on cost, compliance, and productivity. SharePoint vs Google Workspace Collaboration: Google Workspace is very collaborative with their real-time editing. Many users can edit documents at one time. The SharePoint users can “co-author” files via Microsoft 365 apps. Licensing Cost: Google Workspace has a subscription service, Business Starter ( $6.00 user/month) to Business Plus ($18.00/user/month). SharePoint Online pricing ranges from Business Basic ($6.00/user/month) to E5 ($35.00/user/month). SharePoint vs Confluence Document Control: Confluence is a great option to create content. However, SharePoint has more advanced features which fall into two main categories: Document Versioning Metadata Tagging and Custom Workflows Compliance: SharePoint is well-known for its vast and detailed compliance capabilities. It supports many industry compliance protocols/standards. Confluence, on the other hand, may not be as useful as SharePoint as it only grants access control. SharePoint vs Dropbox Business File Sharing vs Governance: Dropbox Business is a file storage and sharing solution. It is convenient for smaller teams that store files in the cloud. But it often is devoid of strong document lifecycle processes, permissions and enterprise workflow. SharePoint, on the other hand, has very strong governance capability, audit trails, document retention policies, and structured document workflow. Integration & Ecosystem: SharePoint integrates well with Microsoft 365 applications. While both Dropbox and Confluence also integrate with third-party apps, it could sometimes need supplementary licensing or connectors. With SharePoint, organizations in 2026 will benefit from a secure, compliant, and flexible platform. Therefore, IT leaders, Project Managers, and CFOs that are planning for investments in a digital workplace would be encouraged to choose SharePoint. To Wrap Up SharePoint for business pricing varies according to size, goals, and implementation method used by each organization. Small organizations often pay $5,000-$25,000, medium-sized businesses can expect to spend between $25,000 and $150,000, while large businesses may well exceed $150,000-$500,000. In addition to budgeted licenses, organizations should think about the cost of designing architecture, governance, migration, integration, training and ongoing support. A business, however, should not forget the hidden costs linked to SharePoint implementation. These costs may rise if the overall deployment is not planned properly. A complete, realistic 3-year Total Cost of Ownership (TCO) analysis for SharePoint should include the cost of the licensing, implementation, support, future storage growth, and potential upgrades. The most important thing to remember is to calculate your SharePoint budget based on your needs, usage of licenses, and creating a well-documented roadmap for success. The next step is to transform these estimations into an organized cost plan. Engage an experienced partner to ensure accurate budgeting and scalable SharePoint implementation . Schedule a SharePoint Cost Estimation Call to get SharePoint pricing insights — Get a personalized cost plan and 3-year TCO projection tailored to your organization! FAQs 1. How much does SharePoint cost in 2026? For small businesses SharePoint expenses range from $5,000-$25,000. Medium sized businesses pay between $25,000-$150,000. For large enterprises, the costs could be between $150,000 to $500,000 or even higher. 2. Is SharePoint free with Microsoft 365? No, it is not completely free. Most of the Microsoft 365 plans include SharePoint but you still need to purchase a proper license. 3. How much does SharePoint migration cost? The cost of migrating data to SharePoint varies from $5,000 – $50,000. 4. How long does SharePoint implementation take? It ranges from four to eight weeks for small companies, three to five months for mid-sized companies, and six to twelve months or longer for larger companies. 5. Can SharePoint be self-installed? Yes, SharePoint On-Premise can be installed by the person themselves. However, Microsoft installs and manages SharePoint Online. Subscribe to ATI First name Last Name Your email Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+  "word_count": 5286,
+  "headings_count": 33,
+  "images_count": 4,
+  "buttons_count": 16,
+  "forms_count": 2,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "SharePoint Cost Estimation 2026: Complete Pricing Insights and Factors Home » SharePoint Cost Estimation 2026: Complete Pricing Insights and Factors If you are thinking about using SharePoint in 2026, don’t just rely on inaccurate assumptions. This guide acts as a realistic and practical estimation about SharePoint migration, implementation, customization and maintenance. It is a collection of the real-life experiences of many businesses that implement SharePoint. This SharePoint cost estimation guide for 2026 talks about all four Microsoft 365 licensing levels. It will compare SharePoint On-Premises Hosting with SharePoint Online in depth. Also, there is a list of costs regarding SharePoint architecture, governance, integration, migration and training. Also, there is a detailed section describing the admin costs incurred and the three-year TCO. As the current corporate environment is moving to a hybrid workplace and following the compliance standards strictly, integration of SharePoint with other tools and systems should be a risk-free attempt. However, any miscalculation related to SharePoint development cost could add an extra burden on your overall budget. Furthermore, it ends up in lower adoption rates of the users. Whether you are an IT manager, company’s CFO, a project manager or belong to Managed Service Providers (MSPs) planning for scalable SharePoint deployment , this guide is for you. Not sure what SharePoint will really cost your organization in 2026? Let’s map out a clear, numbers-backed estimate before you invest! What is SharePoint in 2026? SharePoint is a web-based application designed by Microsoft. It started its operations in 2001 when it was just a basic document storage and an intranet solution. Businesses use SharePoint to store, share and organize documents efficiently. Today it is serving businesses beyond that by being a modern collaborative work environment. It integrates with Team and OneDrive to give a boost to the overall digital workplace. Organizations nowadays have a choice to either select SharePoint Online or On-Premises according to the need. SharePoint Online is a cloud version that benefits organizations with steady updates, security and infrastructure management. If you are a business managing operations remotely or in a hybrid environment, then SharePoint Online is often the most practical option for hybrid or remote environments. However, SharePoint On-Premises will assist you in storing data, protecting it and maintaining the system. In 2026 and beyond, industry experts expect SharePoint to remain a vital solution for most organizations. It is a perfect tool to control documents, give permissions, works effectively with compliance tools, automates workflows and integrates smoothly with various Microsoft tools. With experienced support, enterprises can benefit from scalable SharePoint development services as they facilitate collaboration and safe data handling and protection. SharePoint’s Business Value SharePoint enhances collaboration as it is an easy to use and safe platform. Typically, employees use it to save and share documents. SharePoint facilitates in finding a document without much hassle. The version control feature of SharePoint helps you keep track of dual documents. With SharePoint’s real time editing feature, team members/workers can work on the same document, edit it and manage it while minimizing mistakes. Also, the compliance and governance features of SharePoint allow users to access and share data via role-based systems. The IT team has the authority to allow edit and viewer access of documents on SharePoint. Your data will be protected on SharePoint with the built-in safety features. Being a central hub to manage content, SharePoint has libraries, a feature to save files and metadata to gather and manage information. When the employees have a large data set, SharePoint assists in finding files with ease. Last but not least, SharePoint efficiently integrates with Teams, Outlook and OneDrive within the same cloud-based digital workspace. SharePoint Deployment Types The type of SharePoint deployment you choose has a direct impact on cost. SharePoint Online SharePoint Online works on a monthly and yearly subscription. It works smartly on cloud architecture, manages servers, keeps the system updates, offers safety patches and data backups as well. For this reason, there is no need to have hardware. As the business scales, SharePoint Online also scales up and down efficiently. To reduce IT workload and unnecessary cost of infrastructure, most of the companies prefer to use SharePoint Online. Also, SharePoint online pricing is predictable as compared to On-premises set up. SharePoint On-Premise SharePoint On-Premises needs server licenses and CALs. Also, SharePoint On-Premises cannot function properly without having a proper hardware, a storage setup, maintenance system that upkeeps steady updates and safety notifications. The flip side of SharePoint On-Premises is that the starting investment could be costly and may impact the business more because of high IT expenses linked to the system. Hybrid Environments Hybrid environment focuses on both on-premises and cloud-based infrastructure. Organizations that have strict data rules or larger legacy systems utilize hybrid models. On the other hand, a hybrid environment can be more complex to handle. Across both on-premises and cloud-systems, a hybrid environment has many aspects. Hence, the cost to run a hybrid model is typically more than just using SharePoint Online, a cloud-based environment. SharePoint Licensing Costs Microsoft 365 Licensing & SharePoint Microsoft 365 plans include SharePoint Online. Microsoft bills these plans per user, per month. Plan Total Price Key Features Basic $6 Web apps, SharePoint Online, Teams, OneDrive Standard $12.50 Desktop apps + cloud services E3 $36 Advanced security, compliance, analytics E5 $57 Premium security, threat protection, analytics Included SharePoint features by tier: Business Basic/Standard – Basic SharePoint site, document libraries with less permissions E3 – Updated security, compliance, and governance capabilities with higher storage options. E5 – Higher-level protection and analytics for your enterprise. User limits & restrictions: Typically, the Business plans assist up to 300 users E3/E5 facilitates a vast number of users. Standalone SharePoint Licensing Cost Area Typical Range (USD) What It Covers Discovery and Planning $3,000–$12,000 Scope, architecture, and a solid project plan Site Structure $5,000–$20,000 Taxonomy, site hierarchy, governance rules Custom Development $10,000–$100,000+ SPFx solutions, APIs, custom workflows Integration Costs $8,000–$60,000 Teams, Azure, ERP, CRM, or other system integrations Migration $5,000–$50,000 Migrating files and data from old systems Training & Change management $3,000–$25,000 Workshops, documentation, and adoption programs QA & Testing $2,000–$15,000 User acceptance testing, performance checks Server versions: SharePoint Server 2019 on premises pricing SharePoint Server Subscription Edition SharePoint Licensing Cost Scenarios Small Business (25 users): 25 Business Standard Employees @ $12.50 = $325.00/month ($3,900.00/Year) Mid‑Market (100 users): 100 Microsoft 365 E3 Employees @ 36.00 = $3,600.00/month ($43,200.00/Year) Enterprise (1,000 users): 1,000 Microsoft 365 E5 Employees @ 57.00 = $57,000.00/month ($684,000.00/Year) On‑Premise Example (500 users): SharePoint Server License ~ $8,500 500 × Standard CAL @ $125 = $62,500 500 × Enterprise CAL @ $100 = $50,000 Total licenses = ~$121,000 + Software Assurance To review SharePoint license costs , look at our detailed guide that provides information on various plans, pricing tiers and what is included in each plan based on your company’s size! SharePoint Implementation Costs Implementing the SharePoint platform needs detailed effort. When you understand the SharePoint implementation costs, you will be aware of the current and upfront costs. Setup: Begin with setting up a proper SharePoint environment. Permissions & Governance: The SharePoint users get the authority to organize, edit and control the site information. It has governance policies to protect sensitive data. Information Architecture: Your team should define and organize the information in one central location to keep the information at one place and the users access it with ease. Detailed Cost Breakdown Cost Area Typical Range (USD) What It Covers Discovery and Planning $3,000–$12,000 Scope, architecture, and a solid project plan Site Structure $5,000–$20,000 Taxonomy, site hierarchy, governance rules Custom Development $10,000–$100,000+ SPFx solutions, APIs, custom workflows Integration Costs $8,000–$60,000 Teams, Azure, ERP, CRM, or other system integrations Migration $5,000–$50,000 Migrating files and data from old systems Training & Change management $3,000–$25,000 Workshops, documentation, and adoption programs QA & Testing $2,000–$15,000 User acceptance testing, performance checks SharePoint Online pricing vary based on a variety of factors, including: Size of the business Complexity of workflows Tailored approach/customization needed Exact number of users Real-World Cost Scenarios Small Business Implementation – It is a basic plan and can cost from $5,000 to $25,000 for 5 to 25 users. Mid-market Implementation – It offers average customization, handling site structures and a few integrations that can cost from $25,000 to $150,000 for 50 to 200 users. Enterprise-level or Multi-site Implementations – It automates complex workflows with multi-cloud integration and change management. Can from $150,000 – $500,000 for unlimited users. Timeline vs Cost Impact Project Typical Duration Cost Impact Simple 4 - 8 weeks Low Medium 3 - 5 months Moderate Enterprise 6 - 12 months High Hidden & Overlooked Costs Most organizations ignore hidden costs which can pile up and increase overall costs. The following sections outline these costs in detail: Governance Overhead Businesses frequently forget to maintain system governance which can eventually become a burden in terms of cost. More admin hours need to be allocated or hiring a proper consultant could be the dire need which is again very costly to manage. Ideally, businesses using SharePoint should take care of governance needs from the start. Security & Compliance Security and compliance add more to the actual costs because of strict safety and regulatory protocols. Organizations manage security and compliance by using the following: Data Loss Prevention (DLP) tools. SIEM Connectors. Encryption solutions. Support & Admin Costs Administrative support include: Managing permissions, sites, and other troubleshooting support Vendor support contracts or tackling service providers Integration Maintenance SharePoint’s functionality improves as it integrates with Teams, Power Platform, ERP and third-party apps. If a business fails to maintain SharePoint integration with these tools, proper processing can be hampered and there will be a sudden and surprising rise in the costs. App Marketplace & Third-Party Tools Many organizations use add-on tools to increase SharePoint usage such as : Backup and recovery solutions Advanced search and taxonomy management Workflow automation engines Customization & Development Level 1 – OOTB + Branding — $5,000 – $15,000. Level 2 – Low Code (power platform integration) – $20,000 – $50,000. Level 3 – Full Custom (SPFx, API integrations) — $50,000 – $150,000 or more. Worried about hidden costs like migration, governance, or storage growth? We’ll help you uncover them by following SharePoint best practices for document management and security. ROI, TCO & Budget Planning Companies need to think about 2026 costs so they can define an accurate 3-year TCO. 3-Year Total Cost of Ownership (TCO) Licenses: Poor estimation of storage needs result in increased costs. Usually, the costs to manage additional storage are almost $0.20 per GB per month. For example, if your organization adds 1 TB of storage, the annual cost will be approximately $2,400. Implementation: For small deployments, typical implementation costs are between $5,000 and $25,000. For large enterprise deployments, costs typically exceed $150,000 to $500,000. Support: Ongoing support will cost between $5,000 and $50,000 or more. It depends on the complexity of the project. Hardware (On-Premise): If your organization implements SharePoint on-premise, the SharePoint server costs, hardware, networking, backup, and data storage hardware will be more. Sample TCO Table: Year Licenses Implementation Support Total 1 $30,000 $100,000 $15,000 $145,000 2 $30,000 - $15,000 $45,000 3 $30,000 - $15,000 $45,000 Strategic Cost Optimization: License Bridge: Select lower-cost F3 Licenses versus E3 Licenses Microsoft Archive: Using Cold Storage (SharePoint) can reduce storage costs up to 75%. Early Renewal Strategy: Lock in 2025 price before the July 2026 price increase. Copilot Usage Assessment: Identify active versus unused AI licenses. ROI Calculation SharePoint can deliver measurable ROI: Increased productivity: Teams can locate documents quickly & collaborate even faster. Reduced SharePoint storage costs: Organizations can save storage costs by automating deletions and employing tiered storage. Faster onboarding: Immediate access to content for new members. Compliance savings: Using a governance tool can protect your company from penalties that could arise from data misuses. To make smarter investments in SharePoint 2026, companies should understand TCO, ROI, and consider hidden costs. Using the knowledge of SharePoint pricing will help create forecasted budgets, have higher adoption rates, and gain long-term business value. SharePoint vs. Alternatives When deploying SharePoint in 2026, it is helpful to compare it to the other popular platforms. Knowing the difference between the various platforms will help businesses define the best option based on cost, compliance, and productivity. SharePoint vs Google Workspace Collaboration: Google Workspace is very collaborative with their real-time editing. Many users can edit documents at one time. The SharePoint users can “co-author” files via Microsoft 365 apps. Licensing Cost: Google Workspace has a subscription service, Business Starter ( $6.00 user/month) to Business Plus ($18.00/user/month). SharePoint Online pricing ranges from Business Basic ($6.00/user/month) to E5 ($35.00/user/month). SharePoint vs Confluence Document Control: Confluence is a great option to create content. However, SharePoint has more advanced features which fall into two main categories: Document Versioning Metadata Tagging and Custom Workflows Compliance: SharePoint is well-known for its vast and detailed compliance capabilities. It supports many industry compliance protocols/standards. Confluence, on the other hand, may not be as useful as SharePoint as it only grants access control. SharePoint vs Dropbox Business File Sharing vs Governance: Dropbox Business is a file storage and sharing solution. It is convenient for smaller teams that store files in the cloud. But it often is devoid of strong document lifecycle processes, permissions and enterprise workflow. SharePoint, on the other hand, has very strong governance capability, audit trails, document retention policies, and structured document workflow. Integration & Ecosystem: SharePoint integrates well with Microsoft 365 applications. While both Dropbox and Confluence also integrate with third-party apps, it could sometimes need supplementary licensing or connectors. With SharePoint, organizations in 2026 will benefit from a secure, compliant, and flexible platform. Therefore, IT leaders, Project Managers, and CFOs that are planning for investments in a digital workplace would be encouraged to choose SharePoint. To Wrap Up SharePoint for business pricing varies according to size, goals, and implementation method used by each organization. Small organizations often pay $5,000-$25,000, medium-sized businesses can expect to spend between $25,000 and $150,000, while large businesses may well exceed $150,000-$500,000. In addition to budgeted licenses, organizations should think about the cost of designing architecture, governance, migration, integration, training and ongoing support. A business, however, should not forget the hidden costs linked to SharePoint implementation. These costs may rise if the overall deployment is not planned properly. A complete, realistic 3-year Total Cost of Ownership (TCO) analysis for SharePoint should include the cost of the licensing, implementation, support, future storage growth, and potential upgrades. The most important thing to remember is to calculate your SharePoint budget based on your needs, usage of licenses, and creating a well-documented roadmap for success. The next step is to transform these estimations into an organized cost plan. Engage an experienced partner to ensure accurate budgeting and scalable SharePoint implementation . Schedule a SharePoint Cost Estimation Call to get SharePoint pricing insights — Get a personalized cost plan and 3-year TCO projection tailored to your organization! FAQs 1. How much does SharePoint cost in 2026? For small businesses SharePoint expenses range from $5,000-$25,000. Medium sized businesses pay between $25,000-$150,000. For large enterprises, the costs could be between $150,000 to $500,000 or even higher. 2. Is SharePoint free with Microsoft 365? No, it is not completely free. Most of the Microsoft 365 plans include SharePoint but you still need to purchase a proper license. 3. How much does SharePoint migration cost? The cost of migrating data to SharePoint varies from $5,000 – $50,000. 4. How long does SharePoint implementation take? It ranges from four to eight weeks for small companies, three to five months for mid-sized companies, and six to twelve months or longer for larger companies. 5. Can SharePoint be self-installed? Yes, SharePoint On-Premise can be installed by the person themselves. However, Microsoft installs and manages SharePoint Online. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/02/SharePoint-Cost-Estimation-2026-Complete-Pricing-Insights-and-Factors.jpg",
+          "alt": "SharePoint Cost Estimation"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+          "alt": "Mortgage Automation in 2026"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+          "alt": "HMDA Reporting Setup in Encompass LOS"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+          "alt": "What is a Loan Origination System?"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Home",
+          "url": "https://awesometechinc.com/"
+        },
+        {
+          "label": "SharePoint deployment",
+          "url": "https://awesometechinc.com/sharepoint-deployment/"
+        },
+        {
+          "label": "SharePoint",
+          "url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration"
+        },
+        {
+          "label": "SharePoint development services",
+          "url": "https://awesometechinc.com/sharepoint-development-services/"
+        },
+        {
+          "label": "SharePoint Online",
+          "url": "https://awesometechinc.com/microsoft-sharepoint-online/"
+        },
+        {
+          "label": "SharePoint license costs",
+          "url": "https://awesometechinc.com/how-much-does-a-sharepoint-license-cost/"
+        },
+        {
+          "label": "SharePoint best practices",
+          "url": "https://awesometechinc.com/sharepoint-document-management-best-practices/"
+        },
+        {
+          "label": "SharePoint Cost Estimation Call",
+          "url": "https://awesometechinc.com/contact-us/"
+        },
+        {
+          "label": "Search",
+          "url": ""
+        },
+        {
+          "label": "Subscribe",
+          "url": ""
+        },
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form",
+          "form_id": "",
+          "fields": [
+            {
+              "name": "s",
+              "label": "",
+              "type": "search",
+              "required": false
+            }
+          ],
+          "submit_label": "Search"
+        },
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "What is SharePoint in 2026?",
+      "type": "service_section",
+      "content": "SharePoint is a web-based application designed by Microsoft. It started its operations in 2001 when it was just a basic document storage and an intranet solution. Businesses use SharePoint to store, share and organize documents efficiently. Today it is serving businesses beyond that by being a modern collaborative work environment. It integrates with Team and OneDrive to give a boost to the overall digital workplace. Organizations nowadays have a choice to either select SharePoint Online or On-Premises according to the need. SharePoint Online is a cloud version that benefits organizations with steady updates, security and infrastructure management. If you are a business managing operations remotely or in a hybrid environment, then SharePoint Online is often the most practical option for hybrid or remote environments. However, SharePoint On-Premises will assist you in storing data, protecting it and maintaining the system. In 2026 and beyond, industry experts expect SharePoint to remain a vital solution for most organizations. It is a perfect tool to control documents, give permissions, works effectively with compliance tools, automates workflows and integrates smoothly with various Microsoft tools. With experienced support, enterprises can benefit from scalable SharePoint development services as they facilitate collaboration and safe data handling and protection.",
+      "images": [],
+      "buttons": [
+        {
+          "label": "SharePoint",
+          "url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration"
+        },
+        {
+          "label": "SharePoint development services",
+          "url": "https://awesometechinc.com/sharepoint-development-services/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 3,
+      "title": "SharePoint’s Business Value",
+      "type": "service_section",
+      "content": "SharePoint enhances collaboration as it is an easy to use and safe platform. Typically, employees use it to save and share documents. SharePoint facilitates in finding a document without much hassle. The version control feature of SharePoint helps you keep track of dual documents. With SharePoint’s real time editing feature, team members/workers can work on the same document, edit it and manage it while minimizing mistakes. Also, the compliance and governance features of SharePoint allow users to access and share data via role-based systems. The IT team has the authority to allow edit and viewer access of documents on SharePoint. Your data will be protected on SharePoint with the built-in safety features. Being a central hub to manage content, SharePoint has libraries, a feature to save files and metadata to gather and manage information. When the employees have a large data set, SharePoint assists in finding files with ease. Last but not least, SharePoint efficiently integrates with Teams, Outlook and OneDrive within the same cloud-based digital workspace.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 4,
+      "title": "SharePoint Deployment Types",
+      "type": "content_section",
+      "content": "The type of SharePoint deployment you choose has a direct impact on cost.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 5,
+      "title": "SharePoint Online",
+      "type": "content_section",
+      "content": "SharePoint Online works on a monthly and yearly subscription. It works smartly on cloud architecture, manages servers, keeps the system updates, offers safety patches and data backups as well. For this reason, there is no need to have hardware. As the business scales, SharePoint Online also scales up and down efficiently. To reduce IT workload and unnecessary cost of infrastructure, most of the companies prefer to use SharePoint Online. Also, SharePoint online pricing is predictable as compared to On-premises set up.",
+      "images": [],
+      "buttons": [
+        {
+          "label": "SharePoint Online",
+          "url": "https://awesometechinc.com/microsoft-sharepoint-online/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 6,
+      "title": "SharePoint On-Premise",
+      "type": "content_section",
+      "content": "SharePoint On-Premises needs server licenses and CALs. Also, SharePoint On-Premises cannot function properly without having a proper hardware, a storage setup, maintenance system that upkeeps steady updates and safety notifications. The flip side of SharePoint On-Premises is that the starting investment could be costly and may impact the business more because of high IT expenses linked to the system.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 7,
+      "title": "Hybrid Environments",
+      "type": "content_section",
+      "content": "Hybrid environment focuses on both on-premises and cloud-based infrastructure. Organizations that have strict data rules or larger legacy systems utilize hybrid models. On the other hand, a hybrid environment can be more complex to handle. Across both on-premises and cloud-systems, a hybrid environment has many aspects. Hence, the cost to run a hybrid model is typically more than just using SharePoint Online, a cloud-based environment.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 8,
+      "title": "Microsoft 365 Licensing & SharePoint",
+      "type": "service_section",
+      "content": "Microsoft 365 plans include SharePoint Online. Microsoft bills these plans per user, per month. Plan Total Price Key Features Basic $6 Web apps, SharePoint Online, Teams, OneDrive Standard $12.50 Desktop apps + cloud services E3 $36 Advanced security, compliance, analytics E5 $57 Premium security, threat protection, analytics Included SharePoint features by tier: Business Basic/Standard – Basic SharePoint site, document libraries with less permissions E3 – Updated security, compliance, and governance capabilities with higher storage options. E5 – Higher-level protection and analytics for your enterprise. User limits & restrictions: Typically, the Business plans assist up to 300 users E3/E5 facilitates a vast number of users.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 9,
+      "title": "Standalone SharePoint Licensing",
+      "type": "service_section",
+      "content": "Cost Area Typical Range (USD) What It Covers Discovery and Planning $3,000–$12,000 Scope, architecture, and a solid project plan Site Structure $5,000–$20,000 Taxonomy, site hierarchy, governance rules Custom Development $10,000–$100,000+ SPFx solutions, APIs, custom workflows Integration Costs $8,000–$60,000 Teams, Azure, ERP, CRM, or other system integrations Migration $5,000–$50,000 Migrating files and data from old systems Training & Change management $3,000–$25,000 Workshops, documentation, and adoption programs QA & Testing $2,000–$15,000 User acceptance testing, performance checks Server versions: SharePoint Server 2019 on premises pricing SharePoint Server Subscription Edition",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 10,
+      "title": "SharePoint Licensing Cost Scenarios",
+      "type": "testimonial_section",
+      "content": "Small Business (25 users): 25 Business Standard Employees @ $12.50 = $325.00/month ($3,900.00/Year) Mid‑Market (100 users): 100 Microsoft 365 E3 Employees @ 36.00 = $3,600.00/month ($43,200.00/Year) Enterprise (1,000 users): 1,000 Microsoft 365 E5 Employees @ 57.00 = $57,000.00/month ($684,000.00/Year) On‑Premise Example (500 users): SharePoint Server License ~ $8,500 500 × Standard CAL @ $125 = $62,500 500 × Enterprise CAL @ $100 = $50,000 Total licenses = ~$121,000 + Software Assurance To review SharePoint license costs , look at our detailed guide that provides information on various plans, pricing tiers and what is included in each plan based on your company’s size!",
+      "images": [],
+      "buttons": [
+        {
+          "label": "SharePoint license costs",
+          "url": "https://awesometechinc.com/how-much-does-a-sharepoint-license-cost/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 11,
+      "title": "SharePoint Implementation Costs",
+      "type": "content_section",
+      "content": "Implementing the SharePoint platform needs detailed effort. When you understand the SharePoint implementation costs, you will be aware of the current and upfront costs. Setup: Begin with setting up a proper SharePoint environment. Permissions & Governance: The SharePoint users get the authority to organize, edit and control the site information. It has governance policies to protect sensitive data. Information Architecture: Your team should define and organize the information in one central location to keep the information at one place and the users access it with ease.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 12,
+      "title": "Detailed Cost Breakdown",
+      "type": "service_section",
+      "content": "Cost Area Typical Range (USD) What It Covers Discovery and Planning $3,000–$12,000 Scope, architecture, and a solid project plan Site Structure $5,000–$20,000 Taxonomy, site hierarchy, governance rules Custom Development $10,000–$100,000+ SPFx solutions, APIs, custom workflows Integration Costs $8,000–$60,000 Teams, Azure, ERP, CRM, or other system integrations Migration $5,000–$50,000 Migrating files and data from old systems Training & Change management $3,000–$25,000 Workshops, documentation, and adoption programs QA & Testing $2,000–$15,000 User acceptance testing, performance checks SharePoint Online pricing vary based on a variety of factors, including: Size of the business Complexity of workflows Tailored approach/customization needed Exact number of users",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 13,
+      "title": "Real-World Cost Scenarios",
+      "type": "service_section",
+      "content": "Small Business Implementation – It is a basic plan and can cost from $5,000 to $25,000 for 5 to 25 users. Mid-market Implementation – It offers average customization, handling site structures and a few integrations that can cost from $25,000 to $150,000 for 50 to 200 users. Enterprise-level or Multi-site Implementations – It automates complex workflows with multi-cloud integration and change management. Can from $150,000 – $500,000 for unlimited users.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 14,
+      "title": "Timeline vs Cost Impact",
+      "type": "content_section",
+      "content": "Project Typical Duration Cost Impact Simple 4 - 8 weeks Low Medium 3 - 5 months Moderate Enterprise 6 - 12 months High",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 15,
+      "title": "Hidden & Overlooked Costs",
+      "type": "service_section",
+      "content": "Most organizations ignore hidden costs which can pile up and increase overall costs. The following sections outline these costs in detail: Governance Overhead Businesses frequently forget to maintain system governance which can eventually become a burden in terms of cost. More admin hours need to be allocated or hiring a proper consultant could be the dire need which is again very costly to manage. Ideally, businesses using SharePoint should take care of governance needs from the start. Security & Compliance Security and compliance add more to the actual costs because of strict safety and regulatory protocols. Organizations manage security and compliance by using the following: Data Loss Prevention (DLP) tools. SIEM Connectors. Encryption solutions. Support & Admin Costs Administrative support include: Managing permissions, sites, and other troubleshooting support Vendor support contracts or tackling service providers Integration Maintenance SharePoint’s functionality improves as it integrates with Teams, Power Platform, ERP and third-party apps. If a business fails to maintain SharePoint integration with these tools, proper processing can be hampered and there will be a sudden and surprising rise in the costs. App Marketplace & Third-Party Tools Many organizations use add-on tools to increase SharePoint usage such as : Backup and recovery solutions Advanced search and taxonomy management Workflow automation engines Customization & Development Level 1 – OOTB + Branding — $5,000 – $15,000. Level 2 – Low Code (power platform integration) – $20,000 – $50,000. Level 3 – Full Custom (SPFx, API integrations) — $50,000 – $150,000 or more. Worried about hidden costs like migration, governance, or storage growth? We’ll help you uncover them by following SharePoint best practices for document management and security.",
+      "images": [],
+      "buttons": [
+        {
+          "label": "SharePoint best practices",
+          "url": "https://awesometechinc.com/sharepoint-document-management-best-practices/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 16,
+      "title": "ROI, TCO & Budget Planning",
+      "type": "content_section",
+      "content": "Companies need to think about 2026 costs so they can define an accurate 3-year TCO.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 17,
+      "title": "3-Year Total Cost of Ownership (TCO)",
+      "type": "content_section",
+      "content": "Licenses: Poor estimation of storage needs result in increased costs. Usually, the costs to manage additional storage are almost $0.20 per GB per month. For example, if your organization adds 1 TB of storage, the annual cost will be approximately $2,400. Implementation: For small deployments, typical implementation costs are between $5,000 and $25,000. For large enterprise deployments, costs typically exceed $150,000 to $500,000. Support: Ongoing support will cost between $5,000 and $50,000 or more. It depends on the complexity of the project. Hardware (On-Premise): If your organization implements SharePoint on-premise, the SharePoint server costs, hardware, networking, backup, and data storage hardware will be more.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 18,
+      "title": "Sample TCO Table:",
+      "type": "content_section",
+      "content": "Year Licenses Implementation Support Total 1 $30,000 $100,000 $15,000 $145,000 2 $30,000 - $15,000 $45,000 3 $30,000 - $15,000 $45,000 Strategic Cost Optimization: License Bridge: Select lower-cost F3 Licenses versus E3 Licenses Microsoft Archive: Using Cold Storage (SharePoint) can reduce storage costs up to 75%. Early Renewal Strategy: Lock in 2025 price before the July 2026 price increase. Copilot Usage Assessment: Identify active versus unused AI licenses.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 19,
+      "title": "ROI Calculation",
+      "type": "content_section",
+      "content": "SharePoint can deliver measurable ROI: Increased productivity: Teams can locate documents quickly & collaborate even faster. Reduced SharePoint storage costs: Organizations can save storage costs by automating deletions and employing tiered storage. Faster onboarding: Immediate access to content for new members. Compliance savings: Using a governance tool can protect your company from penalties that could arise from data misuses. To make smarter investments in SharePoint 2026, companies should understand TCO, ROI, and consider hidden costs. Using the knowledge of SharePoint pricing will help create forecasted budgets, have higher adoption rates, and gain long-term business value.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 20,
+      "title": "SharePoint vs. Alternatives",
+      "type": "content_section",
+      "content": "When deploying SharePoint in 2026, it is helpful to compare it to the other popular platforms. Knowing the difference between the various platforms will help businesses define the best option based on cost, compliance, and productivity.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 21,
+      "title": "SharePoint vs Google Workspace",
+      "type": "service_section",
+      "content": "Collaboration: Google Workspace is very collaborative with their real-time editing. Many users can edit documents at one time. The SharePoint users can “co-author” files via Microsoft 365 apps. Licensing Cost: Google Workspace has a subscription service, Business Starter ( $6.00 user/month) to Business Plus ($18.00/user/month). SharePoint Online pricing ranges from Business Basic ($6.00/user/month) to E5 ($35.00/user/month).",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 22,
+      "title": "SharePoint vs Confluence",
+      "type": "service_section",
+      "content": "Document Control: Confluence is a great option to create content. However, SharePoint has more advanced features which fall into two main categories: Document Versioning Metadata Tagging and Custom Workflows Compliance: SharePoint is well-known for its vast and detailed compliance capabilities. It supports many industry compliance protocols/standards. Confluence, on the other hand, may not be as useful as SharePoint as it only grants access control.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 23,
+      "title": "SharePoint vs Dropbox Business",
+      "type": "service_section",
+      "content": "File Sharing vs Governance: Dropbox Business is a file storage and sharing solution. It is convenient for smaller teams that store files in the cloud. But it often is devoid of strong document lifecycle processes, permissions and enterprise workflow. SharePoint, on the other hand, has very strong governance capability, audit trails, document retention policies, and structured document workflow. Integration & Ecosystem: SharePoint integrates well with Microsoft 365 applications. While both Dropbox and Confluence also integrate with third-party apps, it could sometimes need supplementary licensing or connectors. With SharePoint, organizations in 2026 will benefit from a secure, compliant, and flexible platform. Therefore, IT leaders, Project Managers, and CFOs that are planning for investments in a digital workplace would be encouraged to choose SharePoint. To Wrap Up SharePoint for business pricing varies according to size, goals, and implementation method used by each organization. Small organizations often pay $5,000-$25,000, medium-sized businesses can expect to spend between $25,000 and $150,000, while large businesses may well exceed $150,000-$500,000. In addition to budgeted licenses, organizations should think about the cost of designing architecture, governance, migration, integration, training and ongoing support. A business, however, should not forget the hidden costs linked to SharePoint implementation. These costs may rise if the overall deployment is not planned properly. A complete, realistic 3-year Total Cost of Ownership (TCO) analysis for SharePoint should include the cost of the licensing, implementation, support, future storage growth, and potential upgrades. The most important thing to remember is to calculate your SharePoint budget based on your needs, usage of licenses, and creating a well-documented roadmap for success. The next step is to transform these estimations into an organized cost plan. Engage an experienced partner to ensure accurate budgeting and scalable SharePoint implementation . Schedule a SharePoint Cost Estimation Call to get SharePoint pricing insights — Get a personalized cost plan and 3-year TCO projection tailored to your organization!",
+      "images": [],
+      "buttons": [
+        {
+          "label": "SharePoint Cost Estimation Call",
+          "url": "https://awesometechinc.com/contact-us/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 24,
+      "title": "FAQs",
+      "type": "faq_section",
+      "content": "1. How much does SharePoint cost in 2026? For small businesses SharePoint expenses range from $5,000-$25,000. Medium sized businesses pay between $25,000-$150,000. For large enterprises, the costs could be between $150,000 to $500,000 or even higher. 2. Is SharePoint free with Microsoft 365? No, it is not completely free. Most of the Microsoft 365 plans include SharePoint but you still need to purchase a proper license. 3. How much does SharePoint migration cost? The cost of migrating data to SharePoint varies from $5,000 – $50,000. 4. How long does SharePoint implementation take? It ranges from four to eight weeks for small companies, three to five months for mid-sized companies, and six to twelve months or longer for larger companies. 5. Can SharePoint be self-installed? Yes, SharePoint On-Premise can be installed by the person themselves. However, Microsoft installs and manages SharePoint Online.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 25,
+      "title": "Subscribe to ATI",
+      "type": "form_section",
+      "content": "First name Last Name Your email",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Subscribe",
+          "url": ""
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 26,
+      "title": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "type": "service_section",
+      "content": "Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 27,
+      "title": "HMDA Reporting Setup in Encompass LOS",
+      "type": "content_section",
+      "content": "March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 28,
+      "title": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "type": "content_section",
+      "content": "In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": []
+    }
+  ],
+  "images": [
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/02/SharePoint-Cost-Estimation-2026-Complete-Pricing-Insights-and-Factors.jpg",
+      "alt": "SharePoint Cost Estimation"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+      "alt": "Mortgage Automation in 2026"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+      "alt": "HMDA Reporting Setup in Encompass LOS"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+      "alt": "What is a Loan Origination System?"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "SharePoint deployment",
+      "url": "https://awesometechinc.com/sharepoint-deployment/"
+    },
+    {
+      "label": "SharePoint",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration"
+    },
+    {
+      "label": "SharePoint development services",
+      "url": "https://awesometechinc.com/sharepoint-development-services/"
+    },
+    {
+      "label": "SharePoint Online",
+      "url": "https://awesometechinc.com/microsoft-sharepoint-online/"
+    },
+    {
+      "label": "SharePoint license costs",
+      "url": "https://awesometechinc.com/how-much-does-a-sharepoint-license-cost/"
+    },
+    {
+      "label": "SharePoint best practices",
+      "url": "https://awesometechinc.com/sharepoint-document-management-best-practices/"
+    },
+    {
+      "label": "SharePoint Cost Estimation Call",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "Search",
+      "url": ""
+    },
+    {
+      "label": "Subscribe",
+      "url": ""
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ],
+  "forms": [
+    {
+      "form_type": "contact_form",
+      "form_id": "",
+      "fields": [
+        {
+          "name": "s",
+          "label": "",
+          "type": "search",
+          "required": false
+        }
+      ],
+      "submit_label": "Search"
+    },
+    {
+      "form_type": "contact_form_7",
+      "form_id": "12171",
+      "fields": [
+        {
+          "name": "your-name",
+          "label": "your-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "last-name",
+          "label": "last-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "your-email",
+          "label": "your-email",
+          "type": "email",
+          "required": true
+        }
+      ],
+      "submit_label": "Subscribe"
+    }
+  ],
+  "links": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "SharePoint deployment",
+      "url": "https://awesometechinc.com/sharepoint-deployment/"
+    },
+    {
+      "label": "SharePoint",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration"
+    },
+    {
+      "label": "SharePoint development services",
+      "url": "https://awesometechinc.com/sharepoint-development-services/"
+    },
+    {
+      "label": "SharePoint Online",
+      "url": "https://awesometechinc.com/microsoft-sharepoint-online/"
+    },
+    {
+      "label": "SharePoint license costs",
+      "url": "https://awesometechinc.com/how-much-does-a-sharepoint-license-cost/"
+    },
+    {
+      "label": "SharePoint best practices",
+      "url": "https://awesometechinc.com/sharepoint-document-management-best-practices/"
+    },
+    {
+      "label": "SharePoint Cost Estimation Call",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ]
+}

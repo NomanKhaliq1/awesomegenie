@@ -1,0 +1,537 @@
+{
+  "id": null,
+  "source_type": "post",
+  "slug": "how-encompass-plugin-can-automatically-write-code",
+  "title": "How an Encompass Plugin Can Automatically Write Code for You?",
+  "url": "https://awesometechinc.com/how-encompass-plugin-can-automatically-write-code/",
+  "meta_title": "How an Encompass Plugin Can Automatically Write Code for You?",
+  "meta_description": "Discover how an Encompass plugin can automatically generate code, reduce manual work, speed up development, and improve efficiency in mortgage workflows.",
+  "modified_at": "2026-03-17T20:33:53+00:00",
+  "status": "public",
+  "summary": "Discover how an Encompass plugin can automatically generate code, reduce manual work, speed up development, and improve efficiency in mortgage workflows.",
+  "keywords": [
+    "mortgage workflows",
+    "mortgage companies will need to develop",
+    "mortgage companies can customize their",
+    "mortgage industry regulations",
+    "mortgage workflow automation using ai w",
+    "mortgage industry",
+    "mortgage automation tools mortgage lend",
+    "mortgage technology industry reports",
+    "mortgage technology will drive automati",
+    "mortgage industry on both the federal a",
+    "mortgage teams make mistake explanation",
+    "mortgage software products",
+    "mortgage organizations",
+    "mortgage los automation the evolution o",
+    "mortgage work is rapid",
+    "mortgage workflow automation will enabl"
+  ],
+  "full_text": "Intro How an Encompass Plugin Can Automatically Write Code for You? Home » How an Encompass Plugin Can Automatically Write Code for You? The process of customizing the Encompass Loan Origination System (LOS) can be challenging. Most mortgage companies will need to develop business rules, perform field calculations, and create workflow steps to properly manage their loan files. Typically, administrators must write out the rules manually. This process requires significant time and technical expertise. Also, when administrators write a large number of rules in the system, errors are more likely to occur. To help simplify this process, many lenders now use automation plugins in Encompass to develop the required rule logic and scripts automatically. When an administrator creates a rule, they can choose from pre-defined templates, and the plugin generates the code automatically for them. By using the Encompass custom plugins to build rule logic and create scripts, teams can configure the Encompass system faster and with fewer errors. This article will provide an overview of how Encompass plugins are capable of creating code automatically, how they function within the Encompass system and how lenders are utilizing the plugins to streamline the process of customizing Encompass. What is an Encompass Custom Plugin? Encompass plugins extend the standard features of the Encompass Loan Origination System. They give your system the ability to perform additional actions. You can use plugins to automate repetitive tasks which will streamline the lending process. With professional Encompass plugin development services, mortgage companies can customize their loan origination system to streamline processes and improve operational efficiency. Why Encompass Customization Traditionally Requires Coding? The primary requirement for coding exists because businesses require developers to construct their operational rules and their methods of calculating field values. Developers create automated scripts which compute financial values like loan repayments, debt-to-income ratios and borrower eligibility criteria using customer data. The second reason is that because businesses need to automate their operational procedures, there is a need for coding. The development of automated processes requires the creation of both rule logic and script-based solutions. Encompass requires compliance with all current mortgage industry regulations. Developers create custom validation rules which verify loan data compliance with requirements before loans proceed through the approval process. The Encompass customization services will provide lenders with the ability to customize their platform using custom fields, automated workflows, and plugins. How an Encompass Plugin Can Automatically Generate Code? Key Tools: Rule Template – provides template logic for most common tasks used to create automations Automation Engine – creates code based on rules Configuration Tool – allows for configuration changes, mapping of fields or modification of scripts as needed. Example: The Encompass Automation plugin automatically calculates a borrower’s DTI ratio, requests documents once the rules have been met or check if a field meets the rules of compliance prior to making a request for a document. Types of Code Encompass Plugins Can Generate Automatically The Encompass plugins automate many types of code as follows: Field Calculation Scripts – Automatically calculating values such as loan payments or interest based on other fields. Business Rule Logic – Automatically creating rules to validate eligibility or enforce underwriting criteria. Automated Workflows Triggers – Automating activities such as sending alerts or moving a loan to another stage. Document Automation Scripts – Generating, attaching, or requesting any important documents. Data Validation Logic – Ensuring all values entered are valid and no errors exist prior to proceeding. Automation Type Example Field Calculation Auto DTI Calculation Workflow Trigger Move loan to underwriting Validation Check income fields Document Automation Request W-2 forms Automated Loan Document Request Workflow in Encompass Real-World Tools Used for Encompass Code Automation The Encompass platform has many built-in plugins such as: Rule Analyzers – Check workflows and show where automation can help. Smart Code Editors – Help writers by providing automatic code completion together with writing suggestions. Debugging Tools – Test rules before using them to prevent mistakes. Technical Architecture Behind Encompass Automation Plugins The Encompass Core acts as the source of all loan data and operational processes. The Plugin Framework allows for plugins to safely operate via a system interface. The Automation Engine generates code subsequent to its template style. The communication between the plugin and other external applications or services occurs via API. The plugin codes also listen for events (such as what a user does) in order to trigger automated processes. APIs facilitate data transfer between different tools, allowing for users to either read or write to those tools. The Scripting Frameworks allow for users to create rules which control how fields are calculated. AI-Driven Encompass Plugins and Intelligent Rule Generation Using all loan steps as input, the AI plugin will identify duplicates and conflicts in multiple business rules and provide the best logic automatically. The AI will also be able to modify calculations and/or triggers based on workflow structure to increase the accuracy of the process. Potential Future AI Capabilities: AI can also predict the generation of business rules based on previous loan data and trends. Mortgage workflow automation using AI will enable intelligent process automation for quicker approval of loans and compliance verification. Automation Logic Example Benefits of Auto-Coding Encompass Plugins Faster LOS Customization The time spent writing complex coding rules is eliminated when using the auto-coding plugins. The loan officer or staff can set new workflows quickly without having to write many times for each guideline. Reduced Development Costs When loan officers use automation plugins, they reduce the number of coding and development hours required. Improved Compliance Automation Because auto-generated rules conform to the standard practices of the mortgage industry, they minimize the opportunities for making an error that could lead to regulatory issues (i.e., RESPA violations). Higher Operational Efficiency By automating coding tasks, teams can concentrate on reviewing loans and managing operational tasks rather than retrying/repairing complex rules. Industry Adoption of Mortgage Automation Tools Mortgage lenders are investing in automation technologies to achieve better operational efficiency as they want to minimize manual tasks. According to recent mortgage technology industry reports, automation tools can reduce loan processing time by 30 to 40 percent. Lenders adopt intelligent automation platforms because they need their loan origination systems to operate correctly while handling more complex regulatory requirements. Encompass automation plugins enable lenders to develop their operational processes because these tools enable them to create workflows, establish rule configurations and conduct automatic verification of loan information. Organizations can use configurable automation frameworks to build their systems because these frameworks allow them to create custom scripts without needing extensive development teams. The automation plugins monitor loan files in real time because they trigger validation checks when borrower information changes. Indeed, the Encompass plugin automation tools updates calculations and notifies the loan processor whenever a borrower’s financial data impacts their eligibility or underwriting requirements. The evolution of mortgage technology will drive automation plugins to become essential elements of contemporary loan origination systems. Security and Compliance Considerations for Encompass Plugins Access control methods ensure that only authorized users can run or modify plugins. Data protection efforts such as encryption and secure storage are also very important. As plugins that could be created with varying levels of automation would need to comply with various government regulations governing the mortgage industry on both the federal and state levels. Teams should test all plugins in a sandbox environment before deploying them. Utilizing the methods of access control, protecting data and performing testing in a sandbox environment will allow you to use any of the auto-coding plugins with minimal risk and in compliance. Common Implementation Mistakes Mortgage Teams Make Mistake Explanation Solution Excessive Automation Making a mistake by trying to automate all the processes at once, resulting in complication and unmanageable workflows. Begin developing automated processes one at a time. Poor Rule Testing Not testing automated processes prior to deployment, resulting in mistakes during loan processing or compliance issues. Before putting your processes into production, make sure the automated process has been tested successfully in a sandbox environment. Undocumented Configurations Not documenting workflow settings and customizations makes it difficult for new staff members to troubleshoot workflow problems. Write all configuration and workflow data for future reference and conduct routine audits of this documentation. Step-by-Step Implementation Guide for Automation Plugins Identify Automation Requirements Determine which workflows, business rules or workflows can be automated. Choose Plugin Framework Select an appropriate plugin for your version of Encompass to implement the appropriate functionality within the automation framework. Configure Automation Rules Use the provided interface of the plugin to create and configure business rules, calculate data, initiate workflows, and create automated document assembly scripts via the plugin. Test Automation Automated testing allows you to perform a variety of functions in a controlled way. Use test cases to test edge conditions and ensure overall logic is working correctly. Deploy in Production Once testing is complete, you can move to production. Continue to monitor closely for any issues with rules during the first few days or weeks of operation. Testing Best Practices: Document your test results for easy reference, involve multiple team members in testing and schedule rule audits. How to Choose the Right Encompass Plugin Development Partner? To assess potential development partners, please use these criteria: Expertise in Encompass: The partner must possess a strong understanding of the Encompass loan origination system, including Encompass plugin development, plug-in framework and workflows. Experience with Plug-in Development: Look for a partner with a demonstrated record of designing, developing and implementing automation plug-ins. API Integration: A successful partner should be capable of using Encompass integration tools easily into existing external systems, such as databases, as well as any other mortgage software products. The Encompass integration services will allow lenders to seamlessly connect with their LOS and third party tools such as CRMs, compliance platforms, and data verification systems. Ongoing Support: The selected partner must offer continued service after the implementation of the plug-ins, including ongoing maintenance, upgrades, troubleshooting and compliance assistance to ensure a smooth user experience over time. Tips: Always ask for case studies or customer references to verify that they have established records of successfully supporting other customers with Encompass plug-ins. Make certain to select partners who are capable of addressing both the technical and operational requirements of mortgage organizations. Future of Mortgage LOS Automation The evolution of mortgage work is rapid, with the automation of processes leading the charge. In the near future, AI-generated mortgage workflow automation will enable lenders to build rules and processes for their respective businesses without input from humans, thereby saving time and reducing error risk. Low-code mortgage solutions will allow lender teams to configure automation with little or no code from developers, making it easier to respond to changing laws and regulations. Predictive compliance tools will be able to review loans as they are submitted and can alert lenders to potential issues before they occur. Through the use of these technologies, lender teams will be able to execute work more quickly, reduce costs, and increase accuracy. By dramatically increasing the volume of loan applications being processed without increasing staffing levels, lenders will be able to concentrate on the business and reduce their manual coding workload. Utilizing these tools in advance will allow organisations to be more proactive in terms of compliance with regulatory requirements, and provide their clients with quicker and more reliable service by leveraging the efficiencies introduced by automation. In the years 2026 and beyond, automation will continue to transform the mortgage lending industry. To Conclude The Encompass system allows lenders to design their own loan processing systems through automation plugins which create superior and more efficient loan processing systems. The use of automation plugins helps lenders decrease their programming requirements while achieving better results and maintaining regulatory compliance. These plugins provide time savings and cost reductions while they improve work efficiency. Your organization will achieve better competitiveness and operational efficiency through the use of automation plugins because the mortgage industry shifts towards an AI-driven low-code future. The automated solutions which you should study will enable your organization to achieve effective customization and accurate workflow management while securing its future success in lending operations. Contact an accredited Encompass partner who provides Encompass plugin development services to build software for your company while you implement intelligent automation for business efficiency improvements. FAQs 1. Can Encompass plugins generate code automatically? Yes. Encompass automation plugins can generate rule logic, scripts, and workflow code automatically using templates and automation engines. This reduces manual coding and speeds up LOS customization. 2. Do administrators need programming knowledge? Not necessarily. Most plugins are designed for admins that possess basic technical skills. They do this through an intuitive interface, drag-and-drop rules creation, and templates. 3. Are automation plugins secure? Yes. Your data will remain safe as it offers access restrictions, encryption of sensitive data and a system of sandboxes too. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026 What is an Encompass Custom Plugin? Encompass plugins extend the standard features of the Encompass Loan Origination System. They give your system the ability to perform additional actions. You can use plugins to automate repetitive tasks which will streamline the lending process. With professional Encompass plugin development services, mortgage companies can customize their loan origination system to streamline processes and improve operational efficiency. Why Encompass Customization Traditionally Requires Coding? The primary requirement for coding exists because businesses require developers to construct their operational rules and their methods of calculating field values. Developers create automated scripts which compute financial values like loan repayments, debt-to-income ratios and borrower eligibility criteria using customer data. The second reason is that because businesses need to automate their operational procedures, there is a need for coding. The development of automated processes requires the creation of both rule logic and script-based solutions. Encompass requires compliance with all current mortgage industry regulations. Developers create custom validation rules which verify loan data compliance with requirements before loans proceed through the approval process. The Encompass customization services will provide lenders with the ability to customize their platform using custom fields, automated workflows, and plugins. How an Encompass Plugin Can Automatically Generate Code? Key Tools: Rule Template – provides template logic for most common tasks used to create automations Automation Engine – creates code based on rules Configuration Tool – allows for configuration changes, mapping of fields or modification of scripts as needed. Example: The Encompass Automation plugin automatically calculates a borrower’s DTI ratio, requests documents once the rules have been met or check if a field meets the rules of compliance prior to making a request for a document. Types of Code Encompass Plugins Can Generate Automatically The Encompass plugins automate many types of code as follows: Field Calculation Scripts – Automatically calculating values such as loan payments or interest based on other fields. Business Rule Logic – Automatically creating rules to validate eligibility or enforce underwriting criteria. Automated Workflows Triggers – Automating activities such as sending alerts or moving a loan to another stage. Document Automation Scripts – Generating, attaching, or requesting any important documents. Data Validation Logic – Ensuring all values entered are valid and no errors exist prior to proceeding. Automation Type Example Field Calculation Auto DTI Calculation Workflow Trigger Move loan to underwriting Validation Check income fields Document Automation Request W-2 forms Real-World Tools Used for Encompass Code Automation The Encompass platform has many built-in plugins such as: Rule Analyzers – Check workflows and show where automation can help. Smart Code Editors – Help writers by providing automatic code completion together with writing suggestions. Debugging Tools – Test rules before using them to prevent mistakes. Technical Architecture Behind Encompass Automation Plugins The Encompass Core acts as the source of all loan data and operational processes. The Plugin Framework allows for plugins to safely operate via a system interface. The Automation Engine generates code subsequent to its template style. The communication between the plugin and other external applications or services occurs via API. The plugin codes also listen for events (such as what a user does) in order to trigger automated processes. APIs facilitate data transfer between different tools, allowing for users to either read or write to those tools. The Scripting Frameworks allow for users to create rules which control how fields are calculated. AI-Driven Encompass Plugins and Intelligent Rule Generation Using all loan steps as input, the AI plugin will identify duplicates and conflicts in multiple business rules and provide the best logic automatically. The AI will also be able to modify calculations and/or triggers based on workflow structure to increase the accuracy of the process. Potential Future AI Capabilities: AI can also predict the generation of business rules based on previous loan data and trends. Mortgage workflow automation using AI will enable intelligent process automation for quicker approval of loans and compliance verification. Benefits of Auto-Coding Encompass Plugins Faster LOS Customization The time spent writing complex coding rules is eliminated when using the auto-coding plugins. The loan officer or staff can set new workflows quickly without having to write many times for each guideline. Reduced Development Costs When loan officers use automation plugins, they reduce the number of coding and development hours required. Improved Compliance Automation Because auto-generated rules conform to the standard practices of the mortgage industry, they minimize the opportunities for making an error that could lead to regulatory issues (i.e., RESPA violations). Higher Operational Efficiency By automating coding tasks, teams can concentrate on reviewing loans and managing operational tasks rather than retrying/repairing complex rules. Industry Adoption of Mortgage Automation Tools Mortgage lenders are investing in automation technologies to achieve better operational efficiency as they want to minimize manual tasks. According to recent mortgage technology industry reports, automation tools can reduce loan processing time by 30 to 40 percent. Lenders adopt intelligent automation platforms because they need their loan origination systems to operate correctly while handling more complex regulatory requirements. Encompass automation plugins enable lenders to develop their operational processes because these tools enable them to create workflows, establish rule configurations and conduct automatic verification of loan information. Organizations can use configurable automation frameworks to build their systems because these frameworks allow them to create custom scripts without needing extensive development teams. The automation plugins monitor loan files in real time because they trigger validation checks when borrower information changes. Indeed, the Encompass plugin automation tools updates calculations and notifies the loan processor whenever a borrower’s financial data impacts their eligibility or underwriting requirements. The evolution of mortgage technology will drive automation plugins to become essential elements of contemporary loan origination systems. Security and Compliance Considerations for Encompass Plugins Access control methods ensure that only authorized users can run or modify plugins. Data protection efforts such as encryption and secure storage are also very important. As plugins that could be created with varying levels of automation would need to comply with various government regulations governing the mortgage industry on both the federal and state levels. Teams should test all plugins in a sandbox environment before deploying them. Utilizing the methods of access control, protecting data and performing testing in a sandbox environment will allow you to use any of the auto-coding plugins with minimal risk and in compliance. Common Implementation Mistakes Mortgage Teams Make Mistake Explanation Solution Excessive Automation Making a mistake by trying to automate all the processes at once, resulting in complication and unmanageable workflows. Begin developing automated processes one at a time. Poor Rule Testing Not testing automated processes prior to deployment, resulting in mistakes during loan processing or compliance issues. Before putting your processes into production, make sure the automated process has been tested successfully in a sandbox environment. Undocumented Configurations Not documenting workflow settings and customizations makes it difficult for new staff members to troubleshoot workflow problems. Write all configuration and workflow data for future reference and conduct routine audits of this documentation. Step-by-Step Implementation Guide for Automation Plugins Identify Automation Requirements Determine which workflows, business rules or workflows can be automated. Choose Plugin Framework Select an appropriate plugin for your version of Encompass to implement the appropriate functionality within the automation framework. Configure Automation Rules Use the provided interface of the plugin to create and configure business rules, calculate data, initiate workflows, and create automated document assembly scripts via the plugin. Test Automation Automated testing allows you to perform a variety of functions in a controlled way. Use test cases to test edge conditions and ensure overall logic is working correctly. Deploy in Production Once testing is complete, you can move to production. Continue to monitor closely for any issues with rules during the first few days or weeks of operation. Testing Best Practices: Document your test results for easy reference, involve multiple team members in testing and schedule rule audits. How to Choose the Right Encompass Plugin Development Partner? To assess potential development partners, please use these criteria: Expertise in Encompass: The partner must possess a strong understanding of the Encompass loan origination system, including Encompass plugin development, plug-in framework and workflows. Experience with Plug-in Development: Look for a partner with a demonstrated record of designing, developing and implementing automation plug-ins. API Integration: A successful partner should be capable of using Encompass integration tools easily into existing external systems, such as databases, as well as any other mortgage software products. The Encompass integration services will allow lenders to seamlessly connect with their LOS and third party tools such as CRMs, compliance platforms, and data verification systems. Ongoing Support: The selected partner must offer continued service after the implementation of the plug-ins, including ongoing maintenance, upgrades, troubleshooting and compliance assistance to ensure a smooth user experience over time. Tips: Always ask for case studies or customer references to verify that they have established records of successfully supporting other customers with Encompass plug-ins. Make certain to select partners who are capable of addressing both the technical and operational requirements of mortgage organizations. Future of Mortgage LOS Automation The evolution of mortgage work is rapid, with the automation of processes leading the charge. In the near future, AI-generated mortgage workflow automation will enable lenders to build rules and processes for their respective businesses without input from humans, thereby saving time and reducing error risk. Low-code mortgage solutions will allow lender teams to configure automation with little or no code from developers, making it easier to respond to changing laws and regulations. Predictive compliance tools will be able to review loans as they are submitted and can alert lenders to potential issues before they occur. Through the use of these technologies, lender teams will be able to execute work more quickly, reduce costs, and increase accuracy. By dramatically increasing the volume of loan applications being processed without increasing staffing levels, lenders will be able to concentrate on the business and reduce their manual coding workload. Utilizing these tools in advance will allow organisations to be more proactive in terms of compliance with regulatory requirements, and provide their clients with quicker and more reliable service by leveraging the efficiencies introduced by automation. In the years 2026 and beyond, automation will continue to transform the mortgage lending industry. To Conclude The Encompass system allows lenders to design their own loan processing systems through automation plugins which create superior and more efficient loan processing systems. The use of automation plugins helps lenders decrease their programming requirements while achieving better results and maintaining regulatory compliance. These plugins provide time savings and cost reductions while they improve work efficiency. Your organization will achieve better competitiveness and operational efficiency through the use of automation plugins because the mortgage industry shifts towards an AI-driven low-code future. The automated solutions which you should study will enable your organization to achieve effective customization and accurate workflow management while securing its future success in lending operations. Contact an accredited Encompass partner who provides Encompass plugin development services to build software for your company while you implement intelligent automation for business efficiency improvements. FAQs 1. Can Encompass plugins generate code automatically? Yes. Encompass automation plugins can generate rule logic, scripts, and workflow code automatically using templates and automation engines. This reduces manual coding and speeds up LOS customization. 2. Do administrators need programming knowledge? Not necessarily. Most plugins are designed for admins that possess basic technical skills. They do this through an intuitive interface, drag-and-drop rules creation, and templates. 3. Are automation plugins secure? Yes. Your data will remain safe as it offers access restrictions, encryption of sensitive data and a system of sandboxes too. Subscribe to ATI First name Last Name Your email Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+  "word_count": 4319,
+  "headings_count": 25,
+  "images_count": 4,
+  "buttons_count": 12,
+  "forms_count": 2,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "How an Encompass Plugin Can Automatically Write Code for You? Home » How an Encompass Plugin Can Automatically Write Code for You? The process of customizing the Encompass Loan Origination System (LOS) can be challenging. Most mortgage companies will need to develop business rules, perform field calculations, and create workflow steps to properly manage their loan files. Typically, administrators must write out the rules manually. This process requires significant time and technical expertise. Also, when administrators write a large number of rules in the system, errors are more likely to occur. To help simplify this process, many lenders now use automation plugins in Encompass to develop the required rule logic and scripts automatically. When an administrator creates a rule, they can choose from pre-defined templates, and the plugin generates the code automatically for them. By using the Encompass custom plugins to build rule logic and create scripts, teams can configure the Encompass system faster and with fewer errors. This article will provide an overview of how Encompass plugins are capable of creating code automatically, how they function within the Encompass system and how lenders are utilizing the plugins to streamline the process of customizing Encompass. What is an Encompass Custom Plugin? Encompass plugins extend the standard features of the Encompass Loan Origination System. They give your system the ability to perform additional actions. You can use plugins to automate repetitive tasks which will streamline the lending process. With professional Encompass plugin development services, mortgage companies can customize their loan origination system to streamline processes and improve operational efficiency. Why Encompass Customization Traditionally Requires Coding? The primary requirement for coding exists because businesses require developers to construct their operational rules and their methods of calculating field values. Developers create automated scripts which compute financial values like loan repayments, debt-to-income ratios and borrower eligibility criteria using customer data. The second reason is that because businesses need to automate their operational procedures, there is a need for coding. The development of automated processes requires the creation of both rule logic and script-based solutions. Encompass requires compliance with all current mortgage industry regulations. Developers create custom validation rules which verify loan data compliance with requirements before loans proceed through the approval process. The Encompass customization services will provide lenders with the ability to customize their platform using custom fields, automated workflows, and plugins. How an Encompass Plugin Can Automatically Generate Code? Key Tools: Rule Template – provides template logic for most common tasks used to create automations Automation Engine – creates code based on rules Configuration Tool – allows for configuration changes, mapping of fields or modification of scripts as needed. Example: The Encompass Automation plugin automatically calculates a borrower’s DTI ratio, requests documents once the rules have been met or check if a field meets the rules of compliance prior to making a request for a document. Types of Code Encompass Plugins Can Generate Automatically The Encompass plugins automate many types of code as follows: Field Calculation Scripts – Automatically calculating values such as loan payments or interest based on other fields. Business Rule Logic – Automatically creating rules to validate eligibility or enforce underwriting criteria. Automated Workflows Triggers – Automating activities such as sending alerts or moving a loan to another stage. Document Automation Scripts – Generating, attaching, or requesting any important documents. Data Validation Logic – Ensuring all values entered are valid and no errors exist prior to proceeding. Automation Type Example Field Calculation Auto DTI Calculation Workflow Trigger Move loan to underwriting Validation Check income fields Document Automation Request W-2 forms Automated Loan Document Request Workflow in Encompass Real-World Tools Used for Encompass Code Automation The Encompass platform has many built-in plugins such as: Rule Analyzers – Check workflows and show where automation can help. Smart Code Editors – Help writers by providing automatic code completion together with writing suggestions. Debugging Tools – Test rules before using them to prevent mistakes. Technical Architecture Behind Encompass Automation Plugins The Encompass Core acts as the source of all loan data and operational processes. The Plugin Framework allows for plugins to safely operate via a system interface. The Automation Engine generates code subsequent to its template style. The communication between the plugin and other external applications or services occurs via API. The plugin codes also listen for events (such as what a user does) in order to trigger automated processes. APIs facilitate data transfer between different tools, allowing for users to either read or write to those tools. The Scripting Frameworks allow for users to create rules which control how fields are calculated. AI-Driven Encompass Plugins and Intelligent Rule Generation Using all loan steps as input, the AI plugin will identify duplicates and conflicts in multiple business rules and provide the best logic automatically. The AI will also be able to modify calculations and/or triggers based on workflow structure to increase the accuracy of the process. Potential Future AI Capabilities: AI can also predict the generation of business rules based on previous loan data and trends. Mortgage workflow automation using AI will enable intelligent process automation for quicker approval of loans and compliance verification. Automation Logic Example Benefits of Auto-Coding Encompass Plugins Faster LOS Customization The time spent writing complex coding rules is eliminated when using the auto-coding plugins. The loan officer or staff can set new workflows quickly without having to write many times for each guideline. Reduced Development Costs When loan officers use automation plugins, they reduce the number of coding and development hours required. Improved Compliance Automation Because auto-generated rules conform to the standard practices of the mortgage industry, they minimize the opportunities for making an error that could lead to regulatory issues (i.e., RESPA violations). Higher Operational Efficiency By automating coding tasks, teams can concentrate on reviewing loans and managing operational tasks rather than retrying/repairing complex rules. Industry Adoption of Mortgage Automation Tools Mortgage lenders are investing in automation technologies to achieve better operational efficiency as they want to minimize manual tasks. According to recent mortgage technology industry reports, automation tools can reduce loan processing time by 30 to 40 percent. Lenders adopt intelligent automation platforms because they need their loan origination systems to operate correctly while handling more complex regulatory requirements. Encompass automation plugins enable lenders to develop their operational processes because these tools enable them to create workflows, establish rule configurations and conduct automatic verification of loan information. Organizations can use configurable automation frameworks to build their systems because these frameworks allow them to create custom scripts without needing extensive development teams. The automation plugins monitor loan files in real time because they trigger validation checks when borrower information changes. Indeed, the Encompass plugin automation tools updates calculations and notifies the loan processor whenever a borrower’s financial data impacts their eligibility or underwriting requirements. The evolution of mortgage technology will drive automation plugins to become essential elements of contemporary loan origination systems. Security and Compliance Considerations for Encompass Plugins Access control methods ensure that only authorized users can run or modify plugins. Data protection efforts such as encryption and secure storage are also very important. As plugins that could be created with varying levels of automation would need to comply with various government regulations governing the mortgage industry on both the federal and state levels. Teams should test all plugins in a sandbox environment before deploying them. Utilizing the methods of access control, protecting data and performing testing in a sandbox environment will allow you to use any of the auto-coding plugins with minimal risk and in compliance. Common Implementation Mistakes Mortgage Teams Make Mistake Explanation Solution Excessive Automation Making a mistake by trying to automate all the processes at once, resulting in complication and unmanageable workflows. Begin developing automated processes one at a time. Poor Rule Testing Not testing automated processes prior to deployment, resulting in mistakes during loan processing or compliance issues. Before putting your processes into production, make sure the automated process has been tested successfully in a sandbox environment. Undocumented Configurations Not documenting workflow settings and customizations makes it difficult for new staff members to troubleshoot workflow problems. Write all configuration and workflow data for future reference and conduct routine audits of this documentation. Step-by-Step Implementation Guide for Automation Plugins Identify Automation Requirements Determine which workflows, business rules or workflows can be automated. Choose Plugin Framework Select an appropriate plugin for your version of Encompass to implement the appropriate functionality within the automation framework. Configure Automation Rules Use the provided interface of the plugin to create and configure business rules, calculate data, initiate workflows, and create automated document assembly scripts via the plugin. Test Automation Automated testing allows you to perform a variety of functions in a controlled way. Use test cases to test edge conditions and ensure overall logic is working correctly. Deploy in Production Once testing is complete, you can move to production. Continue to monitor closely for any issues with rules during the first few days or weeks of operation. Testing Best Practices: Document your test results for easy reference, involve multiple team members in testing and schedule rule audits. How to Choose the Right Encompass Plugin Development Partner? To assess potential development partners, please use these criteria: Expertise in Encompass: The partner must possess a strong understanding of the Encompass loan origination system, including Encompass plugin development, plug-in framework and workflows. Experience with Plug-in Development: Look for a partner with a demonstrated record of designing, developing and implementing automation plug-ins. API Integration: A successful partner should be capable of using Encompass integration tools easily into existing external systems, such as databases, as well as any other mortgage software products. The Encompass integration services will allow lenders to seamlessly connect with their LOS and third party tools such as CRMs, compliance platforms, and data verification systems. Ongoing Support: The selected partner must offer continued service after the implementation of the plug-ins, including ongoing maintenance, upgrades, troubleshooting and compliance assistance to ensure a smooth user experience over time. Tips: Always ask for case studies or customer references to verify that they have established records of successfully supporting other customers with Encompass plug-ins. Make certain to select partners who are capable of addressing both the technical and operational requirements of mortgage organizations. Future of Mortgage LOS Automation The evolution of mortgage work is rapid, with the automation of processes leading the charge. In the near future, AI-generated mortgage workflow automation will enable lenders to build rules and processes for their respective businesses without input from humans, thereby saving time and reducing error risk. Low-code mortgage solutions will allow lender teams to configure automation with little or no code from developers, making it easier to respond to changing laws and regulations. Predictive compliance tools will be able to review loans as they are submitted and can alert lenders to potential issues before they occur. Through the use of these technologies, lender teams will be able to execute work more quickly, reduce costs, and increase accuracy. By dramatically increasing the volume of loan applications being processed without increasing staffing levels, lenders will be able to concentrate on the business and reduce their manual coding workload. Utilizing these tools in advance will allow organisations to be more proactive in terms of compliance with regulatory requirements, and provide their clients with quicker and more reliable service by leveraging the efficiencies introduced by automation. In the years 2026 and beyond, automation will continue to transform the mortgage lending industry. To Conclude The Encompass system allows lenders to design their own loan processing systems through automation plugins which create superior and more efficient loan processing systems. The use of automation plugins helps lenders decrease their programming requirements while achieving better results and maintaining regulatory compliance. These plugins provide time savings and cost reductions while they improve work efficiency. Your organization will achieve better competitiveness and operational efficiency through the use of automation plugins because the mortgage industry shifts towards an AI-driven low-code future. The automated solutions which you should study will enable your organization to achieve effective customization and accurate workflow management while securing its future success in lending operations. Contact an accredited Encompass partner who provides Encompass plugin development services to build software for your company while you implement intelligent automation for business efficiency improvements. FAQs 1. Can Encompass plugins generate code automatically? Yes. Encompass automation plugins can generate rule logic, scripts, and workflow code automatically using templates and automation engines. This reduces manual coding and speeds up LOS customization. 2. Do administrators need programming knowledge? Not necessarily. Most plugins are designed for admins that possess basic technical skills. They do this through an intuitive interface, drag-and-drop rules creation, and templates. 3. Are automation plugins secure? Yes. Your data will remain safe as it offers access restrictions, encryption of sensitive data and a system of sandboxes too. ATI Services Recent Posts Recent Posts Subscribe to ATI First name Last Name Your email Share Related Posts Blog Mortgage Automation in 2026: How AI Is Changing Loan Processing? Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More » David Miller 06/02/2026 Blog HMDA Reporting Setup in Encompass LOS March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More » David Miller 06/02/2026 Blog What is a Loan Origination System? Benefits for Banks & Credit Unions In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More » David Miller 05/26/2026",
+      "images": [
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/03/How-an-Encompass-Plugin-Can-Automatically-Write-Code-for-You.jpg",
+          "alt": "How an Encompass Plugin Can Automatically Write Code for You"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+          "alt": "Mortgage Automation in 2026"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+          "alt": "HMDA Reporting Setup in Encompass LOS"
+        },
+        {
+          "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+          "alt": "What is a Loan Origination System?"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Home",
+          "url": "https://awesometechinc.com/"
+        },
+        {
+          "label": "Encompass customization services",
+          "url": "https://awesometechinc.com/encompass-360-customization/"
+        },
+        {
+          "label": "Encompass integration services",
+          "url": "https://awesometechinc.com/encompass-integration-services/"
+        },
+        {
+          "label": "Contact",
+          "url": "https://awesometechinc.com/contact-us/"
+        },
+        {
+          "label": "Search",
+          "url": ""
+        },
+        {
+          "label": "Subscribe",
+          "url": ""
+        },
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form",
+          "form_id": "",
+          "fields": [
+            {
+              "name": "s",
+              "label": "",
+              "type": "search",
+              "required": false
+            }
+          ],
+          "submit_label": "Search"
+        },
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "What is an Encompass Custom Plugin?",
+      "type": "service_section",
+      "content": "Encompass plugins extend the standard features of the Encompass Loan Origination System. They give your system the ability to perform additional actions. You can use plugins to automate repetitive tasks which will streamline the lending process. With professional Encompass plugin development services, mortgage companies can customize their loan origination system to streamline processes and improve operational efficiency.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 3,
+      "title": "Why Encompass Customization Traditionally Requires Coding?",
+      "type": "service_section",
+      "content": "The primary requirement for coding exists because businesses require developers to construct their operational rules and their methods of calculating field values. Developers create automated scripts which compute financial values like loan repayments, debt-to-income ratios and borrower eligibility criteria using customer data. The second reason is that because businesses need to automate their operational procedures, there is a need for coding. The development of automated processes requires the creation of both rule logic and script-based solutions. Encompass requires compliance with all current mortgage industry regulations. Developers create custom validation rules which verify loan data compliance with requirements before loans proceed through the approval process. The Encompass customization services will provide lenders with the ability to customize their platform using custom fields, automated workflows, and plugins.",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Encompass customization services",
+          "url": "https://awesometechinc.com/encompass-360-customization/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 4,
+      "title": "How an Encompass Plugin Can Automatically Generate Code?",
+      "type": "service_section",
+      "content": "Key Tools: Rule Template – provides template logic for most common tasks used to create automations Automation Engine – creates code based on rules Configuration Tool – allows for configuration changes, mapping of fields or modification of scripts as needed. Example: The Encompass Automation plugin automatically calculates a borrower’s DTI ratio, requests documents once the rules have been met or check if a field meets the rules of compliance prior to making a request for a document.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 5,
+      "title": "Types of Code Encompass Plugins Can Generate Automatically",
+      "type": "service_section",
+      "content": "The Encompass plugins automate many types of code as follows: Field Calculation Scripts – Automatically calculating values such as loan payments or interest based on other fields. Business Rule Logic – Automatically creating rules to validate eligibility or enforce underwriting criteria. Automated Workflows Triggers – Automating activities such as sending alerts or moving a loan to another stage. Document Automation Scripts – Generating, attaching, or requesting any important documents. Data Validation Logic – Ensuring all values entered are valid and no errors exist prior to proceeding. Automation Type Example Field Calculation Auto DTI Calculation Workflow Trigger Move loan to underwriting Validation Check income fields Document Automation Request W-2 forms",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 6,
+      "title": "Real-World Tools Used for Encompass Code Automation",
+      "type": "service_section",
+      "content": "The Encompass platform has many built-in plugins such as: Rule Analyzers – Check workflows and show where automation can help. Smart Code Editors – Help writers by providing automatic code completion together with writing suggestions. Debugging Tools – Test rules before using them to prevent mistakes.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 7,
+      "title": "Technical Architecture Behind Encompass Automation Plugins",
+      "type": "service_section",
+      "content": "The Encompass Core acts as the source of all loan data and operational processes. The Plugin Framework allows for plugins to safely operate via a system interface. The Automation Engine generates code subsequent to its template style. The communication between the plugin and other external applications or services occurs via API. The plugin codes also listen for events (such as what a user does) in order to trigger automated processes. APIs facilitate data transfer between different tools, allowing for users to either read or write to those tools. The Scripting Frameworks allow for users to create rules which control how fields are calculated.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 8,
+      "title": "AI-Driven Encompass Plugins and Intelligent Rule Generation",
+      "type": "service_section",
+      "content": "Using all loan steps as input, the AI plugin will identify duplicates and conflicts in multiple business rules and provide the best logic automatically. The AI will also be able to modify calculations and/or triggers based on workflow structure to increase the accuracy of the process. Potential Future AI Capabilities: AI can also predict the generation of business rules based on previous loan data and trends. Mortgage workflow automation using AI will enable intelligent process automation for quicker approval of loans and compliance verification.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 9,
+      "title": "Benefits of Auto-Coding Encompass Plugins",
+      "type": "testimonial_section",
+      "content": "Faster LOS Customization The time spent writing complex coding rules is eliminated when using the auto-coding plugins. The loan officer or staff can set new workflows quickly without having to write many times for each guideline. Reduced Development Costs When loan officers use automation plugins, they reduce the number of coding and development hours required. Improved Compliance Automation Because auto-generated rules conform to the standard practices of the mortgage industry, they minimize the opportunities for making an error that could lead to regulatory issues (i.e., RESPA violations). Higher Operational Efficiency By automating coding tasks, teams can concentrate on reviewing loans and managing operational tasks rather than retrying/repairing complex rules.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 10,
+      "title": "Industry Adoption of Mortgage Automation Tools",
+      "type": "service_section",
+      "content": "Mortgage lenders are investing in automation technologies to achieve better operational efficiency as they want to minimize manual tasks. According to recent mortgage technology industry reports, automation tools can reduce loan processing time by 30 to 40 percent. Lenders adopt intelligent automation platforms because they need their loan origination systems to operate correctly while handling more complex regulatory requirements. Encompass automation plugins enable lenders to develop their operational processes because these tools enable them to create workflows, establish rule configurations and conduct automatic verification of loan information. Organizations can use configurable automation frameworks to build their systems because these frameworks allow them to create custom scripts without needing extensive development teams. The automation plugins monitor loan files in real time because they trigger validation checks when borrower information changes. Indeed, the Encompass plugin automation tools updates calculations and notifies the loan processor whenever a borrower’s financial data impacts their eligibility or underwriting requirements. The evolution of mortgage technology will drive automation plugins to become essential elements of contemporary loan origination systems.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 11,
+      "title": "Security and Compliance Considerations for Encompass Plugins",
+      "type": "service_section",
+      "content": "Access control methods ensure that only authorized users can run or modify plugins. Data protection efforts such as encryption and secure storage are also very important. As plugins that could be created with varying levels of automation would need to comply with various government regulations governing the mortgage industry on both the federal and state levels. Teams should test all plugins in a sandbox environment before deploying them. Utilizing the methods of access control, protecting data and performing testing in a sandbox environment will allow you to use any of the auto-coding plugins with minimal risk and in compliance.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 12,
+      "title": "Common Implementation Mistakes Mortgage Teams Make",
+      "type": "service_section",
+      "content": "Mistake Explanation Solution Excessive Automation Making a mistake by trying to automate all the processes at once, resulting in complication and unmanageable workflows. Begin developing automated processes one at a time. Poor Rule Testing Not testing automated processes prior to deployment, resulting in mistakes during loan processing or compliance issues. Before putting your processes into production, make sure the automated process has been tested successfully in a sandbox environment. Undocumented Configurations Not documenting workflow settings and customizations makes it difficult for new staff members to troubleshoot workflow problems. Write all configuration and workflow data for future reference and conduct routine audits of this documentation.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 13,
+      "title": "Step-by-Step Implementation Guide for Automation Plugins",
+      "type": "service_section",
+      "content": "Identify Automation Requirements Determine which workflows, business rules or workflows can be automated. Choose Plugin Framework Select an appropriate plugin for your version of Encompass to implement the appropriate functionality within the automation framework. Configure Automation Rules Use the provided interface of the plugin to create and configure business rules, calculate data, initiate workflows, and create automated document assembly scripts via the plugin. Test Automation Automated testing allows you to perform a variety of functions in a controlled way. Use test cases to test edge conditions and ensure overall logic is working correctly. Deploy in Production Once testing is complete, you can move to production. Continue to monitor closely for any issues with rules during the first few days or weeks of operation. Testing Best Practices: Document your test results for easy reference, involve multiple team members in testing and schedule rule audits.",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    },
+    {
+      "order": 14,
+      "title": "How to Choose the Right Encompass Plugin Development Partner?",
+      "type": "service_section",
+      "content": "To assess potential development partners, please use these criteria: Expertise in Encompass: The partner must possess a strong understanding of the Encompass loan origination system, including Encompass plugin development, plug-in framework and workflows. Experience with Plug-in Development: Look for a partner with a demonstrated record of designing, developing and implementing automation plug-ins. API Integration: A successful partner should be capable of using Encompass integration tools easily into existing external systems, such as databases, as well as any other mortgage software products. The Encompass integration services will allow lenders to seamlessly connect with their LOS and third party tools such as CRMs, compliance platforms, and data verification systems. Ongoing Support: The selected partner must offer continued service after the implementation of the plug-ins, including ongoing maintenance, upgrades, troubleshooting and compliance assistance to ensure a smooth user experience over time. Tips: Always ask for case studies or customer references to verify that they have established records of successfully supporting other customers with Encompass plug-ins. Make certain to select partners who are capable of addressing both the technical and operational requirements of mortgage organizations.",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Encompass integration services",
+          "url": "https://awesometechinc.com/encompass-integration-services/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 15,
+      "title": "Future of Mortgage LOS Automation",
+      "type": "form_section",
+      "content": "The evolution of mortgage work is rapid, with the automation of processes leading the charge. In the near future, AI-generated mortgage workflow automation will enable lenders to build rules and processes for their respective businesses without input from humans, thereby saving time and reducing error risk. Low-code mortgage solutions will allow lender teams to configure automation with little or no code from developers, making it easier to respond to changing laws and regulations. Predictive compliance tools will be able to review loans as they are submitted and can alert lenders to potential issues before they occur. Through the use of these technologies, lender teams will be able to execute work more quickly, reduce costs, and increase accuracy. By dramatically increasing the volume of loan applications being processed without increasing staffing levels, lenders will be able to concentrate on the business and reduce their manual coding workload. Utilizing these tools in advance will allow organisations to be more proactive in terms of compliance with regulatory requirements, and provide their clients with quicker and more reliable service by leveraging the efficiencies introduced by automation. In the years 2026 and beyond, automation will continue to transform the mortgage lending industry. To Conclude The Encompass system allows lenders to design their own loan processing systems through automation plugins which create superior and more efficient loan processing systems. The use of automation plugins helps lenders decrease their programming requirements while achieving better results and maintaining regulatory compliance. These plugins provide time savings and cost reductions while they improve work efficiency. Your organization will achieve better competitiveness and operational efficiency through the use of automation plugins because the mortgage industry shifts towards an AI-driven low-code future. The automated solutions which you should study will enable your organization to achieve effective customization and accurate workflow management while securing its future success in lending operations. Contact an accredited Encompass partner who provides Encompass plugin development services to build software for your company while you implement intelligent automation for business efficiency improvements. FAQs 1. Can Encompass plugins generate code automatically? Yes. Encompass automation plugins can generate rule logic, scripts, and workflow code automatically using templates and automation engines. This reduces manual coding and speeds up LOS customization. 2. Do administrators need programming knowledge? Not necessarily. Most plugins are designed for admins that possess basic technical skills. They do this through an intuitive interface, drag-and-drop rules creation, and templates. 3. Are automation plugins secure? Yes. Your data will remain safe as it offers access restrictions, encryption of sensitive data and a system of sandboxes too.",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Contact",
+          "url": "https://awesometechinc.com/contact-us/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 16,
+      "title": "Subscribe to ATI",
+      "type": "form_section",
+      "content": "First name Last Name Your email",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Subscribe",
+          "url": ""
+        }
+      ],
+      "forms": [
+        {
+          "form_type": "contact_form_7",
+          "form_id": "12171",
+          "fields": [
+            {
+              "name": "your-name",
+              "label": "your-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "last-name",
+              "label": "last-name",
+              "type": "text",
+              "required": true
+            },
+            {
+              "name": "your-email",
+              "label": "your-email",
+              "type": "email",
+              "required": true
+            }
+          ],
+          "submit_label": "Subscribe"
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "title": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "type": "service_section",
+      "content": "Imagine a borrower submitting a mortgage application on a Tuesday morning, and by Tuesday afternoon they have a verified income analysis, a risk-scored file, and Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 18,
+      "title": "HMDA Reporting Setup in Encompass LOS",
+      "type": "content_section",
+      "content": "March 1st is when many lenders rush to correct HMDA data errors that could have been prevented months earlier during the initial system setup. Common Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "HMDA Reporting Setup in Encompass LOS",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+        }
+      ],
+      "forms": []
+    },
+    {
+      "order": 19,
+      "title": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "type": "content_section",
+      "content": "In the last few years, there have been many changes in how people borrow money. People are looking for loans that allow them to get Read More »",
+      "images": [],
+      "buttons": [
+        {
+          "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        },
+        {
+          "label": "Read More »",
+          "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+        }
+      ],
+      "forms": []
+    }
+  ],
+  "images": [
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/03/How-an-Encompass-Plugin-Can-Automatically-Write-Code-for-You.jpg",
+      "alt": "How an Encompass Plugin Can Automatically Write Code for You"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/Mortgage-Automation-in-2026-How-AI-Is-Changing-Loan-Processing.png",
+      "alt": "Mortgage Automation in 2026"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/06/HMDA-Reporting-Setup-in-Encompass-LOS.png",
+      "alt": "HMDA Reporting Setup in Encompass LOS"
+    },
+    {
+      "src": "https://awesometechinc.com/wp-content/uploads/2026/05/What-is-a-Loan-Origination-System_-Benefits-for-Banks-Credit-Unions.png",
+      "alt": "What is a Loan Origination System?"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "Encompass customization services",
+      "url": "https://awesometechinc.com/encompass-360-customization/"
+    },
+    {
+      "label": "Encompass integration services",
+      "url": "https://awesometechinc.com/encompass-integration-services/"
+    },
+    {
+      "label": "Contact",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "Search",
+      "url": ""
+    },
+    {
+      "label": "Subscribe",
+      "url": ""
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ],
+  "forms": [
+    {
+      "form_type": "contact_form",
+      "form_id": "",
+      "fields": [
+        {
+          "name": "s",
+          "label": "",
+          "type": "search",
+          "required": false
+        }
+      ],
+      "submit_label": "Search"
+    },
+    {
+      "form_type": "contact_form_7",
+      "form_id": "12171",
+      "fields": [
+        {
+          "name": "your-name",
+          "label": "your-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "last-name",
+          "label": "last-name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "your-email",
+          "label": "your-email",
+          "type": "email",
+          "required": true
+        }
+      ],
+      "submit_label": "Subscribe"
+    }
+  ],
+  "links": [
+    {
+      "label": "Home",
+      "url": "https://awesometechinc.com/"
+    },
+    {
+      "label": "Encompass customization services",
+      "url": "https://awesometechinc.com/encompass-360-customization/"
+    },
+    {
+      "label": "Encompass integration services",
+      "url": "https://awesometechinc.com/encompass-integration-services/"
+    },
+    {
+      "label": "Contact",
+      "url": "https://awesometechinc.com/contact-us/"
+    },
+    {
+      "label": "Mortgage Automation in 2026: How AI Is Changing Loan Processing?",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/mortgage-automation-in-2026-how-ai-is-changing-loan-processing/"
+    },
+    {
+      "label": "HMDA Reporting Setup in Encompass LOS",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/hmda-reporting-setup-in-encompass-los/"
+    },
+    {
+      "label": "What is a Loan Origination System? Benefits for Banks & Credit Unions",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    },
+    {
+      "label": "Read More »",
+      "url": "https://awesometechinc.com/what-is-a-loan-origination-system/"
+    }
+  ]
+}

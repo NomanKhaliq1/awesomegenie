@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "source_type": "page",
+  "slug": "thank-you",
+  "title": "Thanks for being Awesome!",
+  "url": "https://awesometechinc.com/thank-you/",
+  "meta_title": "Thank You - Awesome Tech Inc",
+  "meta_description": "",
+  "modified_at": "2024-12-18T21:04:19+00:00",
+  "status": "skipped",
+  "summary": "Intro Thanks for being Awesome! We appreciate you contacting us Awesome Tech.",
+  "keywords": [
+    "you",
+    "for",
+    "tech",
+    "thanks",
+    "appreciate",
+    "contacting",
+    "intro",
+    "back",
+    "colleagues",
+    "day",
+    "get",
+    "great",
+    "inc",
+    "one",
+    "our",
+    "soon"
+  ],
+  "full_text": "Intro Thanks for being Awesome! We appreciate you contacting us Awesome Tech. One of our colleagues will get back in touch with you soon! Have a great day!",
+  "word_count": 28,
+  "headings_count": 1,
+  "images_count": 0,
+  "buttons_count": 0,
+  "forms_count": 0,
+  "sections": [
+    {
+      "order": 1,
+      "title": "Intro",
+      "type": "content_section",
+      "content": "Thanks for being Awesome! We appreciate you contacting us Awesome Tech. One of our colleagues will get back in touch with you soon! Have a great day!",
+      "images": [],
+      "buttons": [],
+      "forms": []
+    }
+  ],
+  "images": [],
+  "buttons": [],
+  "forms": [],
+  "links": [],
+  "skip_reason": "Utility page with no durable RAG value."
+}
