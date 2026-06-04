@@ -24,10 +24,15 @@ const supabase = createClient(
 const sharedFields = [
   ["company_name", "Company Name", "What is your company name?", "text", true, 10, null],
   ["contact_email", "Contact Email", "What email should our team use for follow-up?", "email", true, 20, null],
-  ["current_system", "Current System", "What system or platform are you using today?", "text", true, 30, null],
-  ["workflow_goal", "Workflow Goal", "What workflow, process, or outcome do you want to improve?", "textarea", true, 40, null],
+  ["contact_phone", "Contact Phone", "If phone is easier, what number should we use?", "phone", false, 25, null],
+  ["project_overview", "Project Overview", "Can you describe the project in a few lines?", "textarea", true, 30, null],
+  ["current_system", "Current System", "What system or platform are you using today?", "text", true, 40, null],
+  ["workflow_goal", "Workflow Goal", "What workflow, process, or outcome do you want to improve?", "textarea", true, 50, null],
+  ["pain_points", "Pain Points", "What is the biggest problem you want this project to solve?", "textarea", true, 60, null],
+  ["success_goals", "Success Goals", "What would make this project successful for you?", "textarea", true, 70, null],
   ["timeline", "Timeline", "What timeline are you targeting?", "select", true, 80, ["ASAP", "2-4 weeks", "1-3 months", "3+ months", "Not sure"]],
-  ["budget_range", "Budget Range", "Do you have a budget range in mind?", "select", false, 90, ["Under $10k", "$10k-$25k", "$25k-$50k", "$50k+", "Not sure"]]
+  ["budget_range", "Budget Range", "Do you have a budget range in mind?", "select", false, 90, ["Under $10k", "$10k-$25k", "$25k-$50k", "$50k+", "Not sure"]],
+  ["content_assets", "Content and Assets", "Do you already have documents, sample files, screenshots, or content we should use?", "textarea", false, 100, null]
 ];
 
 const serviceSpecificFields = {

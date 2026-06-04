@@ -20,7 +20,6 @@ type ChatMessage = {
   id: string;
   role: "user" | "assistant";
   message: string;
-  sources?: { title: string; url: string; score: number }[];
 };
 
 const initialMessages: ChatMessage[] = [
@@ -43,6 +42,7 @@ export function ChatWidget({ defaultOpen = true, embedded = false }: ChatWidgetP
   const [minimized, setMinimized] = useState(false);
   const [sessionId, setSessionId] = useState<string | null>(null);
   const [messages, setMessages] = useState<ChatMessage[]>(initialMessages);
+  const [suggestions, setSuggestions] = useState<string[]>(quickPrompts);
   const [input, setInput] = useState("");
   const [sending, setSending] = useState(false);
   const scrollRef = useRef<HTMLDivElement | null>(null);
@@ -89,7 +89,7 @@ export function ChatWidget({ defaultOpen = true, embedded = false }: ChatWidgetP
                   Online
                 </span>
               </div>
-              <p className="mt-0.5 text-xs text-white/85">AwesomeTech onboarding assistant</p>
+              <p className="mt-0.5 text-xs text-white/85">AwesomeTech project assistant</p>
             </div>
           </div>
           <div className="flex gap-1">
@@ -122,8 +122,9 @@ export function ChatWidget({ defaultOpen = true, embedded = false }: ChatWidgetP
               <ChatBubble key={message.id} message={message} />
             ))}
 
-            <div className="grid gap-2">
-              {quickPrompts.map((prompt) => (
+            {suggestions.length ? (
+              <div className="grid gap-2">
+                {suggestions.map((prompt) => (
                 <button
                   className="focus-ring rounded-full border border-[#eadde1] bg-white px-3 py-2 text-left text-xs font-bold text-[#6e6269] shadow-sm hover:border-[#B5212F] hover:text-[#B5212F]"
                   key={prompt}
@@ -132,12 +133,13 @@ export function ChatWidget({ defaultOpen = true, embedded = false }: ChatWidgetP
                 >
                   {prompt}
                 </button>
-              ))}
-            </div>
+                ))}
+              </div>
+            ) : null}
 
             {sending ? (
               <div className="max-w-[84%] rounded-2xl rounded-tl-sm bg-white p-4 text-sm font-bold text-[#594b52] shadow-sm">
-                Awesome Genie is checking approved knowledge...
+                Awesome Genie is reviewing your request...
               </div>
             ) : null}
           </div>
@@ -161,6 +163,12 @@ export function ChatWidget({ defaultOpen = true, embedded = false }: ChatWidgetP
                 className="max-h-28 min-h-10 flex-1 resize-none border-0 bg-transparent py-2 text-sm leading-5 text-[#171015] outline-none placeholder:text-[#9b8c93]"
                 disabled={sending}
                 onChange={(event) => setInput(event.target.value)}
+                onKeyDown={(event) => {
+                  if (event.key === "Enter" && !event.shiftKey) {
+                    event.preventDefault();
+                    void sendMessage(input);
+                  }
+                }}
                 placeholder="Type your question..."
                 rows={1}
                 value={input}
@@ -202,6 +210,7 @@ export function ChatWidget({ defaultOpen = true, embedded = false }: ChatWidgetP
     }
 
     setSending(true);
+    setSuggestions([]);
     setInput("");
     setMessages((current) => [
       ...current,
@@ -242,13 +251,13 @@ export function ChatWidget({ defaultOpen = true, embedded = false }: ChatWidgetP
       }
 
       setSessionId(data.session_id);
+      setSuggestions(Array.isArray(data.suggestions) ? data.suggestions.slice(0, 4) : []);
       setMessages((current) => [
         ...current,
         {
           id: data.message.id,
           role: "assistant",
-          message: data.message.message,
-          sources: data.sources || []
+          message: data.message.message
         }
       ]);
     } catch {
@@ -286,21 +295,6 @@ function ChatBubble({ message }: { message: ChatMessage }) {
         </div>
       ) : null}
       <p className="whitespace-pre-wrap">{message.message}</p>
-      {message.sources?.length ? (
-        <div className="mt-3 space-y-1 border-t border-[#eadde1] pt-3">
-          {message.sources.slice(0, 2).map((source) => (
-            <a
-              className="block truncate text-xs font-bold text-[#B5212F] hover:underline"
-              href={source.url}
-              key={`${source.url}-${source.score}`}
-              rel="noreferrer"
-              target="_blank"
-            >
-              Source: {source.title}
-            </a>
-          ))}
-        </div>
-      ) : null}
     </div>
   );
 }

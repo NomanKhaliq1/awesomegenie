@@ -99,10 +99,10 @@ export function buildNoContextResponseForMessage(intent: ChatIntent, message: st
   }
 
   if (serviceArea) {
-    return `I do not have an approved knowledge source for ${serviceArea} yet. Please share a few details about what you need, and the AwesomeTech team can review the request.`;
+    return `I can help gather details for your ${serviceArea} request. What are you trying to build or improve?`;
   }
 
-  return "I do not have an approved AwesomeTech knowledge source for that yet. Please share a few details or contact AwesomeTech, and the team can review your request.";
+  return "I can help with AwesomeTech services and project requirements. What are you trying to build or improve?";
 }
 
 export function buildProjectAcknowledgement(message: string) {

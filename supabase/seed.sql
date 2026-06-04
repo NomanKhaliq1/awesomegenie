@@ -27,12 +27,32 @@ from service_categories
 on conflict (service_category_id, field_key) do nothing;
 
 insert into onboarding_fields (service_category_id, field_key, label, question_text, field_type, is_required, order_index, options)
-select id, 'current_system', 'Current System', 'What system or platform are you using today?', 'text', true, 30, null
+select id, 'contact_phone', 'Contact Phone', 'If phone is easier, what number should we use?', 'phone', false, 25, null
 from service_categories
 on conflict (service_category_id, field_key) do nothing;
 
 insert into onboarding_fields (service_category_id, field_key, label, question_text, field_type, is_required, order_index, options)
-select id, 'workflow_goal', 'Workflow Goal', 'What workflow, process, or outcome do you want to improve?', 'textarea', true, 40, null
+select id, 'project_overview', 'Project Overview', 'Can you describe the project in a few lines?', 'textarea', true, 30, null
+from service_categories
+on conflict (service_category_id, field_key) do nothing;
+
+insert into onboarding_fields (service_category_id, field_key, label, question_text, field_type, is_required, order_index, options)
+select id, 'current_system', 'Current System', 'What system or platform are you using today?', 'text', true, 40, null
+from service_categories
+on conflict (service_category_id, field_key) do nothing;
+
+insert into onboarding_fields (service_category_id, field_key, label, question_text, field_type, is_required, order_index, options)
+select id, 'workflow_goal', 'Workflow Goal', 'What workflow, process, or outcome do you want to improve?', 'textarea', true, 50, null
+from service_categories
+on conflict (service_category_id, field_key) do nothing;
+
+insert into onboarding_fields (service_category_id, field_key, label, question_text, field_type, is_required, order_index, options)
+select id, 'pain_points', 'Pain Points', 'What is the biggest problem you want this project to solve?', 'textarea', true, 60, null
+from service_categories
+on conflict (service_category_id, field_key) do nothing;
+
+insert into onboarding_fields (service_category_id, field_key, label, question_text, field_type, is_required, order_index, options)
+select id, 'success_goals', 'Success Goals', 'What would make this project successful for you?', 'textarea', true, 70, null
 from service_categories
 on conflict (service_category_id, field_key) do nothing;
 
@@ -43,6 +63,11 @@ on conflict (service_category_id, field_key) do nothing;
 
 insert into onboarding_fields (service_category_id, field_key, label, question_text, field_type, is_required, order_index, options)
 select id, 'budget_range', 'Budget Range', 'Do you have a budget range in mind?', 'select', false, 90, '["Under $10k", "$10k-$25k", "$25k-$50k", "$50k+", "Not sure"]'::jsonb
+from service_categories
+on conflict (service_category_id, field_key) do nothing;
+
+insert into onboarding_fields (service_category_id, field_key, label, question_text, field_type, is_required, order_index, options)
+select id, 'content_assets', 'Content and Assets', 'Do you already have documents, sample files, screenshots, or content we should use?', 'textarea', false, 100, null
 from service_categories
 on conflict (service_category_id, field_key) do nothing;
 

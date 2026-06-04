@@ -1,7 +1,14 @@
 import { NextResponse } from "next/server";
 
 import { generateRagAnswer } from "@/lib/ai/chat-answer";
-import { buildNoContextResponseForMessage, buildProjectAcknowledgement, classifyChatIntent } from "@/lib/chat/intent";
+import { isComplexCustomerQuestion } from "@/lib/ai/router";
+import {
+  buildNoContextResponseForMessage,
+  buildProjectAcknowledgement,
+  classifyChatIntent,
+  inferServiceArea
+} from "@/lib/chat/intent";
+import { createDriveHandoffForRequirement } from "@/lib/drive/handoff";
 import { buildOnboardingReply, updateOnboardingFromMessage } from "@/lib/onboarding/state";
 import { buildApprovedRagContext, logRagRetrieval, retrieveApprovedRag } from "@/lib/rag/retrieval";
 import { createSupabaseAdminClient } from "@/lib/supabase/server";
@@ -48,21 +55,29 @@ export async function POST(request: Request) {
   await logRagRetrieval({ sessionId, messageId: userMessage.id, query: question, matches });
 
   const ragContext = buildApprovedRagContext(matches);
+  const isRelevantIntent = intent === "service_question" || intent === "project_request";
+  const shouldUseModel = matches.length > 0 && isRelevantIntent;
+  const shouldOnboard =
+    intent === "project_request" ||
+    (intent === "service_question" &&
+      Boolean(inferServiceArea(question)) &&
+      !isComplexCustomerQuestion(question));
   const onboarding = await updateOnboardingFromMessage({
     sessionId,
     message: question,
-    forceStart: intent === "project_request"
+    forceStart: shouldOnboard
   });
-  const answerResult = matches.length
+  const answerResult = shouldUseModel && !onboarding
     ? await generateRagAnswer({ sessionId, messageId: userMessage.id, question, ragContext, matches })
     : {
         answer: buildNoContextResponseForMessage(intent, question),
         provider: "none",
         model: "no_approved_context",
+        modelLayer: "none",
         success: true
       };
   const answer = onboarding
-    ? intent === "project_request"
+    ? shouldOnboard && !onboarding.was_existing
       ? `${buildProjectAcknowledgement(question)}\n\n${buildOnboardingReply(onboarding)}`
       : onboarding.was_existing
       ? buildOnboardingReply(onboarding)
@@ -81,6 +96,7 @@ export async function POST(request: Request) {
         intent,
         onboarding,
         provider: answerResult.provider,
+        model_layer: answerResult.modelLayer,
         rag_match_count: matches.length,
         rag_sources: matches.map((match) => ({
           title: match.title,
@@ -103,27 +119,57 @@ export async function POST(request: Request) {
   await supabase
     .from("chat_sessions")
     .update({
-      current_state: onboarding ? "collecting_service_requirements" : matches.length ? "answered_with_rag" : "needs_more_info",
+      current_state: onboarding?.next_question
+        ? "collecting_service_requirements"
+        : onboarding
+        ? "handoff_created"
+        : matches.length
+        ? "answered_with_rag"
+        : "needs_more_info",
       service_category_id: onboarding?.service_category_id || null,
-      session_status: onboarding ? "needs_more_info" : intent === "project_request" ? "needs_more_info" : "active",
+      session_status: onboarding?.next_question
+        ? "needs_more_info"
+        : onboarding
+        ? "handoff_created"
+        : intent === "project_request"
+        ? "needs_more_info"
+        : "active",
       last_message_at: now,
       updated_at: now
     })
     .eq("id", sessionId);
 
+  let driveHandoff = null;
+
+  if (onboarding?.requirement_id && !onboarding.next_question) {
+    try {
+      driveHandoff = await createDriveHandoffForRequirement({
+        sessionId,
+        requirementId: onboarding.requirement_id
+      });
+    } catch (error) {
+      await supabase.from("drive_logs").insert({
+        client_id: onboarding.client_id || null,
+        session_id: sessionId,
+        action: "create_handoff",
+        status: "failed",
+        error_message: error instanceof Error ? error.message : "Unknown Drive handoff error"
+      });
+    }
+  }
+
   return NextResponse.json({
     session_id: sessionId,
     message: assistantMessage,
-    sources: matches.map((match) => ({
-      title: match.title,
-      url: match.url,
-      score: match.score
-    })),
+    sources: [],
+    suggestions: onboarding?.suggested_replies || [],
     used_approved_rag: matches.length > 0,
     intent,
     onboarding,
+    drive_handoff: driveHandoff,
     provider: answerResult.provider,
-    model: answerResult.model
+    model: answerResult.model,
+    model_layer: answerResult.modelLayer
   });
 }
 
