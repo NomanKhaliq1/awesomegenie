@@ -1,0 +1,20 @@
+{
+  "title": "Awesome Genie",
+  "description": "AI client-onboarding assistant with retrieval-grounded answers. Admin console for clients, knowledge base, chat sessions and settings; an embeddable chat widget; content ingestion via Playwright and Cheerio; Supabase for auth and Postgres; webhook sync and handoff folders on project completion.",
+  "techTags": [
+    "Next.js",
+    "TypeScript",
+    "Supabase",
+    "RAG",
+    "Playwright",
+    "Cheerio"
+  ],
+  "source": "github",
+  "category": "AI",
+  "live_url": "https://awesomegenie.vercel.app",
+  "repo_name": "awesomegenie",
+  "repo_link": true,
+  "image": "/projects/awesome-genie.webp",
+  "featured": true,
+  "fetch": true
+}
