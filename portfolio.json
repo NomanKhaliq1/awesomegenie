@@ -15,6 +15,5 @@
   "repo_name": "awesomegenie",
   "repo_link": true,
   "image": "/projects/awesome-genie.webp",
-  "featured": true,
   "fetch": true
 }
