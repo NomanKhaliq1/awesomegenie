@@ -1,6 +1,6 @@
 {
   "title": "Awesome Genie",
-  "description": "AI client-onboarding assistant with retrieval-grounded answers. Admin console for clients, knowledge base, chat sessions and settings; an embeddable chat widget; content ingestion via Playwright and Cheerio; Supabase for auth and Postgres; webhook sync and handoff folders on project completion.",
+  "description": "Website chat assistant that answers from a curated knowledge base rather than guessing. Embeddable widget, admin console for clients, knowledge and chat sessions, retrieval-grounded replies, and content ingestion via Playwright and Cheerio.",
   "techTags": [
     "Next.js",
     "TypeScript",
