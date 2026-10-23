@@ -1,5 +1,6 @@
 import { createSupabaseAdminClient } from "@/lib/supabase/server";
 import type { ChatIntent } from "@/lib/chat/intent";
+import { retrieveWebsiteChunksFromPinecone } from "@/lib/langchain/retrieveWebsiteChunksFromPinecone";
 
 const STOP_WORDS = new Set([
   "about",
@@ -31,6 +32,9 @@ export type RagChunkMatch = {
   chunk_title: string;
   chunk_text: string;
   score: number;
+  similarity_score?: number;
+  retrieval_method?: "pinecone_vector" | "keyword_approved_chunks";
+  pinecone_namespace?: string;
 };
 
 type ChunkRow = {
@@ -53,6 +57,24 @@ type SourceRow = {
 };
 
 export async function retrieveApprovedRag(
+  query: string,
+  limit = 4,
+  options: { intent?: ChatIntent } = {}
+): Promise<RagChunkMatch[]> {
+  try {
+    const pineconeMatches = await retrieveWebsiteChunksFromPinecone(query, limit);
+
+    if (pineconeMatches.length) {
+      return pineconeMatches;
+    }
+  } catch (error) {
+    console.warn("Pinecone retrieval unavailable, using Supabase keyword fallback.", error);
+  }
+
+  return retrieveApprovedRagFromSupabase(query, limit, options);
+}
+
+async function retrieveApprovedRagFromSupabase(
   query: string,
   limit = 4,
   options: { intent?: ChatIntent } = {}
@@ -117,13 +139,16 @@ export async function retrieveApprovedRag(
         slug: source.slug || "",
         chunk_title: chunk.chunk_title || source.title || "Relevant section",
         chunk_text: chunk.chunk_text,
-        score
+        score,
+        retrieval_method: "keyword_approved_chunks" as const
       };
     })
-    .filter((match): match is RagChunkMatch => Boolean(match))
+    .filter(Boolean) as RagChunkMatch[];
+
+  const sorted = ranked
     .sort((a, b) => b.score - a.score);
 
-  return enforceSourceDiversity(ranked, limit);
+  return enforceSourceDiversity(sorted, limit);
 }
 
 export function buildApprovedRagContext(matches: RagChunkMatch[]) {
@@ -150,17 +175,41 @@ export async function logRagRetrieval(params: {
   const supabase = createSupabaseAdminClient();
   const [topMatch] = params.matches;
 
-  await supabase.from("rag_retrieval_logs").insert({
+  const nextPayload = {
     session_id: params.sessionId,
     message_id: params.messageId || null,
     query: params.query,
     selected_source_id: topMatch?.source_id || null,
     selected_chunk_ids: params.matches.map((match) => match.chunk_id),
-    retrieval_method: "keyword_approved_chunks",
+    retrieval_method: topMatch?.retrieval_method || "keyword_approved_chunks",
     score: topMatch?.score || 0,
     context_tokens: estimateTokens(buildApprovedRagContext(params.matches)),
+    pinecone_namespace: topMatch?.pinecone_namespace || null,
+    selected_source_ids: params.matches.map((match) => match.source_id),
+    selected_source_urls: params.matches.map((match) => match.url),
+    similarity_scores: params.matches.map((match) => match.similarity_score ?? match.score),
     created_at: new Date().toISOString()
-  });
+  };
+
+  const { error } = await supabase.from("rag_retrieval_logs").insert(nextPayload);
+
+  if (!error) {
+    return;
+  }
+
+  const legacyPayload = {
+    session_id: nextPayload.session_id,
+    message_id: nextPayload.message_id,
+    query: nextPayload.query,
+    selected_source_id: nextPayload.selected_source_id,
+    selected_chunk_ids: nextPayload.selected_chunk_ids,
+    retrieval_method: nextPayload.retrieval_method,
+    score: nextPayload.score,
+    context_tokens: nextPayload.context_tokens,
+    created_at: nextPayload.created_at
+  };
+
+  await supabase.from("rag_retrieval_logs").insert(legacyPayload);
 }
 
 function scoreChunk(chunk: ChunkRow, source: SourceRow, terms: string[], rawQuery: string) {
